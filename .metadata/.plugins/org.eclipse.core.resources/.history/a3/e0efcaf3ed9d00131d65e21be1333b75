@@ -1,0 +1,39 @@
+/**
+ * 
+ */
+package com.gateway.service;
+
+import com.crm.kernel.message.Constants;
+
+/**
+ * @author Hung
+ *
+ */
+public class Authentication
+{
+	  public final static String CONDITION_ACTIVE = " (supplierStatus = "
+		    + Constants.SUPPLIER_ACTIVE_STATUS + ") ";
+
+	    public final static String CONDITION_BARRING = " (supplierStatus = "
+		    + Constants.SUPPLIER_BARRING_STATUS + ") ";
+
+	    public final static String CONDITION_TERMINATED = " (supplierStatus = "
+		    + Constants.SUPPLIER_CANCEL_STATUS + ") ";
+
+	    public final static String CONDITION_UNTERMINATED = " (supplierStatus != "
+		    + Constants.SUPPLIER_CANCEL_STATUS + ") ";
+
+	    private static long DEFAULT_ID = 0;
+
+	    private static Logger logger = Logger.getLogger(Authentication.class);
+
+	    protected static ConcurrentHashMap<String, AgentEntry> cMap = new ConcurrentHashMap<String, AgentEntry>();
+
+	    protected static void debugMonitor(Object e) {
+		logger.debug(e);
+	    }
+
+	    protected static void infoMonitor(Object e) {
+		logger.info(e);
+	    }
+}

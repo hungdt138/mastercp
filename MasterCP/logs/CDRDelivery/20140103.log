@@ -1,0 +1,16 @@
+03/01 14:50:08:146 Create CDR file started
+03/01 14:50:08:474 Starting process session
+03/01 14:50:12:765 Get status: isdn=841228646219,productId=MSPSAM800003,status=DeliveryImpossible
+03/01 14:50:12:860 Get status: isdn=841228646219,productId=MSPSAM800003,status=DeliveryImpossible
+03/01 14:50:12:977 Get status: isdn=841223668573,productId=MSPSAM800001,status=DeliveredToTerminal
+03/01 14:50:13:076 Get status: isdn=841223668573,productId=MSPSAM800001,status=DeliveredToTerminal
+03/01 14:50:13:237 Get status: isdn=841288337660,productId=MSPSAM800003,status=DeliveredToTerminal
+03/01 14:50:13:317 Get status: isdn=841288337660,productId=MSPSAM800003,status=DeliveredToTerminal
+03/01 14:50:13:399 Get status: isdn=84934113699,productId=MSPSAM800003,status=DeliveredToTerminal
+03/01 14:50:13:506 Get status: isdn=84934113699,productId=MSPSAM800003,status=DeliveredToTerminal
+03/01 14:50:13:659 Get status: isdn=84935505499,productId=MSPSAM800003,status=DeliveryImpossible
+03/01 14:50:13:789 Get status: isdn=84935505499,productId=MSPSAM800003,status=DeliveryImpossible
+03/01 14:50:13:929 Get status: isdn=84908568006,productId=MSPSAM800003,status=DeliveryImpossible
+03/01 14:50:14:056 Get status: isdn=84908568006,productId=MSPSAM800003,status=DeliveryImpossible
+03/01 14:50:14:083 Creating CDR file ACOM_140103145008 completely. Located: /home/csapp/cpcdr/sam
+03/01 14:50:14:255 End of process session

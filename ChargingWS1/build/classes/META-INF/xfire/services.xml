@@ -1,0 +1,8 @@
+<beans xmlns="http://xfire.codehaus.org/config/1.0">
+  <service>
+    <name>charging</name>
+    <namespace>http://service.gateway.com</namespace>
+    <serviceClass>com.gateway.service.ChargingService</serviceClass>
+    <implementationClass>com.gateway.service.impl.ChargingImpl</implementationClass>
+  </service>
+</beans>

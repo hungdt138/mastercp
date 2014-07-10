@@ -1,0 +1,1192 @@
+03/01 14:47:30:210 Vina Send Sms started
+03/01 14:47:30:907 Testing connection ...
+03/01 14:47:30:982 Created provisioning instance for VMSSDP
+03/01 14:47:30:991 Testing connection are success
+03/01 14:47:30:998 Starting process session
+03/01 14:47:31:112 Total 0 instances are started
+03/01 14:47:31:129 Total 1 instances are added
+03/01 14:47:40:182 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:40:472 Total 0 instances are started
+03/01 14:47:40:487 Total 1 instances are added
+03/01 14:47:40:525 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:40:657 Total 0 instances are started
+03/01 14:47:40:666 Total 1 instances are added
+03/01 14:47:40:818 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:40:892 Total 0 instances are started
+03/01 14:47:40:905 Total 1 instances are added
+03/01 14:47:40:982 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:41:236 Total 0 instances are started
+03/01 14:47:41:267 Total 1 instances are added
+03/01 14:47:41:286 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:41:592 Total 0 instances are started
+03/01 14:47:41:619 Total 1 instances are added
+03/01 14:47:41:629 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:41:782 Total 0 instances are started
+03/01 14:47:41:850 Total 1 instances are added
+03/01 14:47:41:860 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:41:974 Total 0 instances are started
+03/01 14:47:42:006 Total 1 instances are added
+03/01 14:47:41:984 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:42:158 Total 0 instances are started
+03/01 14:47:42:166 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:42:172 Total 1 instances are added
+03/01 14:47:42:287 Total 0 instances are started
+03/01 14:47:42:305 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:42:298 Total 1 instances are added
+03/01 14:47:42:424 Total 0 instances are started
+03/01 14:47:42:431 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:42:434 Total 1 instances are added
+03/01 14:47:42:546 Total 0 instances are started
+03/01 14:47:42:555 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:42:559 Total 1 instances are added
+03/01 14:47:42:672 Total 0 instances are started
+03/01 14:47:42:676 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:42:677 Total 1 instances are added
+03/01 14:47:42:791 Total 0 instances are started
+03/01 14:47:42:796 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:42:797 Total 1 instances are added
+03/01 14:47:42:910 Total 0 instances are started
+03/01 14:47:42:915 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:42:917 Total 1 instances are added
+03/01 14:47:43:026 Total 0 instances are started
+03/01 14:47:43:033 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:43:048 Total 1 instances are added
+03/01 14:47:43:165 Total 0 instances are started
+03/01 14:47:43:171 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:43:173 Total 1 instances are added
+03/01 14:47:43:288 Total 0 instances are started
+03/01 14:47:43:294 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:43:296 Total 1 instances are added
+03/01 14:47:43:405 Total 0 instances are started
+03/01 14:47:43:410 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:43:411 Total 1 instances are added
+03/01 14:47:43:526 Total 0 instances are started
+03/01 14:47:43:531 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:43:531 Total 1 instances are added
+03/01 14:47:43:643 Total 0 instances are started
+03/01 14:47:43:648 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:43:649 Total 1 instances are added
+03/01 14:47:43:762 Total 0 instances are started
+03/01 14:47:43:767 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:43:768 Total 1 instances are added
+03/01 14:47:43:884 Total 0 instances are started
+03/01 14:47:43:890 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:43:891 Total 1 instances are added
+03/01 14:47:44:004 Total 0 instances are started
+03/01 14:47:44:009 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:44:011 Total 1 instances are added
+03/01 14:47:44:126 Total 0 instances are started
+03/01 14:47:44:132 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:44:132 Total 1 instances are added
+03/01 14:47:44:246 Total 0 instances are started
+03/01 14:47:44:253 Total 1 instances are added
+03/01 14:47:44:267 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:44:375 Total 0 instances are started
+03/01 14:47:44:381 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:44:381 Total 1 instances are added
+03/01 14:47:44:493 Total 0 instances are started
+03/01 14:47:44:499 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:44:500 Total 1 instances are added
+03/01 14:47:44:613 Total 0 instances are started
+03/01 14:47:44:631 Total 1 instances are added
+03/01 14:47:44:629 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:44:756 Total 0 instances are started
+03/01 14:47:44:763 Total 1 instances are added
+03/01 14:47:44:763 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:44:881 Total 0 instances are started
+03/01 14:47:44:890 Total 1 instances are added
+03/01 14:47:44:898 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:45:011 Total 0 instances are started
+03/01 14:47:45:015 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:45:016 Total 1 instances are added
+03/01 14:47:45:131 Total 0 instances are started
+03/01 14:47:45:135 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:45:138 Total 1 instances are added
+03/01 14:47:45:248 Total 0 instances are started
+03/01 14:47:45:252 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:45:253 Total 1 instances are added
+03/01 14:47:45:365 Total 0 instances are started
+03/01 14:47:45:370 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:45:372 Total 1 instances are added
+03/01 14:47:45:485 Total 0 instances are started
+03/01 14:47:45:490 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:45:491 Total 1 instances are added
+03/01 14:47:45:605 Total 0 instances are started
+03/01 14:47:45:611 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:45:620 Total 1 instances are added
+03/01 14:47:45:735 Total 0 instances are started
+03/01 14:47:45:739 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:45:740 Total 1 instances are added
+03/01 14:47:45:855 Total 0 instances are started
+03/01 14:47:45:860 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:45:861 Total 1 instances are added
+03/01 14:47:45:975 Total 0 instances are started
+03/01 14:47:45:980 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:45:981 Total 1 instances are added
+03/01 14:47:46:097 Total 0 instances are started
+03/01 14:47:46:101 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:46:110 Total 1 instances are added
+03/01 14:47:46:222 Total 0 instances are started
+03/01 14:47:46:227 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:46:232 Total 1 instances are added
+03/01 14:47:46:342 Total 0 instances are started
+03/01 14:47:46:348 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:46:349 Total 1 instances are added
+03/01 14:47:46:462 Total 0 instances are started
+03/01 14:47:46:468 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:46:471 Total 1 instances are added
+03/01 14:47:46:588 Total 0 instances are started
+03/01 14:47:46:593 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:46:599 Total 1 instances are added
+03/01 14:47:46:711 Total 0 instances are started
+03/01 14:47:46:716 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:46:718 Total 1 instances are added
+03/01 14:47:46:833 Total 0 instances are started
+03/01 14:47:46:838 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:46:841 Total 1 instances are added
+03/01 14:47:46:956 Total 0 instances are started
+03/01 14:47:46:963 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:46:967 Total 1 instances are added
+03/01 14:47:47:083 Total 0 instances are started
+03/01 14:47:47:088 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:47:095 Total 1 instances are added
+03/01 14:47:47:211 Total 0 instances are started
+03/01 14:47:47:216 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:47:220 Total 1 instances are added
+03/01 14:47:47:341 Total 0 instances are started
+03/01 14:47:47:346 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:47:355 Total 1 instances are added
+03/01 14:47:47:467 Total 0 instances are started
+03/01 14:47:47:471 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:47:475 Total 1 instances are added
+03/01 14:47:47:588 Total 0 instances are started
+03/01 14:47:47:593 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:47:596 Total 1 instances are added
+03/01 14:47:47:711 Total 0 instances are started
+03/01 14:47:47:718 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:47:718 Total 1 instances are added
+03/01 14:47:47:837 Total 0 instances are started
+03/01 14:47:47:845 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:47:862 Total 1 instances are added
+03/01 14:47:47:978 Total 0 instances are started
+03/01 14:47:48:046 Total 1 instances are added
+03/01 14:47:47:988 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:48:163 Total 0 instances are started
+03/01 14:47:48:170 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:48:171 Total 1 instances are added
+03/01 14:47:48:286 Total 0 instances are started
+03/01 14:47:48:297 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:48:310 Total 1 instances are added
+03/01 14:47:48:423 Total 0 instances are started
+03/01 14:47:48:428 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:48:429 Total 1 instances are added
+03/01 14:47:48:546 Total 0 instances are started
+03/01 14:47:48:554 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:48:557 Total 1 instances are added
+03/01 14:47:48:669 Total 0 instances are started
+03/01 14:47:48:675 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:48:676 Total 1 instances are added
+03/01 14:47:48:791 Total 0 instances are started
+03/01 14:47:48:800 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:48:812 Total 1 instances are added
+03/01 14:47:48:931 Total 0 instances are started
+03/01 14:47:48:947 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:48:949 Total 1 instances are added
+03/01 14:47:49:073 Total 0 instances are started
+03/01 14:47:49:080 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:49:099 Total 1 instances are added
+03/01 14:47:49:213 Total 0 instances are started
+03/01 14:47:49:217 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:49:221 Total 1 instances are added
+03/01 14:47:49:336 Total 0 instances are started
+03/01 14:47:49:341 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:49:345 Total 1 instances are added
+03/01 14:47:49:458 Total 0 instances are started
+03/01 14:47:49:463 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:49:472 Total 1 instances are added
+03/01 14:47:49:582 Total 0 instances are started
+03/01 14:47:49:586 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:49:589 Total 1 instances are added
+03/01 14:47:49:704 Total 0 instances are started
+03/01 14:47:49:708 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:49:714 Total 1 instances are added
+03/01 14:47:49:823 Total 0 instances are started
+03/01 14:47:49:828 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:49:830 Total 1 instances are added
+03/01 14:47:49:954 Total 0 instances are started
+03/01 14:47:49:959 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:49:968 Total 1 instances are added
+03/01 14:47:50:081 Total 0 instances are started
+03/01 14:47:50:086 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:50:089 Total 1 instances are added
+03/01 14:47:50:204 Total 0 instances are started
+03/01 14:47:50:209 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:50:214 Total 1 instances are added
+03/01 14:47:50:332 Total 0 instances are started
+03/01 14:47:50:336 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:50:338 Total 1 instances are added
+03/01 14:47:50:449 Total 0 instances are started
+03/01 14:47:50:457 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:50:479 Total 1 instances are added
+03/01 14:47:50:591 Total 0 instances are started
+03/01 14:47:50:597 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:50:599 Total 1 instances are added
+03/01 14:47:50:714 Total 0 instances are started
+03/01 14:47:50:719 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:50:723 Total 1 instances are added
+03/01 14:47:50:833 Total 0 instances are started
+03/01 14:47:50:837 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:50:842 Total 1 instances are added
+03/01 14:47:50:952 Total 0 instances are started
+03/01 14:47:50:958 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:50:976 Total 1 instances are added
+03/01 14:47:51:091 Total 0 instances are started
+03/01 14:47:51:098 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:51:107 Total 1 instances are added
+03/01 14:47:51:221 Total 0 instances are started
+03/01 14:47:51:227 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:51:230 Total 1 instances are added
+03/01 14:47:51:343 Total 0 instances are started
+03/01 14:47:51:348 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:51:358 Total 1 instances are added
+03/01 14:47:51:473 Total 0 instances are started
+03/01 14:47:51:484 Total 1 instances are added
+03/01 14:47:51:501 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:51:596 Total 0 instances are started
+03/01 14:47:51:601 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:51:604 Total 1 instances are added
+03/01 14:47:51:724 Total 0 instances are started
+03/01 14:47:51:729 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:51:731 Total 1 instances are added
+03/01 14:47:51:846 Total 0 instances are started
+03/01 14:47:51:850 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:51:853 Total 1 instances are added
+03/01 14:47:51:966 Total 0 instances are started
+03/01 14:47:51:970 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:51:972 Total 1 instances are added
+03/01 14:47:52:087 Total 0 instances are started
+03/01 14:47:52:092 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:52:094 Total 1 instances are added
+03/01 14:47:52:206 Total 0 instances are started
+03/01 14:47:52:211 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:52:214 Total 1 instances are added
+03/01 14:47:52:327 Total 0 instances are started
+03/01 14:47:52:331 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:52:333 Total 1 instances are added
+03/01 14:47:52:447 Total 0 instances are started
+03/01 14:47:52:451 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:52:453 Total 1 instances are added
+03/01 14:47:52:563 Total 0 instances are started
+03/01 14:47:52:567 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:52:569 Total 1 instances are added
+03/01 14:47:52:682 Total 0 instances are started
+03/01 14:47:52:686 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:52:688 Total 1 instances are added
+03/01 14:47:52:801 Total 0 instances are started
+03/01 14:47:52:805 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:52:808 Total 1 instances are added
+03/01 14:47:52:920 Total 0 instances are started
+03/01 14:47:52:926 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:52:930 Total 1 instances are added
+03/01 14:47:53:044 Total 0 instances are started
+03/01 14:47:53:048 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:53:049 Total 1 instances are added
+03/01 14:47:53:162 Total 0 instances are started
+03/01 14:47:53:166 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:53:169 Total 1 instances are added
+03/01 14:47:53:284 Total 0 instances are started
+03/01 14:47:53:289 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:53:292 Total 1 instances are added
+03/01 14:47:53:406 Total 0 instances are started
+03/01 14:47:53:410 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:53:412 Total 1 instances are added
+03/01 14:47:53:527 Total 0 instances are started
+03/01 14:47:53:531 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:53:534 Total 1 instances are added
+03/01 14:47:53:650 Total 0 instances are started
+03/01 14:47:53:655 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:53:657 Total 1 instances are added
+03/01 14:47:53:771 Total 0 instances are started
+03/01 14:47:53:776 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:53:779 Total 1 instances are added
+03/01 14:47:53:895 Total 0 instances are started
+03/01 14:47:53:899 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:53:901 Total 1 instances are added
+03/01 14:47:54:015 Total 0 instances are started
+03/01 14:47:54:020 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:54:022 Total 1 instances are added
+03/01 14:47:54:140 Total 0 instances are started
+03/01 14:47:54:146 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:54:154 Total 1 instances are added
+03/01 14:47:54:266 Total 0 instances are started
+03/01 14:47:54:305 Total 1 instances are added
+03/01 14:47:54:301 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:54:431 Total 0 instances are started
+03/01 14:47:54:437 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:54:441 Total 1 instances are added
+03/01 14:47:54:558 Total 0 instances are started
+03/01 14:47:54:563 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:54:567 Total 1 instances are added
+03/01 14:47:54:678 Total 0 instances are started
+03/01 14:47:54:691 Total 1 instances are added
+03/01 14:47:54:693 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:54:802 Total 0 instances are started
+03/01 14:47:54:807 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:54:810 Total 1 instances are added
+03/01 14:47:54:922 Total 0 instances are started
+03/01 14:47:54:930 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:54:938 Total 1 instances are added
+03/01 14:47:55:055 Total 0 instances are started
+03/01 14:47:55:061 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:55:062 Total 1 instances are added
+03/01 14:47:55:178 Total 0 instances are started
+03/01 14:47:55:185 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:55:193 Total 1 instances are added
+03/01 14:47:55:310 Total 0 instances are started
+03/01 14:47:55:314 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:55:316 Total 1 instances are added
+03/01 14:47:55:433 Total 0 instances are started
+03/01 14:47:55:437 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:55:438 Total 1 instances are added
+03/01 14:47:55:559 Total 0 instances are started
+03/01 14:47:55:565 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:55:574 Total 1 instances are added
+03/01 14:47:55:691 Total 0 instances are started
+03/01 14:47:55:697 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:55:706 Total 1 instances are added
+03/01 14:47:55:829 Total 0 instances are started
+03/01 14:47:55:834 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:55:836 Total 1 instances are added
+03/01 14:47:55:954 Total 0 instances are started
+03/01 14:47:55:958 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:55:962 Total 1 instances are added
+03/01 14:47:56:073 Total 0 instances are started
+03/01 14:47:56:077 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:56:078 Total 1 instances are added
+03/01 14:47:56:196 Total 0 instances are started
+03/01 14:47:56:200 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:56:203 Total 1 instances are added
+03/01 14:47:56:314 Total 0 instances are started
+03/01 14:47:56:320 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:56:342 Total 1 instances are added
+03/01 14:47:56:467 Total 0 instances are started
+03/01 14:47:56:471 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:56:477 Total 1 instances are added
+03/01 14:47:56:592 Total 0 instances are started
+03/01 14:47:56:611 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:56:622 Total 1 instances are added
+03/01 14:47:56:740 Total 0 instances are started
+03/01 14:47:56:748 Total 1 instances are added
+03/01 14:47:56:754 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:56:864 Total 0 instances are started
+03/01 14:47:56:870 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:56:874 Total 1 instances are added
+03/01 14:47:56:988 Total 0 instances are started
+03/01 14:47:56:992 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:56:995 Total 1 instances are added
+03/01 14:47:57:110 Total 0 instances are started
+03/01 14:47:57:117 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:57:123 Total 1 instances are added
+03/01 14:47:57:242 Total 0 instances are started
+03/01 14:47:57:246 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:57:251 Total 1 instances are added
+03/01 14:47:57:365 Total 0 instances are started
+03/01 14:47:57:375 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:57:375 Total 1 instances are added
+03/01 14:47:57:493 Total 0 instances are started
+03/01 14:47:57:501 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:57:503 Total 1 instances are added
+03/01 14:47:57:614 Total 0 instances are started
+03/01 14:47:57:623 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:57:630 Total 1 instances are added
+03/01 14:47:57:752 Total 0 instances are started
+03/01 14:47:57:762 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:57:766 Total 1 instances are added
+03/01 14:47:57:884 Total 0 instances are started
+03/01 14:47:57:888 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:57:890 Total 1 instances are added
+03/01 14:47:58:008 Total 0 instances are started
+03/01 14:47:58:013 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:58:015 Total 1 instances are added
+03/01 14:47:58:133 Total 0 instances are started
+03/01 14:47:58:138 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:58:140 Total 1 instances are added
+03/01 14:47:58:255 Total 0 instances are started
+03/01 14:47:58:259 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:58:263 Total 1 instances are added
+03/01 14:47:58:380 Total 0 instances are started
+03/01 14:47:58:384 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:58:388 Total 1 instances are added
+03/01 14:47:58:503 Total 0 instances are started
+03/01 14:47:58:508 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:58:512 Total 1 instances are added
+03/01 14:47:58:636 Total 0 instances are started
+03/01 14:47:58:644 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:58:655 Total 1 instances are added
+03/01 14:47:58:773 Total 0 instances are started
+03/01 14:47:58:777 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:58:779 Total 1 instances are added
+03/01 14:47:58:899 Total 0 instances are started
+03/01 14:47:58:903 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:58:912 Total 1 instances are added
+03/01 14:47:59:025 Total 0 instances are started
+03/01 14:47:59:031 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:59:036 Total 1 instances are added
+03/01 14:47:59:150 Total 0 instances are started
+03/01 14:47:59:154 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:59:157 Total 1 instances are added
+03/01 14:47:59:273 Total 0 instances are started
+03/01 14:47:59:278 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:59:282 Total 1 instances are added
+03/01 14:47:59:393 Total 0 instances are started
+03/01 14:47:59:398 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:59:411 Total 1 instances are added
+03/01 14:47:59:524 Total 0 instances are started
+03/01 14:47:59:535 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:59:550 Total 1 instances are added
+03/01 14:47:59:668 Total 0 instances are started
+03/01 14:47:59:672 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:59:675 Total 1 instances are added
+03/01 14:47:59:796 Total 0 instances are started
+03/01 14:47:59:801 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:59:805 Total 1 instances are added
+03/01 14:47:59:926 Total 0 instances are started
+03/01 14:47:59:930 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:47:59:932 Total 1 instances are added
+03/01 14:48:00:050 Total 0 instances are started
+03/01 14:48:00:057 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:48:00:083 Total 1 instances are added
+03/01 14:48:00:198 Total 0 instances are started
+03/01 14:48:00:207 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:48:00:208 Total 1 instances are added
+03/01 14:48:00:324 Total 0 instances are started
+03/01 14:48:00:329 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:48:00:332 Total 1 instances are added
+03/01 14:48:00:447 Total 0 instances are started
+03/01 14:48:00:452 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:48:00:454 Total 1 instances are added
+03/01 14:48:00:572 Total 0 instances are started
+03/01 14:48:00:580 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:48:00:580 Total 1 instances are added
+03/01 14:48:00:703 Total 0 instances are started
+03/01 14:48:00:707 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:48:00:710 Total 1 instances are added
+03/01 14:48:00:827 Total 0 instances are started
+03/01 14:48:00:832 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:48:00:842 Total 1 instances are added
+03/01 14:48:00:963 Total 0 instances are started
+03/01 14:48:00:967 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:48:00:973 Total 1 instances are added
+03/01 14:48:01:087 Total 0 instances are started
+03/01 14:48:01:091 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:48:01:094 Total 1 instances are added
+03/01 14:48:01:214 Total 0 instances are started
+03/01 14:48:01:221 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:48:01:237 Total 1 instances are added
+03/01 14:48:01:354 Total 0 instances are started
+03/01 14:48:01:364 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:48:01:368 Total 1 instances are added
+03/01 14:48:01:479 Total 0 instances are started
+03/01 14:48:01:483 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:48:01:488 Total 1 instances are added
+03/01 14:48:01:611 Total 0 instances are started
+03/01 14:48:01:622 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:48:01:630 Total 1 instances are added
+03/01 14:48:01:752 Total 0 instances are started
+03/01 14:48:01:758 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:48:01:762 Total 1 instances are added
+03/01 14:48:01:772 Close pool
+03/01 14:48:01:877 Close queue connection pool.
+03/01 14:48:01:884 End of process session
+03/01 14:48:01:890 Vina Send Sms stopped
+03/01 14:50:06:793 Vina Send Sms started
+03/01 14:50:10:128 Testing connection ...
+03/01 14:50:10:201 Created provisioning instance for VMSSDP
+03/01 14:50:10:211 Testing connection are success
+03/01 14:50:10:243 Starting process session
+03/01 14:50:10:355 Total 0 instances are started
+03/01 14:50:10:361 Total 1 instances are added
+03/01 14:50:23:351 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:23:535 Total 0 instances are started
+03/01 14:50:23:606 Total 1 instances are added
+03/01 14:50:23:554 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:23:897 Total 0 instances are started
+03/01 14:50:23:910 Total 1 instances are added
+03/01 14:50:23:928 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:24:077 Total 0 instances are started
+03/01 14:50:24:092 Total 1 instances are added
+03/01 14:50:24:094 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:24:255 Total 0 instances are started
+03/01 14:50:24:272 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:24:275 Total 1 instances are added
+03/01 14:50:24:436 Total 0 instances are started
+03/01 14:50:24:472 Total 1 instances are added
+03/01 14:50:24:453 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:24:597 Total 0 instances are started
+03/01 14:50:24:626 Total 1 instances are added
+03/01 14:50:24:608 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:24:764 Total 0 instances are started
+03/01 14:50:24:775 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:24:780 Total 1 instances are added
+03/01 14:50:24:901 Total 0 instances are started
+03/01 14:50:24:913 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:24:921 Total 1 instances are added
+03/01 14:50:25:036 Total 0 instances are started
+03/01 14:50:25:048 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:25:053 Total 1 instances are added
+03/01 14:50:25:177 Total 0 instances are started
+03/01 14:50:25:193 Total 1 instances are added
+03/01 14:50:25:199 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:25:354 Total 0 instances are started
+03/01 14:50:25:365 Total 1 instances are added
+03/01 14:50:25:389 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:25:607 Total 0 instances are started
+03/01 14:50:25:617 Total 1 instances are added
+03/01 14:50:25:641 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:25:761 Total 0 instances are started
+03/01 14:50:25:790 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:25:807 Total 1 instances are added
+03/01 14:50:25:924 Total 0 instances are started
+03/01 14:50:25:932 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:25:942 Total 1 instances are added
+03/01 14:50:26:056 Total 0 instances are started
+03/01 14:50:26:065 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:26:186 Total 0 instances are started
+03/01 14:50:26:192 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:26:195 Total 1 instances are added
+03/01 14:50:26:308 Total 0 instances are started
+03/01 14:50:26:316 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:26:328 Total 1 instances are added
+03/01 14:50:26:446 Total 0 instances are started
+03/01 14:50:26:455 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:26:456 Total 1 instances are added
+03/01 14:50:26:572 Total 0 instances are started
+03/01 14:50:26:579 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:26:582 Total 1 instances are added
+03/01 14:50:26:697 Total 0 instances are started
+03/01 14:50:26:704 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:26:706 Total 1 instances are added
+03/01 14:50:26:823 Total 0 instances are started
+03/01 14:50:26:829 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:26:832 Total 1 instances are added
+03/01 14:50:26:951 Total 0 instances are started
+03/01 14:50:26:957 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:26:962 Total 1 instances are added
+03/01 14:50:27:074 Total 0 instances are started
+03/01 14:50:27:079 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:27:081 Total 1 instances are added
+03/01 14:50:27:196 Total 0 instances are started
+03/01 14:50:27:201 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:27:203 Total 1 instances are added
+03/01 14:50:27:318 Total 0 instances are started
+03/01 14:50:27:323 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:27:326 Total 1 instances are added
+03/01 14:50:27:443 Total 0 instances are started
+03/01 14:50:27:483 Total 1 instances are added
+03/01 14:50:27:468 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:27:610 Total 0 instances are started
+03/01 14:50:27:630 Total 1 instances are added
+03/01 14:50:27:635 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:27:751 Total 0 instances are started
+03/01 14:50:27:757 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:27:759 Total 1 instances are added
+03/01 14:50:27:874 Total 0 instances are started
+03/01 14:50:27:879 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:27:882 Total 1 instances are added
+03/01 14:50:27:998 Total 0 instances are started
+03/01 14:50:28:003 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:28:005 Total 1 instances are added
+03/01 14:50:28:118 Total 0 instances are started
+03/01 14:50:28:124 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:28:126 Total 1 instances are added
+03/01 14:50:28:242 Total 0 instances are started
+03/01 14:50:28:247 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:28:251 Total 1 instances are added
+03/01 14:50:28:372 Total 0 instances are started
+03/01 14:50:28:377 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:28:384 Total 1 instances are added
+03/01 14:50:28:500 Total 0 instances are started
+03/01 14:50:28:517 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:28:528 Total 1 instances are added
+03/01 14:50:28:637 Total 0 instances are started
+03/01 14:50:28:642 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:28:644 Total 1 instances are added
+03/01 14:50:28:758 Total 0 instances are started
+03/01 14:50:28:764 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:28:766 Total 1 instances are added
+03/01 14:50:28:884 Total 0 instances are started
+03/01 14:50:28:890 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:28:893 Total 1 instances are added
+03/01 14:50:29:012 Total 0 instances are started
+03/01 14:50:29:018 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:29:021 Total 1 instances are added
+03/01 14:50:29:140 Total 0 instances are started
+03/01 14:50:29:145 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:29:149 Total 1 instances are added
+03/01 14:50:29:265 Total 0 instances are started
+03/01 14:50:29:269 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:29:272 Total 1 instances are added
+03/01 14:50:29:387 Total 0 instances are started
+03/01 14:50:29:392 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:29:395 Total 1 instances are added
+03/01 14:50:29:510 Total 0 instances are started
+03/01 14:50:29:515 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:29:519 Total 1 instances are added
+03/01 14:50:29:641 Total 0 instances are started
+03/01 14:50:29:646 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:29:649 Total 1 instances are added
+03/01 14:50:29:764 Total 0 instances are started
+03/01 14:50:29:769 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:29:771 Total 1 instances are added
+03/01 14:50:29:886 Total 0 instances are started
+03/01 14:50:29:891 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:29:894 Total 1 instances are added
+03/01 14:50:30:010 Total 0 instances are started
+03/01 14:50:30:015 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:30:017 Total 1 instances are added
+03/01 14:50:30:132 Total 0 instances are started
+03/01 14:50:30:138 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:30:140 Total 1 instances are added
+03/01 14:50:30:254 Total 0 instances are started
+03/01 14:50:30:259 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:30:262 Total 1 instances are added
+03/01 14:50:30:378 Total 0 instances are started
+03/01 14:50:30:386 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:30:390 Total 1 instances are added
+03/01 14:50:30:507 Total 0 instances are started
+03/01 14:50:30:513 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:30:517 Total 1 instances are added
+03/01 14:50:30:633 Total 0 instances are started
+03/01 14:50:30:640 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:30:642 Total 1 instances are added
+03/01 14:50:30:759 Total 0 instances are started
+03/01 14:50:30:764 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:30:766 Total 1 instances are added
+03/01 14:50:30:882 Total 0 instances are started
+03/01 14:50:30:888 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:30:891 Total 1 instances are added
+03/01 14:50:31:006 Total 0 instances are started
+03/01 14:50:31:011 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:31:014 Total 1 instances are added
+03/01 14:50:31:129 Total 0 instances are started
+03/01 14:50:31:134 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:31:137 Total 1 instances are added
+03/01 14:50:31:256 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:31:251 Total 0 instances are started
+03/01 14:50:32:042 Total 1 instances are added
+03/01 14:50:32:152 Total 0 instances are started
+03/01 14:50:32:157 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:32:158 Total 1 instances are added
+03/01 14:50:32:273 Total 0 instances are started
+03/01 14:50:32:279 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:32:281 Total 1 instances are added
+03/01 14:50:32:395 Total 0 instances are started
+03/01 14:50:32:400 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:32:403 Total 1 instances are added
+03/01 14:50:32:518 Total 0 instances are started
+03/01 14:50:32:534 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:32:560 Total 1 instances are added
+03/01 14:50:32:682 Total 0 instances are started
+03/01 14:50:32:688 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:32:692 Total 1 instances are added
+03/01 14:50:32:809 Total 0 instances are started
+03/01 14:50:32:816 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:32:821 Total 1 instances are added
+03/01 14:50:32:934 Total 0 instances are started
+03/01 14:50:32:942 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:32:948 Total 1 instances are added
+03/01 14:50:33:066 Total 0 instances are started
+03/01 14:50:33:073 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:33:076 Total 1 instances are added
+03/01 14:50:33:198 Total 0 instances are started
+03/01 14:50:33:205 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:33:210 Total 1 instances are added
+03/01 14:50:33:327 Total 0 instances are started
+03/01 14:50:33:332 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:33:334 Total 1 instances are added
+03/01 14:50:33:451 Total 0 instances are started
+03/01 14:50:33:473 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:33:474 Total 1 instances are added
+03/01 14:50:33:613 Total 0 instances are started
+03/01 14:50:33:628 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:33:639 Total 1 instances are added
+03/01 14:50:33:751 Total 0 instances are started
+03/01 14:50:33:756 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:33:761 Total 1 instances are added
+03/01 14:50:33:876 Total 0 instances are started
+03/01 14:50:33:879 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:33:883 Total 1 instances are added
+03/01 14:50:33:998 Total 0 instances are started
+03/01 14:50:34:002 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:34:005 Total 1 instances are added
+03/01 14:50:34:121 Total 0 instances are started
+03/01 14:50:34:127 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:34:139 Total 1 instances are added
+03/01 14:50:34:253 Total 0 instances are started
+03/01 14:50:34:262 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:34:264 Total 1 instances are added
+03/01 14:50:34:380 Total 0 instances are started
+03/01 14:50:34:390 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:34:394 Total 1 instances are added
+03/01 14:50:34:516 Total 0 instances are started
+03/01 14:50:34:522 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:34:526 Total 1 instances are added
+03/01 14:50:34:644 Total 0 instances are started
+03/01 14:50:34:652 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:34:655 Total 1 instances are added
+03/01 14:50:34:776 Total 0 instances are started
+03/01 14:50:34:782 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:34:785 Total 1 instances are added
+03/01 14:50:34:901 Total 0 instances are started
+03/01 14:50:34:907 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:34:911 Total 1 instances are added
+03/01 14:50:35:029 Total 0 instances are started
+03/01 14:50:35:042 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:35:051 Total 1 instances are added
+03/01 14:50:35:174 Total 0 instances are started
+03/01 14:50:35:182 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:35:187 Total 1 instances are added
+03/01 14:50:35:308 Total 0 instances are started
+03/01 14:50:35:315 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:35:319 Total 1 instances are added
+03/01 14:50:35:443 Total 0 instances are started
+03/01 14:50:35:457 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:35:488 Total 1 instances are added
+03/01 14:50:35:609 Total 0 instances are started
+03/01 14:50:35:614 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:35:616 Total 1 instances are added
+03/01 14:50:35:735 Total 0 instances are started
+03/01 14:50:35:742 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:35:750 Total 1 instances are added
+03/01 14:50:35:871 Total 0 instances are started
+03/01 14:50:35:877 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:35:880 Total 1 instances are added
+03/01 14:50:36:004 Total 0 instances are started
+03/01 14:50:36:010 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:36:016 Total 1 instances are added
+03/01 14:50:36:130 Total 0 instances are started
+03/01 14:50:36:140 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:36:141 Total 1 instances are added
+03/01 14:50:36:257 Total 0 instances are started
+03/01 14:50:36:262 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:36:265 Total 1 instances are added
+03/01 14:50:36:380 Total 0 instances are started
+03/01 14:50:36:385 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:36:389 Total 1 instances are added
+03/01 14:50:36:505 Total 0 instances are started
+03/01 14:50:36:520 Total 1 instances are added
+03/01 14:50:36:518 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:36:648 Total 0 instances are started
+03/01 14:50:36:655 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:36:660 Total 1 instances are added
+03/01 14:50:36:777 Total 0 instances are started
+03/01 14:50:36:782 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:36:786 Total 1 instances are added
+03/01 14:50:36:899 Total 0 instances are started
+03/01 14:50:36:925 Total 1 instances are added
+03/01 14:50:36:909 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:37:059 Total 0 instances are started
+03/01 14:50:37:065 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:37:068 Total 1 instances are added
+03/01 14:50:37:187 Total 0 instances are started
+03/01 14:50:37:195 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:37:199 Total 1 instances are added
+03/01 14:50:37:327 Total 0 instances are started
+03/01 14:50:37:341 Total 1 instances are added
+03/01 14:50:37:343 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:37:462 Total 0 instances are started
+03/01 14:50:37:471 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:37:475 Total 1 instances are added
+03/01 14:50:37:601 Total 0 instances are started
+03/01 14:50:37:608 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:37:621 Total 1 instances are added
+03/01 14:50:37:743 Total 0 instances are started
+03/01 14:50:37:758 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:37:759 Total 1 instances are added
+03/01 14:50:37:885 Total 0 instances are started
+03/01 14:50:37:895 Total 1 instances are added
+03/01 14:50:37:903 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:38:015 Total 0 instances are started
+03/01 14:50:38:021 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:38:028 Total 1 instances are added
+03/01 14:50:38:151 Total 0 instances are started
+03/01 14:50:38:157 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:38:170 Total 1 instances are added
+03/01 14:50:38:301 Total 0 instances are started
+03/01 14:50:38:318 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:38:324 Total 1 instances are added
+03/01 14:50:38:443 Total 0 instances are started
+03/01 14:50:38:449 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:38:453 Total 1 instances are added
+03/01 14:50:38:571 Total 0 instances are started
+03/01 14:50:38:584 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:38:587 Total 1 instances are added
+03/01 14:50:38:705 Total 0 instances are started
+03/01 14:50:38:712 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:38:717 Total 1 instances are added
+03/01 14:50:38:842 Total 0 instances are started
+03/01 14:50:38:848 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:38:857 Total 1 instances are added
+03/01 14:50:38:974 Total 0 instances are started
+03/01 14:50:38:980 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:38:987 Total 1 instances are added
+03/01 14:50:39:113 Total 0 instances are started
+03/01 14:50:39:125 Total 1 instances are added
+t/VinaSms : test/VinaSms
+03/01 14:50:39:242 Total 0 instances are started
+03/01 14:50:39:248 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:39:254 Total 1 instances are added
+03/01 14:50:39:373 Total 0 instances are started
+03/01 14:50:39:379 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:39:385 Total 1 instances are added
+03/01 14:50:39:505 Total 0 instances are started
+03/01 14:50:39:518 Total 1 instances are added
+03/01 14:50:39:512 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:39:645 Total 0 instances are started
+03/01 14:50:39:650 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:39:657 Total 1 instances are added
+03/01 14:50:39:768 Total 0 instances are started
+03/01 14:50:39:773 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:39:776 Total 1 instances are added
+03/01 14:50:39:895 Total 0 instances are started
+03/01 14:50:39:900 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:39:903 Total 1 instances are added
+03/01 14:50:40:019 Total 0 instances are started
+03/01 14:50:40:025 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:40:039 Total 1 instances are added
+03/01 14:50:40:151 Total 0 instances are started
+03/01 14:50:40:159 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:40:163 Total 1 instances are added
+03/01 14:50:40:281 Total 0 instances are started
+03/01 14:50:40:288 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:40:291 Total 1 instances are added
+03/01 14:50:40:410 Total 0 instances are started
+03/01 14:50:40:416 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:40:421 Total 1 instances are added
+03/01 14:50:40:539 Total 0 instances are started
+03/01 14:50:40:544 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:40:548 Total 1 instances are added
+03/01 14:50:40:670 Total 0 instances are started
+03/01 14:50:40:686 Total 1 instances are added
+03/01 14:50:40:692 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:40:802 Total 0 instances are started
+03/01 14:50:40:809 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:40:820 Total 1 instances are added
+03/01 14:50:40:953 Total 0 instances are started
+03/01 14:50:40:965 Total 1 instances are added
+03/01 14:50:40:963 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:41:089 Total 0 instances are started
+03/01 14:50:41:100 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:41:101 Total 1 instances are added
+03/01 14:50:41:222 Total 0 instances are started
+03/01 14:50:41:226 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:41:229 Total 1 instances are added
+03/01 14:50:41:345 Total 0 instances are started
+03/01 14:50:41:349 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:41:353 Total 1 instances are added
+03/01 14:50:41:468 Total 0 instances are started
+03/01 14:50:41:474 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:41:478 Total 1 instances are added
+03/01 14:50:41:590 Total 0 instances are started
+03/01 14:50:41:597 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:41:603 Total 1 instances are added
+03/01 14:50:41:719 Total 0 instances are started
+03/01 14:50:41:726 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:41:731 Total 1 instances are added
+03/01 14:50:41:848 Total 0 instances are started
+03/01 14:50:41:853 queue-not-found
+Context: test/VinaSms : test/VinaSms
+03/01 14:50:41:857 Total 1 instances are added

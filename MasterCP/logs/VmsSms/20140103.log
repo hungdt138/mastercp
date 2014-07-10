@@ -1,0 +1,18 @@
+03/01 14:47:31:329 VMS Send Sms started
+03/01 14:47:31:401 Testing connection ...
+03/01 14:47:31:407 Created provisioning instance for VMSSDP
+03/01 14:47:31:415 Testing connection are success
+03/01 14:47:31:422 Starting process session
+03/01 14:47:31:529 Total 0 instances are started
+03/01 14:47:31:536 Total 1 instances are added
+03/01 14:47:56:623 Close pool
+03/01 14:47:56:728 Close queue connection pool.
+03/01 14:47:56:736 End of process session
+03/01 14:47:56:747 VMS Send Sms stopped
+03/01 14:50:06:515 VMS Send Sms started
+03/01 14:50:10:153 Testing connection ...
+03/01 14:50:10:179 Created provisioning instance for VMSSDP
+03/01 14:50:10:188 Testing connection are success
+03/01 14:50:10:194 Starting process session
+03/01 14:50:10:319 Total 0 instances are started
+03/01 14:50:10:329 Total 1 instances are added

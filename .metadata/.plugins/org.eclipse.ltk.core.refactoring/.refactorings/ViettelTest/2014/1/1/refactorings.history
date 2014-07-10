@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy package &apos;org.tempuri&apos; to &apos;MasterCP/src&apos;&#x0D;&#x0A;- Original project: &apos;ViettelTest&apos;&#x0D;&#x0A;- Destination element: &apos;MasterCP/src&apos;&#x0D;&#x0A;- Original element: &apos;ViettelTest/src/org.tempuri&apos;" description="Copy package" destination="=MasterCP/src" element1="/src&lt;org.tempuri" flags="589830" fragments="1" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1388676877549" version="1.0"/>
+</session>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/MasterCP/src/vms/org/csapi/www/wsdl/parlayx/sms/send/v2_2/service/SoapGetSmsDeliveryStatusClient.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="vms.org.csapi.www.wsdl.parlayx.sms.send.v2_2.service.SoapGetSmsDeliveryStatusClient"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="MasterCP"/>
+</launchConfiguration>

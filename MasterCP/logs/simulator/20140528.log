@@ -1,0 +1,20 @@
+28/05 09:53:40:450 Simulator started
+28/05 09:53:40:476 Starting process session
+28/05 09:53:40:540 Begin to send message.
+28/05 09:53:40:655  | userId = system | channel = web | serviceAddress = 8626 | keyword = OTPREQ_MSPSAM800005 | isdn = 84943201375 | subscriberType = -1 | shipTo =  | merchantId = 0 | agentId = 0 | actionType =  | productId = 0 | contentCode = 0 | contentType = 0 | commandId = 0 | vnmDeliveryMode = 0 | vnmChargeMode = 0 | vnmProduct =  | request =  | response =  | status = 1 | cause =  | description = 
+28/05 09:53:40:666 message count: 1
+28/05 09:53:40:681 End of process session
+28/05 09:53:43:691 Simulator stopped
+28/05 09:54:00:468 Simulator started
+28/05 09:54:00:505 Starting process session
+28/05 09:54:00:516 Begin to send message.
+28/05 09:54:00:533  | userId = system | channel = web | serviceAddress = 8926 | keyword = OTPREQ_MSPSAM800005 | isdn = 84943201375 | subscriberType = -1 | shipTo =  | merchantId = 0 | agentId = 0 | actionType =  | productId = 0 | contentCode = 0 | contentType = 0 | commandId = 0 | vnmDeliveryMode = 0 | vnmChargeMode = 0 | vnmProduct =  | request =  | response =  | status = 1 | cause =  | description = 
+28/05 09:54:00:542 message count: 1
+28/05 09:54:00:554 End of process session
+28/05 09:54:03:563 Simulator stopped
+28/05 09:54:09:483 Simulator started
+28/05 09:54:09:517 Starting process session
+28/05 09:54:09:528 Begin to send message.
+28/05 09:54:09:543  | userId = system | channel = web | serviceAddress = 8926 | keyword = OTPREQ_MSPSAM800005 | isdn = 84943201375 | subscriberType = -1 | shipTo =  | merchantId = 0 | agentId = 0 | actionType =  | productId = 0 | contentCode = 0 | contentType = 0 | commandId = 0 | vnmDeliveryMode = 0 | vnmChargeMode = 0 | vnmProduct =  | request =  | response =  | status = 1 | cause =  | description = 
+28/05 09:54:09:552 message count: 1
+28/05 09:54:09:564 End of process session

@@ -1,0 +1,67 @@
+03/01 13:40:15:974 Command Statistic started
+03/01 13:40:16:020 Starting process session
+03/01 13:40:16:125 Total 0 instances are started
+03/01 13:40:16:133 Total 1 instances are added
+03/01 14:44:43:644 Command Statistic started
+03/01 14:44:43:680 Starting process session
+03/01 14:44:43:805 Total 0 instances are started
+03/01 14:44:43:825 Total 1 instances are added
+03/01 14:48:37:776 Command Statistic started
+03/01 14:48:37:807 Starting process session
+03/01 14:48:37:929 Total 0 instances are started
+03/01 14:48:37:937 Total 1 instances are added
+03/01 14:49:07:995 Update database ID=920, ALIAS=ACOMVT00001, SUCCESS=0, FAILURE=1, STARTTIME=03/01/2014 14:49:05.
+03/01 14:50:06:438 Command Statistic started
+03/01 14:50:06:684 Starting process session
+03/01 14:50:06:848 Total 0 instances are started
+03/01 14:50:07:116 Total 1 instances are added
+03/01 14:51:55:982 Command Statistic started
+03/01 14:51:56:045 Starting process session
+03/01 14:51:56:152 Total 0 instances are started
+03/01 14:51:56:166 Total 1 instances are added
+03/01 14:53:16:361 Update database ID=920, ALIAS=ACOMVT00001, SUCCESS=0, FAILURE=1, STARTTIME=03/01/2014 14:53:09.
+03/01 14:58:15:298 Command Statistic started
+03/01 14:58:15:352 Starting process session
+03/01 14:58:15:469 Total 0 instances are started
+03/01 14:58:15:533 Total 1 instances are added
+03/01 14:59:26:015 Update database ID=920, ALIAS=ACOMVT00001, SUCCESS=1, FAILURE=0, STARTTIME=03/01/2014 14:59:24.
+03/01 14:59:56:070 Update database ID=920, ALIAS=ACOMVT00001, SUCCESS=1, FAILURE=0, STARTTIME=03/01/2014 14:59:26.
+03/01 15:29:35:539 Command Statistic started
+03/01 15:29:35:613 Starting process session
+03/01 15:29:35:744 Total 0 instances are started
+03/01 15:29:35:751 Total 1 instances are added
+03/01 15:34:06:263 Update database ID=920, ALIAS=ACOMVT00001, SUCCESS=0, FAILURE=1, STARTTIME=03/01/2014 15:34:05.
+03/01 15:35:26:408 Update database ID=920, ALIAS=ACOMVT00001, SUCCESS=1, FAILURE=0, STARTTIME=03/01/2014 15:34:06.
+03/01 15:36:06:480 Update database ID=920, ALIAS=ACOMVT00001, SUCCESS=1, FAILURE=0, STARTTIME=03/01/2014 15:35:26.
+03/01 15:36:36:541 Update database ID=920, ALIAS=ACOMVT00001, SUCCESS=1, FAILURE=0, STARTTIME=03/01/2014 15:36:06.
+03/01 15:39:30:718 Command Statistic started
+03/01 15:39:30:788 Starting process session
+03/01 15:39:30:896 Total 0 instances are started
+03/01 15:39:30:907 Total 1 instances are added
+03/01 15:41:51:143 Update database ID=920, ALIAS=ACOMVT00001, SUCCESS=1, FAILURE=0, STARTTIME=03/01/2014 15:41:45.
+03/01 15:56:22:498 Update database ID=920, ALIAS=ACOMVT00001, SUCCESS=1, FAILURE=0, STARTTIME=03/01/2014 15:41:51.
+03/01 15:57:32:620 Update database ID=920, ALIAS=ACOMVT00001, SUCCESS=1, FAILURE=0, STARTTIME=03/01/2014 15:56:22.
+03/01 16:00:33:573 Command Statistic started
+03/01 16:00:33:661 Starting process session
+03/01 16:00:33:770 Total 0 instances are started
+03/01 16:00:33:781 Total 1 instances are added
+03/01 16:01:13:861 Update database ID=920, ALIAS=ACOMVT00001, SUCCESS=1, FAILURE=0, STARTTIME=03/01/2014 16:01:06.
+03/01 16:06:38:281 Command Statistic started
+03/01 16:06:38:356 Starting process session
+03/01 16:06:38:465 Total 0 instances are started
+03/01 16:06:38:472 Total 1 instances are added
+03/01 16:07:08:536 Update database ID=920, ALIAS=ACOMVT00001, SUCCESS=1, FAILURE=0, STARTTIME=03/01/2014 16:07:03.
+03/01 16:10:28:845 Update database ID=920, ALIAS=ACOMVT00001, SUCCESS=1, FAILURE=0, STARTTIME=03/01/2014 16:07:08.
+03/01 16:23:38:635 Command Statistic started
+03/01 16:23:38:688 Starting process session
+03/01 16:23:38:794 Total 0 instances are started
+03/01 16:23:38:804 Total 1 instances are added
+03/01 16:26:49:330 Update database ID=920, ALIAS=ACOMVT00001, SUCCESS=1, FAILURE=0, STARTTIME=03/01/2014 16:26:44.
+03/01 16:33:40:217 Update database ID=920, ALIAS=ACOMVT00001, SUCCESS=0, FAILURE=1, STARTTIME=03/01/2014 16:26:49.
+03/01 16:39:31:163 Update database ID=920, ALIAS=ACOMVT00001, SUCCESS=1, FAILURE=0, STARTTIME=03/01/2014 16:33:40.
+03/01 17:03:37:074 Command Statistic started
+03/01 17:03:37:138 Starting process session
+03/01 17:03:37:248 Total 0 instances are started
+03/01 17:03:37:256 Total 1 instances are added
+03/01 17:04:27:354 Update database ID=920, ALIAS=ACOMVT00001, SUCCESS=1, FAILURE=0, STARTTIME=03/01/2014 17:04:18.
+03/01 17:16:48:719 Update database ID=920, ALIAS=ACOMVT00001, SUCCESS=1, FAILURE=0, STARTTIME=03/01/2014 17:04:27.

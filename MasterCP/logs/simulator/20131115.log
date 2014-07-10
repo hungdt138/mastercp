@@ -1,0 +1,138 @@
+15/11 06:44:03:818 Simulator started
+15/11 06:44:03:855 Starting process session
+15/11 06:44:03:875 Begin to send message.
+15/11 06:44:03:896  | userId = system | channel = SMS | serviceAddress = 6619 | keyword = GET | isdn = 84967289922 | subscriberType = -1 | shipTo =  | merchantId = 0 | agentId = 0 | actionType =  | productId = 0 | contentCode = 0 | contentType = 0 | commandId = 0 | vnmDeliveryMode = 0 | vnmChargeMode = 0 | vnmProduct =  | request =  | response =  | status = 1 | cause =  | description = 
+15/11 06:44:03:908 message count: 1
+15/11 06:44:03:922 End of process session
+15/11 06:44:06:936 Simulator stopped
+15/11 06:45:41:935 Simulator started
+15/11 06:45:41:969 Starting process session
+15/11 06:45:41:980 Begin to send message.
+15/11 06:45:41:995  | userId = system | channel = SMS | serviceAddress = 6619 | keyword = GET B | isdn = 84967289922 | subscriberType = -1 | shipTo =  | merchantId = 0 | agentId = 0 | actionType =  | productId = 0 | contentCode = 0 | contentType = 0 | commandId = 0 | vnmDeliveryMode = 0 | vnmChargeMode = 0 | vnmProduct =  | request =  | response =  | status = 1 | cause =  | description = 
+15/11 06:45:42:005 message count: 1
+15/11 06:45:42:018 End of process session
+15/11 06:45:45:029 Simulator stopped
+15/11 06:46:11:978 Simulator started
+15/11 06:46:12:024 Starting process session
+15/11 06:46:12:037 Begin to send message.
+15/11 06:46:12:054  | userId = system | channel = SMS | serviceAddress = 6619 | keyword = GET A | isdn = 84967289922 | subscriberType = -1 | shipTo =  | merchantId = 0 | agentId = 0 | actionType =  | productId = 0 | contentCode = 0 | contentType = 0 | commandId = 0 | vnmDeliveryMode = 0 | vnmChargeMode = 0 | vnmProduct =  | request =  | response =  | status = 1 | cause =  | description = 
+15/11 06:46:12:065 message count: 1
+15/11 06:46:12:080 End of process session
+15/11 06:46:15:092 Simulator stopped
+15/11 06:46:33:038 Simulator started
+15/11 06:46:33:080 Starting process session
+15/11 06:46:33:094 Begin to send message.
+15/11 06:46:33:109  | userId = system | channel = SMS | serviceAddress = 6619 | keyword = GET A | isdn = 84967289922 | subscriberType = -1 | shipTo =  | merchantId = 0 | agentId = 0 | actionType =  | productId = 0 | contentCode = 0 | contentType = 0 | commandId = 0 | vnmDeliveryMode = 0 | vnmChargeMode = 0 | vnmProduct =  | request =  | response =  | status = 1 | cause =  | description = 
+15/11 06:46:33:120 message count: 1
+15/11 06:46:33:132 End of process session
+15/11 06:46:36:144 Simulator stopped
+15/11 06:47:40:119 Simulator started
+15/11 06:47:40:181 Starting process session
+15/11 06:47:40:194 Begin to send message.
+15/11 06:47:40:209  | userId = system | channel = SMS | serviceAddress = 6619 | keyword = GET A | isdn = 84967289922 | subscriberType = -1 | shipTo =  | merchantId = 0 | agentId = 0 | actionType =  | productId = 0 | contentCode = 0 | contentType = 0 | commandId = 0 | vnmDeliveryMode = 0 | vnmChargeMode = 0 | vnmProduct =  | request =  | response =  | status = 1 | cause =  | description = 
+15/11 06:47:40:218 message count: 1
+15/11 06:47:40:231 End of process session
+15/11 06:47:43:244 Simulator stopped
+15/11 06:48:37:187 Simulator started
+15/11 06:48:37:237 Starting process session
+15/11 06:48:37:259 Begin to send message.
+15/11 06:48:37:277  | userId = system | channel = SMS | serviceAddress = 6619 | keyword = GET A | isdn = 84967289922 | subscriberType = -1 | shipTo =  | merchantId = 0 | agentId = 0 | actionType =  | productId = 0 | contentCode = 0 | contentType = 0 | commandId = 0 | vnmDeliveryMode = 0 | vnmChargeMode = 0 | vnmProduct =  | request =  | response =  | status = 1 | cause =  | description = 
+15/11 06:48:37:287 message count: 1
+15/11 06:48:37:303 End of process session
+15/11 06:48:40:318 Simulator stopped
+15/11 06:49:51:280 Simulator started
+15/11 06:49:51:329 Starting process session
+15/11 06:49:51:341 Begin to send message.
+15/11 06:49:51:360  | userId = system | channel = SMS | serviceAddress = 6619 | keyword = GET A | isdn = 84967289922 | subscriberType = -1 | shipTo =  | merchantId = 0 | agentId = 0 | actionType =  | productId = 0 | contentCode = 0 | contentType = 0 | commandId = 0 | vnmDeliveryMode = 0 | vnmChargeMode = 0 | vnmProduct =  | request =  | response =  | status = 1 | cause =  | description = 
+15/11 06:49:51:372 message count: 1
+15/11 06:49:51:385 End of process session
+15/11 06:49:55:398 Simulator stopped
+15/11 06:50:32:351 Simulator started
+15/11 06:50:32:399 Starting process session
+15/11 06:50:32:412 Begin to send message.
+15/11 06:50:32:429  | userId = system | channel = SMS | serviceAddress = 6619 | keyword = GET A | isdn = 84967289922 | subscriberType = -1 | shipTo =  | merchantId = 0 | agentId = 0 | actionType =  | productId = 0 | contentCode = 0 | contentType = 0 | commandId = 0 | vnmDeliveryMode = 0 | vnmChargeMode = 0 | vnmProduct =  | request =  | response =  | status = 1 | cause =  | description = 
+15/11 06:50:32:438 message count: 1
+15/11 06:50:32:453 End of process session
+15/11 06:50:35:466 Simulator stopped
+15/11 06:51:22:433 Simulator started
+15/11 06:51:22:491 Starting process session
+15/11 06:51:22:503 Begin to send message.
+15/11 06:51:22:519  | userId = system | channel = SMS | serviceAddress = 6619 | keyword = GET A | isdn = 84967289922 | subscriberType = -1 | shipTo =  | merchantId = 0 | agentId = 0 | actionType =  | productId = 0 | contentCode = 0 | contentType = 0 | commandId = 0 | vnmDeliveryMode = 0 | vnmChargeMode = 0 | vnmProduct =  | request =  | response =  | status = 1 | cause =  | description = 
+15/11 06:51:22:528 message count: 1
+15/11 06:51:22:541 End of process session
+15/11 07:08:40:319 Simulator started
+15/11 07:08:40:351 Starting process session
+15/11 07:08:40:367 Begin to send message.
+15/11 07:08:40:497  | userId = system | channel = SMS | serviceAddress = 6619 | keyword = GET A | isdn = 84967289922 | subscriberType = -1 | shipTo =  | merchantId = 0 | agentId = 0 | actionType =  | productId = 0 | contentCode = 0 | contentType = 0 | commandId = 0 | vnmDeliveryMode = 0 | vnmChargeMode = 0 | vnmProduct =  | request =  | response =  | status = 1 | cause =  | description = 
+15/11 07:08:40:523 message count: 1
+15/11 07:08:40:540 End of process session
+15/11 07:08:42:553 Simulator stopped
+15/11 07:09:02:359 Simulator started
+15/11 07:09:02:410 Starting process session
+15/11 07:09:02:426 Begin to send message.
+15/11 07:09:02:443  | userId = system | channel = SMS | serviceAddress = 6619 | keyword = GET A | isdn = 84967289922 | subscriberType = -1 | shipTo =  | merchantId = 0 | agentId = 0 | actionType =  | productId = 0 | contentCode = 0 | contentType = 0 | commandId = 0 | vnmDeliveryMode = 0 | vnmChargeMode = 0 | vnmProduct =  | request =  | response =  | status = 1 | cause =  | description = 
+15/11 07:09:02:454 message count: 1
+15/11 07:09:02:469 End of process session
+15/11 07:09:05:483 Simulator stopped
+15/11 07:09:28:422 Simulator started
+15/11 07:09:28:461 Starting process session
+15/11 07:09:28:473 Begin to send message.
+15/11 07:09:28:490  | userId = system | channel = SMS | serviceAddress = 6619 | keyword = GET B | isdn = 84967289922 | subscriberType = -1 | shipTo =  | merchantId = 0 | agentId = 0 | actionType =  | productId = 0 | contentCode = 0 | contentType = 0 | commandId = 0 | vnmDeliveryMode = 0 | vnmChargeMode = 0 | vnmProduct =  | request =  | response =  | status = 1 | cause =  | description = 
+15/11 07:09:28:501 message count: 1
+15/11 07:09:28:513 End of process session
+15/11 07:16:07:885 Simulator stopped
+15/11 07:16:09:820 Simulator started
+15/11 07:16:09:858 Starting process session
+15/11 07:16:09:870 Begin to send message.
+15/11 07:16:09:886  | userId = system | channel = SMS | serviceAddress = 6619 | keyword = GET B | isdn = 84967289922 | subscriberType = -1 | shipTo =  | merchantId = 0 | agentId = 0 | actionType =  | productId = 0 | contentCode = 0 | contentType = 0 | commandId = 0 | vnmDeliveryMode = 0 | vnmChargeMode = 0 | vnmProduct =  | request =  | response =  | status = 1 | cause =  | description = 
+15/11 07:16:09:895 message count: 1
+15/11 07:16:09:908 End of process session
+15/11 07:16:12:920 Simulator stopped
+15/11 07:24:55:795 Simulator started
+15/11 07:24:55:824 Starting process session
+15/11 07:24:55:835 Begin to send message.
+15/11 07:24:55:930  | userId = system | channel = SMS | serviceAddress = 6619 | keyword = GET B | isdn = 84967289922 | subscriberType = -1 | shipTo =  | merchantId = 0 | agentId = 0 | actionType =  | productId = 0 | contentCode = 0 | contentType = 0 | commandId = 0 | vnmDeliveryMode = 0 | vnmChargeMode = 0 | vnmProduct =  | request =  | response =  | status = 1 | cause =  | description = 
+15/11 07:24:55:939 message count: 1
+15/11 07:24:55:952 End of process session
+15/11 07:24:58:963 Simulator stopped
+15/11 07:26:39:914 Simulator started
+15/11 07:26:39:970 Starting process session
+15/11 07:26:39:980 Begin to send message.
+15/11 07:26:40:003  | userId = system | channel = SMS | serviceAddress = 6619 | keyword = GET A | isdn = 84967289922 | subscriberType = -1 | shipTo =  | merchantId = 0 | agentId = 0 | actionType =  | productId = 0 | contentCode = 0 | contentType = 0 | commandId = 0 | vnmDeliveryMode = 0 | vnmChargeMode = 0 | vnmProduct =  | request =  | response =  | status = 1 | cause =  | description = 
+15/11 07:26:40:015 message count: 1
+15/11 07:26:40:030 End of process session
+15/11 07:26:42:042 Simulator stopped
+15/11 07:29:02:092 Simulator started
+15/11 07:29:02:130 Starting process session
+15/11 07:29:02:141 Begin to send message.
+15/11 07:29:02:156  | userId = system | channel = SMS | serviceAddress = 6619 | keyword = GET B | isdn = 84967289922 | subscriberType = -1 | shipTo =  | merchantId = 0 | agentId = 0 | actionType =  | productId = 0 | contentCode = 0 | contentType = 0 | commandId = 0 | vnmDeliveryMode = 0 | vnmChargeMode = 0 | vnmProduct =  | request =  | response =  | status = 1 | cause =  | description = 
+15/11 07:29:02:164 message count: 1
+15/11 07:29:02:177 End of process session
+15/11 07:29:05:190 Simulator stopped
+15/11 07:32:39:327 Simulator started
+15/11 07:32:39:363 Starting process session
+15/11 07:32:39:437 Begin to send message.
+15/11 07:32:39:451  | userId = system | channel = SMS | serviceAddress = 6619 | keyword = GET A | isdn = 84967289922 | subscriberType = -1 | shipTo =  | merchantId = 0 | agentId = 0 | actionType =  | productId = 0 | contentCode = 0 | contentType = 0 | commandId = 0 | vnmDeliveryMode = 0 | vnmChargeMode = 0 | vnmProduct =  | request =  | response =  | status = 1 | cause =  | description = 
+15/11 07:32:39:460 message count: 1
+15/11 07:32:39:473 End of process session
+15/11 07:32:41:484 Simulator stopped
+15/11 07:34:51:489 Simulator started
+15/11 07:34:51:527 Starting process session
+15/11 07:34:51:587 Begin to send message.
+15/11 07:34:51:600  | userId = system | channel = SMS | serviceAddress = 6619 | keyword = GET | isdn = 84967289922 | subscriberType = -1 | shipTo =  | merchantId = 0 | agentId = 0 | actionType =  | productId = 0 | contentCode = 0 | contentType = 0 | commandId = 0 | vnmDeliveryMode = 0 | vnmChargeMode = 0 | vnmProduct =  | request =  | response =  | status = 1 | cause =  | description = 
+15/11 07:34:51:609 message count: 1
+15/11 07:34:51:620 End of process session
+15/11 07:34:53:630 Simulator stopped
+15/11 07:39:47:850 Simulator started
+15/11 07:39:47:892 Starting process session
+15/11 07:39:47:990 Begin to send message.
+15/11 07:39:48:004  | userId = system | channel = SMS | serviceAddress = 6619 | keyword = GET | isdn = 84967289922 | subscriberType = -1 | shipTo =  | merchantId = 0 | agentId = 0 | actionType =  | productId = 0 | contentCode = 0 | contentType = 0 | commandId = 0 | vnmDeliveryMode = 0 | vnmChargeMode = 0 | vnmProduct =  | request =  | response =  | status = 1 | cause =  | description = 
+15/11 07:39:48:012 message count: 1
+15/11 07:39:48:024 End of process session
+15/11 07:39:50:034 Simulator stopped
+15/11 07:44:56:173 Simulator started
+15/11 07:44:56:214 Starting process session
+15/11 07:44:56:318 Begin to send message.
+15/11 07:44:56:334  | userId = system | channel = SMS | serviceAddress = 6619 | keyword = GET | isdn = 84967289922 | subscriberType = -1 | shipTo =  | merchantId = 0 | agentId = 0 | actionType =  | productId = 0 | contentCode = 0 | contentType = 0 | commandId = 0 | vnmDeliveryMode = 0 | vnmChargeMode = 0 | vnmProduct =  | request =  | response =  | status = 1 | cause =  | description = 
+15/11 07:44:56:344 message count: 1
+15/11 07:44:56:358 End of process session

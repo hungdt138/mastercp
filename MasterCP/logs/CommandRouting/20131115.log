@@ -1,0 +1,102 @@
+15/11 06:37:28:202 Command Routing started
+15/11 06:37:28:435 Starting process session
+15/11 06:37:30:983 Total 0 instances are started
+15/11 06:37:30:997 Total 1 instances are added
+15/11 06:44:16:882 84967289922: CRM - CRM.MT_REGISTER
+15/11 06:44:19:193 84967289922: QUIZ - QUIZ.SENDFIRSTCONTENT
+15/11 06:44:20:026 queue-not-found
+Context: test/SMSC : test/SMSC
+15/11 06:44:20:044 orderId = 87548 | orderDate = 2013/11/15 06:44:03 | cycleDate = 2013/11/15 06:44:03 | companyId = 0 | groupId = 0 | userId = system | merchantId = 3001 | agentId = 0 | subscriberId = 0 | subPackageId = 0 | subProductId = 2170 | segmentId = 0 | campaignId = 0 | channel = SMS | serviceAddress = 6619 | keyword = GET | isdn = 84967289922 | subscriberType = 1 | shipTo =  | opId = 0 | actionType = register | productId = 920 | associateProductId = 0 | contentCode = 102 | contentType = 2 | offerPrice = 0.0 | price = 0.0 | quantity = 1 | discount = 0.0 | amount = 0.0 | loyalty = 0.0 | provisioningId = 13102 | commandId = 11304 | request = Man hinh cua Samsung Galaxy Note 2 la 5.1 inch? A-Dung, B-Sai. Gui GET A hoac GET B den 6619 | response =  | status = 4 | cause = queue-not-found
+Context: test/SMSC | description = test/SMSC
+15/11 06:45:49:655 84967289922: QUIZ - QUIZ.CHECKANSWERS
+15/11 06:45:50:944 queue-not-found
+Context: test/SMSC : test/SMSC
+15/11 06:45:50:954 orderId = 87549 | orderDate = 2013/11/15 06:45:42 | cycleDate = 2013/11/15 06:45:41 | companyId = 0 | groupId = 0 | userId = system | merchantId = 3001 | agentId = 0 | subscriberId = 0 | subPackageId = 0 | subProductId = 2170 | segmentId = 0 | campaignId = 0 | channel = SMS | serviceAddress = 6619 | keyword = GET B | isdn = 84967289922 | subscriberType = 1 | shipTo =  | opId = 0 | actionType = answer | productId = 920 | associateProductId = 0 | contentCode = 0 | contentType = 2 | offerPrice = 0.0 | price = 0.0 | quantity = 1 | discount = 0.0 | amount = 0.0 | loyalty = 0.0 | provisioningId = 13102 | commandId = 11304 | request = Sai, ban co 0.0 d.CH tiep  | response =  | status = 4 | cause = queue-not-found
+Context: test/SMSC | description = test/SMSC
+15/11 06:46:16:790 84967289922: QUIZ - QUIZ.CHECKANSWERS
+15/11 06:46:37:328 84967289922: QUIZ - QUIZ.CHECKANSWERS
+15/11 06:47:47:864 84967289922: QUIZ - QUIZ.CHECKANSWERS
+15/11 06:48:27:992 queue-not-found
+Context: test/SMSC : test/SMSC
+15/11 06:48:28:012 orderId = 87552 | orderDate = 2013/11/15 06:47:40 | cycleDate = 2013/11/15 06:47:40 | companyId = 0 | groupId = 0 | userId = system | merchantId = 3001 | agentId = 0 | subscriberId = 0 | subPackageId = 0 | subProductId = 2170 | segmentId = 0 | campaignId = 0 | channel = SMS | serviceAddress = 6619 | keyword = GET A | isdn = 84967289922 | subscriberType = 1 | shipTo =  | opId = 0 | actionType = answer | productId = 920 | associateProductId = 0 | contentCode = 0 | contentType = 2 | offerPrice = 0.0 | price = 0.0 | quantity = 1 | discount = 0.0 | amount = 0.0 | loyalty = 0.0 | provisioningId = 13102 | commandId = 11304 | request = Sai, ban co 0.0 d.CH tiep  | response =  | status = 4 | cause = queue-not-found
+Context: test/SMSC | description = test/SMSC
+15/11 06:48:41:224 84967289922: QUIZ - QUIZ.CHECKANSWERS
+15/11 06:49:27:634 queue-not-found
+Context: test/SMSC : test/SMSC
+15/11 06:49:27:655 orderId = 87553 | orderDate = 2013/11/15 06:48:37 | cycleDate = 2013/11/15 06:48:37 | companyId = 0 | groupId = 0 | userId = system | merchantId = 3001 | agentId = 0 | subscriberId = 0 | subPackageId = 0 | subProductId = 2170 | segmentId = 0 | campaignId = 0 | channel = SMS | serviceAddress = 6619 | keyword = GET A | isdn = 84967289922 | subscriberType = 1 | shipTo =  | opId = 0 | actionType = answer | productId = 920 | associateProductId = 0 | contentCode = 0 | contentType = 2 | offerPrice = 0.0 | price = 0.0 | quantity = 1 | discount = 0.0 | amount = 0.0 | loyalty = 0.0 | provisioningId = 13102 | commandId = 11304 | request = Sai, ban co 0.0 d.CH tiep  | response =  | status = 4 | cause = queue-not-found
+Context: test/SMSC | description = test/SMSC
+15/11 06:49:56:483 84967289922: QUIZ - QUIZ.CHECKANSWERS
+15/11 06:50:14:871 queue-not-found
+Context: test/SMSC : test/SMSC
+15/11 06:50:14:883 orderId = 87554 | orderDate = 2013/11/15 06:49:51 | cycleDate = 2013/11/15 06:49:51 | companyId = 0 | groupId = 0 | userId = system | merchantId = 3001 | agentId = 0 | subscriberId = 0 | subPackageId = 0 | subProductId = 2170 | segmentId = 0 | campaignId = 0 | channel = SMS | serviceAddress = 6619 | keyword = GET A | isdn = 84967289922 | subscriberType = 1 | shipTo =  | opId = 0 | actionType = answer | productId = 920 | associateProductId = 0 | contentCode = 0 | contentType = 2 | offerPrice = 0.0 | price = 0.0 | quantity = 1 | discount = 0.0 | amount = 0.0 | loyalty = 0.0 | provisioningId = 13102 | commandId = 11304 | request = Sai, ban co 0.0 d.CH tiep Phablet la mot cai ten "lai" giua phone-tablet? A-Dung, B-Sai. Gui GET A hoac GET B den 6619 | response =  | status = 4 | cause = queue-not-found
+Context: test/SMSC | description = test/SMSC
+15/11 06:50:35:811 84967289922: QUIZ - QUIZ.CHECKANSWERS
+15/11 06:50:39:140 queue-not-found
+Context: test/SMSC : test/SMSC
+15/11 06:50:39:162 orderId = 87555 | orderDate = 2013/11/15 06:50:32 | cycleDate = 2013/11/15 06:50:32 | companyId = 0 | groupId = 0 | userId = system | merchantId = 3001 | agentId = 0 | subscriberId = 0 | subPackageId = 0 | subProductId = 2170 | segmentId = 0 | campaignId = 0 | channel = SMS | serviceAddress = 6619 | keyword = GET A | isdn = 84967289922 | subscriberType = 1 | shipTo =  | opId = 0 | actionType = answer | productId = 920 | associateProductId = 0 | contentCode = 0 | contentType = 2 | offerPrice = 0.0 | price = 0.0 | quantity = 1 | discount = 0.0 | amount = 0.0 | loyalty = 0.0 | provisioningId = 13102 | commandId = 11304 | request = Sai, ban co 0.0 d.CH tiep Phablet la mot cai ten "lai" giua phone-tablet? A-Dung, B-Sai. Gui GET A hoac GET B den 6619 | response =  | status = 4 | cause = queue-not-found
+Context: test/SMSC | description = test/SMSC
+15/11 06:51:25:604 84967289922: QUIZ - QUIZ.CHECKANSWERS
+15/11 06:51:58:293 queue-not-found
+Context: test/SMSC : test/SMSC
+15/11 06:51:58:312 orderId = 87556 | orderDate = 2013/11/15 06:51:22 | cycleDate = 2013/11/15 06:51:22 | companyId = 0 | groupId = 0 | userId = system | merchantId = 3001 | agentId = 0 | subscriberId = 0 | subPackageId = 0 | subProductId = 2170 | segmentId = 0 | campaignId = 0 | channel = SMS | serviceAddress = 6619 | keyword = GET A | isdn = 84967289922 | subscriberType = 1 | shipTo =  | opId = 0 | actionType = answer | productId = 920 | associateProductId = 0 | contentCode = 0 | contentType = 2 | offerPrice = 0.0 | price = 0.0 | quantity = 1 | discount = 0.0 | amount = 0.0 | loyalty = 0.0 | provisioningId = 13102 | commandId = 11304 | request = Sai, ban co 0.0 d.CH tiep Phablet la mot cai ten "lai" giua phone-tablet? A-Dung, B-Sai. Gui GET A hoac GET B den 6619 | response =  | status = 4 | cause = queue-not-found
+Context: test/SMSC | description = test/SMSC
+15/11 07:08:20:496 Command Routing started
+15/11 07:08:20:643 Starting process session
+15/11 07:08:21:700 Total 0 instances are started
+15/11 07:08:21:713 Total 1 instances are added
+15/11 07:08:45:653 84967289922: QUIZ - QUIZ.CHECKANSWERS
+15/11 07:08:54:860 queue-not-found
+Context: test/SMSC : test/SMSC
+15/11 07:08:54:872 orderId = 87557 | orderDate = 2013/11/15 07:08:40 | cycleDate = 2013/11/15 07:08:40 | companyId = 0 | groupId = 0 | userId = system | merchantId = 3001 | agentId = 0 | subscriberId = 0 | subPackageId = 0 | subProductId = 2170 | segmentId = 0 | campaignId = 0 | channel = SMS | serviceAddress = 6619 | keyword = GET A | isdn = 84967289922 | subscriberType = 1 | shipTo =  | opId = 0 | actionType = answer | productId = 920 | associateProductId = 0 | contentCode = 0 | contentType = 2 | offerPrice = 0.0 | price = 0.0 | quantity = 1 | discount = 0.0 | amount = 0.0 | loyalty = 0.0 | provisioningId = 13102 | commandId = 11304 | request = Sai, ban co 0.0 d.CH tiep Ten nuoc Thai Lan co nghia la " tu do"? A-Dung, B-Sai. Gui GET A hoac GET B den 6619 | response =  | status = 4 | cause = queue-not-found
+Context: test/SMSC | description = test/SMSC
+15/11 07:09:06:670 84967289922: QUIZ - QUIZ.CHECKANSWERS
+15/11 07:09:11:378 queue-not-found
+Context: test/SMSC : test/SMSC
+15/11 07:09:11:396 orderId = 87558 | orderDate = 2013/11/15 07:09:02 | cycleDate = 2013/11/15 07:09:02 | companyId = 0 | groupId = 0 | userId = system | merchantId = 3001 | agentId = 0 | subscriberId = 0 | subPackageId = 0 | subProductId = 2170 | segmentId = 0 | campaignId = 0 | channel = SMS | serviceAddress = 6619 | keyword = GET A | isdn = 84967289922 | subscriberType = 1 | shipTo =  | opId = 0 | actionType = answer | productId = 920 | associateProductId = 0 | contentCode = 0 | contentType = 2 | offerPrice = 0.0 | price = 0.0 | quantity = 1 | discount = 0.0 | amount = 0.0 | loyalty = 10.0 | provisioningId = 13102 | commandId = 11304 | request = Dung, ban co: 10.0 d.CH tiep Hanbok y phuc truyen thong cua Nhat Ban? A-Dung, B-Sai. Gui GET A hoac GET B den 6619 | response =  | status = 4 | cause = queue-not-found
+Context: test/SMSC | description = test/SMSC
+15/11 07:10:04:861 84967289922: QUIZ - QUIZ.CHECKANSWERS
+15/11 07:15:09:292 queue-not-found
+Context: test/SMSC : test/SMSC
+15/11 07:15:09:305 orderId = 87559 | orderDate = 2013/11/15 07:09:28 | cycleDate = 2013/11/15 07:09:28 | companyId = 0 | groupId = 0 | userId = system | merchantId = 3001 | agentId = 0 | subscriberId = 0 | subPackageId = 0 | subProductId = 2170 | segmentId = 0 | campaignId = 0 | channel = SMS | serviceAddress = 6619 | keyword = GET B | isdn = 84967289922 | subscriberType = 1 | shipTo =  | opId = 0 | actionType = answer | productId = 920 | associateProductId = 0 | contentCode = 0 | contentType = 2 | offerPrice = 0.0 | price = 0.0 | quantity = 1 | discount = 0.0 | amount = 0.0 | loyalty = 10.0 | provisioningId = 13102 | commandId = 11304 | request = Sai, ban co 10.0 d.CH tiep Bieu tuong vui cua Seagame 2009 Chu meo Sawasdee?A-Dung, B-Sai. Gui GET A hoac GET B den 6619 | response =  | status = 4 | cause = queue-not-found
+Context: test/SMSC | description = test/SMSC
+15/11 07:16:14:502 84967289922: QUIZ - QUIZ.CHECKANSWERS
+15/11 07:16:39:811 queue-not-found
+Context: test/SMSC : test/SMSC
+15/11 07:16:39:825 orderId = 87560 | orderDate = 2013/11/15 07:16:09 | cycleDate = 2013/11/15 07:16:09 | companyId = 0 | groupId = 0 | userId = system | merchantId = 3001 | agentId = 0 | subscriberId = 0 | subPackageId = 0 | subProductId = 2170 | segmentId = 0 | campaignId = 0 | channel = SMS | serviceAddress = 6619 | keyword = GET B | isdn = 84967289922 | subscriberType = 1 | shipTo =  | opId = 0 | actionType = answer | productId = 920 | associateProductId = 0 | contentCode = 0 | contentType = 2 | offerPrice = 0.0 | price = 0.0 | quantity = 1 | discount = 0.0 | amount = 0.0 | loyalty = 20.0 | provisioningId = 13102 | commandId = 11304 | request = Dung, ban co: 20.0 d.CH tiep To chuc NATO do 2 nuoc Nga va My thanh lap?A-Dung, B-Sai. Gui GET A hoac GET B den 6619 | response =  | status = 4 | cause = queue-not-found
+Context: test/SMSC | description = test/SMSC
+15/11 07:24:22:104 Command Routing started
+15/11 07:24:22:181 Starting process session
+15/11 07:24:23:331 Total 0 instances are started
+15/11 07:24:23:347 Total 1 instances are added
+15/11 07:25:10:324 84967289922: QUIZ - QUIZ.CHECKANSWERS
+15/11 07:26:12:980 queue-not-found
+Context: test/SMSC : test/SMSC
+15/11 07:26:12:993 orderId = 87561 | orderDate = 2013/11/15 07:24:56 | cycleDate = 2013/11/15 07:24:55 | companyId = 0 | groupId = 0 | userId = system | merchantId = 3001 | agentId = 0 | subscriberId = 0 | subPackageId = 0 | subProductId = 2170 | segmentId = 0 | campaignId = 0 | channel = SMS | serviceAddress = 6619 | keyword = GET B | isdn = 84967289922 | subscriberType = 1 | shipTo =  | opId = 0 | actionType = answer | productId = 920 | associateProductId = 0 | contentCode = 0 | contentType = 2 | offerPrice = 0.0 | price = 0.0 | quantity = 1 | discount = 0.0 | amount = 0.0 | loyalty = 20.0 | provisioningId = 13102 | commandId = 11304 | request = Sai, ban co 20.0 d.CH tiep To chuc NATO do 2 nuoc Nga va My thanh lap?A-Dung, B-Sai. Gui GET A hoac GET B den 6619 | response =  | status = 4 | cause = queue-not-found
+Context: test/SMSC | description = test/SMSC
+15/11 07:26:54:453 84967289922: QUIZ - QUIZ.CHECKANSWERS
+15/11 07:27:28:581 queue-not-found
+Context: test/SMSC : test/SMSC
+15/11 07:27:28:591 orderId = 87562 | orderDate = 2013/11/15 07:26:40 | cycleDate = 2013/11/15 07:26:39 | companyId = 0 | groupId = 0 | userId = system | merchantId = 3001 | agentId = 0 | subscriberId = 0 | subPackageId = 0 | subProductId = 2170 | segmentId = 0 | campaignId = 0 | channel = SMS | serviceAddress = 6619 | keyword = GET A | isdn = 84967289922 | subscriberType = 1 | shipTo =  | opId = 0 | actionType = answer | productId = 920 | associateProductId = 0 | contentCode = 0 | contentType = 2 | offerPrice = 0.0 | price = 0.0 | quantity = 1 | discount = 0.0 | amount = 0.0 | loyalty = 30.0 | provisioningId = 13102 | commandId = 11304 | request = Dung, ban co: 30.0 d.CH tiep Phablet la mot cai ten "lai" giua phone-tablet? A-Dung, B-Sai. Gui GET A hoac GET B den 6619 | response =  | status = 4 | cause = queue-not-found
+Context: test/SMSC | description = test/SMSC
+15/11 07:29:05:427 84967289922: QUIZ - QUIZ.CHECKANSWERS
+15/11 07:29:34:797 queue-not-found
+Context: test/SMSC : test/SMSC
+15/11 07:29:34:818 orderId = 87563 | orderDate = 2013/11/15 07:29:02 | cycleDate = 2013/11/15 07:29:02 | companyId = 0 | groupId = 0 | userId = system | merchantId = 3001 | agentId = 0 | subscriberId = 0 | subPackageId = 0 | subProductId = 2170 | segmentId = 0 | campaignId = 0 | channel = SMS | serviceAddress = 6619 | keyword = GET B | isdn = 84967289922 | subscriberType = 1 | shipTo =  | opId = 0 | actionType = answer | productId = 920 | associateProductId = 0 | contentCode = 0 | contentType = 2 | offerPrice = 0.0 | price = 0.0 | quantity = 1 | discount = 0.0 | amount = 0.0 | loyalty = 30.0 | provisioningId = 13102 | commandId = 11304 | request = Sai, ban co 30.0 d.CH tiep Phablet la mot cai ten "lai" giua phone-tablet? A-Dung, B-Sai. Gui GET A hoac GET B den 6619 | response =  | status = 4 | cause = queue-not-found
+Context: test/SMSC | description = test/SMSC
+15/11 07:32:42:280 84967289922: QUIZ - QUIZ.CHECKANSWERS
+15/11 07:32:44:772 queue-not-found
+Context: test/SMSC : test/SMSC
+15/11 07:32:44:782 orderId = 87564 | orderDate = 2013/11/15 07:32:39 | cycleDate = 2013/11/15 07:32:39 | companyId = 0 | groupId = 0 | userId = system | merchantId = 3001 | agentId = 0 | subscriberId = 0 | subPackageId = 0 | subProductId = 2170 | segmentId = 0 | campaignId = 0 | channel = SMS | serviceAddress = 6619 | keyword = GET A | isdn = 84967289922 | subscriberType = 1 | shipTo =  | opId = 0 | actionType = answer | productId = 920 | associateProductId = 0 | contentCode = 0 | contentType = 2 | offerPrice = 0.0 | price = 0.0 | quantity = 1 | discount = 0.0 | amount = 0.0 | loyalty = 40.0 | provisioningId = 13102 | commandId = 11304 | request = Dung, ban co: 40.0 d.CH tiep Ca map so mau cam nhat ? A-Dung, B-Sai. Gui GET A hoac GET B den 6619 | response =  | status = 4 | cause = queue-not-found
+Context: test/SMSC | description = test/SMSC
+15/11 07:35:13:415 queue-not-found
+Context: test/SMSC : test/SMSC
+15/11 07:35:13:424 orderId = 87565 | orderDate = 2013/11/15 07:34:51 | cycleDate = 2013/11/15 07:34:51 | companyId = 0 | groupId = 0 | userId = system | merchantId = 3001 | agentId = 0 | subscriberId = 0 | subPackageId = 0 | subProductId = 2170 | segmentId = 0 | campaignId = 0 | channel = SMS | serviceAddress = 6619 | keyword = GET | isdn = 84967289922 | subscriberType = 1 | shipTo =  | opId = 0 | actionType = registered | productId = 920 | associateProductId = 0 | contentCode = 0 | contentType = 2 | offerPrice = 0.0 | price = 0.0 | quantity = 1 | discount = 0.0 | amount = 0.0 | loyalty = 0.0 | provisioningId = 13102 | commandId = 11304 | request = Xin loi, he thong dang ban. Xin quy khach vui long nhan tin lai sau. | response =  | status = 4 | cause = queue-not-found
+Context: test/SMSC | description = test/SMSC
+15/11 07:39:51:800 queue-not-found
+Context: test/SMSC : test/SMSC
+15/11 07:39:51:818 orderId = 87566 | orderDate = 2013/11/15 07:39:48 | cycleDate = 2013/11/15 07:39:47 | companyId = 0 | groupId = 0 | userId = system | merchantId = 3001 | agentId = 0 | subscriberId = 0 | subPackageId = 0 | subProductId = 2170 | segmentId = 0 | campaignId = 0 | channel = SMS | serviceAddress = 6619 | keyword = GET | isdn = 84967289922 | subscriberType = -1 | shipTo =  | opId = 0 | actionType = register | productId = 920 | associateProductId = 0 | contentCode = 0 | contentType = 2 | offerPrice = 0.0 | price = 0.0 | quantity = 1 | discount = 0.0 | amount = 0.0 | loyalty = 0.0 | provisioningId = 13102 | commandId = 11304 | request = Dich vu da duoc dang ky | response =  | status = 4 | cause = queue-not-found
+Context: test/SMSC | description = test/SMSC
+15/11 07:45:00:832 queue-not-found
+Context: test/SMSC : test/SMSC
+15/11 07:45:00:842 orderId = 87567 | orderDate = 2013/11/15 07:44:56 | cycleDate = 2013/11/15 07:44:56 | companyId = 0 | groupId = 0 | userId = system | merchantId = 3001 | agentId = 0 | subscriberId = 0 | subPackageId = 0 | subProductId = 2170 | segmentId = 0 | campaignId = 0 | channel = SMS | serviceAddress = 6619 | keyword = GET | isdn = 84967289922 | subscriberType = -1 | shipTo =  | opId = 0 | actionType = register | productId = 920 | associateProductId = 0 | contentCode = 0 | contentType = 2 | offerPrice = 0.0 | price = 0.0 | quantity = 1 | discount = 0.0 | amount = 0.0 | loyalty = 0.0 | provisioningId = 13102 | commandId = 11304 | request = Dich vu da duoc dang ky | response =  | status = 4 | cause = queue-not-found
+Context: test/SMSC | description = test/SMSC

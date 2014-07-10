@@ -1,0 +1,6 @@
+03/01 14:50:06:180 Simulator started
+03/01 14:50:06:498 Starting process session
+03/01 14:50:21:956 Begin to send message.
+03/01 14:50:22:357  | userId = system | channel = web | serviceAddress = 8926 | keyword = VNMREQ_TV | isdn = 8492396 | subscriberType = -1 | shipTo =  | merchantId = 0 | agentId = 0 | actionType =  | productId = 0 | contentCode = 0 | contentType = 0 | commandId = 0 | vnmDeliveryMode = 0 | vnmChargeMode = 0 | vnmProduct =  | request =  | response =  | status = 1 | cause =  | description = 
+03/01 14:50:22:368 message count: 1
+03/01 14:50:23:890 End of process session

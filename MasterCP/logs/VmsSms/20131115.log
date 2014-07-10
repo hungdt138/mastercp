@@ -1,0 +1,319 @@
+15/11 06:37:30:441 VMS Send Sms started
+15/11 06:37:31:873 Testing connection ...
+15/11 06:37:32:037 Created provisioning instance for VMSSDP
+15/11 06:37:32:052 Testing connection are success
+15/11 06:37:32:074 Starting process session
+15/11 06:37:32:209 Total 0 instances are started
+15/11 06:37:32:249 Total 1 instances are added
+15/11 06:37:55:825 queue-not-found
+Context: test/vmssms : test/vmssms
+15/11 06:37:56:120 Total 0 instances are started
+15/11 06:37:56:155 Total 1 instances are added
+15/11 06:37:56:195 queue-not-found
+Context: test/vmssms : test/vmssms
+15/11 06:37:56:650 Total 0 instances are started
+15/11 06:37:56:672 Total 1 instances are added
+15/11 06:37:56:707 queue-not-found
+Context: test/vmssms : test/vmssms
+15/11 06:37:57:125 Total 0 instances are started
+15/11 06:37:57:151 queue-not-found
+Context: test/vmssms : test/vmssms
+15/11 06:37:57:138 Total 1 instances are added
+15/11 06:37:57:580 queue-not-found
+Context: test/vmssms : test/vmssms
+15/11 06:37:57:564 Total 0 instances are started
+15/11 06:37:57:586 Total 1 instances are added
+15/11 06:37:58:013 Total 0 instances are started
+15/11 06:37:58:029 queue-not-found
+Context: test/vmssms : test/vmssms
+15/11 06:37:58:027 Total 1 instances are added
+15/11 06:37:58:447 Total 0 instances are started
+15/11 06:37:58:462 queue-not-found
+Context: test/vmssms : test/vmssms
+15/11 06:37:58:462 Total 1 instances are added
+15/11 06:37:58:919 Total 0 instances are started
+15/11 06:37:58:937 Total 1 instances are added
+15/11 06:37:58:937 queue-not-found
+Context: test/vmssms : test/vmssms
+15/11 06:37:59:341 Total 0 instances are started
+15/11 06:37:59:355 Total 1 instances are added
+15/11 06:37:59:373 queue-not-found
+Context: test/vmssms : test/vmssms
+15/11 06:37:59:771 Total 0 instances are started
+15/11 06:37:59:790 queue-not-found
+Context: test/vmssms : test/vmssms
+15/11 06:37:59:786 Total 1 instances are added
+15/11 06:38:00:249 queue-not-found
+Context: test/vmssms : test/vmssms
+15/11 06:38:00:220 Total 0 instances are started
+15/11 06:38:00:259 Total 1 instances are added
+15/11 06:38:00:693 queue-not-found
+Context: test/vmssms : test/vmssms
+15/11 06:38:00:676 Total 0 instances are started
+15/11 06:38:00:716 Total 1 instances are added
+15/11 06:38:01:150 queue-not-found
+Context: test/vmssms : test/vmssms
+15/11 06:38:01:142 Total 0 instances are started
+15/11 06:38:01:174 Total 1 instances are added
+15/11 06:38:01:591 Total 0 instances are started
+15/11 06:38:01:610 queue-not-found
+Context: test/vmssms : test/vmssms
+15/11 06:38:01:609 Total 1 instances are added
+15/11 06:38:02:020 Total 0 instances are started
+15/11 06:38:02:038 Total 1 instances are added
+15/11 06:38:02:052 queue-not-found
+Context: test/vmssms : test/vmssms
+15/11 06:38:02:484 queue-not-found
+Context: test/vmssms : test/vmssms
+15/11 06:38:02:461 Total 0 instances are started
+15/11 06:38:02:496 Total 1 instances are added
+15/11 06:38:02:945 Total 0 instances are started
+15/11 06:38:02:961 queue-not-found
+Context: test/vmssms : test/vmssms
+15/11 06:38:02:962 Total 1 instances are added
+15/11 06:38:03:402 Total 0 instances are started
+15/11 06:38:03:425 queue-not-found
+Context: test/vmssms : test/vmssms
+15/11 06:38:03:416 Total 1 instances are added
+15/11 06:38:03:837 Total 0 instances are started
+15/11 06:38:03:858 queue-not-found
+Context: test/vmssms : test/vmssms
+15/11 06:38:03:852 Total 1 instances are added
+15/11 06:38:04:277 queue-not-found
+Context: test/vmssms : test/vmssms
+15/11 06:38:04:284 Total 1 instances are added
+15/11 06:38:04:704 queue-not-found
+Context: test/vmssms : test/vmssms
+15/11 06:38:04:697 Total 0 instances are started
+15/11 06:38:04:711 Total 1 instances are added
+15/11 06:38:05:125 queue-not-found
+Context: test/vmssms : test/vmssms
+15/11 06:38:05:120 Total 0 instances are started
+15/11 06:38:05:130 Total 1 instances are added
+15/11 06:38:05:547 queue-not-found
+Context: test/vmssms : test/vmssms
+15/11 06:38:05:540 Total 0 instances are started
+15/11 06:38:05:554 Total 1 instances are added
+15/11 06:38:05:992 queue-not-found
+Context: test/vmssms : test/vmssms
+15/11 06:38:05:969 Total 0 instances are started
+15/11 06:38:05:999 Total 1 instances are added
+15/11 06:38:06:420 queue-not-found
+Context: test/vmssms : test/vmssms
+15/11 06:38:06:413 Total 0 instances are started
+15/11 06:38:06:424 Total 1 instances are added
+15/11 06:38:06:849 Total 0 instances are started
+15/11 06:38:06:868 Total 1 instances are added
+15/11 06:38:06:890 queue-not-found
+Context: test/vmssms : test/vmssms
+15/11 06:38:07:292 queue-not-found
+Context: test/vmssms : test/vmssms
+15/11 06:38:07:285 Total 0 instances are started
+15/11 06:38:07:297 Total 1 instances are added
+15/11 06:38:07:722 queue-not-found
+Context: test/vmssms : test/vmssms
+15/11 06:38:07:713 Total 0 instances are started
+15/11 06:38:07:725 Total 1 instances are added
+15/11 06:38:08:148 queue-not-found
+Context: test/vmssms : test/vmssms
+15/11 06:38:08:140 Total 0 instances are started
+15/11 06:38:08:153 Total 1 instances are added
+15/11 06:38:08:597 Total 0 instances are started
+15/11 06:38:08:608 Total 1 instances are added
+15/11 06:38:08:625 queue-not-found
+Context: test/vmssms : test/vmssms
+15/11 06:38:09:033 queue-not-found
+Context: test/vmssms : test/vmssms
+15/11 06:38:09:026 Total 0 instances are started
+15/11 06:38:09:035 Total 1 instances are added
+15/11 06:38:09:451 queue-not-found
+Context: test/vmssms : test/vmssms
+15/11 06:38:09:444 Total 0 instances are started
+15/11 06:38:09:460 Total 1 instances are added
+15/11 06:38:09:888 queue-not-found
+Context: test/vmssms : test/vmssms
+15/11 06:38:09:875 Total 0 instances are started
+15/11 06:38:09:896 Total 1 instances are added
+15/11 06:38:10:346 queue-not-found
+Context: test/vmssms : test/vmssms
+15/11 06:38:10:323 Total 0 instances are started
+15/11 06:38:10:356 Total 1 instances are added
+15/11 06:38:10:772 queue-not-found
+Context: test/vmssms : test/vmssms
+15/11 06:38:10:767 Total 0 instances are started
+15/11 06:38:10:777 Total 1 instances are added
+15/11 06:38:11:193 queue-not-found
+Context: test/vmssms : test/vmssms
+15/11 06:38:11:186 Total 0 instances are started
+15/11 06:38:11:198 Total 1 instances are added
+15/11 06:38:11:607 Total 0 instances are started
+15/11 06:38:11:633 queue-not-found
+Context: test/vmssms : test/vmssms
+15/11 06:38:11:619 Total 1 instances are added
+15/11 06:38:12:041 Total 0 instances are started
+15/11 06:38:12:073 queue-not-found
+Context: test/vmssms : test/vmssms
+15/11 06:38:12:059 Total 1 instances are added
+15/11 06:38:12:504 queue-not-found
+Context: test/vmssms : test/vmssms
+15/11 06:38:12:493 Total 0 instances are started
+15/11 06:38:12:537 Total 1 instances are added
+15/11 06:38:12:964 Total 0 instances are started
+15/11 06:38:12:977 queue-not-found
+Context: test/vmssms : test/vmssms
+15/11 06:38:12:978 Total 1 instances are added
+15/11 06:38:13:419 queue-not-found
+Context: test/vmssms : test/vmssms
+15/11 06:38:13:404 Total 0 instances are started
+15/11 06:38:13:422 Total 1 instances are added
+15/11 06:38:13:844 Total 0 instances are started
+15/11 06:38:13:855 queue-not-found
+Context: test/vmssms : test/vmssms
+15/11 06:38:13:851 Total 1 instances are added
+15/11 06:38:14:347 Total 0 instances are started
+15/11 06:38:14:366 Total 1 instances are added
+15/11 06:38:14:442 queue-not-found
+Context: test/vmssms : test/vmssms
+15/11 06:38:14:800 Total 0 instances are started
+15/11 06:38:14:848 queue-not-found
+Context: test/vmssms : test/vmssms
+15/11 06:38:14:852 Total 1 instances are added
+15/11 06:38:15:337 Total 0 instances are started
+15/11 06:38:15:350 Total 1 instances are added
+15/11 06:38:15:518 queue-not-found
+Context: test/vmssms : test/vmssms
+15/11 06:38:15:865 queue-not-found
+Context: test/vmssms : test/vmssms
+15/11 06:38:15:852 Total 0 instances are started
+15/11 06:38:15:871 Total 1 instances are added
+15/11 06:38:16:301 Total 0 instances are started
+15/11 06:38:16:321 Total 1 instances are added
+15/11 06:38:16:341 queue-not-found
+Context: test/vmssms : test/vmssms
+15/11 06:38:16:758 queue-not-found
+Context: test/vmssms : test/vmssms
+15/11 06:38:16:745 Total 0 instances are started
+15/11 06:38:16:766 Total 1 instances are added
+15/11 06:38:17:221 Total 0 instances are started
+15/11 06:38:17:239 Total 1 instances are added
+15/11 06:38:17:270 queue-not-found
+Context: test/vmssms : test/vmssms
+15/11 06:38:17:689 queue-not-found
+Context: test/vmssms : test/vmssms
+15/11 06:38:17:677 Total 0 instances are started
+15/11 06:38:17:706 Total 1 instances are added
+15/11 06:38:18:149 queue-not-found
+Context: test/vmssms : test/vmssms
+15/11 06:38:18:143 Total 0 instances are started
+15/11 06:38:18:156 Total 1 instances are added
+15/11 06:38:18:576 queue-not-found
+Context: test/vmssms : test/vmssms
+15/11 06:38:18:571 Total 0 instances are started
+15/11 06:38:18:583 Total 1 instances are added
+15/11 06:38:19:011 queue-not-found
+Context: test/vmssms : test/vmssms
+15/11 06:38:19:004 Total 0 instances are started
+15/11 06:38:19:027 Total 1 instances are added
+15/11 06:38:19:491 queue-not-found
+Context: test/vmssms : test/vmssms
+15/11 06:38:19:471 Total 0 instances are started
+15/11 06:38:19:494 Total 1 instances are added
+15/11 06:38:19:921 queue-not-found
+Context: test/vmssms : test/vmssms
+15/11 06:38:19:914 Total 0 instances are started
+15/11 06:38:19:930 Total 1 instances are added
+15/11 06:38:20:394 Total 0 instances are started
+15/11 06:38:20:410 Total 1 instances are added
+15/11 06:38:20:479 queue-not-found
+Context: test/vmssms : test/vmssms
+15/11 06:38:20:832 queue-not-found
+Context: test/vmssms : test/vmssms
+15/11 06:38:20:827 Total 0 instances are started
+15/11 06:38:20:836 Total 1 instances are added
+15/11 06:38:21:267 Total 0 instances are started
+15/11 06:38:21:294 queue-not-found
+Context: test/vmssms : test/vmssms
+15/11 06:38:21:286 Total 1 instances are added
+15/11 06:38:21:704 Total 0 instances are started
+15/11 06:38:21:733 queue-not-found
+Context: test/vmssms : test/vmssms
+15/11 06:38:21:720 Total 1 instances are added
+15/11 06:38:22:146 queue-not-found
+Context: test/vmssms : test/vmssms
+15/11 06:38:22:141 Total 0 instances are started
+15/11 06:38:22:152 Total 1 instances are added
+15/11 06:38:22:567 Total 0 instances are started
+15/11 06:38:22:604 queue-not-found
+Context: test/vmssms : test/vmssms
+15/11 06:38:22:588 Total 1 instances are added
+15/11 06:38:23:033 Total 0 instances are started
+15/11 06:38:23:074 Total 1 instances are added
+15/11 06:38:23:046 queue-not-found
+Context: test/vmssms : test/vmssms
+15/11 06:38:23:492 queue-not-found
+Context: test/vmssms : test/vmssms
+15/11 06:38:23:483 Total 0 instances are started
+15/11 06:38:23:500 Total 1 instances are added
+15/11 06:38:23:941 Total 0 instances are started
+15/11 06:38:23:973 Total 1 instances are added
+15/11 06:38:24:034 queue-not-found
+Context: test/vmssms : test/vmssms
+15/11 06:38:24:426 queue-not-found
+Context: test/vmssms : test/vmssms
+15/11 06:38:24:418 Total 0 instances are started
+15/11 06:38:24:434 Total 1 instances are added
+15/11 06:38:24:862 queue-not-found
+Context: test/vmssms : test/vmssms
+15/11 06:38:24:853 Total 0 instances are started
+15/11 06:38:24:869 Total 1 instances are added
+15/11 06:38:25:305 queue-not-found
+Context: test/vmssms : test/vmssms
+15/11 06:38:25:282 Total 0 instances are started
+15/11 06:38:25:325 Total 1 instances are added
+15/11 06:38:25:760 queue-not-found
+Context: test/vmssms : test/vmssms
+15/11 06:38:25:750 Total 0 instances are started
+15/11 06:38:25:768 Total 1 instances are added
+15/11 06:38:26:193 Total 0 instances are started
+15/11 06:38:26:216 queue-not-found
+Context: test/vmssms : test/vmssms
+15/11 06:38:26:208 Total 1 instances are added
+15/11 06:38:26:640 queue-not-found
+Context: test/vmssms : test/vmssms
+15/11 06:38:26:635 Total 0 instances are started
+15/11 06:38:26:645 Total 1 instances are added
+15/11 06:38:27:068 queue-not-found
+Context: test/vmssms : test/vmssms
+15/11 06:38:27:059 Total 0 instances are started
+15/11 06:38:27:072 Total 1 instances are added
+15/11 06:38:27:521 queue-not-found
+Context: test/vmssms : test/vmssms
+15/11 06:38:27:502 Total 0 instances are started
+15/11 06:38:27:526 Total 1 instances are added
+15/11 06:38:27:841 Close pool
+15/11 06:38:27:955 Close queue connection pool.
+15/11 06:38:27:970 End of process session
+15/11 06:38:27:986 VMS Send Sms stopped
+15/11 06:41:07:484 VMS Send Sms started
+15/11 06:41:07:530 Close pool
+15/11 06:41:07:545 Close pool
+15/11 06:41:07:559 Testing connection ...
+15/11 06:41:07:574 Created provisioning instance for VMSSDP
+15/11 06:41:07:601 Testing connection are success
+15/11 06:41:07:614 Starting process session
+15/11 06:41:07:729 Total 0 instances are started
+15/11 06:41:07:743 Total 1 instances are added
+15/11 07:08:23:033 VMS Send Sms started
+15/11 07:08:23:313 Testing connection ...
+15/11 07:08:23:372 Created provisioning instance for VMSSDP
+15/11 07:08:23:385 Testing connection are success
+15/11 07:08:23:443 Starting process session
+15/11 07:08:23:576 Total 0 instances are started
+15/11 07:08:23:589 Total 1 instances are added
+15/11 07:24:24:549 VMS Send Sms started
+15/11 07:24:24:841 Testing connection ...
+15/11 07:24:24:855 Created provisioning instance for VMSSDP
+15/11 07:24:24:908 Testing connection are success
+15/11 07:24:24:918 Starting process session
+15/11 07:24:25:088 Total 0 instances are started
+15/11 07:24:25:100 Total 1 instances are added

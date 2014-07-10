@@ -1,0 +1,95 @@
+15/11 06:37:29:381 Order Routing started
+15/11 06:37:32:074 Testing connection ...
+15/11 06:37:38:150 Created provisioning instance for CCWS
+15/11 06:37:38:161 Testing connection are success
+15/11 06:37:38:172 Starting process session
+15/11 06:37:39:034 Total 0 instances are started
+15/11 06:37:39:045 Total 1 instances are added
+15/11 06:44:04:034 Create order(84967289922) cost time: 45ms
+15/11 06:44:04:167 84967289922: ACOMVT00001 - CRM.MT_REGISTER
+15/11 06:44:04:186 orderId = 87548 | orderDate = 2013/11/15 06:44:03 | merchantId = 3001 | agentId = 0 | userName = system | subProductId = 0 | channel = SMS | serviceAddress = 6619 | keyword = GET | isdn = 84967289922 | subscriberType = 1 | shipTo =  | contentCode = 102 | contentType = 2 | actionType = register | productId = 920 | amount = 0.0 | provisioningType = CRM | commandId = 1 | cause =  | status = 1 | description = 
+15/11 06:45:42:078 Create order(84967289922) cost time: 26ms
+15/11 06:45:42:093 84967289922: ACOMVT00001 - QUIZ.CHECKANSWERS
+15/11 06:45:42:103 orderId = 87549 | orderDate = 2013/11/15 06:45:42 | merchantId = 3001 | agentId = 0 | userName = system | subProductId = 2170 | channel = SMS | serviceAddress = 6619 | keyword = GET B | isdn = 84967289922 | subscriberType = 1 | shipTo =  | contentCode = 0 | contentType = 2 | actionType = answer | productId = 920 | amount = 0.0 | provisioningType = QUIZ | commandId = 701 | cause =  | status = 1 | description = 
+15/11 06:46:12:131 Create order(84967289922) cost time: 25ms
+15/11 06:46:12:145 84967289922: ACOMVT00001 - QUIZ.CHECKANSWERS
+15/11 06:46:12:158 orderId = 87550 | orderDate = 2013/11/15 06:46:12 | merchantId = 3001 | agentId = 0 | userName = system | subProductId = 2170 | channel = SMS | serviceAddress = 6619 | keyword = GET A | isdn = 84967289922 | subscriberType = 1 | shipTo =  | contentCode = 0 | contentType = 2 | actionType = answer | productId = 920 | amount = 0.0 | provisioningType = QUIZ | commandId = 701 | cause =  | status = 1 | description = 
+15/11 06:46:33:178 Create order(84967289922) cost time: 23ms
+15/11 06:46:33:192 84967289922: ACOMVT00001 - QUIZ.CHECKANSWERS
+15/11 06:46:33:202 orderId = 87551 | orderDate = 2013/11/15 06:46:33 | merchantId = 3001 | agentId = 0 | userName = system | subProductId = 2170 | channel = SMS | serviceAddress = 6619 | keyword = GET A | isdn = 84967289922 | subscriberType = 1 | shipTo =  | contentCode = 0 | contentType = 2 | actionType = answer | productId = 920 | amount = 0.0 | provisioningType = QUIZ | commandId = 701 | cause =  | status = 1 | description = 
+15/11 06:47:40:286 Create order(84967289922) cost time: 23ms
+15/11 06:47:40:299 84967289922: ACOMVT00001 - QUIZ.CHECKANSWERS
+15/11 06:47:40:310 orderId = 87552 | orderDate = 2013/11/15 06:47:40 | merchantId = 3001 | agentId = 0 | userName = system | subProductId = 2170 | channel = SMS | serviceAddress = 6619 | keyword = GET A | isdn = 84967289922 | subscriberType = 1 | shipTo =  | contentCode = 0 | contentType = 2 | actionType = answer | productId = 920 | amount = 0.0 | provisioningType = QUIZ | commandId = 701 | cause =  | status = 1 | description = 
+15/11 06:48:37:361 Create order(84967289922) cost time: 25ms
+15/11 06:48:37:375 84967289922: ACOMVT00001 - QUIZ.CHECKANSWERS
+15/11 06:48:37:389 orderId = 87553 | orderDate = 2013/11/15 06:48:37 | merchantId = 3001 | agentId = 0 | userName = system | subProductId = 2170 | channel = SMS | serviceAddress = 6619 | keyword = GET A | isdn = 84967289922 | subscriberType = 1 | shipTo =  | contentCode = 0 | contentType = 2 | actionType = answer | productId = 920 | amount = 0.0 | provisioningType = QUIZ | commandId = 701 | cause =  | status = 1 | description = 
+15/11 06:49:51:456 Create order(84967289922) cost time: 30ms
+15/11 06:49:51:470 84967289922: ACOMVT00001 - QUIZ.CHECKANSWERS
+15/11 06:49:51:482 orderId = 87554 | orderDate = 2013/11/15 06:49:51 | merchantId = 3001 | agentId = 0 | userName = system | subProductId = 2170 | channel = SMS | serviceAddress = 6619 | keyword = GET A | isdn = 84967289922 | subscriberType = 1 | shipTo =  | contentCode = 0 | contentType = 2 | actionType = answer | productId = 920 | amount = 0.0 | provisioningType = QUIZ | commandId = 701 | cause =  | status = 1 | description = 
+15/11 06:50:32:521 Create order(84967289922) cost time: 28ms
+15/11 06:50:32:536 84967289922: ACOMVT00001 - QUIZ.CHECKANSWERS
+15/11 06:50:32:546 orderId = 87555 | orderDate = 2013/11/15 06:50:32 | merchantId = 3001 | agentId = 0 | userName = system | subProductId = 2170 | channel = SMS | serviceAddress = 6619 | keyword = GET A | isdn = 84967289922 | subscriberType = 1 | shipTo =  | contentCode = 0 | contentType = 2 | actionType = answer | productId = 920 | amount = 0.0 | provisioningType = QUIZ | commandId = 701 | cause =  | status = 1 | description = 
+15/11 06:51:22:611 Create order(84967289922) cost time: 24ms
+15/11 06:51:22:624 84967289922: ACOMVT00001 - QUIZ.CHECKANSWERS
+15/11 06:51:22:634 orderId = 87556 | orderDate = 2013/11/15 06:51:22 | merchantId = 3001 | agentId = 0 | userName = system | subProductId = 2170 | channel = SMS | serviceAddress = 6619 | keyword = GET A | isdn = 84967289922 | subscriberType = 1 | shipTo =  | contentCode = 0 | contentType = 2 | actionType = answer | productId = 920 | amount = 0.0 | provisioningType = QUIZ | commandId = 701 | cause =  | status = 1 | description = 
+15/11 07:08:21:796 Order Routing started
+15/11 07:08:22:113 Testing connection ...
+15/11 07:08:25:852 Created provisioning instance for CCWS
+15/11 07:08:25:853 Testing connection are success
+15/11 07:08:25:863 Starting process session
+15/11 07:08:29:084 Total 0 instances are started
+15/11 07:08:29:094 Total 1 instances are added
+15/11 07:08:40:609 Create order(84967289922) cost time: 28ms
+15/11 07:08:40:663 84967289922: ACOMVT00001 - QUIZ.CHECKANSWERS
+15/11 07:08:40:675 orderId = 87557 | orderDate = 2013/11/15 07:08:40 | merchantId = 3001 | agentId = 0 | userName = system | subProductId = 2170 | channel = SMS | serviceAddress = 6619 | keyword = GET A | isdn = 84967289922 | subscriberType = 1 | shipTo =  | contentCode = 0 | contentType = 2 | actionType = answer | productId = 920 | amount = 0.0 | provisioningType = QUIZ | commandId = 701 | cause =  | status = 1 | description = 
+15/11 07:09:02:522 Create order(84967289922) cost time: 24ms
+15/11 07:09:02:537 84967289922: ACOMVT00001 - QUIZ.CHECKANSWERS
+15/11 07:09:02:548 orderId = 87558 | orderDate = 2013/11/15 07:09:02 | merchantId = 3001 | agentId = 0 | userName = system | subProductId = 2170 | channel = SMS | serviceAddress = 6619 | keyword = GET A | isdn = 84967289922 | subscriberType = 1 | shipTo =  | contentCode = 0 | contentType = 2 | actionType = answer | productId = 920 | amount = 0.0 | provisioningType = QUIZ | commandId = 701 | cause =  | status = 1 | description = 
+15/11 07:09:28:567 Create order(84967289922) cost time: 24ms
+15/11 07:09:28:581 84967289922: ACOMVT00001 - QUIZ.CHECKANSWERS
+15/11 07:09:28:591 orderId = 87559 | orderDate = 2013/11/15 07:09:28 | merchantId = 3001 | agentId = 0 | userName = system | subProductId = 2170 | channel = SMS | serviceAddress = 6619 | keyword = GET B | isdn = 84967289922 | subscriberType = 1 | shipTo =  | contentCode = 0 | contentType = 2 | actionType = answer | productId = 920 | amount = 0.0 | provisioningType = QUIZ | commandId = 701 | cause =  | status = 1 | description = 
+15/11 07:16:09:971 Create order(84967289922) cost time: 26ms
+15/11 07:16:09:998 84967289922: ACOMVT00001 - QUIZ.CHECKANSWERS
+15/11 07:16:10:015 orderId = 87560 | orderDate = 2013/11/15 07:16:09 | merchantId = 3001 | agentId = 0 | userName = system | subProductId = 2170 | channel = SMS | serviceAddress = 6619 | keyword = GET B | isdn = 84967289922 | subscriberType = 1 | shipTo =  | contentCode = 0 | contentType = 2 | actionType = answer | productId = 920 | amount = 0.0 | provisioningType = QUIZ | commandId = 701 | cause =  | status = 1 | description = 
+15/11 07:24:23:303 Order Routing started
+15/11 07:24:23:801 Testing connection ...
+15/11 07:24:27:271 Created provisioning instance for CCWS
+15/11 07:24:27:281 Testing connection are success
+15/11 07:24:27:289 Starting process session
+15/11 07:24:28:315 Total 0 instances are started
+15/11 07:24:28:325 Total 1 instances are added
+15/11 07:24:56:054 Create order(84967289922) cost time: 55ms
+15/11 07:24:56:112 84967289922: ACOMVT00001 - QUIZ.CHECKANSWERS
+15/11 07:24:56:123 orderId = 87561 | orderDate = 2013/11/15 07:24:56 | merchantId = 3001 | agentId = 0 | userName = system | subProductId = 2170 | channel = SMS | serviceAddress = 6619 | keyword = GET B | isdn = 84967289922 | subscriberType = 1 | shipTo =  | contentCode = 0 | contentType = 2 | actionType = answer | productId = 920 | amount = 0.0 | provisioningType = QUIZ | commandId = 701 | cause =  | status = 1 | description = 
+15/11 07:26:40:084 Create order(84967289922) cost time: 24ms
+15/11 07:26:40:097 84967289922: ACOMVT00001 - QUIZ.CHECKANSWERS
+15/11 07:26:40:105 orderId = 87562 | orderDate = 2013/11/15 07:26:40 | merchantId = 3001 | agentId = 0 | userName = system | subProductId = 2170 | channel = SMS | serviceAddress = 6619 | keyword = GET A | isdn = 84967289922 | subscriberType = 1 | shipTo =  | contentCode = 0 | contentType = 2 | actionType = answer | productId = 920 | amount = 0.0 | provisioningType = QUIZ | commandId = 701 | cause =  | status = 1 | description = 
+15/11 07:29:02:245 Create order(84967289922) cost time: 28ms
+15/11 07:29:02:264 84967289922: ACOMVT00001 - QUIZ.CHECKANSWERS
+15/11 07:29:02:276 orderId = 87563 | orderDate = 2013/11/15 07:29:02 | merchantId = 3001 | agentId = 0 | userName = system | subProductId = 2170 | channel = SMS | serviceAddress = 6619 | keyword = GET B | isdn = 84967289922 | subscriberType = 1 | shipTo =  | contentCode = 0 | contentType = 2 | actionType = answer | productId = 920 | amount = 0.0 | provisioningType = QUIZ | commandId = 701 | cause =  | status = 1 | description = 
+15/11 07:32:39:532 Create order(84967289922) cost time: 29ms
+15/11 07:32:39:551 84967289922: ACOMVT00001 - QUIZ.CHECKANSWERS
+15/11 07:32:39:562 orderId = 87564 | orderDate = 2013/11/15 07:32:39 | merchantId = 3001 | agentId = 0 | userName = system | subProductId = 2170 | channel = SMS | serviceAddress = 6619 | keyword = GET A | isdn = 84967289922 | subscriberType = 1 | shipTo =  | contentCode = 0 | contentType = 2 | actionType = answer | productId = 920 | amount = 0.0 | provisioningType = QUIZ | commandId = 701 | cause =  | status = 1 | description = 
+15/11 07:34:51:676 Create order(84967289922) cost time: 26ms
+15/11 07:34:51:685 unknow-command
+15/11 07:34:51:693 orderId = 87565 | orderDate = 2013/11/15 07:34:51 | merchantId = 3001 | agentId = 0 | userName = system | subProductId = 2170 | channel = SMS | serviceAddress = 6619 | keyword = GET | isdn = 84967289922 | subscriberType = 1 | shipTo =  | contentCode = 0 | contentType = 2 | actionType = registered | productId = 920 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = unknow-command | status = 4 | description = null
+15/11 07:35:12:829 sendNotify: 84967289922 - Xin loi, he thong dang ban. Xin quy khach vui long nhan tin lai sau.
+15/11 07:39:48:075 Create order(84967289922) cost time: 37ms
+15/11 07:39:48:084 orderId = 87566 | orderDate = 2013/11/15 07:39:48 | merchantId = 3001 | agentId = 0 | userName = system | subProductId = 2170 | channel = SMS | serviceAddress = 6619 | keyword = GET | isdn = 84967289922 | subscriberType = -1 | shipTo =  | contentCode = 0 | contentType = 2 | actionType = register | productId = 920 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = registered | status = 4 | description = 
+15/11 07:39:51:172 sendNotify: 84967289922 - Dich vu da duoc dang ky
+15/11 07:44:37:109 Close pool
+15/11 07:44:37:223 Close queue connection pool.
+15/11 07:44:37:235 End of process session
+15/11 07:44:37:247 Order Routing stopped
+15/11 07:44:39:125 Order Routing started
+15/11 07:44:39:162 Close pool
+15/11 07:44:39:170 Close pool
+15/11 07:44:39:179 Testing connection ...
+15/11 07:44:39:207 Created provisioning instance for CCWS
+15/11 07:44:39:216 Testing connection are success
+15/11 07:44:39:224 Starting process session
+15/11 07:44:40:042 Total 0 instances are started
+15/11 07:44:40:058 Total 1 instances are added
+15/11 07:44:56:393 Create order(84967289922) cost time: 25ms
+15/11 07:44:56:401 orderId = 87567 | orderDate = 2013/11/15 07:44:56 | merchantId = 3001 | agentId = 0 | userName = system | subProductId = 2170 | channel = SMS | serviceAddress = 6619 | keyword = GET | isdn = 84967289922 | subscriberType = -1 | shipTo =  | contentCode = 0 | contentType = 2 | actionType = register | productId = 920 | amount = 0.0 | provisioningType = SMSC | commandId = 0 | cause = registered | status = 4 | description = 
+15/11 07:44:59:846 sendNotify: 84967289922 - Dich vu da duoc dang ky

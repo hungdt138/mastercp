@@ -1,0 +1,8 @@
+<beans xmlns="http://xfire.codehaus.org/config/1.0">
+  <service>
+    <name>vt_webservice</name>
+    <namespace>http://iwebservices.mastercp.com</namespace>
+    <serviceClass>com.mastercp.iwebservices.ViettelServices</serviceClass>
+    <implementationClass>com.mastercp.iwebservices.impl.ViettelServicesImpl</implementationClass>
+  </service>
+</beans>

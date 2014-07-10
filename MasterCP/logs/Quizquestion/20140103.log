@@ -1,0 +1,475 @@
+03/01 13:40:21:000 Quiz question started
+03/01 13:40:21:083 Testing connection ...
+03/01 13:40:21:087 Created provisioning instance for VMSSDP
+03/01 13:40:21:090 Testing connection are success
+03/01 13:40:21:094 Starting process session
+03/01 13:40:21:199 Total 0 instances are started
+03/01 13:40:21:206 Total 1 instances are added
+03/01 13:40:21:209 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:21:321 Total 0 instances are started
+03/01 13:40:21:328 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:21:331 Total 1 instances are added
+03/01 13:40:21:452 Total 0 instances are started
+03/01 13:40:21:458 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:21:459 Total 1 instances are added
+03/01 13:40:21:582 Total 0 instances are started
+03/01 13:40:21:589 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:21:591 Total 1 instances are added
+03/01 13:40:21:713 Total 0 instances are started
+03/01 13:40:21:720 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:21:722 Total 1 instances are added
+03/01 13:40:21:844 Total 0 instances are started
+03/01 13:40:21:849 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:21:851 Total 1 instances are added
+03/01 13:40:21:974 Total 0 instances are started
+03/01 13:40:21:980 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:21:982 Total 1 instances are added
+03/01 13:40:22:106 Total 0 instances are started
+03/01 13:40:22:110 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:22:111 Total 1 instances are added
+03/01 13:40:22:229 Total 0 instances are started
+03/01 13:40:22:235 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:22:237 Total 1 instances are added
+03/01 13:40:22:358 Total 0 instances are started
+03/01 13:40:22:363 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:22:364 Total 1 instances are added
+03/01 13:40:22:486 Total 0 instances are started
+03/01 13:40:22:493 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:22:496 Total 1 instances are added
+03/01 13:40:22:612 Total 0 instances are started
+03/01 13:40:22:619 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:22:623 Total 1 instances are added
+03/01 13:40:22:745 Total 0 instances are started
+03/01 13:40:22:749 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:22:750 Total 1 instances are added
+03/01 13:40:22:867 Total 0 instances are started
+03/01 13:40:22:874 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:22:876 Total 1 instances are added
+03/01 13:40:22:999 Total 0 instances are started
+03/01 13:40:23:005 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:23:007 Total 1 instances are added
+03/01 13:40:23:131 Total 0 instances are started
+03/01 13:40:23:136 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:23:138 Total 1 instances are added
+03/01 13:40:23:257 Total 0 instances are started
+03/01 13:40:23:262 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:23:263 Total 1 instances are added
+03/01 13:40:23:382 Total 0 instances are started
+03/01 13:40:23:387 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:23:387 Total 1 instances are added
+03/01 13:40:23:506 Total 0 instances are started
+03/01 13:40:23:511 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:23:512 Total 1 instances are added
+03/01 13:40:23:630 Total 0 instances are started
+03/01 13:40:23:635 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:23:637 Total 1 instances are added
+03/01 13:40:23:754 Total 0 instances are started
+03/01 13:40:23:759 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:23:761 Total 1 instances are added
+03/01 13:40:23:879 Total 0 instances are started
+03/01 13:40:23:883 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:23:886 Total 1 instances are added
+03/01 13:40:24:002 Total 0 instances are started
+03/01 13:40:24:006 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:24:007 Total 1 instances are added
+03/01 13:40:24:125 Total 0 instances are started
+03/01 13:40:24:129 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:24:130 Total 1 instances are added
+03/01 13:40:24:247 Total 0 instances are started
+03/01 13:40:24:252 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:24:254 Total 1 instances are added
+03/01 13:40:24:378 Total 0 instances are started
+03/01 13:40:24:388 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:24:395 Total 1 instances are added
+03/01 13:40:24:516 Total 0 instances are started
+03/01 13:40:24:520 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:24:521 Total 1 instances are added
+03/01 13:40:24:639 Total 0 instances are started
+03/01 13:40:24:644 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:24:646 Total 1 instances are added
+03/01 13:40:24:764 Total 0 instances are started
+03/01 13:40:24:769 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:24:770 Total 1 instances are added
+03/01 13:40:24:891 Total 0 instances are started
+03/01 13:40:24:895 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:24:897 Total 1 instances are added
+03/01 13:40:25:011 Total 0 instances are started
+03/01 13:40:25:015 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:25:016 Total 1 instances are added
+03/01 13:40:25:136 Total 0 instances are started
+03/01 13:40:25:141 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:25:142 Total 1 instances are added
+03/01 13:40:25:260 Total 0 instances are started
+03/01 13:40:25:264 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:25:267 Total 1 instances are added
+03/01 13:40:25:387 Total 0 instances are started
+03/01 13:40:25:392 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:25:394 Total 1 instances are added
+03/01 13:40:25:514 Total 0 instances are started
+03/01 13:40:25:519 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:25:520 Total 1 instances are added
+03/01 13:40:25:640 Total 0 instances are started
+03/01 13:40:25:644 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:25:645 Total 1 instances are added
+03/01 13:40:25:762 Total 0 instances are started
+03/01 13:40:25:766 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:25:767 Total 1 instances are added
+03/01 13:40:25:886 Total 0 instances are started
+03/01 13:40:25:892 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:25:893 Total 1 instances are added
+03/01 13:40:26:013 Total 0 instances are started
+03/01 13:40:26:017 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:26:018 Total 1 instances are added
+03/01 13:40:26:135 Total 0 instances are started
+03/01 13:40:26:142 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:26:143 Total 1 instances are added
+03/01 13:40:26:262 Total 0 instances are started
+03/01 13:40:26:266 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:26:267 Total 1 instances are added
+03/01 13:40:26:384 Total 0 instances are started
+03/01 13:40:26:390 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:26:394 Total 1 instances are added
+03/01 13:40:26:517 Total 0 instances are started
+03/01 13:40:26:523 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:26:527 Total 1 instances are added
+03/01 13:40:26:652 Total 0 instances are started
+03/01 13:40:26:658 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:26:660 Total 1 instances are added
+03/01 13:40:26:784 Total 0 instances are started
+03/01 13:40:26:790 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:26:794 Total 1 instances are added
+03/01 13:40:26:917 Total 0 instances are started
+03/01 13:40:26:925 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:26:928 Total 1 instances are added
+03/01 13:40:27:053 Total 0 instances are started
+03/01 13:40:27:059 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:27:064 Total 1 instances are added
+03/01 13:40:27:190 Total 0 instances are started
+03/01 13:40:27:196 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:27:200 Total 1 instances are added
+03/01 13:40:27:321 Total 0 instances are started
+03/01 13:40:27:328 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:27:336 Total 1 instances are added
+03/01 13:40:27:462 Total 0 instances are started
+03/01 13:40:27:468 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:27:473 Total 1 instances are added
+03/01 13:40:27:599 Total 0 instances are started
+03/01 13:40:27:605 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:27:611 Total 1 instances are added
+03/01 13:40:27:737 Total 0 instances are started
+03/01 13:40:27:743 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:27:748 Total 1 instances are added
+03/01 13:40:27:874 Total 0 instances are started
+03/01 13:40:27:881 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:27:884 Total 1 instances are added
+03/01 13:40:28:005 Total 0 instances are started
+03/01 13:40:28:011 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:28:016 Total 1 instances are added
+03/01 13:40:28:144 Total 0 instances are started
+03/01 13:40:28:152 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:28:158 Total 1 instances are added
+03/01 13:40:28:291 Total 0 instances are started
+03/01 13:40:28:297 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:28:299 Total 1 instances are added
+03/01 13:40:28:419 Total 0 instances are started
+03/01 13:40:28:423 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:28:425 Total 1 instances are added
+03/01 13:40:28:546 Total 0 instances are started
+03/01 13:40:28:551 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:28:553 Total 1 instances are added
+03/01 13:40:28:677 Total 0 instances are started
+03/01 13:40:28:681 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:28:683 Total 1 instances are added
+03/01 13:40:28:802 Total 0 instances are started
+03/01 13:40:28:810 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:28:817 Total 1 instances are added
+03/01 13:40:28:948 Total 0 instances are started
+03/01 13:40:28:953 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:28:957 Total 1 instances are added
+03/01 13:40:29:074 Total 0 instances are started
+03/01 13:40:29:079 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:29:082 Total 1 instances are added
+03/01 13:40:29:203 Total 0 instances are started
+03/01 13:40:29:211 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:29:218 Total 1 instances are added
+03/01 13:40:29:344 Total 0 instances are started
+03/01 13:40:29:348 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:29:350 Total 1 instances are added
+03/01 13:40:29:471 Total 0 instances are started
+03/01 13:40:29:478 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:29:483 Total 1 instances are added
+03/01 13:40:29:609 Total 0 instances are started
+03/01 13:40:29:616 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:29:621 Total 1 instances are added
+03/01 13:40:29:748 Total 0 instances are started
+03/01 13:40:29:753 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:29:758 Total 1 instances are added
+03/01 13:40:29:886 Total 0 instances are started
+03/01 13:40:29:892 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:29:897 Total 1 instances are added
+03/01 13:40:30:027 Total 0 instances are started
+03/01 13:40:30:033 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:30:037 Total 1 instances are added
+03/01 13:40:30:163 Total 0 instances are started
+03/01 13:40:30:169 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:30:174 Total 1 instances are added
+03/01 13:40:30:302 Total 0 instances are started
+03/01 13:40:30:309 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:30:316 Total 1 instances are added
+03/01 13:40:30:443 Total 0 instances are started
+03/01 13:40:30:450 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:30:455 Total 1 instances are added
+03/01 13:40:30:583 Total 0 instances are started
+03/01 13:40:30:590 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:30:594 Total 1 instances are added
+03/01 13:40:30:721 Total 0 instances are started
+03/01 13:40:30:727 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:30:733 Total 1 instances are added
+03/01 13:40:30:860 Total 0 instances are started
+03/01 13:40:30:866 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:30:871 Total 1 instances are added
+03/01 13:40:30:996 Total 0 instances are started
+03/01 13:40:31:001 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:31:003 Total 1 instances are added
+03/01 13:40:31:123 Total 0 instances are started
+03/01 13:40:31:128 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:31:133 Total 1 instances are added
+03/01 13:40:31:261 Total 0 instances are started
+03/01 13:40:31:269 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:31:272 Total 1 instances are added
+03/01 13:40:31:387 Total 0 instances are started
+03/01 13:40:31:393 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:31:399 Total 1 instances are added
+03/01 13:40:31:521 Total 0 instances are started
+03/01 13:40:31:527 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:31:531 Total 1 instances are added
+03/01 13:40:31:656 Total 0 instances are started
+03/01 13:40:31:662 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:31:666 Total 1 instances are added
+03/01 13:40:31:791 Total 0 instances are started
+03/01 13:40:31:797 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:31:802 Total 1 instances are added
+03/01 13:40:31:927 Total 0 instances are started
+03/01 13:40:31:933 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:31:938 Total 1 instances are added
+03/01 13:40:32:064 Total 0 instances are started
+03/01 13:40:32:069 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:32:074 Total 1 instances are added
+03/01 13:40:32:200 Total 0 instances are started
+03/01 13:40:32:206 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:32:210 Total 1 instances are added
+03/01 13:40:32:336 Total 0 instances are started
+03/01 13:40:32:341 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:32:344 Total 1 instances are added
+03/01 13:40:32:465 Total 0 instances are started
+03/01 13:40:32:469 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:32:471 Total 1 instances are added
+03/01 13:40:32:589 Total 0 instances are started
+03/01 13:40:32:595 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:32:599 Total 1 instances are added
+03/01 13:40:32:725 Total 0 instances are started
+03/01 13:40:32:731 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:32:737 Total 1 instances are added
+03/01 13:40:32:866 Total 0 instances are started
+03/01 13:40:32:871 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:32:874 Total 1 instances are added
+03/01 13:40:32:993 Total 0 instances are started
+03/01 13:40:32:997 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:32:999 Total 1 instances are added
+03/01 13:40:33:119 Total 0 instances are started
+03/01 13:40:33:125 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:33:130 Total 1 instances are added
+03/01 13:40:33:256 Total 0 instances are started
+03/01 13:40:33:264 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:33:273 Total 1 instances are added
+03/01 13:40:33:401 Total 0 instances are started
+03/01 13:40:33:406 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:33:411 Total 1 instances are added
+03/01 13:40:33:536 Total 0 instances are started
+03/01 13:40:33:543 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:33:548 Total 1 instances are added
+03/01 13:40:33:674 Total 0 instances are started
+03/01 13:40:33:683 queue-not-found
+Context: test/QUIZ : test/QUIZ
+03/01 13:40:33:690 Total 1 instances are added
+03/01 13:40:33:817 Total 0 instances are started
+03/01 13:40:33:831 Total 1 instances are added
+03/01 14:44:51:700 Quiz question started
+03/01 14:44:51:768 Testing connection ...
+03/01 14:44:51:773 Created provisioning instance for VMSSDP
+03/01 14:44:51:779 Testing connection are success
+03/01 14:44:51:784 Starting process session
+03/01 14:44:51:890 Total 0 instances are started
+03/01 14:44:51:901 Total 1 instances are added
+03/01 14:49:04:861 Quiz question started
+03/01 14:49:04:940 Testing connection ...
+03/01 14:49:04:945 Testing connection are success
+03/01 14:49:04:950 Starting process session
+03/01 14:49:05:738 Missing IN or OUT parameter at index:: 2
+03/01 14:50:06:794 Quiz question started
+03/01 14:50:10:155 Testing connection ...
+03/01 14:50:10:169 Testing connection are success
+03/01 14:50:10:187 Starting process session
+03/01 14:52:04:021 Quiz question started
+03/01 14:52:04:069 Testing connection ...
+03/01 14:52:04:076 Testing connection are success
+03/01 14:52:04:083 Starting process session
+03/01 14:53:09:546 Missing IN or OUT parameter at index:: 2
+03/01 14:58:30:815 Quiz question started
+03/01 14:58:30:930 Testing connection ...
+03/01 14:58:30:938 Testing connection are success
+03/01 14:58:30:946 Starting process session
+03/01 15:28:33:340 Quiz question started
+03/01 15:28:33:390 Testing connection ...
+03/01 15:28:33:396 Testing connection are success
+03/01 15:28:33:402 Starting process session
+03/01 15:39:36:800 Quiz question started
+03/01 15:39:36:862 Testing connection ...
+03/01 15:39:36:871 Testing connection are success
+03/01 15:39:36:881 Starting process session
+03/01 15:41:43:455 sendNotify: 84968918527? - Ban da yeu cau dich vu ACOMVT_GET, tin nhan se duoc gui trong giay lat.
+03/01 15:41:43:970 sendNotify: 84968918527? - Link dich vu: : http://goo.gl/OQYcBr
+03/01 15:41:44:490 sendNotify: 84968918527? - Su co Y2K la su co may tinh dien ra vao thoi khac dau tien cua nam 2001?A-Dung, B-Sai.Gui GET A hoac GET B den 6619
+03/01 15:56:14:331 sendNotify: 84968918527? - Ban da yeu cau dich vu ACOMVT_GET, tin nhan se duoc gui trong giay lat.
+03/01 15:56:14:852 sendNotify: 84968918527? - Link dich vu: : http://goo.gl/OQYcBr
+03/01 15:56:15:366 sendNotify: 84968918527? - Hacker duoc chia thanh 2 nhom pho bien, hacker mu trang va hacker mu den?A-Dung, B-Sai.Gui GET A hoac GET B den 6619
+03/01 15:57:24:864 sendNotify: 84968918527? - Ban da yeu cau dich vu ACOMVT_GET, tin nhan se duoc gui trong giay lat.
+03/01 15:57:25:386 sendNotify: 84968918527? - Link dich vu: : http://goo.gl/OQYcBr
+03/01 15:57:25:903 sendNotify: 84968918527? - Hacker Barnaby Jack (My) noi tieng sau khi lam cho may ATM "bong dung nha tien" vao nam 2010?A-Dung, B-Sai.Gui GET A hoac GET B den 6619
+03/01 16:00:41:633 Quiz question started
+03/01 16:00:41:707 Testing connection ...
+03/01 16:00:41:713 Testing connection are success
+03/01 16:00:41:719 Starting process session
+03/01 16:01:04:225 sendNotify: 84968918527? - Ban da yeu cau dich vu ACOMVT_GET, tin nhan se duoc gui trong giay lat.
+03/01 16:01:04:744 sendNotify: 84968918527? - Link dich vu: : http://goo.gl/OQYcBr
+03/01 16:01:05:256 sendNotify: 84968918527? - May tinh xach tay duoc phat minh vao nam 1990?A-Dung, B-Sai.Gui GET A hoac GET B den 6619
+03/01 16:06:44:414 Quiz question started
+03/01 16:06:44:470 Testing connection ...
+03/01 16:06:44:479 Testing connection are success
+03/01 16:06:44:488 Starting process session
+03/01 16:07:02:007 sendNotify: 84968918527? - Ban da yeu cau dich vu ACOMVT_GET, tin nhan se duoc gui trong giay lat.
+03/01 16:07:02:528 sendNotify: 84968918527? - Link dich vu: : http://goo.gl/OQYcBr
+03/01 16:07:03:046 sendNotify: 84968918527? - Stephen Wozniak - Nguoi dong sang lap hang Apple cung tung la mot hacker?A-Dung, B-Sai.Gui GET A hoac GET B den 6619
+03/01 16:10:24:089 sendNotify: 84968918527? - Ban da yeu cau dich vu ACOMVT_GET, tin nhan se duoc gui trong giay lat.
+03/01 16:10:24:607 sendNotify: 84968918527? - Link dich vu: : http://goo.gl/OQYcBr
+03/01 16:10:25:122 sendNotify: 84968918527? - Rat nhieu "Trojan horse" chua dung cac phan mem gian diep? A-Dung, B-Sai.Gui GET A hoac GET B den 6619
+03/01 16:23:26:342 Quiz question started
+03/01 16:23:26:414 Testing connection ...
+03/01 16:23:26:423 Testing connection are success
+03/01 16:23:26:431 Starting process session
+03/01 16:26:40:707 java.lang.NullPointerException: null
+03/01 16:26:43:270 sendNotify: 84968918527? - Ban da yeu cau dich vu ACOMVT_GET, tin nhan se duoc gui trong giay lat.
+03/01 16:26:43:783 sendNotify: 84968918527? - 
+03/01 16:26:44:301 sendNotify: 84968918527? - Softpedia la mot website cung cap phan mem da kiem duyet va co phan hoi cua nguoi dung? A-Dung, B-Sai.Gui GET A hoac GET B den 6619
+03/01 16:33:30:682 java.lang.NullPointerException: null
+03/01 16:33:32:272 sendNotify: 84968918527? - Xin loi, he thong dang ban. Xin quy khach vui long nhan tin lai sau.
+03/01 16:33:32:788 sendNotify: 84968918527? - 
+03/01 16:33:33:303 sendNotify: 84968918527? - Softpedia la mot website cung cap phan mem da kiem duyet va co phan hoi cua nguoi dung? A-Dung, B-Sai.Gui GET A hoac GET B den 6619
+03/01 16:39:25:323 sendNotify: 84968918527? - Ban da yeu cau dich vu ACOMVT_GET, tin nhan se duoc gui trong giay lat.
+03/01 16:39:25:844 sendNotify: 84968918527? - Link dich vu: : http://goo.gl/OQYcBr
+03/01 16:39:26:359 sendNotify: 84968918527? - Softpedia la mot website cung cap phan mem da kiem duyet va co phan hoi cua nguoi dung? A-Dung, B-Sai.Gui GET A hoac GET B den 6619
+03/01 17:03:48:154 Quiz question started
+03/01 17:03:48:230 Testing connection ...
+03/01 17:03:48:239 Testing connection are success
+03/01 17:03:48:249 Starting process session
+03/01 17:04:17:049 sendNotify: 84968918527? - Ban da yeu cau dich vu ACOMVT_GET, tin nhan se duoc gui trong giay lat.
+03/01 17:04:17:568 sendNotify: 84968918527? - Link dich vu: : http://goo.gl/OQYcBr
+03/01 17:04:18:089 sendNotify: 84968918527? - Khi tai tap tin ban nen dung phan mem Antivirus co san de kiem tra tinh an toan?A-Dung, B-Sai.Gui GET A hoac GET B den 6619
+03/01 17:16:38:915 sendNotify: 84968918527? - Ban se nhan duoc noi dung dich vu va cau hoi mien phi de "Tich diem trung iPod sanh dieu". Tra loi dung duoc 10d, sai khong co diem. Ap dung theo T&C
+03/01 17:16:39:433 sendNotify: 84968918527? - Link dich vu: : http://goo.gl/OQYcBr
+03/01 17:16:39:950 sendNotify: 84968918527? - Khong can chu y den phan hoi hoac danh gia cua nguoi dung khi cai dat mot phan mem?A-Dung, B-Sai.Gui GET A hoac GET B den 6619

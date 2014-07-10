@@ -1,0 +1,1305 @@
+03/01 14:47:28:958 Vina Send Wap started
+03/01 14:47:30:982 Testing connection ...
+03/01 14:47:30:988 Created provisioning instance for VMSSDP
+03/01 14:47:30:997 Testing connection are success
+03/01 14:47:31:003 Starting process session
+03/01 14:47:31:144 Total 0 instances are started
+03/01 14:47:31:174 Total 1 instances are added
+03/01 14:47:40:418 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:40:644 Total 0 instances are started
+03/01 14:47:40:671 Total 1 instances are added
+03/01 14:47:40:767 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:41:088 Total 0 instances are started
+03/01 14:47:41:238 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:41:254 Total 1 instances are added
+03/01 14:47:41:586 Total 0 instances are started
+03/01 14:47:41:615 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:41:640 Total 1 instances are added
+03/01 14:47:41:782 Total 0 instances are started
+03/01 14:47:41:803 Total 1 instances are added
+03/01 14:47:41:861 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:41:989 Total 0 instances are started
+03/01 14:47:41:998 Total 1 instances are added
+03/01 14:47:42:019 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:42:127 Total 0 instances are started
+03/01 14:47:42:137 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:42:141 Total 1 instances are added
+03/01 14:47:42:269 Total 0 instances are started
+03/01 14:47:42:280 Total 1 instances are added
+03/01 14:47:42:287 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:42:397 Total 0 instances are started
+03/01 14:47:42:403 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:42:405 Total 1 instances are added
+03/01 14:47:42:513 Total 0 instances are started
+03/01 14:47:42:521 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:42:520 Total 1 instances are added
+03/01 14:47:42:636 Total 0 instances are started
+03/01 14:47:42:640 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:42:641 Total 1 instances are added
+03/01 14:47:42:754 Total 0 instances are started
+03/01 14:47:42:758 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:42:759 Total 1 instances are added
+03/01 14:47:42:871 Total 0 instances are started
+03/01 14:47:42:876 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:42:877 Total 1 instances are added
+03/01 14:47:42:989 Total 0 instances are started
+03/01 14:47:42:994 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:42:997 Total 1 instances are added
+03/01 14:47:43:111 Total 0 instances are started
+03/01 14:47:43:116 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:43:118 Total 1 instances are added
+03/01 14:47:43:232 Total 0 instances are started
+03/01 14:47:43:237 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:43:237 Total 1 instances are added
+03/01 14:47:43:349 Total 0 instances are started
+03/01 14:47:43:355 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:43:357 Total 1 instances are added
+03/01 14:47:43:472 Total 0 instances are started
+03/01 14:47:43:477 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:43:477 Total 1 instances are added
+03/01 14:47:43:589 Total 0 instances are started
+03/01 14:47:43:594 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:43:595 Total 1 instances are added
+03/01 14:47:43:707 Total 0 instances are started
+03/01 14:47:43:714 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:43:718 Total 1 instances are added
+03/01 14:47:43:837 Total 0 instances are started
+03/01 14:47:43:845 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:43:857 Total 1 instances are added
+03/01 14:47:43:973 Total 0 instances are started
+03/01 14:47:43:978 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:43:983 Total 1 instances are added
+03/01 14:47:44:091 Total 0 instances are started
+03/01 14:47:44:096 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:44:098 Total 1 instances are added
+03/01 14:47:44:237 Total 0 instances are started
+03/01 14:47:44:242 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:44:245 Total 1 instances are added
+03/01 14:47:44:366 Total 0 instances are started
+03/01 14:47:44:371 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:44:372 Total 1 instances are added
+03/01 14:47:44:485 Total 0 instances are started
+03/01 14:47:44:490 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:44:492 Total 1 instances are added
+03/01 14:47:44:606 Total 0 instances are started
+03/01 14:47:44:614 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:44:637 Total 1 instances are added
+03/01 14:47:44:751 Total 0 instances are started
+03/01 14:47:44:756 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:44:764 Total 1 instances are added
+03/01 14:47:44:883 Total 0 instances are started
+03/01 14:47:44:890 Total 1 instances are added
+03/01 14:47:44:906 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:45:018 Total 0 instances are started
+03/01 14:47:45:024 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:45:026 Total 1 instances are added
+03/01 14:47:45:136 Total 0 instances are started
+03/01 14:47:45:144 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:45:149 Total 1 instances are added
+03/01 14:47:45:262 Total 0 instances are started
+03/01 14:47:45:267 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:45:267 Total 1 instances are added
+03/01 14:47:45:379 Total 0 instances are started
+03/01 14:47:45:385 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:45:388 Total 1 instances are added
+03/01 14:47:45:501 Total 0 instances are started
+03/01 14:47:45:506 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:45:507 Total 1 instances are added
+03/01 14:47:45:622 Total 0 instances are started
+03/01 14:47:45:629 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:45:630 Total 1 instances are added
+03/01 14:47:45:745 Total 0 instances are started
+03/01 14:47:45:750 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:45:752 Total 1 instances are added
+03/01 14:47:45:864 Total 0 instances are started
+03/01 14:47:45:870 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:45:870 Total 1 instances are added
+03/01 14:47:45:982 Total 0 instances are started
+03/01 14:47:45:987 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:45:988 Total 1 instances are added
+03/01 14:47:46:103 Total 0 instances are started
+03/01 14:47:46:110 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:46:111 Total 1 instances are added
+03/01 14:47:46:225 Total 0 instances are started
+03/01 14:47:46:232 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:46:233 Total 1 instances are added
+03/01 14:47:46:342 Total 0 instances are started
+03/01 14:47:46:348 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:46:351 Total 1 instances are added
+03/01 14:47:46:464 Total 0 instances are started
+03/01 14:47:46:473 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:46:474 Total 1 instances are added
+03/01 14:47:46:589 Total 0 instances are started
+03/01 14:47:46:599 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:46:599 Total 1 instances are added
+03/01 14:47:46:715 Total 0 instances are started
+03/01 14:47:46:721 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:46:724 Total 1 instances are added
+03/01 14:47:46:838 Total 0 instances are started
+03/01 14:47:46:844 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:46:846 Total 1 instances are added
+03/01 14:47:46:960 Total 0 instances are started
+03/01 14:47:46:971 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:46:975 Total 1 instances are added
+03/01 14:47:47:090 Total 0 instances are started
+03/01 14:47:47:096 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:47:103 Total 1 instances are added
+03/01 14:47:47:215 Total 0 instances are started
+03/01 14:47:47:224 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:47:225 Total 1 instances are added
+03/01 14:47:47:341 Total 0 instances are started
+03/01 14:47:47:346 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:47:348 Total 1 instances are added
+03/01 14:47:47:465 Total 0 instances are started
+03/01 14:47:47:471 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:47:473 Total 1 instances are added
+03/01 14:47:47:587 Total 0 instances are started
+03/01 14:47:47:593 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:47:597 Total 1 instances are added
+03/01 14:47:47:711 Total 0 instances are started
+03/01 14:47:47:725 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:47:728 Total 1 instances are added
+03/01 14:47:47:843 Total 0 instances are started
+03/01 14:47:47:854 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:47:865 Total 1 instances are added
+03/01 14:47:47:982 Total 0 instances are started
+03/01 14:47:48:037 Total 1 instances are added
+03/01 14:47:48:035 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:48:158 Total 0 instances are started
+03/01 14:47:48:163 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:48:171 Total 1 instances are added
+03/01 14:47:48:283 Total 0 instances are started
+03/01 14:47:48:289 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:48:302 Total 1 instances are added
+03/01 14:47:48:417 Total 0 instances are started
+03/01 14:47:48:421 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:48:423 Total 1 instances are added
+03/01 14:47:48:539 Total 0 instances are started
+03/01 14:47:48:545 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:48:554 Total 1 instances are added
+03/01 14:47:48:665 Total 0 instances are started
+03/01 14:47:48:670 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:48:673 Total 1 instances are added
+03/01 14:47:48:787 Total 0 instances are started
+03/01 14:47:48:794 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:48:810 Total 1 instances are added
+03/01 14:47:48:928 Total 0 instances are started
+03/01 14:47:48:935 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:48:953 Total 1 instances are added
+03/01 14:47:49:081 Total 0 instances are started
+03/01 14:47:49:088 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:49:104 Total 1 instances are added
+03/01 14:47:49:217 Total 0 instances are started
+03/01 14:47:49:223 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:49:224 Total 1 instances are added
+03/01 14:47:49:339 Total 0 instances are started
+03/01 14:47:49:348 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:49:349 Total 1 instances are added
+03/01 14:47:49:467 Total 0 instances are started
+03/01 14:47:49:474 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:49:475 Total 1 instances are added
+03/01 14:47:49:589 Total 0 instances are started
+03/01 14:47:49:594 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:49:594 Total 1 instances are added
+03/01 14:47:49:712 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:49:707 Total 0 instances are started
+03/01 14:47:49:721 Total 1 instances are added
+03/01 14:47:49:832 Total 0 instances are started
+03/01 14:47:49:840 Total 1 instances are added
+03/01 14:47:49:840 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:49:956 Total 0 instances are started
+03/01 14:47:49:962 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:49:967 Total 1 instances are added
+03/01 14:47:50:081 Total 0 instances are started
+03/01 14:47:50:086 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:50:092 Total 1 instances are added
+03/01 14:47:50:205 Total 0 instances are started
+03/01 14:47:50:220 Total 1 instances are added
+03/01 14:47:50:221 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:50:336 Total 0 instances are started
+03/01 14:47:50:341 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:50:343 Total 1 instances are added
+03/01 14:47:50:452 Total 0 instances are started
+03/01 14:47:50:466 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:50:476 Total 1 instances are added
+03/01 14:47:50:591 Total 0 instances are started
+03/01 14:47:50:597 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:50:600 Total 1 instances are added
+03/01 14:47:50:715 Total 0 instances are started
+03/01 14:47:50:722 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:50:724 Total 1 instances are added
+03/01 14:47:50:838 Total 0 instances are started
+03/01 14:47:50:844 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:50:845 Total 1 instances are added
+03/01 14:47:50:959 Total 0 instances are started
+03/01 14:47:50:975 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:50:981 Total 1 instances are added
+03/01 14:47:51:095 Total 0 instances are started
+03/01 14:47:51:108 Total 1 instances are added
+03/01 14:47:51:110 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:51:220 Total 0 instances are started
+03/01 14:47:51:225 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:51:232 Total 1 instances are added
+03/01 14:47:51:346 Total 0 instances are started
+03/01 14:47:51:354 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:51:358 Total 1 instances are added
+03/01 14:47:51:473 Total 0 instances are started
+03/01 14:47:51:485 Total 1 instances are added
+03/01 14:47:51:496 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:51:605 Total 0 instances are started
+03/01 14:47:51:612 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:51:661 Total 1 instances are added
+03/01 14:47:51:777 Total 0 instances are started
+03/01 14:47:51:781 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:51:783 Total 1 instances are added
+03/01 14:47:51:895 Total 0 instances are started
+03/01 14:47:51:899 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:51:902 Total 1 instances are added
+03/01 14:47:52:013 Total 0 instances are started
+03/01 14:47:52:017 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:52:021 Total 1 instances are added
+03/01 14:47:52:136 Total 0 instances are started
+03/01 14:47:52:140 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:52:142 Total 1 instances are added
+03/01 14:47:52:255 Total 0 instances are started
+03/01 14:47:52:259 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:52:261 Total 1 instances are added
+03/01 14:47:52:374 Total 0 instances are started
+03/01 14:47:52:379 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:52:386 Total 1 instances are added
+03/01 14:47:52:504 Total 0 instances are started
+03/01 14:47:52:508 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:52:511 Total 1 instances are added
+03/01 14:47:52:624 Total 0 instances are started
+03/01 14:47:52:628 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:52:630 Total 1 instances are added
+03/01 14:47:52:743 Total 0 instances are started
+03/01 14:47:52:749 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:52:752 Total 1 instances are added
+03/01 14:47:52:866 Total 0 instances are started
+03/01 14:47:52:871 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:52:873 Total 1 instances are added
+03/01 14:47:52:986 Total 0 instances are started
+03/01 14:47:52:990 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:52:991 Total 1 instances are added
+03/01 14:47:53:105 Total 0 instances are started
+03/01 14:47:53:109 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:53:112 Total 1 instances are added
+03/01 14:47:53:227 Total 0 instances are started
+03/01 14:47:53:234 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:53:244 Total 1 instances are added
+03/01 14:47:53:357 Total 0 instances are started
+03/01 14:47:53:361 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:53:364 Total 1 instances are added
+03/01 14:47:53:478 Total 0 instances are started
+03/01 14:47:53:482 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:53:485 Total 1 instances are added
+03/01 14:47:53:598 Total 0 instances are started
+03/01 14:47:53:604 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:53:611 Total 1 instances are added
+03/01 14:47:53:731 Total 0 instances are started
+03/01 14:47:53:737 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:53:741 Total 1 instances are added
+03/01 14:47:53:869 Total 0 instances are started
+03/01 14:47:53:873 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:53:876 Total 1 instances are added
+03/01 14:47:53:992 Total 0 instances are started
+03/01 14:47:54:000 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:54:010 Total 1 instances are added
+03/01 14:47:54:129 Total 0 instances are started
+03/01 14:47:54:133 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:54:151 Total 1 instances are added
+03/01 14:47:54:266 Total 0 instances are started
+03/01 14:47:54:286 Total 1 instances are added
+03/01 14:47:54:305 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:54:399 Total 0 instances are started
+03/01 14:47:54:403 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:54:406 Total 1 instances are added
+03/01 14:47:54:522 Total 0 instances are started
+03/01 14:47:54:527 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:54:531 Total 1 instances are added
+03/01 14:47:54:654 Total 0 instances are started
+03/01 14:47:54:670 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:54:672 Total 1 instances are added
+03/01 14:47:54:796 Total 0 instances are started
+03/01 14:47:54:802 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:54:806 Total 1 instances are added
+03/01 14:47:54:918 Total 0 instances are started
+03/01 14:47:54:924 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:54:936 Total 1 instances are added
+03/01 14:47:55:055 Total 0 instances are started
+03/01 14:47:55:061 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:55:068 Total 1 instances are added
+03/01 14:47:55:186 Total 0 instances are started
+03/01 14:47:55:197 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:55:200 Total 1 instances are added
+03/01 14:47:55:319 Total 0 instances are started
+03/01 14:47:55:324 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:55:326 Total 1 instances are added
+03/01 14:47:55:440 Total 0 instances are started
+03/01 14:47:55:445 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:55:448 Total 1 instances are added
+03/01 14:47:55:563 Total 0 instances are started
+03/01 14:47:55:570 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:55:578 Total 1 instances are added
+03/01 14:47:55:704 Total 0 instances are started
+03/01 14:47:55:714 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:55:723 Total 1 instances are added
+03/01 14:47:55:837 Total 0 instances are started
+03/01 14:47:55:842 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:55:845 Total 1 instances are added
+03/01 14:47:55:959 Total 0 instances are started
+03/01 14:47:55:964 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:55:968 Total 1 instances are added
+03/01 14:47:56:082 Total 0 instances are started
+03/01 14:47:56:086 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:56:089 Total 1 instances are added
+03/01 14:47:56:203 Total 0 instances are started
+03/01 14:47:56:207 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:56:210 Total 1 instances are added
+03/01 14:47:56:330 Total 0 instances are started
+03/01 14:47:56:338 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:56:343 Total 1 instances are added
+03/01 14:47:56:468 Total 0 instances are started
+03/01 14:47:56:471 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:56:478 Total 1 instances are added
+03/01 14:47:56:592 Total 0 instances are started
+03/01 14:47:56:610 Total 1 instances are added
+03/01 14:47:56:611 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:56:733 Total 0 instances are started
+03/01 14:47:56:741 Total 1 instances are added
+03/01 14:47:56:739 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:56:858 Total 0 instances are started
+03/01 14:47:56:863 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:56:870 Total 1 instances are added
+03/01 14:47:56:980 Total 0 instances are started
+03/01 14:47:56:984 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:56:986 Total 1 instances are added
+03/01 14:47:57:103 Total 0 instances are started
+03/01 14:47:57:110 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:57:119 Total 1 instances are added
+03/01 14:47:57:238 Total 0 instances are started
+03/01 14:47:57:242 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:57:246 Total 1 instances are added
+03/01 14:47:57:362 Total 0 instances are started
+03/01 14:47:57:367 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:57:375 Total 1 instances are added
+03/01 14:47:57:491 Total 0 instances are started
+03/01 14:47:57:495 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:57:499 Total 1 instances are added
+03/01 14:47:57:615 Total 0 instances are started
+03/01 14:47:57:629 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:57:629 Total 1 instances are added
+03/01 14:47:57:752 Total 0 instances are started
+03/01 14:47:57:767 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:57:781 Total 1 instances are added
+03/01 14:47:57:896 Total 0 instances are started
+03/01 14:47:57:902 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:57:903 Total 1 instances are added
+03/01 14:47:58:016 Total 0 instances are started
+03/01 14:47:58:021 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:58:022 Total 1 instances are added
+03/01 14:47:58:137 Total 0 instances are started
+03/01 14:47:58:142 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:58:144 Total 1 instances are added
+03/01 14:47:58:258 Total 0 instances are started
+03/01 14:47:58:266 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:58:268 Total 1 instances are added
+03/01 14:47:58:385 Total 0 instances are started
+03/01 14:47:58:390 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:58:393 Total 1 instances are added
+03/01 14:47:58:508 Total 0 instances are started
+03/01 14:47:58:517 Total 1 instances are added
+03/01 14:47:58:532 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:58:641 Total 0 instances are started
+03/01 14:47:58:653 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:58:659 Total 1 instances are added
+03/01 14:47:58:778 Total 0 instances are started
+03/01 14:47:58:783 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:58:787 Total 1 instances are added
+03/01 14:47:58:904 Total 0 instances are started
+03/01 14:47:58:909 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:58:912 Total 1 instances are added
+03/01 14:47:59:029 Total 0 instances are started
+03/01 14:47:59:038 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:59:039 Total 1 instances are added
+03/01 14:47:59:154 Total 0 instances are started
+03/01 14:47:59:159 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:59:162 Total 1 instances are added
+03/01 14:47:59:277 Total 0 instances are started
+03/01 14:47:59:282 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:59:286 Total 1 instances are added
+03/01 14:47:59:400 Total 0 instances are started
+03/01 14:47:59:411 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:59:413 Total 1 instances are added
+03/01 14:47:59:535 Total 0 instances are started
+03/01 14:47:59:549 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:59:560 Total 1 instances are added
+03/01 14:47:59:680 Total 0 instances are started
+03/01 14:47:59:687 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:59:689 Total 1 instances are added
+03/01 14:47:59:807 Total 0 instances are started
+03/01 14:47:59:815 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:59:816 Total 1 instances are added
+03/01 14:47:59:933 Total 0 instances are started
+03/01 14:47:59:938 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:47:59:941 Total 1 instances are added
+03/01 14:48:00:060 Total 0 instances are started
+03/01 14:48:00:070 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:48:00:077 Total 1 instances are added
+03/01 14:48:00:190 Total 0 instances are started
+03/01 14:48:00:195 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:48:00:202 Total 1 instances are added
+03/01 14:48:00:324 Total 0 instances are started
+03/01 14:48:00:329 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:48:00:332 Total 1 instances are added
+03/01 14:48:00:447 Total 0 instances are started
+03/01 14:48:00:452 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:48:00:454 Total 1 instances are added
+03/01 14:48:00:572 Total 0 instances are started
+03/01 14:48:00:580 Total 1 instances are added
+03/01 14:48:00:599 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:48:00:712 Total 0 instances are started
+03/01 14:48:00:720 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:48:00:721 Total 1 instances are added
+03/01 14:48:00:835 Total 0 instances are started
+03/01 14:48:00:843 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:48:00:853 Total 1 instances are added
+03/01 14:48:00:968 Total 0 instances are started
+03/01 14:48:00:974 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:48:00:976 Total 1 instances are added
+03/01 14:48:01:099 Total 0 instances are started
+03/01 14:48:01:104 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:48:01:107 Total 1 instances are added
+03/01 14:48:01:222 Total 0 instances are started
+03/01 14:48:01:231 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:48:01:238 Total 1 instances are added
+03/01 14:48:01:350 Total 0 instances are started
+03/01 14:48:01:357 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:48:01:365 Total 1 instances are added
+03/01 14:48:01:481 Total 0 instances are started
+03/01 14:48:01:485 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:48:01:490 Total 1 instances are added
+03/01 14:48:01:602 Total 0 instances are started
+03/01 14:48:01:608 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:48:01:625 Total 1 instances are added
+03/01 14:48:01:746 Total 0 instances are started
+03/01 14:48:01:751 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:48:01:760 Total 1 instances are added
+03/01 14:48:01:872 Total 0 instances are started
+03/01 14:48:01:876 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:48:01:878 Total 1 instances are added
+03/01 14:48:01:994 Total 0 instances are started
+03/01 14:48:01:997 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:48:02:000 Total 1 instances are added
+03/01 14:48:02:114 Total 0 instances are started
+03/01 14:48:02:121 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:48:02:128 Total 1 instances are added
+03/01 14:48:02:252 Total 0 instances are started
+03/01 14:48:02:258 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:48:02:270 Total 1 instances are added
+03/01 14:48:02:393 Total 0 instances are started
+03/01 14:48:02:397 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:48:02:401 Total 1 instances are added
+03/01 14:48:02:517 Total 0 instances are started
+03/01 14:48:02:520 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:48:02:523 Total 1 instances are added
+03/01 14:48:02:638 Total 0 instances are started
+03/01 14:48:02:647 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:48:02:648 Total 1 instances are added
+03/01 14:48:02:762 Total 0 instances are started
+03/01 14:48:02:766 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:48:02:769 Total 1 instances are added
+03/01 14:48:02:886 Total 0 instances are started
+03/01 14:48:02:890 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:48:02:893 Total 1 instances are added
+03/01 14:48:03:006 Total 0 instances are started
+03/01 14:48:03:010 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:48:03:013 Total 1 instances are added
+03/01 14:48:03:127 Total 0 instances are started
+03/01 14:48:03:131 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:48:03:135 Total 1 instances are added
+03/01 14:48:03:246 Total 0 instances are started
+03/01 14:48:03:250 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:48:03:253 Total 1 instances are added
+03/01 14:48:03:367 Total 0 instances are started
+03/01 14:48:03:371 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:48:03:375 Total 1 instances are added
+03/01 14:48:03:489 Total 0 instances are started
+03/01 14:48:03:493 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:48:03:499 Total 1 instances are added
+03/01 14:48:03:610 Total 0 instances are started
+03/01 14:48:03:616 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:48:03:625 Total 1 instances are added
+03/01 14:48:03:749 Total 0 instances are started
+03/01 14:48:03:753 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:48:03:755 Total 1 instances are added
+03/01 14:48:03:871 Total 0 instances are started
+03/01 14:48:03:875 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:48:03:877 Total 1 instances are added
+03/01 14:48:03:991 Total 0 instances are started
+03/01 14:48:03:995 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:48:03:998 Total 1 instances are added
+03/01 14:48:04:111 Total 0 instances are started
+03/01 14:48:04:114 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:48:04:117 Total 1 instances are added
+03/01 14:48:04:231 Total 0 instances are started
+03/01 14:48:04:236 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:48:04:245 Total 1 instances are added
+03/01 14:48:04:373 Total 0 instances are started
+03/01 14:48:04:377 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:48:04:380 Total 1 instances are added
+03/01 14:48:04:497 Total 0 instances are started
+03/01 14:48:04:502 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:48:04:504 Total 1 instances are added
+03/01 14:48:04:623 Total 0 instances are started
+03/01 14:48:04:627 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:48:04:764 Total 1 instances are added
+03/01 14:48:04:778 Close pool
+03/01 14:48:04:884 Close queue connection pool.
+03/01 14:48:04:893 End of process session
+03/01 14:48:04:900 Vina Send Wap stopped
+03/01 14:50:09:290 Vina Send Wap started
+03/01 14:50:10:153 Testing connection ...
+03/01 14:50:10:232 Created provisioning instance for VMSSDP
+03/01 14:50:10:245 Testing connection are success
+03/01 14:50:10:257 Starting process session
+03/01 14:50:10:366 Total 0 instances are started
+03/01 14:50:10:374 Total 1 instances are added
+03/01 14:50:22:923 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:23:237 Total 0 instances are started
+03/01 14:50:23:248 Total 1 instances are added
+03/01 14:50:23:314 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:23:512 Total 0 instances are started
+03/01 14:50:23:555 Total 1 instances are added
+03/01 14:50:23:649 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:23:781 Total 0 instances are started
+03/01 14:50:23:788 Total 1 instances are added
+03/01 14:50:23:813 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:23:930 Total 0 instances are started
+03/01 14:50:23:949 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:23:951 Total 1 instances are added
+03/01 14:50:24:163 Total 0 instances are started
+03/01 14:50:24:172 Total 1 instances are added
+03/01 14:50:24:185 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:24:296 Total 0 instances are started
+03/01 14:50:24:307 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:24:311 Total 1 instances are added
+03/01 14:50:24:436 Total 0 instances are started
+03/01 14:50:24:445 Total 1 instances are added
+03/01 14:50:24:466 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:24:574 Total 0 instances are started
+03/01 14:50:24:583 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:24:588 Total 1 instances are added
+03/01 14:50:24:709 Total 0 instances are started
+03/01 14:50:24:723 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:24:731 Total 1 instances are added
+03/01 14:50:24:845 Total 0 instances are started
+03/01 14:50:24:857 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:24:859 Total 1 instances are added
+03/01 14:50:24:980 Total 0 instances are started
+03/01 14:50:24:990 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:25:001 Total 1 instances are added
+03/01 14:50:25:130 Total 0 instances are started
+03/01 14:50:25:159 Total 1 instances are added
+03/01 14:50:25:161 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:25:300 Total 0 instances are started
+03/01 14:50:25:315 Total 1 instances are added
+03/01 14:50:25:342 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:25:473 Total 0 instances are started
+03/01 14:50:25:508 Total 1 instances are added
+03/01 14:50:25:503 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:25:661 Total 0 instances are started
+03/01 14:50:25:687 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:25:704 Total 1 instances are added
+03/01 14:50:25:849 Total 0 instances are started
+03/01 14:50:25:858 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:25:868 Total 1 instances are added
+03/01 14:50:25:985 Total 0 instances are started
+03/01 14:50:25:995 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:26:001 Total 1 instances are added
+03/01 14:50:26:121 Total 0 instances are started
+03/01 14:50:26:130 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:26:134 Total 1 instances are added
+03/01 14:50:26:249 Total 0 instances are started
+03/01 14:50:26:258 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:26:261 Total 1 instances are added
+03/01 14:50:26:379 Total 0 instances are started
+03/01 14:50:26:388 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:26:390 Total 1 instances are added
+03/01 14:50:26:513 Total 0 instances are started
+03/01 14:50:26:522 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:26:524 Total 1 instances are added
+03/01 14:50:26:640 Total 0 instances are started
+03/01 14:50:26:645 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:26:649 Total 1 instances are added
+03/01 14:50:26:764 Total 0 instances are started
+03/01 14:50:26:769 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:26:771 Total 1 instances are added
+03/01 14:50:26:885 Total 0 instances are started
+03/01 14:50:26:891 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:26:894 Total 1 instances are added
+03/01 14:50:27:009 Total 0 instances are started
+03/01 14:50:27:014 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:27:017 Total 1 instances are added
+03/01 14:50:27:138 Total 0 instances are started
+03/01 14:50:27:144 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:27:150 Total 1 instances are added
+03/01 14:50:27:264 Total 0 instances are started
+03/01 14:50:27:269 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:27:271 Total 1 instances are added
+03/01 14:50:27:387 Total 0 instances are started
+03/01 14:50:27:392 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:27:394 Total 1 instances are added
+03/01 14:50:27:510 Total 0 instances are started
+03/01 14:50:27:519 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:27:526 Total 1 instances are added
+03/01 14:50:27:656 Total 0 instances are started
+03/01 14:50:27:665 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:27:671 Total 1 instances are added
+03/01 14:50:27:790 Total 0 instances are started
+03/01 14:50:27:795 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:27:797 Total 1 instances are added
+03/01 14:50:27:913 Total 0 instances are started
+03/01 14:50:27:918 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:27:922 Total 1 instances are added
+03/01 14:50:28:040 Total 0 instances are started
+03/01 14:50:28:045 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:28:047 Total 1 instances are added
+03/01 14:50:28:161 Total 0 instances are started
+03/01 14:50:28:167 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:28:169 Total 1 instances are added
+03/01 14:50:28:284 Total 0 instances are started
+03/01 14:50:28:292 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:28:300 Total 1 instances are added
+03/01 14:50:28:420 Total 0 instances are started
+03/01 14:50:28:424 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:28:427 Total 1 instances are added
+03/01 14:50:28:545 Total 0 instances are started
+03/01 14:50:28:554 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:28:562 Total 1 instances are added
+03/01 14:50:28:678 Total 0 instances are started
+03/01 14:50:28:685 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:28:690 Total 1 instances are added
+03/01 14:50:28:807 Total 0 instances are started
+03/01 14:50:28:814 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:28:816 Total 1 instances are added
+03/01 14:50:28:934 Total 0 instances are started
+03/01 14:50:28:939 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:28:941 Total 1 instances are added
+03/01 14:50:29:057 Total 0 instances are started
+03/01 14:50:29:062 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:29:065 Total 1 instances are added
+03/01 14:50:29:181 Total 0 instances are started
+03/01 14:50:29:188 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:29:190 Total 1 instances are added
+03/01 14:50:29:310 Total 0 instances are started
+03/01 14:50:29:316 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:29:319 Total 1 instances are added
+03/01 14:50:29:434 Total 0 instances are started
+03/01 14:50:29:440 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:29:442 Total 1 instances are added
+03/01 14:50:29:558 Total 0 instances are started
+03/01 14:50:29:564 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:29:566 Total 1 instances are added
+03/01 14:50:29:695 Total 0 instances are started
+03/01 14:50:29:700 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:29:706 Total 1 instances are added
+03/01 14:50:29:825 Total 0 instances are started
+03/01 14:50:29:830 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:29:837 Total 1 instances are added
+03/01 14:50:29:953 Total 0 instances are started
+03/01 14:50:29:958 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:29:961 Total 1 instances are added
+03/01 14:50:30:076 Total 0 instances are started
+03/01 14:50:30:081 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:30:083 Total 1 instances are added
+03/01 14:50:30:199 Total 0 instances are started
+03/01 14:50:30:204 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:30:207 Total 1 instances are added
+03/01 14:50:30:322 Total 0 instances are started
+03/01 14:50:30:328 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:30:331 Total 1 instances are added
+03/01 14:50:30:448 Total 0 instances are started
+03/01 14:50:30:454 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:30:456 Total 1 instances are added
+03/01 14:50:30:573 Total 0 instances are started
+03/01 14:50:30:580 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:30:584 Total 1 instances are added
+03/01 14:50:30:717 Total 0 instances are started
+03/01 14:50:30:721 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:30:724 Total 1 instances are added
+03/01 14:50:30:841 Total 0 instances are started
+03/01 14:50:30:846 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:30:849 Total 1 instances are added
+03/01 14:50:30:967 Total 0 instances are started
+03/01 14:50:30:973 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:30:978 Total 1 instances are added
+03/01 14:50:31:090 Total 0 instances are started
+03/01 14:50:31:094 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:31:097 Total 1 instances are added
+03/01 14:50:31:212 Total 0 instances are started
+03/01 14:50:31:217 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:31:220 Total 1 instances are added
+03/01 14:50:31:336 Total 0 instances are started
+03/01 14:50:31:343 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:31:345 Total 1 instances are added
+03/01 14:50:31:456 Total 0 instances are started
+03/01 14:50:31:461 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:31:462 Total 1 instances are added
+03/01 14:50:31:578 Total 0 instances are started
+03/01 14:50:31:584 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:31:588 Total 1 instances are added
+03/01 14:50:31:698 Total 0 instances are started
+03/01 14:50:31:704 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:31:706 Total 1 instances are added
+03/01 14:50:31:829 Total 0 instances are started
+03/01 14:50:31:840 Total 1 instances are added
+03/01 14:50:31:861 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:31:974 Total 0 instances are started
+03/01 14:50:31:984 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:32:095 Total 0 instances are started
+03/01 14:50:32:101 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:32:102 Total 1 instances are added
+03/01 14:50:32:218 Total 0 instances are started
+03/01 14:50:32:223 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:32:225 Total 1 instances are added
+03/01 14:50:32:343 Total 0 instances are started
+03/01 14:50:32:347 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:32:349 Total 1 instances are added
+03/01 14:50:32:466 Total 0 instances are started
+03/01 14:50:32:472 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:32:476 Total 1 instances are added
+03/01 14:50:32:600 Total 0 instances are started
+03/01 14:50:32:623 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:32:738 Total 0 instances are started
+03/01 14:50:32:744 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:32:749 Total 1 instances are added
+03/01 14:50:32:865 Total 0 instances are started
+03/01 14:50:32:874 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:32:882 Total 1 instances are added
+03/01 14:50:33:000 Total 0 instances are started
+03/01 14:50:33:006 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:33:009 Total 1 instances are added
+03/01 14:50:33:126 Total 0 instances are started
+03/01 14:50:33:131 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:33:133 Total 1 instances are added
+03/01 14:50:33:248 Total 0 instances are started
+03/01 14:50:33:253 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:33:255 Total 1 instances are added
+03/01 14:50:33:371 Total 0 instances are started
+03/01 14:50:33:376 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:33:378 Total 1 instances are added
+03/01 14:50:33:493 Total 0 instances are started
+03/01 14:50:33:505 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:33:628 Total 0 instances are started
+03/01 14:50:33:637 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:33:643 Total 1 instances are added
+03/01 14:50:33:764 Total 0 instances are started
+03/01 14:50:33:777 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:33:893 Total 0 instances are started
+03/01 14:50:33:898 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:33:902 Total 1 instances are added
+03/01 14:50:34:027 Total 0 instances are started
+03/01 14:50:34:032 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:34:034 Total 1 instances are added
+03/01 14:50:34:149 Total 0 instances are started
+03/01 14:50:34:156 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:34:158 Total 1 instances are added
+03/01 14:50:34:276 Total 0 instances are started
+03/01 14:50:34:282 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:34:284 Total 1 instances are added
+03/01 14:50:34:399 Total 0 instances are started
+03/01 14:50:34:404 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:34:407 Total 1 instances are added
+03/01 14:50:34:522 Total 0 instances are started
+03/01 14:50:34:527 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:34:531 Total 1 instances are added
+03/01 14:50:34:643 Total 0 instances are started
+03/01 14:50:34:648 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:34:655 Total 1 instances are added
+03/01 14:50:34:773 Total 0 instances are started
+03/01 14:50:34:779 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:34:784 Total 1 instances are added
+03/01 14:50:34:896 Total 0 instances are started
+03/01 14:50:34:902 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:34:906 Total 1 instances are added
+03/01 14:50:35:025 Total 0 instances are started
+03/01 14:50:35:034 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:35:046 Total 1 instances are added
+03/01 14:50:35:173 Total 0 instances are started
+03/01 14:50:35:179 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:35:185 Total 1 instances are added
+03/01 14:50:35:296 Total 0 instances are started
+03/01 14:50:35:302 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:35:308 Total 1 instances are added
+03/01 14:50:35:421 Total 0 instances are started
+03/01 14:50:35:431 Total 1 instances are added
+03/01 14:50:35:427 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:35:568 Total 0 instances are started
+03/01 14:50:35:573 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:35:575 Total 1 instances are added
+03/01 14:50:35:690 Total 0 instances are started
+03/01 14:50:35:696 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:35:700 Total 1 instances are added
+03/01 14:50:35:820 Total 0 instances are started
+03/01 14:50:35:828 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:35:831 Total 1 instances are added
+03/01 14:50:35:944 Total 0 instances are started
+03/01 14:50:35:951 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:35:955 Total 1 instances are added
+03/01 14:50:36:066 Total 0 instances are started
+03/01 14:50:36:072 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:36:075 Total 1 instances are added
+03/01 14:50:36:194 Total 0 instances are started
+03/01 14:50:36:199 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:36:202 Total 1 instances are added
+03/01 14:50:36:317 Total 0 instances are started
+03/01 14:50:36:323 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:36:326 Total 1 instances are added
+03/01 14:50:36:441 Total 0 instances are started
+03/01 14:50:36:447 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:36:453 Total 1 instances are added
+03/01 14:50:36:569 Total 0 instances are started
+03/01 14:50:36:576 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:36:579 Total 1 instances are added
+03/01 14:50:36:696 Total 0 instances are started
+03/01 14:50:36:705 Total 1 instances are added
+03/01 14:50:36:705 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:36:822 Total 0 instances are started
+03/01 14:50:36:828 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:36:833 Total 1 instances are added
+03/01 14:50:36:951 Total 0 instances are started
+03/01 14:50:36:958 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:36:963 Total 1 instances are added
+03/01 14:50:37:079 Total 0 instances are started
+03/01 14:50:37:085 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:37:094 Total 1 instances are added
+03/01 14:50:37:222 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:37:211 Total 0 instances are started
+03/01 14:50:37:241 Total 1 instances are added
+03/01 14:50:37:355 Total 0 instances are started
+03/01 14:50:37:362 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:37:366 Total 1 instances are added
+03/01 14:50:37:483 Total 0 instances are started
+03/01 14:50:37:489 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:37:493 Total 1 instances are added
+03/01 14:50:37:605 Total 0 instances are started
+03/01 14:50:37:618 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:37:623 Total 1 instances are added
+03/01 14:50:37:741 Total 0 instances are started
+03/01 14:50:37:749 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:37:758 Total 1 instances are added
+03/01 14:50:37:878 Total 0 instances are started
+03/01 14:50:37:888 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:37:908 Total 1 instances are added
+03/01 14:50:38:024 Total 0 instances are started
+03/01 14:50:38:035 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:38:036 Total 1 instances are added
+03/01 14:50:38:158 Total 0 instances are started
+03/01 14:50:38:165 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:38:168 Total 1 instances are added
+03/01 14:50:38:289 Total 0 instances are started
+03/01 14:50:38:298 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:38:299 Total 1 instances are added
+03/01 14:50:38:423 Total 0 instances are started
+03/01 14:50:38:432 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:38:439 Total 1 instances are added
+03/01 14:50:38:560 Total 0 instances are started
+03/01 14:50:38:565 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:38:568 Total 1 instances are added
+03/01 14:50:38:702 Total 0 instances are started
+03/01 14:50:38:707 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:38:712 Total 1 instances are added
+03/01 14:50:38:841 Total 0 instances are started
+03/01 14:50:38:847 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:38:854 Total 1 instances are added
+03/01 14:50:38:976 Total 0 instances are started
+03/01 14:50:38:984 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:38:990 Total 1 instances are added
+03/01 14:50:39:111 Total 0 instances are started
+03/01 14:50:39:117 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:39:127 Total 1 instances are added
+03/01 14:50:39:244 Total 0 instances are started
+03/01 14:50:39:256 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:39:256 Total 1 instances are added
+03/01 14:50:39:376 Total 0 instances are started
+03/01 14:50:39:385 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:39:391 Total 1 instances are added
+03/01 14:50:39:515 Total 0 instances are started
+03/01 14:50:39:523 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:39:534 Total 1 instances are added
+03/01 14:50:39:649 Total 0 instances are started
+03/01 14:50:39:658 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:39:663 Total 1 instances are added
+03/01 14:50:39:782 Total 0 instances are started
+03/01 14:50:39:787 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:39:792 Total 1 instances are added
+03/01 14:50:39:915 Total 0 instances are started
+03/01 14:50:39:922 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:39:926 Total 1 instances are added
+03/01 14:50:40:057 Total 0 instances are started
+03/01 14:50:40:063 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:40:072 Total 1 instances are added
+03/01 14:50:40:202 Total 0 instances are started
+03/01 14:50:40:208 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:40:218 Total 1 instances are added
+03/01 14:50:40:345 Total 0 instances are started
+03/01 14:50:40:351 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:40:361 Total 1 instances are added
+03/01 14:50:40:493 Total 0 instances are started
+03/01 14:50:40:499 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:40:506 Total 1 instances are added
+03/01 14:50:40:632 Total 0 instances are started
+03/01 14:50:40:639 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:40:660 Total 1 instances are added
+03/01 14:50:40:809 Total 0 instances are started
+03/01 14:50:40:818 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:40:832 Total 1 instances are added
+03/01 14:50:40:967 Total 0 instances are started
+03/01 14:50:40:978 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:40:985 Total 1 instances are added
+03/01 14:50:41:114 Total 0 instances are started
+03/01 14:50:41:123 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:41:136 Total 1 instances are added
+03/01 14:50:41:256 Total 0 instances are started
+03/01 14:50:41:260 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:41:267 Total 1 instances are added
+03/01 14:50:41:391 Total 0 instances are started
+03/01 14:50:41:396 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:41:402 Total 1 instances are added
+03/01 14:50:41:525 Total 0 instances are started
+03/01 14:50:41:531 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:41:538 Total 1 instances are added
+03/01 14:50:41:664 Total 0 instances are started
+03/01 14:50:41:673 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:41:679 Total 1 instances are added
+03/01 14:50:41:806 Total 0 instances are started
+03/01 14:50:41:811 queue-not-found
+Context: test/VinaWap : test/VinaWap
+03/01 14:50:41:816 Total 1 instances are added
+03/01 14:50:41:938 Total 0 instances are started
+03/01 14:50:41:943 queue-not-found
+Context: test/VinaWap : test/VinaWap

@@ -1,0 +1,15 @@
+09/10 01:13:52:570 CRM started
+09/10 01:13:55:725 Testing connection ...
+09/10 01:13:55:730 Created provisioning instance for CRM
+09/10 01:13:55:754 Testing connection are success
+09/10 01:13:55:768 Starting process session
+09/10 01:13:56:947 Total 0 instances are started
+09/10 01:13:56:960 Total 10 instances are added
+09/10 16:27:28:210 CRM started
+09/10 16:28:09:314 Error occured: Connections could not be acquired from the underlying database!
+09/10 16:29:49:595 Testing connection ...
+09/10 16:29:49:610 Created provisioning instance for CRM
+09/10 16:29:49:621 Testing connection are success
+09/10 16:29:49:634 Starting process session
+09/10 16:29:49:745 Total 0 instances are started
+09/10 16:29:49:760 Total 1 instances are added

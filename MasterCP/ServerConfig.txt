@@ -1,0 +1,24 @@
+DBUrl=jdbc:oracle:thin:@183.91.14.218:1521:CSDB
+UserName=csapp
+Password=Acom1234
+
+#DBUrl=jdbc:oracle:thin:@localhost:1521:CRM
+#UserName=ccs_owner
+#Password=ccs_owner
+#DBUrl=jdbc:oracle:thin:@10.8.16.9:1521:ossdb1
+
+PortID=3323
+MaxConnectionAllowed=3
+LoadingMethod=1
+
+queue.factory=jms/CCS
+queue.connection=dedicated
+# queue.connection=sharing
+
+queue.orderRoute=test/OrderRoute
+queue.orderResponse=test/OrderResponse
+queue.alarm=test/Alarm
+queue.commandRoute=test/CommandRoute
+queue.commandLog=test/CommandLog
+queue.commandCallback=test/CommandCallback
+queue.commandStatistic=test/CommandStatistic

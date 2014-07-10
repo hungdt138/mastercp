@@ -1,0 +1,13 @@
+/**
+ * 
+ */
+package com.gateway.service;
+
+/**
+ * @author Hung
+ *
+ */
+public class Authentication
+{
+
+}

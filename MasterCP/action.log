@@ -1,0 +1,2332 @@
+14/05 10:55:51 <FONT color="#0033CC"><B>CP started</B></FONT>
+14/05 10:56:49 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+14/05 10:57:09 User 'system' try to start thread 'Order Routing'
+14/05 10:57:10 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+14/05 10:57:36 User 'system' try to start thread 'SDP VMS'
+14/05 10:57:37 <FONT color="#0033CC"><B>SDP VMS started</B></FONT>
+14/05 11:00:57 User 'system' try to update parameter of thread 'SDP VMS'
+14/05 11:01:40 User 'system' try to update parameter of thread 'SDP VMS'
+14/05 11:01:40 Parameter of thread 'SDP VMS' updated
+14/05 11:01:42 User 'system' try to start thread 'SDP VMS'
+14/05 11:01:43 <FONT color="#CC0033"><B>SDP VMS stopped</B></FONT>
+14/05 11:01:45 <FONT color="#0033CC"><B>SDP VMS started</B></FONT>
+14/05 11:13:07 User 'system' try to start thread 'Command Routing'
+14/05 11:13:08 <FONT color="#0033CC"><B>Command Routing started</B></FONT>
+14/05 11:13:13 User 'system' try to start thread 'CRM'
+14/05 11:13:14 <FONT color="#0033CC"><B>CRM started</B></FONT>
+22/06 09:59:18 <FONT color="#0033CC"><B>CP started</B></FONT>
+22/06 09:59:18 <FONT color="#0033CC"><B>SendContentSubscription started</B></FONT>
+22/06 09:59:19 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+22/06 09:59:20 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+22/06 09:59:24 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+22/06 09:59:26 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+22/06 09:59:28 <FONT color="#CC0033"><B>SendContentSubscription stopped</B></FONT>
+22/06 09:59:28 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+22/06 09:59:29 <FONT color="#0033CC"><B>SendContentSubscription started</B></FONT>
+22/06 09:59:38 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+22/06 09:59:38 <FONT color="#CC0033"><B>SendContentSubscription stopped</B></FONT>
+22/06 09:59:39 <FONT color="#0033CC"><B>SendContentSubscription started</B></FONT>
+22/06 09:59:48 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+22/06 09:59:48 <FONT color="#CC0033"><B>SendContentSubscription stopped</B></FONT>
+22/06 09:59:49 <FONT color="#0033CC"><B>SendContentSubscription started</B></FONT>
+22/06 09:59:52 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+22/06 09:59:56 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+22/06 10:03:07 User 'system' try to update parameter of thread 'GetContentRequest'
+22/06 10:03:07 Parameter of thread 'GetContentRequest' updated
+22/06 10:03:09 User 'system' try to start thread 'GetContentRequest'
+22/06 10:03:10 <FONT color="#CC0033"><B>GetContentRequest stopped</B></FONT>
+22/06 10:03:11 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+22/06 10:04:18 <FONT color="#0033CC"><B>CP started</B></FONT>
+22/06 10:04:19 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+22/06 10:04:19 <FONT color="#0033CC"><B>SendContentSubscription started</B></FONT>
+22/06 10:04:24 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+22/06 10:04:25 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+22/06 10:04:30 User 'system' try to start thread 'GetContentRequest'
+22/06 10:04:31 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+22/06 10:04:47 User 'system' try to start thread 'GetContentRequest'
+22/06 10:04:48 <FONT color="#CC0033"><B>GetContentRequest stopped</B></FONT>
+22/06 10:04:50 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+22/06 10:06:32 <FONT color="#0033CC"><B>CP started</B></FONT>
+22/06 10:06:33 <FONT color="#0033CC"><B>SendContentSubscription started</B></FONT>
+22/06 10:06:44 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+22/06 10:06:48 User 'system' try to start thread 'GetContentRequest'
+22/06 10:06:48 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+22/06 10:07:20 User 'system' try to start thread 'Order Routing'
+22/06 10:07:21 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+22/06 10:09:41 <FONT color="#0033CC"><B>CP started</B></FONT>
+22/06 10:09:42 <FONT color="#0033CC"><B>SendContentSubscription started</B></FONT>
+22/06 10:09:52 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+22/06 10:10:08 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+22/06 10:10:10 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+22/06 10:10:49 User 'system' try to start thread 'GetContentRequest'
+22/06 10:10:49 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+22/06 10:11:52 User 'system' try to start thread 'GetContentRequest'
+22/06 10:11:53 <FONT color="#CC0033"><B>GetContentRequest stopped</B></FONT>
+22/06 10:11:54 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+22/06 10:14:15 <FONT color="#0033CC"><B>CP started</B></FONT>
+22/06 10:14:17 <FONT color="#0033CC"><B>SendContentSubscription started</B></FONT>
+22/06 10:14:19 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+22/06 10:14:23 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+22/06 10:14:26 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+22/06 10:14:32 User 'system' try to start thread 'GetContentRequest'
+22/06 10:14:33 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+22/06 10:14:37 User 'system' try to stop thread 'GetContentRequest'
+22/06 10:14:38 <FONT color="#CC0033"><B>GetContentRequest stopped</B></FONT>
+22/06 10:15:07 <FONT color="#0033CC"><B>CP started</B></FONT>
+22/06 10:15:09 <FONT color="#0033CC"><B>SendContentSubscription started</B></FONT>
+22/06 10:20:30 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+22/06 10:20:33 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+22/06 10:20:36 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+22/06 10:20:40 User 'system' try to start thread 'GetContentRequest'
+22/06 10:20:42 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+22/06 10:20:58 User 'system' try to stop thread 'GetContentRequest'
+22/06 10:21:00 <FONT color="#CC0033"><B>GetContentRequest stopped</B></FONT>
+22/06 10:23:36 <FONT color="#0033CC"><B>CP started</B></FONT>
+22/06 10:23:37 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+22/06 10:23:37 <FONT color="#0033CC"><B>SendContentSubscription started</B></FONT>
+22/06 10:23:48 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+22/06 10:23:49 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+22/06 10:24:03 User 'system' try to update parameter of thread 'CP'
+22/06 10:24:03 Parameter of thread 'CP' updated
+22/06 10:24:06 User 'system' try to stop thread 'CP'
+22/06 10:24:08 User 'system' try to start thread 'GetContentRequest'
+22/06 10:24:09 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+22/06 10:24:09 <FONT color="#CC0033"><B>CP stopped</B></FONT>
+22/06 10:26:15 User 'system' try to start thread 'GetContentRequest'
+22/06 10:26:16 <FONT color="#CC0033"><B>GetContentRequest stopped</B></FONT>
+22/06 10:26:18 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+22/06 10:26:34 User 'system' try to start thread 'GetContentRequest'
+22/06 10:26:35 <FONT color="#CC0033"><B>GetContentRequest stopped</B></FONT>
+22/06 10:26:36 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+22/06 10:27:56 <FONT color="#0033CC"><B>SendContentSubscription started</B></FONT>
+22/06 10:27:59 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+22/06 10:28:04 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+22/06 10:28:06 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+22/06 10:28:10 User 'system' try to start thread 'GetContentRequest'
+22/06 10:28:11 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+22/06 10:30:59 <FONT color="#0033CC"><B>SendContentSubscription started</B></FONT>
+22/06 10:31:02 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+22/06 10:31:07 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+22/06 10:31:09 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+22/06 10:31:17 User 'system' try to start thread 'GetContentRequest'
+22/06 10:31:18 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+22/06 10:34:29 <FONT color="#0033CC"><B>SendContentSubscription started</B></FONT>
+22/06 10:34:43 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+22/06 10:34:47 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+22/06 10:34:49 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+22/06 10:34:54 User 'system' try to start thread 'GetContentRequest'
+22/06 10:34:54 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+22/06 10:38:01 User 'system' try to update parameter of thread 'SendContentSubscription'
+22/06 10:38:01 Parameter of thread 'SendContentSubscription' updated
+22/06 10:38:03 User 'system' try to start thread 'SendContentSubscription'
+22/06 10:38:04 <FONT color="#CC0033"><B>SendContentSubscription stopped</B></FONT>
+22/06 10:38:06 <FONT color="#0033CC"><B>SendContentSubscription started</B></FONT>
+22/06 10:38:59 User 'system' try to start thread 'SDP VMS'
+22/06 10:39:00 <FONT color="#0033CC"><B>SDP VMS started</B></FONT>
+22/06 11:24:17 <FONT color="#0033CC"><B>SendContentSubscription started</B></FONT>
+22/06 11:24:22 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+22/06 11:24:26 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+22/06 11:24:28 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+22/06 11:24:31 User 'system' try to start thread 'GetContentRequest'
+22/06 11:24:32 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+22/06 11:24:35 User 'system' try to start thread 'Order Routing'
+22/06 11:24:35 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+22/06 11:24:37 User 'system' try to start thread 'Command Routing'
+22/06 11:24:37 <FONT color="#0033CC"><B>Command Routing started</B></FONT>
+22/06 11:24:39 User 'system' try to start thread 'SDP VMS'
+22/06 11:24:40 <FONT color="#0033CC"><B>SDP VMS started</B></FONT>
+22/06 11:24:41 User 'system' try to start thread 'CRM'
+22/06 11:24:42 <FONT color="#0033CC"><B>CRM started</B></FONT>
+22/06 11:25:35 <FONT color="#0033CC"><B>SendContentSubscription started</B></FONT>
+22/06 11:25:41 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+22/06 11:25:45 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+22/06 11:25:47 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+22/06 11:25:51 User 'system' try to start thread 'Order Routing'
+22/06 11:25:51 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+22/06 11:25:55 User 'system' try to start thread 'Command Routing'
+22/06 11:25:56 <FONT color="#0033CC"><B>Command Routing started</B></FONT>
+22/06 11:25:59 User 'system' try to start thread 'SDP VMS'
+22/06 11:26:00 <FONT color="#0033CC"><B>SDP VMS started</B></FONT>
+22/06 11:26:00 User 'system' try to start thread 'GetContentRequest'
+22/06 11:26:01 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+22/06 11:26:04 User 'system' try to start thread 'CRM'
+22/06 11:26:05 <FONT color="#0033CC"><B>CRM started</B></FONT>
+22/06 11:26:34 User 'system' try to update parameter of thread 'Simulator'
+22/06 11:26:34 Parameter of thread 'Simulator' updated
+22/06 11:26:44 User 'system' try to start thread 'Simulator'
+22/06 11:26:45 <FONT color="#0033CC"><B>Simulator started</B></FONT>
+22/06 11:26:47 User 'system' try to stop thread 'Simulator'
+22/06 11:26:48 <FONT color="#CC0033"><B>Simulator stopped</B></FONT>
+22/06 11:40:22 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+22/06 16:58:40 <FONT color="#0033CC"><B>SendContentSubscription started</B></FONT>
+22/06 16:58:51 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+22/06 16:58:57 User 'system' try to start thread 'Order Routing'
+22/06 16:58:57 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+22/06 16:59:00 User 'system' try to start thread 'Command Routing'
+22/06 16:59:00 <FONT color="#0033CC"><B>Command Routing started</B></FONT>
+22/06 16:59:30 User 'system' try to start thread 'SDP VMS'
+22/06 16:59:31 <FONT color="#0033CC"><B>SDP VMS started</B></FONT>
+22/06 16:59:38 User 'system' try to start thread 'GetContentRequest'
+22/06 16:59:39 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+22/06 16:59:44 User 'system' try to start thread 'CRM'
+22/06 16:59:45 <FONT color="#0033CC"><B>CRM started</B></FONT>
+22/06 17:01:17 User 'system' try to start thread 'Order Routing'
+22/06 17:01:19 <FONT color="#CC0033"><B>Order Routing stopped</B></FONT>
+22/06 17:01:21 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+22/06 17:01:28 User 'system' try to start thread 'GetContentRequest'
+22/06 17:01:28 <FONT color="#CC0033"><B>GetContentRequest stopped</B></FONT>
+22/06 17:01:30 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+22/06 17:01:51 <FONT color="#0033CC"><B>SendContentSubscription started</B></FONT>
+22/06 17:01:53 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+22/06 17:01:57 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+22/06 17:01:59 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+22/06 17:02:06 User 'system' try to start thread 'GetContentRequest'
+22/06 17:02:06 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+22/06 17:03:11 User 'system' try to update parameter of thread 'GetContentRequest'
+22/06 17:03:11 Parameter of thread 'GetContentRequest' updated
+22/06 17:03:13 User 'system' try to start thread 'GetContentRequest'
+22/06 17:03:14 <FONT color="#CC0033"><B>GetContentRequest stopped</B></FONT>
+22/06 17:03:15 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+22/06 17:04:27 <FONT color="#0033CC"><B>SendContentSubscription started</B></FONT>
+22/06 17:04:30 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+22/06 17:04:35 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+22/06 17:04:36 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+22/06 17:04:40 User 'system' try to start thread 'GetContentRequest'
+22/06 17:04:41 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+22/06 17:16:25 <FONT color="#0033CC"><B>SendContentSubscription started</B></FONT>
+22/06 17:16:59 <FONT color="#0033CC"><B>SendContentSubscription started</B></FONT>
+22/06 17:17:00 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+22/06 17:17:05 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+22/06 17:17:06 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+22/06 17:17:10 User 'system' try to start thread 'GetContentRequest'
+22/06 17:17:11 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+22/06 17:32:44 <FONT color="#0033CC"><B>SendContentSubscription started</B></FONT>
+22/06 17:32:46 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+22/06 17:32:50 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+22/06 17:32:51 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+22/06 17:33:04 User 'system' try to start thread 'GetContentRequest'
+22/06 17:33:05 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+22/06 17:37:50 <FONT color="#0033CC"><B>SendContentSubscription started</B></FONT>
+22/06 17:37:53 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+22/06 17:38:04 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+22/06 17:38:06 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+22/06 17:38:58 User 'system' try to update parameter of thread 'SendContentSubscription'
+22/06 17:38:58 Parameter of thread 'SendContentSubscription' updated
+22/06 17:39:00 User 'system' try to start thread 'SendContentSubscription'
+22/06 17:39:02 <FONT color="#CC0033"><B>SendContentSubscription stopped</B></FONT>
+22/06 17:39:04 <FONT color="#0033CC"><B>SendContentSubscription started</B></FONT>
+22/06 17:39:29 User 'system' try to update parameter of thread 'SendContentSubscription'
+22/06 17:39:29 Parameter of thread 'SendContentSubscription' updated
+22/06 17:39:31 User 'system' try to start thread 'SendContentSubscription'
+22/06 17:39:32 <FONT color="#CC0033"><B>SendContentSubscription stopped</B></FONT>
+22/06 17:39:33 <FONT color="#0033CC"><B>SendContentSubscription started</B></FONT>
+22/06 17:39:58 User 'system' try to update parameter of thread 'SendContentSubscription'
+22/06 17:39:58 Parameter of thread 'SendContentSubscription' updated
+22/06 17:40:00 User 'system' try to start thread 'SendContentSubscription'
+22/06 17:40:02 <FONT color="#CC0033"><B>SendContentSubscription stopped</B></FONT>
+22/06 17:40:03 <FONT color="#0033CC"><B>SendContentSubscription started</B></FONT>
+22/06 17:41:29 User 'system' try to update parameter of thread 'Queue Monitor'
+22/06 17:41:30 Parameter of thread 'Queue Monitor' updated
+22/06 17:41:32 User 'system' try to start thread 'Queue Monitor'
+22/06 17:41:32 <FONT color="#0033CC"><B>Queue Monitor started</B></FONT>
+22/06 17:41:42 User 'system' try to update parameter of thread 'Queue Monitor'
+22/06 17:41:42 Parameter of thread 'Queue Monitor' updated
+22/06 17:41:51 User 'system' try to start thread 'Order Routing'
+22/06 17:41:51 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+22/06 17:42:12 User 'system' try to start thread 'Command Routing'
+22/06 17:42:12 <FONT color="#0033CC"><B>Command Routing started</B></FONT>
+22/06 17:42:18 User 'system' try to start thread 'GetContentRequest'
+22/06 17:42:18 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+22/06 17:43:11 User 'system' try to update parameter of thread 'Order Routing'
+22/06 17:43:11 Parameter of thread 'Order Routing' updated
+22/06 17:43:13 User 'system' try to start thread 'Order Routing'
+22/06 17:43:15 <FONT color="#CC0033"><B>Order Routing stopped</B></FONT>
+22/06 17:43:17 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+22/06 17:43:36 User 'system' try to update parameter of thread 'Order Routing'
+22/06 17:43:36 Parameter of thread 'Order Routing' updated
+22/06 17:43:38 User 'system' try to start thread 'Order Routing'
+22/06 17:43:40 <FONT color="#CC0033"><B>Order Routing stopped</B></FONT>
+22/06 17:43:42 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+22/06 17:43:50 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+22/06 17:44:13 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+22/06 17:47:21 User 'system' try to update parameter of thread 'GetContentRequest'
+22/06 17:47:21 Parameter of thread 'GetContentRequest' updated
+22/06 17:47:23 User 'system' try to start thread 'GetContentRequest'
+22/06 17:47:24 <FONT color="#CC0033"><B>GetContentRequest stopped</B></FONT>
+22/06 17:47:26 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+22/06 17:48:54 User 'system' try to update parameter of thread 'Order Routing'
+22/06 17:48:54 Parameter of thread 'Order Routing' updated
+22/06 17:48:56 User 'system' try to start thread 'Order Routing'
+22/06 17:48:58 <FONT color="#CC0033"><B>Order Routing stopped</B></FONT>
+22/06 17:49:00 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+22/06 17:49:22 User 'system' try to update parameter of thread 'Order Routing'
+22/06 17:49:22 Parameter of thread 'Order Routing' updated
+22/06 17:50:39 User 'system' try to start thread 'Order Routing'
+22/06 17:50:41 <FONT color="#CC0033"><B>Order Routing stopped</B></FONT>
+22/06 17:50:43 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+22/06 17:50:55 User 'system' try to update parameter of thread 'Simulator'
+22/06 17:50:56 Parameter of thread 'Simulator' updated
+22/06 17:50:58 User 'system' try to start thread 'Simulator'
+22/06 17:50:58 <FONT color="#0033CC"><B>Simulator started</B></FONT>
+22/06 17:51:05 User 'system' try to stop thread 'Simulator'
+22/06 17:51:05 <FONT color="#CC0033"><B>Simulator stopped</B></FONT>
+22/06 17:51:12 User 'system' try to destroy thread 'Order Routing'
+22/06 17:51:15 User 'system' try to start thread 'Order Routing'
+22/06 17:51:15 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+22/06 17:53:06 <FONT color="#0033CC"><B>SendContentSubscription started</B></FONT>
+22/06 17:53:15 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+22/06 17:53:41 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+22/06 17:53:42 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+22/06 17:53:49 User 'system' try to start thread 'Queue Monitor'
+22/06 17:53:49 <FONT color="#0033CC"><B>Queue Monitor started</B></FONT>
+22/06 17:53:53 User 'system' try to start thread 'Order Routing'
+22/06 17:53:53 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+22/06 17:54:17 User 'system' try to update parameter of thread 'Order Routing'
+22/06 17:54:17 Parameter of thread 'Order Routing' updated
+22/06 17:54:18 User 'system' try to start thread 'Order Routing'
+22/06 17:54:20 <FONT color="#CC0033"><B>Order Routing stopped</B></FONT>
+22/06 17:54:21 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+22/06 17:54:48 User 'system' try to update parameter of thread 'Order Routing'
+22/06 17:54:49 Parameter of thread 'Order Routing' updated
+22/06 17:54:51 User 'system' try to start thread 'Order Routing'
+22/06 17:54:53 <FONT color="#CC0033"><B>Order Routing stopped</B></FONT>
+22/06 17:54:55 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+22/06 17:55:11 User 'system' try to start thread 'Order Routing'
+22/06 17:55:13 <FONT color="#CC0033"><B>Order Routing stopped</B></FONT>
+22/06 17:55:15 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+22/06 17:55:26 User 'system' try to start thread 'Simulator'
+22/06 17:55:27 <FONT color="#0033CC"><B>Simulator started</B></FONT>
+22/06 17:55:29 User 'system' try to stop thread 'Simulator'
+22/06 17:55:30 <FONT color="#CC0033"><B>Simulator stopped</B></FONT>
+22/06 17:56:57 User 'system' try to update parameter of thread 'Order Routing'
+22/06 17:56:57 Parameter of thread 'Order Routing' updated
+22/06 17:57:08 User 'system' try to start thread 'Order Routing'
+22/06 17:57:10 <FONT color="#CC0033"><B>Order Routing stopped</B></FONT>
+22/06 17:57:12 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+22/06 17:57:43 User 'system' try to start thread 'Command Routing'
+22/06 17:57:44 <FONT color="#0033CC"><B>Command Routing started</B></FONT>
+22/06 17:57:52 User 'system' try to start thread 'CRM'
+22/06 17:57:53 <FONT color="#0033CC"><B>CRM started</B></FONT>
+22/06 17:58:05 User 'system' try to start thread 'SDP VMS'
+22/06 17:58:06 <FONT color="#0033CC"><B>SDP VMS started</B></FONT>
+22/06 17:58:22 User 'system' try to start thread 'GetContentRequest'
+22/06 17:58:23 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+22/06 17:59:29 User 'system' try to start thread 'Simulator'
+22/06 17:59:30 <FONT color="#0033CC"><B>Simulator started</B></FONT>
+22/06 17:59:34 User 'system' try to stop thread 'Simulator'
+22/06 17:59:35 <FONT color="#CC0033"><B>Simulator stopped</B></FONT>
+22/06 18:00:14 User 'system' try to update parameter of thread 'Queue Monitor'
+22/06 18:00:14 Parameter of thread 'Queue Monitor' updated
+22/06 18:00:45 User 'system' try to update parameter of thread 'Queue Monitor'
+22/06 18:00:45 Parameter of thread 'Queue Monitor' updated
+22/06 18:00:50 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+22/06 18:01:11 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+22/06 18:01:23 User 'system' try to update parameter of thread 'Queue Monitor'
+22/06 18:01:23 Parameter of thread 'Queue Monitor' updated
+22/06 18:01:24 User 'system' try to start thread 'Queue Monitor'
+22/06 18:01:25 <FONT color="#CC0033"><B>Queue Monitor stopped</B></FONT>
+22/06 18:01:26 <FONT color="#0033CC"><B>Queue Monitor started</B></FONT>
+22/06 18:01:32 User 'system' try to start thread 'Simulator'
+22/06 18:01:32 <FONT color="#0033CC"><B>Simulator started</B></FONT>
+22/06 18:01:35 User 'system' try to stop thread 'Simulator'
+22/06 18:01:35 <FONT color="#CC0033"><B>Simulator stopped</B></FONT>
+22/06 18:06:06 User 'system' try to start thread 'Order Routing'
+22/06 18:06:07 <FONT color="#CC0033"><B>Order Routing stopped</B></FONT>
+22/06 18:06:09 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+22/06 18:06:16 User 'system' try to start thread 'Simulator'
+22/06 18:06:16 <FONT color="#0033CC"><B>Simulator started</B></FONT>
+22/06 18:06:18 User 'system' try to stop thread 'Simulator'
+22/06 18:06:19 <FONT color="#CC0033"><B>Simulator stopped</B></FONT>
+22/06 18:07:16 User 'system' try to update parameter of thread 'SendContentSubscription'
+22/06 18:07:17 Parameter of thread 'SendContentSubscription' updated
+22/06 18:12:09 User 'system' try to update parameter of thread 'SendContentSubscription'
+22/06 18:12:09 Parameter of thread 'SendContentSubscription' updated
+22/06 18:12:11 User 'system' try to start thread 'SendContentSubscription'
+22/06 18:12:12 <FONT color="#CC0033"><B>SendContentSubscription stopped</B></FONT>
+22/06 18:12:14 <FONT color="#0033CC"><B>SendContentSubscription started</B></FONT>
+22/06 18:12:38 User 'system' try to start thread 'GetContentRequest'
+22/06 18:12:40 <FONT color="#CC0033"><B>GetContentRequest stopped</B></FONT>
+22/06 18:12:41 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+22/06 18:12:56 User 'system' try to update parameter of thread 'Simulator'
+22/06 18:12:56 Parameter of thread 'Simulator' updated
+22/06 18:12:57 User 'system' try to start thread 'Simulator'
+22/06 18:12:58 <FONT color="#0033CC"><B>Simulator started</B></FONT>
+22/06 18:13:18 User 'system' try to stop thread 'Simulator'
+22/06 18:13:19 <FONT color="#CC0033"><B>Simulator stopped</B></FONT>
+22/06 18:13:22 User 'system' try to start thread 'GetContentRequest'
+22/06 18:13:23 <FONT color="#CC0033"><B>GetContentRequest stopped</B></FONT>
+22/06 18:13:25 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+22/06 18:13:54 User 'system' try to start thread 'GetContentRequest'
+22/06 18:13:55 <FONT color="#CC0033"><B>GetContentRequest stopped</B></FONT>
+22/06 18:13:57 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+22/06 18:14:29 User 'system' try to start thread 'GetContentRequest'
+22/06 18:14:30 <FONT color="#CC0033"><B>GetContentRequest stopped</B></FONT>
+22/06 18:14:32 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+22/06 18:14:37 User 'system' try to start thread 'Order Routing'
+22/06 18:14:38 <FONT color="#CC0033"><B>Order Routing stopped</B></FONT>
+22/06 18:14:40 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+22/06 18:14:47 User 'system' try to start thread 'GetContentRequest'
+22/06 18:14:47 <FONT color="#CC0033"><B>GetContentRequest stopped</B></FONT>
+22/06 18:14:49 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+22/06 18:16:02 User 'system' try to start thread 'GetContentRequest'
+22/06 18:16:02 <FONT color="#CC0033"><B>GetContentRequest stopped</B></FONT>
+22/06 18:16:04 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+22/06 18:17:44 User 'system' try to start thread 'GetContentRequest'
+22/06 18:17:45 <FONT color="#CC0033"><B>GetContentRequest stopped</B></FONT>
+22/06 18:17:46 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+22/06 18:19:35 User 'system' try to update parameter of thread 'Queue Monitor'
+22/06 18:19:35 Parameter of thread 'Queue Monitor' updated
+22/06 18:19:47 User 'system' try to stop thread 'GetContentRequest'
+22/06 18:19:48 <FONT color="#CC0033"><B>GetContentRequest stopped</B></FONT>
+22/06 18:20:00 User 'system' try to update parameter of thread 'Queue Monitor'
+22/06 18:20:00 Parameter of thread 'Queue Monitor' updated
+22/06 18:20:12 User 'system' try to update parameter of thread 'Queue Monitor'
+22/06 18:20:13 Parameter of thread 'Queue Monitor' updated
+22/06 18:23:56 <FONT color="#0033CC"><B>SendContentSubscription started</B></FONT>
+22/06 18:23:59 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+22/06 18:24:04 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+22/06 18:24:09 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+22/06 18:24:19 User 'system' try to start thread 'SDP VMS'
+22/06 18:24:20 <FONT color="#0033CC"><B>SDP VMS started</B></FONT>
+22/06 18:24:52 User 'system' try to update parameter of thread 'SDP VMS'
+22/06 18:24:52 Parameter of thread 'SDP VMS' updated
+22/06 18:24:53 User 'system' try to start thread 'SDP VMS'
+22/06 18:24:55 <FONT color="#CC0033"><B>SDP VMS stopped</B></FONT>
+22/06 18:24:57 <FONT color="#0033CC"><B>SDP VMS started</B></FONT>
+22/06 18:25:45 User 'system' try to update parameter of thread 'SDP VMS'
+22/06 18:25:45 Parameter of thread 'SDP VMS' updated
+22/06 18:25:48 User 'system' try to start thread 'SDP VMS'
+22/06 18:25:49 <FONT color="#CC0033"><B>SDP VMS stopped</B></FONT>
+22/06 18:25:51 <FONT color="#0033CC"><B>SDP VMS started</B></FONT>
+22/06 18:27:05 User 'system' try to start thread 'SDP VMS'
+22/06 18:27:07 <FONT color="#CC0033"><B>SDP VMS stopped</B></FONT>
+22/06 18:27:08 <FONT color="#0033CC"><B>SDP VMS started</B></FONT>
+22/06 18:27:27 User 'system' try to update parameter of thread 'Queue Monitor'
+22/06 18:27:27 Parameter of thread 'Queue Monitor' updated
+22/06 18:27:29 User 'system' try to start thread 'Queue Monitor'
+22/06 18:27:29 <FONT color="#0033CC"><B>Queue Monitor started</B></FONT>
+22/06 18:29:07 User 'system' try to start thread 'Order Routing'
+22/06 18:29:08 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+22/06 18:29:16 User 'system' try to start thread 'Command Routing'
+22/06 18:29:17 <FONT color="#0033CC"><B>Command Routing started</B></FONT>
+22/06 18:29:35 User 'system' try to start thread 'CRM'
+22/06 18:29:36 <FONT color="#0033CC"><B>CRM started</B></FONT>
+22/06 18:29:47 User 'system' try to start thread 'GetContentRequest'
+22/06 18:29:48 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+22/06 18:32:20 User 'system' try to stop thread 'GetContentRequest'
+22/06 18:32:20 <FONT color="#CC0033"><B>GetContentRequest stopped</B></FONT>
+22/06 18:34:04 User 'system' try to start thread 'GetContentRequest'
+22/06 18:34:04 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+22/06 18:35:02 User 'system' try to start thread 'Command Logs'
+22/06 18:35:02 <FONT color="#0033CC"><B>Command Logs started</B></FONT>
+22/06 18:35:06 User 'system' try to start thread 'Command Statistic'
+22/06 18:35:06 <FONT color="#0033CC"><B>Command Statistic started</B></FONT>
+22/06 18:58:43 <FONT color="#0033CC"><B>SendContentSubscription started</B></FONT>
+22/06 18:59:05 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+22/06 18:59:26 User 'system' try to start thread 'Order Routing'
+22/06 18:59:26 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+22/06 18:59:29 User 'system' try to start thread 'Command Routing'
+22/06 18:59:29 <FONT color="#0033CC"><B>Command Routing started</B></FONT>
+22/06 18:59:53 User 'system' try to start thread 'SDP VMS'
+22/06 18:59:54 <FONT color="#0033CC"><B>SDP VMS started</B></FONT>
+22/06 19:00:13 User 'system' try to start thread 'CRM'
+22/06 19:00:14 <FONT color="#0033CC"><B>CRM started</B></FONT>
+22/06 19:00:23 User 'system' try to start thread 'GetContentRequest'
+22/06 19:00:24 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+22/06 19:00:25 User 'system' try to stop thread 'GetContentRequest'
+22/06 19:00:29 <FONT color="#CC0033"><B>GetContentRequest stopped</B></FONT>
+22/06 19:00:37 User 'system' try to start thread 'GetContentRequest'
+22/06 19:00:38 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+22/06 19:02:34 User 'system' try to stop thread 'GetContentRequest'
+22/06 19:02:35 <FONT color="#CC0033"><B>GetContentRequest stopped</B></FONT>
+22/06 19:13:52 <FONT color="#0033CC"><B>SendContentSubscription started</B></FONT>
+22/06 19:14:11 <FONT color="#0033CC"><B>SendContentSubscription started</B></FONT>
+22/06 19:14:14 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+22/06 19:14:18 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+22/06 19:14:19 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+22/06 19:14:23 User 'system' try to start thread 'Order Routing'
+22/06 19:14:23 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+22/06 19:14:26 User 'system' try to start thread 'Command Routing'
+22/06 19:14:26 <FONT color="#0033CC"><B>Command Routing started</B></FONT>
+22/06 19:14:27 User 'system' try to start thread 'SDP VMS'
+22/06 19:14:27 <FONT color="#0033CC"><B>SDP VMS started</B></FONT>
+22/06 19:14:30 User 'system' try to start thread 'CRM'
+22/06 19:14:30 <FONT color="#0033CC"><B>CRM started</B></FONT>
+22/06 19:14:32 User 'system' try to start thread 'GetContentRequest'
+22/06 19:14:32 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+22/06 19:17:01 User 'system' try to stop thread 'GetContentRequest'
+22/06 19:17:02 <FONT color="#CC0033"><B>GetContentRequest stopped</B></FONT>
+22/06 19:18:04 User 'system' try to start thread 'GetContentRequest'
+22/06 19:18:05 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+22/06 19:24:16 <FONT color="#0033CC"><B>SendContentSubscription started</B></FONT>
+22/06 19:24:17 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+22/06 19:24:22 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+22/06 19:24:23 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+22/06 19:24:27 User 'system' try to start thread 'Order Routing'
+22/06 19:24:28 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+22/06 19:24:30 User 'system' try to start thread 'Command Routing'
+22/06 19:24:31 <FONT color="#0033CC"><B>Command Routing started</B></FONT>
+22/06 19:24:32 User 'system' try to start thread 'SDP VMS'
+22/06 19:24:33 <FONT color="#0033CC"><B>SDP VMS started</B></FONT>
+22/06 19:24:35 User 'system' try to start thread 'CRM'
+22/06 19:24:36 <FONT color="#0033CC"><B>CRM started</B></FONT>
+22/06 19:24:38 User 'system' try to start thread 'GetContentRequest'
+22/06 19:24:39 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+22/06 19:24:54 User 'system' try to start thread 'GetContentRequest'
+22/06 19:24:56 <FONT color="#CC0033"><B>GetContentRequest stopped</B></FONT>
+22/06 19:24:57 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+22/06 19:25:02 User 'system' try to start thread 'Queue Monitor'
+22/06 19:25:03 <FONT color="#0033CC"><B>Queue Monitor started</B></FONT>
+22/06 19:25:13 User 'system' try to start thread 'GetContentRequest'
+22/06 19:25:15 <FONT color="#CC0033"><B>GetContentRequest stopped</B></FONT>
+22/06 19:25:16 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+22/06 19:26:21 <FONT color="#0033CC"><B>SendContentSubscription started</B></FONT>
+22/06 19:26:23 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+22/06 19:26:27 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+22/06 19:26:29 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+22/06 19:26:34 User 'system' try to start thread 'Order Routing'
+22/06 19:26:35 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+22/06 19:26:38 User 'system' try to start thread 'Command Routing'
+22/06 19:26:39 <FONT color="#0033CC"><B>Command Routing started</B></FONT>
+22/06 19:26:40 User 'system' try to start thread 'SDP VMS'
+22/06 19:26:41 <FONT color="#0033CC"><B>SDP VMS started</B></FONT>
+22/06 19:27:01 User 'system' try to start thread 'GetContentRequest'
+22/06 19:27:02 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+22/06 19:27:09 User 'system' try to start thread 'Queue Monitor'
+22/06 19:27:10 <FONT color="#0033CC"><B>Queue Monitor started</B></FONT>
+22/06 19:27:28 User 'system' try to start thread 'GetContentRequest'
+22/06 19:27:29 <FONT color="#CC0033"><B>GetContentRequest stopped</B></FONT>
+22/06 19:27:31 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+22/06 19:27:48 User 'system' try to start thread 'GetContentRequest'
+22/06 19:27:49 <FONT color="#CC0033"><B>GetContentRequest stopped</B></FONT>
+22/06 19:27:51 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+22/06 19:28:24 User 'system' try to stop thread 'SendContentSubscription'
+22/06 19:28:25 <FONT color="#CC0033"><B>SendContentSubscription stopped</B></FONT>
+22/06 19:28:32 User 'system' try to start thread 'GetContentRequest'
+22/06 19:28:34 <FONT color="#CC0033"><B>GetContentRequest stopped</B></FONT>
+22/06 19:28:35 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+22/06 19:29:53 User 'system' try to start thread 'GetContentRequest'
+22/06 19:29:54 <FONT color="#CC0033"><B>GetContentRequest stopped</B></FONT>
+22/06 19:29:56 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+22/06 22:57:47 <FONT color="#0033CC"><B>SendContentSubscription started</B></FONT>
+22/06 22:58:01 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+22/06 22:58:09 User 'system' try to start thread 'Order Routing'
+22/06 22:58:10 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+22/06 22:58:11 User 'system' try to start thread 'Command Routing'
+22/06 22:58:12 <FONT color="#0033CC"><B>Command Routing started</B></FONT>
+22/06 22:58:13 User 'system' try to start thread 'SDP VMS'
+22/06 22:58:14 <FONT color="#0033CC"><B>SDP VMS started</B></FONT>
+22/06 22:58:15 User 'system' try to start thread 'CRM'
+22/06 22:58:16 <FONT color="#0033CC"><B>CRM started</B></FONT>
+22/06 22:58:18 User 'system' try to start thread 'GetContentRequest'
+22/06 22:58:19 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+22/06 22:58:21 User 'system' try to stop thread 'GetContentRequest'
+22/06 23:04:24 <FONT color="#0033CC"><B>SendContentSubscription started</B></FONT>
+22/06 23:04:29 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+22/06 23:04:35 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+22/06 23:04:37 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+22/06 23:04:47 User 'system' try to start thread 'Order Routing'
+22/06 23:04:47 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+22/06 23:04:50 User 'system' try to start thread 'Command Routing'
+22/06 23:04:50 <FONT color="#0033CC"><B>Command Routing started</B></FONT>
+22/06 23:04:52 User 'system' try to start thread 'SDP VMS'
+22/06 23:04:52 <FONT color="#0033CC"><B>SDP VMS started</B></FONT>
+22/06 23:04:55 User 'system' try to start thread 'GetContentRequest'
+22/06 23:04:55 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+22/06 23:06:27 User 'system' try to start thread 'GetContentRequest'
+22/06 23:06:28 <FONT color="#CC0033"><B>GetContentRequest stopped</B></FONT>
+22/06 23:06:30 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+22/06 23:06:45 User 'system' try to start thread 'Order Routing'
+22/06 23:06:47 <FONT color="#CC0033"><B>Order Routing stopped</B></FONT>
+22/06 23:06:49 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+22/06 23:07:09 User 'system' try to start thread 'GetContentRequest'
+22/06 23:07:10 <FONT color="#CC0033"><B>GetContentRequest stopped</B></FONT>
+22/06 23:07:12 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+22/06 23:10:41 <FONT color="#0033CC"><B>SendContentSubscription started</B></FONT>
+22/06 23:10:45 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+22/06 23:10:49 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+22/06 23:10:51 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+22/06 23:10:57 User 'system' try to start thread 'Order Routing'
+22/06 23:10:57 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+22/06 23:11:12 User 'system' try to start thread 'GetContentRequest'
+22/06 23:11:12 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+22/06 23:11:48 User 'system' try to start thread 'Queue Monitor'
+22/06 23:11:48 <FONT color="#0033CC"><B>Queue Monitor started</B></FONT>
+22/06 23:11:52 User 'system' try to stop thread 'SendContentSubscription'
+22/06 23:11:52 <FONT color="#CC0033"><B>SendContentSubscription stopped</B></FONT>
+22/06 23:12:13 User 'system' try to start thread 'GetContentRequest'
+22/06 23:12:14 <FONT color="#CC0033"><B>GetContentRequest stopped</B></FONT>
+22/06 23:12:15 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+22/06 23:13:04 User 'system' try to start thread 'GetContentRequest'
+22/06 23:13:05 <FONT color="#CC0033"><B>GetContentRequest stopped</B></FONT>
+22/06 23:13:06 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+22/06 23:13:27 User 'system' try to start thread 'GetContentRequest'
+22/06 23:13:28 <FONT color="#CC0033"><B>GetContentRequest stopped</B></FONT>
+22/06 23:13:29 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+22/06 23:13:49 User 'system' try to start thread 'GetContentRequest'
+22/06 23:13:49 <FONT color="#CC0033"><B>GetContentRequest stopped</B></FONT>
+22/06 23:13:51 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+22/06 23:17:58 <FONT color="#0033CC"><B>SendContentSubscription started</B></FONT>
+22/06 23:18:03 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+22/06 23:18:07 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+22/06 23:18:09 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+22/06 23:18:14 User 'system' try to stop thread 'SendContentSubscription'
+22/06 23:18:14 <FONT color="#CC0033"><B>SendContentSubscription stopped</B></FONT>
+22/06 23:18:17 User 'system' try to start thread 'GetContentRequest'
+22/06 23:18:17 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+22/06 23:38:43 <FONT color="#0033CC"><B>SendContentSubscription started</B></FONT>
+22/06 23:38:55 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+22/06 23:38:59 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+22/06 23:39:00 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+22/06 23:39:06 User 'system' try to stop thread 'SendContentSubscription'
+22/06 23:39:07 <FONT color="#CC0033"><B>SendContentSubscription stopped</B></FONT>
+22/06 23:39:09 User 'system' try to start thread 'GetContentRequest'
+22/06 23:39:10 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+22/06 23:41:29 <FONT color="#0033CC"><B>SendContentSubscription started</B></FONT>
+22/06 23:41:32 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+22/06 23:41:36 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+22/06 23:41:38 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+22/06 23:41:45 User 'system' try to stop thread 'SendContentSubscription'
+22/06 23:41:46 <FONT color="#CC0033"><B>SendContentSubscription stopped</B></FONT>
+22/06 23:41:48 User 'system' try to start thread 'GetContentRequest'
+22/06 23:41:49 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+22/06 23:44:18 <FONT color="#0033CC"><B>SendContentSubscription started</B></FONT>
+22/06 23:44:21 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+22/06 23:44:25 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+22/06 23:44:26 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+22/06 23:44:34 User 'system' try to destroy thread 'SendContentSubscription'
+22/06 23:44:37 User 'system' try to start thread 'GetContentRequest'
+22/06 23:44:38 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+22/06 23:46:02 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+22/06 23:47:06 <FONT color="#0033CC"><B>SendContentSubscription started</B></FONT>
+22/06 23:47:16 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+22/06 23:47:22 User 'system' try to start thread 'GetContentRequest'
+22/06 23:47:23 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+22/06 23:47:48 User 'system' try to start thread 'Order Routing'
+22/06 23:47:49 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+22/06 23:47:50 User 'system' try to start thread 'SDP VMS'
+22/06 23:47:51 <FONT color="#0033CC"><B>SDP VMS started</B></FONT>
+22/06 23:47:52 User 'system' try to start thread 'Command Routing'
+22/06 23:47:53 <FONT color="#0033CC"><B>Command Routing started</B></FONT>
+22/06 23:49:44 User 'system' try to stop thread 'GetContentRequest'
+22/06 23:49:44 <FONT color="#CC0033"><B>GetContentRequest stopped</B></FONT>
+22/06 23:57:53 <FONT color="#0033CC"><B>SendContentSubscription started</B></FONT>
+22/06 23:57:58 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+22/06 23:58:03 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+22/06 23:58:04 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+22/06 23:58:16 User 'system' try to start thread 'Order Routing'
+22/06 23:58:17 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+22/06 23:58:18 User 'system' try to start thread 'Command Routing'
+22/06 23:58:19 <FONT color="#0033CC"><B>Command Routing started</B></FONT>
+22/06 23:58:20 User 'system' try to start thread 'SDP VMS'
+22/06 23:58:21 <FONT color="#0033CC"><B>SDP VMS started</B></FONT>
+22/06 23:58:27 User 'system' try to start thread 'GetContentRequest'
+22/06 23:58:28 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+23/06 00:05:59 <FONT color="#0033CC"><B>SendContentSubscription started</B></FONT>
+23/06 00:06:06 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+23/06 00:06:11 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+23/06 00:06:13 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+23/06 00:06:20 User 'system' try to start thread 'Order Routing'
+23/06 00:06:21 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+23/06 00:06:25 User 'system' try to start thread 'Command Routing'
+23/06 00:06:26 <FONT color="#0033CC"><B>Command Routing started</B></FONT>
+23/06 00:06:28 User 'system' try to start thread 'SDP VMS'
+23/06 00:06:29 <FONT color="#0033CC"><B>SDP VMS started</B></FONT>
+23/06 00:06:37 User 'system' try to start thread 'GetContentRequest'
+23/06 00:06:38 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+23/06 00:07:03 User 'system' try to start thread 'Order Routing'
+23/06 00:07:05 <FONT color="#CC0033"><B>Order Routing stopped</B></FONT>
+23/06 00:07:07 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+23/06 00:07:15 User 'system' try to start thread 'GetContentRequest'
+23/06 00:07:16 <FONT color="#CC0033"><B>GetContentRequest stopped</B></FONT>
+23/06 00:07:18 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+23/06 00:08:59 <FONT color="#0033CC"><B>SendContentSubscription started</B></FONT>
+23/06 00:09:05 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+23/06 00:09:16 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+23/06 00:09:17 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+23/06 00:09:30 User 'system' try to start thread 'Order Routing'
+23/06 00:09:31 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+23/06 00:09:32 User 'system' try to start thread 'Command Routing'
+23/06 00:09:33 <FONT color="#0033CC"><B>Command Routing started</B></FONT>
+23/06 00:09:34 User 'system' try to start thread 'SDP VMS'
+23/06 00:09:35 <FONT color="#0033CC"><B>SDP VMS started</B></FONT>
+23/06 00:09:37 User 'system' try to start thread 'GetContentRequest'
+23/06 00:09:38 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+23/06 01:19:11 <FONT color="#0033CC"><B>SendContentSubscription started</B></FONT>
+23/06 01:19:26 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+23/06 01:19:33 User 'system' try to destroy thread 'SendContentSubscription'
+23/06 01:19:35 User 'system' try to start thread 'Order Routing'
+23/06 01:19:36 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+23/06 01:19:38 User 'system' try to start thread 'Command Routing'
+23/06 01:19:39 <FONT color="#0033CC"><B>Command Routing started</B></FONT>
+23/06 01:19:40 User 'system' try to start thread 'SDP VMS'
+23/06 01:19:41 <FONT color="#0033CC"><B>SDP VMS started</B></FONT>
+23/06 01:19:42 User 'system' try to start thread 'CRM'
+23/06 01:19:43 <FONT color="#0033CC"><B>CRM started</B></FONT>
+23/06 01:19:49 User 'system' try to update parameter of thread 'Simulator'
+23/06 01:19:50 Parameter of thread 'Simulator' updated
+23/06 01:19:59 User 'system' try to update parameter of thread 'Simulator'
+23/06 01:19:59 Parameter of thread 'Simulator' updated
+23/06 01:20:01 User 'system' try to start thread 'Simulator'
+23/06 01:20:01 <FONT color="#0033CC"><B>Simulator started</B></FONT>
+23/06 01:20:04 User 'system' try to stop thread 'Simulator'
+23/06 01:20:04 <FONT color="#CC0033"><B>Simulator stopped</B></FONT>
+23/06 01:24:10 <FONT color="#0033CC"><B>SendContentSubscription started</B></FONT>
+23/06 01:24:14 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+23/06 01:24:19 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+23/06 01:24:20 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+23/06 01:24:26 User 'system' try to stop thread 'SendContentSubscription'
+23/06 01:24:27 <FONT color="#CC0033"><B>SendContentSubscription stopped</B></FONT>
+23/06 01:24:29 User 'system' try to start thread 'Order Routing'
+23/06 01:24:30 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+23/06 01:24:31 User 'system' try to start thread 'Command Routing'
+23/06 01:24:32 <FONT color="#0033CC"><B>Command Routing started</B></FONT>
+23/06 01:24:34 User 'system' try to start thread 'SDP VMS'
+23/06 01:24:34 <FONT color="#0033CC"><B>SDP VMS started</B></FONT>
+23/06 01:24:36 User 'system' try to start thread 'CRM'
+23/06 01:24:36 <FONT color="#0033CC"><B>CRM started</B></FONT>
+23/06 01:24:45 User 'system' try to update parameter of thread 'Simulator'
+23/06 01:24:45 Parameter of thread 'Simulator' updated
+23/06 01:24:47 User 'system' try to start thread 'Simulator'
+23/06 01:24:48 <FONT color="#0033CC"><B>Simulator started</B></FONT>
+23/06 01:24:50 User 'system' try to stop thread 'Simulator'
+23/06 01:24:51 <FONT color="#CC0033"><B>Simulator stopped</B></FONT>
+23/06 01:25:11 User 'system' try to update parameter of thread 'Simulator'
+23/06 01:25:11 Parameter of thread 'Simulator' updated
+23/06 01:25:13 User 'system' try to start thread 'Simulator'
+23/06 01:25:14 <FONT color="#0033CC"><B>Simulator started</B></FONT>
+23/06 01:25:16 User 'system' try to stop thread 'Simulator'
+23/06 01:25:17 <FONT color="#CC0033"><B>Simulator stopped</B></FONT>
+23/06 21:24:24 <FONT color="#0033CC"><B>SendContentSubscription started</B></FONT>
+23/06 21:25:51 <FONT color="#0033CC"><B>SendContentSubscription started</B></FONT>
+23/06 21:25:57 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+23/06 21:26:07 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+23/06 21:26:08 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+23/06 21:26:14 User 'system' try to start thread 'Order Routing'
+23/06 21:26:15 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+23/06 21:26:16 User 'system' try to start thread 'Command Routing'
+23/06 21:26:17 <FONT color="#0033CC"><B>Command Routing started</B></FONT>
+23/06 21:26:18 User 'system' try to start thread 'SDP VMS'
+23/06 21:26:19 <FONT color="#0033CC"><B>SDP VMS started</B></FONT>
+23/06 21:26:23 User 'system' try to start thread 'CRM'
+23/06 21:26:24 <FONT color="#0033CC"><B>CRM started</B></FONT>
+23/06 21:33:30 User 'system' try to start thread 'Order Routing'
+23/06 21:33:32 <FONT color="#CC0033"><B>Order Routing stopped</B></FONT>
+23/06 21:33:34 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+23/06 21:33:34 User 'system' try to start thread 'Command Routing'
+23/06 21:33:36 <FONT color="#CC0033"><B>Command Routing stopped</B></FONT>
+23/06 21:33:38 <FONT color="#0033CC"><B>Command Routing started</B></FONT>
+23/06 21:33:38 User 'system' try to start thread 'SDP VMS'
+23/06 21:33:40 <FONT color="#CC0033"><B>SDP VMS stopped</B></FONT>
+23/06 21:33:41 User 'system' try to start thread 'CRM'
+23/06 21:33:42 <FONT color="#0033CC"><B>SDP VMS started</B></FONT>
+23/06 21:33:44 <FONT color="#CC0033"><B>CRM stopped</B></FONT>
+23/06 21:33:46 <FONT color="#0033CC"><B>CRM started</B></FONT>
+23/06 21:33:55 User 'system' try to start thread 'GetContentRequest'
+23/06 21:33:56 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+23/06 21:33:59 User 'system' try to stop thread 'GetContentRequest'
+23/06 21:34:00 <FONT color="#CC0033"><B>GetContentRequest stopped</B></FONT>
+23/06 21:34:37 User 'system' try to start thread 'GetContentRequest'
+23/06 21:34:37 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+23/06 21:34:40 User 'system' try to stop thread 'GetContentRequest'
+23/06 21:34:41 <FONT color="#CC0033"><B>GetContentRequest stopped</B></FONT>
+23/06 21:35:00 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+23/06 21:35:32 <FONT color="#0033CC"><B>SendContentSubscription started</B></FONT>
+23/06 21:35:39 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+23/06 21:35:43 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+23/06 21:35:44 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+23/06 21:35:49 User 'system' try to start thread 'Order Routing'
+23/06 21:35:49 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+23/06 21:35:51 User 'system' try to start thread 'Command Routing'
+23/06 21:35:52 <FONT color="#0033CC"><B>Command Routing started</B></FONT>
+23/06 21:35:53 User 'system' try to start thread 'SDP VMS'
+23/06 21:35:54 <FONT color="#0033CC"><B>SDP VMS started</B></FONT>
+23/06 21:36:00 User 'system' try to start thread 'CRM'
+23/06 21:36:01 <FONT color="#0033CC"><B>CRM started</B></FONT>
+23/06 21:36:05 User 'system' try to start thread 'GetContentRequest'
+23/06 21:36:06 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+23/06 21:37:16 <FONT color="#0033CC"><B>SendContentSubscription started</B></FONT>
+23/06 21:37:22 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+23/06 21:37:27 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+23/06 21:37:28 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+23/06 21:38:15 User 'system' try to update parameter of thread 'GetContentRequest'
+23/06 21:38:15 Parameter of thread 'GetContentRequest' updated
+23/06 21:38:18 User 'system' try to start thread 'Order Routing'
+23/06 21:38:18 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+23/06 21:38:20 User 'system' try to start thread 'Command Routing'
+23/06 21:38:20 <FONT color="#0033CC"><B>Command Routing started</B></FONT>
+23/06 21:38:22 User 'system' try to start thread 'SDP VMS'
+23/06 21:38:22 <FONT color="#0033CC"><B>SDP VMS started</B></FONT>
+23/06 21:38:27 User 'system' try to start thread 'GetContentRequest'
+23/06 21:38:27 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+23/06 21:38:31 User 'system' try to stop thread 'GetContentRequest'
+23/06 21:38:32 <FONT color="#CC0033"><B>GetContentRequest stopped</B></FONT>
+23/06 21:39:33 <FONT color="#0033CC"><B>SendContentSubscription started</B></FONT>
+23/06 21:39:37 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+23/06 21:40:05 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+23/06 21:40:06 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+23/06 21:40:12 User 'system' try to start thread 'Order Routing'
+23/06 21:40:13 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+23/06 21:40:16 User 'system' try to start thread 'Command Routing'
+23/06 21:40:17 <FONT color="#0033CC"><B>Command Routing started</B></FONT>
+23/06 21:40:20 User 'system' try to start thread 'SDP VMS'
+23/06 21:40:21 <FONT color="#0033CC"><B>SDP VMS started</B></FONT>
+23/06 21:40:25 User 'system' try to start thread 'GetContentRequest'
+23/06 21:40:26 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+23/06 21:40:27 User 'system' try to stop thread 'GetContentRequest'
+23/06 21:40:45 <FONT color="#CC0033"><B>GetContentRequest stopped</B></FONT>
+23/06 21:42:33 User 'system' try to start thread 'GetContentRequest'
+23/06 21:42:33 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+23/06 21:42:39 User 'system' try to stop thread 'GetContentRequest'
+23/06 21:42:39 <FONT color="#CC0033"><B>GetContentRequest stopped</B></FONT>
+23/06 21:57:22 <FONT color="#0033CC"><B>SendContentSubscription started</B></FONT>
+23/06 21:57:37 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+23/06 21:57:43 User 'system' try to start thread 'Order Routing'
+23/06 21:57:43 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+23/06 21:57:46 User 'system' try to start thread 'Command Routing'
+23/06 21:57:47 <FONT color="#0033CC"><B>Command Routing started</B></FONT>
+23/06 21:57:48 User 'system' try to start thread 'SDP VMS'
+23/06 21:57:49 <FONT color="#0033CC"><B>SDP VMS started</B></FONT>
+23/06 21:57:57 User 'system' try to start thread 'GetContentRequest'
+23/06 21:57:58 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+23/06 21:57:59 User 'system' try to stop thread 'GetContentRequest'
+23/06 21:58:04 <FONT color="#CC0033"><B>GetContentRequest stopped</B></FONT>
+23/06 22:03:03 User 'system' try to start thread 'GetContentRequest'
+23/06 22:03:03 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+23/06 22:03:05 User 'system' try to stop thread 'GetContentRequest'
+23/06 22:03:05 <FONT color="#CC0033"><B>GetContentRequest stopped</B></FONT>
+24/06 00:51:14 <FONT color="#0033CC"><B>SendContentSubscription started</B></FONT>
+24/06 00:51:24 <FONT color="#0033CC"><B>SendContentSubscription started</B></FONT>
+24/06 00:51:29 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+24/06 00:51:46 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+24/06 00:51:48 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+24/06 00:51:53 User 'system' try to start thread 'Order Routing'
+24/06 00:51:53 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+24/06 00:51:55 User 'system' try to start thread 'CRM'
+24/06 00:51:55 <FONT color="#0033CC"><B>CRM started</B></FONT>
+24/06 00:51:58 User 'system' try to start thread 'Command Routing'
+24/06 00:51:58 <FONT color="#0033CC"><B>Command Routing started</B></FONT>
+24/06 00:51:59 User 'system' try to start thread 'SDP VMS'
+24/06 00:51:59 <FONT color="#0033CC"><B>SDP VMS started</B></FONT>
+24/06 00:52:15 User 'system' try to update parameter of thread 'Simulator'
+24/06 00:52:15 Parameter of thread 'Simulator' updated
+24/06 00:52:17 User 'system' try to start thread 'Simulator'
+24/06 00:52:17 <FONT color="#0033CC"><B>Simulator started</B></FONT>
+24/06 00:52:45 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+25/06 20:37:16 <FONT color="#0033CC"><B>SendContentSubscription started</B></FONT>
+25/06 20:37:30 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+25/06 20:37:38 User 'system' try to start thread 'Order Routing'
+25/06 20:37:38 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+25/06 20:37:42 User 'system' try to start thread 'Command Routing'
+25/06 20:37:42 <FONT color="#0033CC"><B>Command Routing started</B></FONT>
+25/06 20:37:46 User 'system' try to start thread 'SDP VMS'
+25/06 20:37:46 <FONT color="#0033CC"><B>SDP VMS started</B></FONT>
+25/06 20:37:49 User 'system' try to start thread 'CRM'
+25/06 20:37:49 <FONT color="#0033CC"><B>CRM started</B></FONT>
+25/06 20:38:13 User 'system' try to update parameter of thread 'Simulator'
+25/06 20:38:13 Parameter of thread 'Simulator' updated
+25/06 20:38:14 User 'system' try to start thread 'Simulator'
+25/06 20:38:15 <FONT color="#0033CC"><B>Simulator started</B></FONT>
+25/06 20:38:24 User 'system' try to start thread 'Simulator'
+25/06 20:38:28 User 'system' try to start thread 'Queue Monitor'
+25/06 20:38:29 <FONT color="#0033CC"><B>Queue Monitor started</B></FONT>
+25/06 20:51:26 <FONT color="#0033CC"><B>SendContentSubscription started</B></FONT>
+25/06 20:51:33 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+25/06 20:51:40 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+25/06 20:51:41 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+25/06 20:51:47 User 'system' try to start thread 'Queue Monitor'
+25/06 20:51:48 <FONT color="#0033CC"><B>Queue Monitor started</B></FONT>
+25/06 20:51:55 User 'system' try to start thread 'Order Routing'
+25/06 20:51:56 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+25/06 20:51:58 User 'system' try to start thread 'Command Routing'
+25/06 20:51:59 <FONT color="#0033CC"><B>Command Routing started</B></FONT>
+25/06 20:52:00 User 'system' try to start thread 'SDP VMS'
+25/06 20:52:01 <FONT color="#0033CC"><B>SDP VMS started</B></FONT>
+25/06 20:52:02 User 'system' try to start thread 'CRM'
+25/06 20:52:03 <FONT color="#0033CC"><B>CRM started</B></FONT>
+25/06 20:52:05 User 'system' try to start thread 'Simulator'
+25/06 20:52:06 <FONT color="#0033CC"><B>Simulator started</B></FONT>
+25/06 20:52:07 User 'system' try to stop thread 'Simulator'
+25/06 20:52:08 <FONT color="#CC0033"><B>Simulator stopped</B></FONT>
+25/06 20:52:42 User 'system' try to update parameter of thread 'Simulator'
+25/06 20:52:43 Parameter of thread 'Simulator' updated
+25/06 20:52:45 User 'system' try to start thread 'Simulator'
+25/06 20:52:45 <FONT color="#0033CC"><B>Simulator started</B></FONT>
+25/06 20:53:00 User 'system' try to update parameter of thread 'Simulator'
+25/06 20:53:00 Parameter of thread 'Simulator' updated
+25/06 20:53:01 User 'system' try to start thread 'Simulator'
+25/06 20:53:02 <FONT color="#CC0033"><B>Simulator stopped</B></FONT>
+25/06 20:53:04 <FONT color="#0033CC"><B>Simulator started</B></FONT>
+25/06 20:53:07 User 'system' try to stop thread 'Simulator'
+25/06 20:53:08 <FONT color="#CC0033"><B>Simulator stopped</B></FONT>
+25/06 20:56:26 <FONT color="#0033CC"><B>SendContentSubscription started</B></FONT>
+25/06 20:56:32 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+25/06 20:56:37 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+25/06 20:56:38 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+25/06 20:56:42 User 'system' try to start thread 'Order Routing'
+25/06 20:56:42 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+25/06 20:56:45 User 'system' try to start thread 'Command Routing'
+25/06 20:56:45 <FONT color="#0033CC"><B>Command Routing started</B></FONT>
+25/06 20:56:47 User 'system' try to start thread 'SDP VMS'
+25/06 20:56:48 <FONT color="#0033CC"><B>SDP VMS started</B></FONT>
+25/06 20:56:51 User 'system' try to start thread 'CRM'
+25/06 20:56:52 <FONT color="#0033CC"><B>CRM started</B></FONT>
+25/06 20:56:59 User 'system' try to update parameter of thread 'Simulator'
+25/06 20:57:00 Parameter of thread 'Simulator' updated
+25/06 20:57:01 User 'system' try to start thread 'Simulator'
+25/06 20:57:02 <FONT color="#0033CC"><B>Simulator started</B></FONT>
+25/06 20:57:04 User 'system' try to stop thread 'Simulator'
+25/06 20:57:05 <FONT color="#CC0033"><B>Simulator stopped</B></FONT>
+25/06 20:57:17 User 'system' try to update parameter of thread 'Simulator'
+25/06 20:57:17 Parameter of thread 'Simulator' updated
+25/06 20:57:19 User 'system' try to start thread 'Simulator'
+25/06 20:57:20 <FONT color="#0033CC"><B>Simulator started</B></FONT>
+25/06 20:57:22 User 'system' try to stop thread 'Simulator'
+25/06 20:57:23 <FONT color="#CC0033"><B>Simulator stopped</B></FONT>
+25/06 20:59:11 User 'system' try to update parameter of thread 'Simulator'
+25/06 20:59:11 Parameter of thread 'Simulator' updated
+25/06 20:59:13 User 'system' try to start thread 'Simulator'
+25/06 20:59:14 <FONT color="#0033CC"><B>Simulator started</B></FONT>
+25/06 20:59:16 User 'system' try to stop thread 'Simulator'
+25/06 20:59:17 <FONT color="#CC0033"><B>Simulator stopped</B></FONT>
+25/06 20:59:24 User 'system' try to update parameter of thread 'Simulator'
+25/06 20:59:24 Parameter of thread 'Simulator' updated
+25/06 20:59:26 User 'system' try to start thread 'Simulator'
+25/06 20:59:27 <FONT color="#0033CC"><B>Simulator started</B></FONT>
+25/06 20:59:31 User 'system' try to stop thread 'Simulator'
+25/06 20:59:31 <FONT color="#CC0033"><B>Simulator stopped</B></FONT>
+25/06 21:03:04 <FONT color="#0033CC"><B>SendContentSubscription started</B></FONT>
+25/06 21:03:08 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+25/06 21:03:13 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+25/06 21:03:15 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+25/06 21:03:21 User 'system' try to start thread 'Order Routing'
+25/06 21:03:21 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+25/06 21:03:22 User 'system' try to start thread 'Command Routing'
+25/06 21:03:22 <FONT color="#0033CC"><B>Command Routing started</B></FONT>
+25/06 21:03:24 User 'system' try to start thread 'SDP VMS'
+25/06 21:03:24 <FONT color="#0033CC"><B>SDP VMS started</B></FONT>
+25/06 21:03:26 User 'system' try to start thread 'CRM'
+25/06 21:03:26 <FONT color="#0033CC"><B>CRM started</B></FONT>
+25/06 21:03:33 User 'system' try to update parameter of thread 'Simulator'
+25/06 21:03:33 Parameter of thread 'Simulator' updated
+25/06 21:03:35 User 'system' try to start thread 'Simulator'
+25/06 21:03:36 <FONT color="#0033CC"><B>Simulator started</B></FONT>
+25/06 21:03:48 User 'system' try to update parameter of thread 'Simulator'
+25/06 21:03:48 Parameter of thread 'Simulator' updated
+25/06 21:03:50 User 'system' try to start thread 'Simulator'
+25/06 21:03:51 <FONT color="#CC0033"><B>Simulator stopped</B></FONT>
+25/06 21:03:53 <FONT color="#0033CC"><B>Simulator started</B></FONT>
+25/06 21:03:55 User 'system' try to stop thread 'Simulator'
+25/06 21:03:56 <FONT color="#CC0033"><B>Simulator stopped</B></FONT>
+25/06 21:04:28 <FONT color="#0033CC"><B>SendContentSubscription started</B></FONT>
+25/06 21:04:29 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+25/06 21:04:34 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+25/06 21:04:35 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+25/06 21:04:40 User 'system' try to start thread 'Order Routing'
+25/06 21:04:40 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+25/06 21:04:42 User 'system' try to start thread 'Command Routing'
+25/06 21:04:43 <FONT color="#0033CC"><B>Command Routing started</B></FONT>
+25/06 21:04:44 User 'system' try to start thread 'SDP VMS'
+25/06 21:04:45 <FONT color="#0033CC"><B>SDP VMS started</B></FONT>
+25/06 21:04:47 User 'system' try to start thread 'CRM'
+25/06 21:04:48 <FONT color="#0033CC"><B>CRM started</B></FONT>
+25/06 21:04:57 User 'system' try to update parameter of thread 'Simulator'
+25/06 21:04:58 Parameter of thread 'Simulator' updated
+25/06 21:04:59 User 'system' try to start thread 'Simulator'
+25/06 21:04:59 <FONT color="#0033CC"><B>Simulator started</B></FONT>
+25/06 21:05:16 User 'system' try to update parameter of thread 'Simulator'
+25/06 21:05:16 Parameter of thread 'Simulator' updated
+25/06 21:05:18 User 'system' try to start thread 'Simulator'
+25/06 21:05:19 <FONT color="#CC0033"><B>Simulator stopped</B></FONT>
+25/06 21:05:20 <FONT color="#0033CC"><B>Simulator started</B></FONT>
+25/06 21:05:31 User 'system' try to update parameter of thread 'Simulator'
+25/06 21:05:31 Parameter of thread 'Simulator' updated
+25/06 21:05:32 User 'system' try to start thread 'Simulator'
+25/06 21:05:33 <FONT color="#CC0033"><B>Simulator stopped</B></FONT>
+25/06 21:05:34 <FONT color="#0033CC"><B>Simulator started</B></FONT>
+25/06 21:19:11 <FONT color="#0033CC"><B>SendContentSubscription started</B></FONT>
+25/06 21:19:14 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+25/06 21:19:18 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+25/06 21:19:19 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+25/06 21:19:23 User 'system' try to start thread 'Order Routing'
+25/06 21:19:24 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+25/06 21:19:25 User 'system' try to start thread 'Command Routing'
+25/06 21:19:26 <FONT color="#0033CC"><B>Command Routing started</B></FONT>
+25/06 21:19:27 User 'system' try to start thread 'SDP VMS'
+25/06 21:19:28 <FONT color="#0033CC"><B>SDP VMS started</B></FONT>
+25/06 21:19:29 User 'system' try to start thread 'CRM'
+25/06 21:19:30 <FONT color="#0033CC"><B>CRM started</B></FONT>
+25/06 21:19:36 User 'system' try to update parameter of thread 'Simulator'
+25/06 21:19:36 Parameter of thread 'Simulator' updated
+25/06 21:19:37 User 'system' try to start thread 'Simulator'
+25/06 21:19:38 <FONT color="#0033CC"><B>Simulator started</B></FONT>
+25/06 21:19:53 User 'system' try to update parameter of thread 'Simulator'
+25/06 21:19:54 Parameter of thread 'Simulator' updated
+25/06 21:19:56 User 'system' try to start thread 'Simulator'
+25/06 21:19:56 <FONT color="#CC0033"><B>Simulator stopped</B></FONT>
+25/06 21:19:58 <FONT color="#0033CC"><B>Simulator started</B></FONT>
+25/06 21:20:07 User 'system' try to update parameter of thread 'Simulator'
+25/06 21:20:07 Parameter of thread 'Simulator' updated
+25/06 21:20:09 User 'system' try to start thread 'Simulator'
+25/06 21:20:09 <FONT color="#CC0033"><B>Simulator stopped</B></FONT>
+25/06 21:20:11 <FONT color="#0033CC"><B>Simulator started</B></FONT>
+25/06 21:20:13 User 'system' try to stop thread 'Simulator'
+25/06 21:20:13 <FONT color="#CC0033"><B>Simulator stopped</B></FONT>
+25/06 21:22:29 User 'system' try to update parameter of thread 'Simulator'
+25/06 21:22:29 Parameter of thread 'Simulator' updated
+25/06 21:22:31 User 'system' try to start thread 'Simulator'
+25/06 21:22:32 <FONT color="#0033CC"><B>Simulator started</B></FONT>
+25/06 21:22:45 User 'system' try to update parameter of thread 'Simulator'
+25/06 21:22:45 Parameter of thread 'Simulator' updated
+25/06 21:22:47 User 'system' try to start thread 'Simulator'
+25/06 21:22:48 <FONT color="#CC0033"><B>Simulator stopped</B></FONT>
+25/06 21:22:50 <FONT color="#0033CC"><B>Simulator started</B></FONT>
+25/06 21:24:07 User 'system' try to update parameter of thread 'Simulator'
+25/06 21:24:08 Parameter of thread 'Simulator' updated
+25/06 21:24:09 User 'system' try to start thread 'Simulator'
+25/06 21:24:09 <FONT color="#CC0033"><B>Simulator stopped</B></FONT>
+25/06 21:24:11 <FONT color="#0033CC"><B>Simulator started</B></FONT>
+25/06 21:24:24 User 'system' try to update parameter of thread 'Simulator'
+25/06 21:24:24 Parameter of thread 'Simulator' updated
+25/06 21:24:26 User 'system' try to start thread 'Simulator'
+25/06 21:24:26 <FONT color="#CC0033"><B>Simulator stopped</B></FONT>
+25/06 21:24:28 <FONT color="#0033CC"><B>Simulator started</B></FONT>
+25/06 21:25:42 User 'system' try to start thread 'GetContentRequest'
+25/06 21:25:43 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+25/06 21:25:58 User 'system' try to start thread 'GetContentRequest'
+25/06 21:25:59 <FONT color="#CC0033"><B>GetContentRequest stopped</B></FONT>
+25/06 21:26:01 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+25/06 21:26:09 User 'system' try to start thread 'GetContentRequest'
+25/06 21:26:10 <FONT color="#CC0033"><B>GetContentRequest stopped</B></FONT>
+25/06 21:26:12 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+25/06 21:29:58 <FONT color="#0033CC"><B>SendContentSubscription started</B></FONT>
+25/06 21:30:00 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+25/06 21:30:04 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+25/06 21:30:06 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+25/06 21:30:10 User 'system' try to start thread 'GetContentRequest'
+25/06 21:30:11 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+25/06 21:32:45 User 'system' try to start thread 'Order Routing'
+25/06 21:32:45 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+25/06 21:32:52 User 'system' try to start thread 'GetContentRequest'
+25/06 21:32:54 <FONT color="#CC0033"><B>GetContentRequest stopped</B></FONT>
+25/06 21:32:55 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+25/06 21:33:12 <FONT color="#0033CC"><B>SendContentSubscription started</B></FONT>
+25/06 21:33:17 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+25/06 21:33:21 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+25/06 21:33:22 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+25/06 21:33:26 User 'system' try to start thread 'GetContentRequest'
+25/06 21:33:27 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+25/06 21:33:50 User 'system' try to start thread 'GetContentRequest'
+25/06 21:33:52 <FONT color="#CC0033"><B>GetContentRequest stopped</B></FONT>
+25/06 21:33:53 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+25/06 21:35:09 <FONT color="#0033CC"><B>SendContentSubscription started</B></FONT>
+25/06 21:35:26 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+25/06 21:35:30 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+25/06 21:35:31 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+25/06 21:35:35 User 'system' try to start thread 'GetContentRequest'
+25/06 21:35:35 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+25/06 21:36:25 <FONT color="#0033CC"><B>SendContentSubscription started</B></FONT>
+25/06 21:36:28 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+25/06 21:36:32 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+25/06 21:36:33 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+25/06 21:36:38 User 'system' try to start thread 'GetContentRequest'
+25/06 21:36:39 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+25/06 21:36:49 User 'system' try to start thread 'GetContentRequest'
+25/06 21:36:50 <FONT color="#CC0033"><B>GetContentRequest stopped</B></FONT>
+25/06 21:36:52 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+25/06 21:36:57 User 'system' try to start thread 'GetContentRequest'
+25/06 21:36:58 <FONT color="#CC0033"><B>GetContentRequest stopped</B></FONT>
+25/06 21:37:00 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+25/06 21:38:03 User 'system' try to start thread 'GetContentRequest'
+25/06 21:38:04 <FONT color="#CC0033"><B>GetContentRequest stopped</B></FONT>
+25/06 21:38:06 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+25/06 21:39:28 <FONT color="#0033CC"><B>SendContentSubscription started</B></FONT>
+25/06 21:39:31 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+25/06 21:39:35 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+25/06 21:39:36 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+25/06 21:39:40 User 'system' try to start thread 'GetContentRequest'
+25/06 21:39:40 <FONT color="#0033CC"><B>GetContentRequest started</B></FONT>
+25/06 21:56:12 <FONT color="#0033CC"><B>SendContentSubscription started</B></FONT>
+25/06 21:56:26 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+25/06 21:56:31 User 'system' try to start thread 'Order Routing'
+25/06 21:56:32 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+25/06 21:56:34 User 'system' try to start thread 'Command Routing'
+25/06 21:56:35 <FONT color="#0033CC"><B>Command Routing started</B></FONT>
+25/06 21:56:37 User 'system' try to start thread 'SDP VMS'
+25/06 21:56:38 <FONT color="#0033CC"><B>SDP VMS started</B></FONT>
+25/06 21:56:39 User 'system' try to start thread 'CRM'
+25/06 21:56:40 <FONT color="#0033CC"><B>CRM started</B></FONT>
+25/06 21:56:58 User 'system' try to update parameter of thread 'Simulator'
+25/06 21:56:59 Parameter of thread 'Simulator' updated
+25/06 21:57:01 User 'system' try to start thread 'Simulator'
+25/06 21:57:01 <FONT color="#0033CC"><B>Simulator started</B></FONT>
+25/06 21:58:56 User 'system' try to update parameter of thread 'Simulator'
+25/06 21:58:56 Parameter of thread 'Simulator' updated
+25/06 21:58:58 User 'system' try to start thread 'Simulator'
+25/06 21:58:59 <FONT color="#CC0033"><B>Simulator stopped</B></FONT>
+25/06 21:59:00 <FONT color="#0033CC"><B>Simulator started</B></FONT>
+25/06 21:59:02 User 'system' try to stop thread 'Simulator'
+25/06 21:59:03 <FONT color="#CC0033"><B>Simulator stopped</B></FONT>
+25/06 21:59:14 User 'system' try to update parameter of thread 'Simulator'
+25/06 21:59:14 Parameter of thread 'Simulator' updated
+25/06 21:59:15 User 'system' try to start thread 'Simulator'
+25/06 21:59:15 <FONT color="#0033CC"><B>Simulator started</B></FONT>
+25/06 21:59:17 User 'system' try to stop thread 'Simulator'
+25/06 21:59:18 <FONT color="#CC0033"><B>Simulator stopped</B></FONT>
+25/06 21:59:36 User 'system' try to update parameter of thread 'Simulator'
+25/06 21:59:36 Parameter of thread 'Simulator' updated
+25/06 21:59:38 User 'system' try to start thread 'Simulator'
+25/06 21:59:39 <FONT color="#0033CC"><B>Simulator started</B></FONT>
+25/06 21:59:40 User 'system' try to stop thread 'Simulator'
+25/06 21:59:41 <FONT color="#CC0033"><B>Simulator stopped</B></FONT>
+25/06 21:59:51 User 'system' try to update parameter of thread 'Simulator'
+25/06 21:59:52 Parameter of thread 'Simulator' updated
+25/06 21:59:53 User 'system' try to start thread 'Simulator'
+25/06 21:59:54 <FONT color="#0033CC"><B>Simulator started</B></FONT>
+25/06 21:59:56 User 'system' try to stop thread 'Simulator'
+25/06 21:59:57 <FONT color="#CC0033"><B>Simulator stopped</B></FONT>
+07/10 14:43:20 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+07/10 14:43:23 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+07/10 14:43:25 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+07/10 14:43:30 User 'system' try to start thread 'Order Routing'
+07/10 14:43:31 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+07/10 14:44:43 User 'system' try to start thread 'Order Routing'
+07/10 14:44:44 <FONT color="#CC0033"><B>Order Routing stopped</B></FONT>
+07/10 14:44:46 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+07/10 14:45:20 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+07/10 14:46:19 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+07/10 14:46:23 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+07/10 14:46:24 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+07/10 14:46:29 User 'system' try to start thread 'Order Routing'
+07/10 14:46:30 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+07/10 15:01:23 User 'system' try to start thread 'Order Routing'
+07/10 15:01:24 <FONT color="#CC0033"><B>Order Routing stopped</B></FONT>
+07/10 15:01:26 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+07/10 15:03:43 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+07/10 15:05:22 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+07/10 15:05:25 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+07/10 15:05:29 User 'system' try to start thread 'Order Routing'
+07/10 15:05:29 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+07/10 15:06:49 User 'system' try to start thread 'Order Routing'
+07/10 15:06:50 <FONT color="#CC0033"><B>Order Routing stopped</B></FONT>
+07/10 15:06:52 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+07/10 15:08:01 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+07/10 15:08:05 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+07/10 15:08:07 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+07/10 15:08:12 User 'system' try to start thread 'Order Routing'
+07/10 15:08:12 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+07/10 15:08:13 User 'system' try to start thread 'Order Routing'
+07/10 15:08:25 <FONT color="#CC0033"><B>Order Routing stopped</B></FONT>
+07/10 15:08:27 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+07/10 15:10:29 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+07/10 15:10:35 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+07/10 15:10:37 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+07/10 15:24:01 User 'system' try to update parameter of thread 'OTP Request'
+07/10 15:24:34 User 'system' try to update parameter of thread 'OTP Request'
+07/10 15:24:57 User 'system' try to update parameter of thread 'OTP Request'
+07/10 15:24:58 Parameter of thread 'OTP Request' updated
+07/10 15:25:01 User 'system' try to start thread 'OTP Request'
+07/10 15:25:02 <FONT color="#0033CC"><B>OTP Request started</B></FONT>
+07/10 15:31:00 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+07/10 15:31:11 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+07/10 15:31:13 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+07/10 16:07:19 User 'system' try to start thread 'OTP Request'
+07/10 16:07:20 <FONT color="#0033CC"><B>OTP Request started</B></FONT>
+07/10 16:08:04 User 'system' try to update parameter of thread 'OTP Request'
+07/10 16:08:13 User 'system' try to update parameter of thread 'OTP Request'
+07/10 16:08:13 Parameter of thread 'OTP Request' updated
+07/10 16:08:15 User 'system' try to start thread 'OTP Request'
+07/10 16:08:17 <FONT color="#CC0033"><B>OTP Request stopped</B></FONT>
+07/10 16:08:19 <FONT color="#0033CC"><B>OTP Request started</B></FONT>
+07/10 16:08:27 User 'system' try to start thread 'Sub Request'
+07/10 16:08:28 <FONT color="#0033CC"><B>Sub Request started</B></FONT>
+07/10 16:08:36 User 'system' try to update parameter of thread 'Sub Request'
+07/10 16:08:37 Parameter of thread 'Sub Request' updated
+07/10 16:08:56 User 'system' try to update parameter of thread 'Sub Request'
+07/10 16:08:57 Parameter of thread 'Sub Request' updated
+07/10 16:08:59 User 'system' try to start thread 'Sub Request'
+07/10 16:09:00 <FONT color="#CC0033"><B>Sub Request stopped</B></FONT>
+07/10 16:09:02 <FONT color="#0033CC"><B>Sub Request started</B></FONT>
+07/10 16:09:07 <FONT color="#CC0033"><B>Sub Request stopped</B></FONT>
+07/10 16:09:20 User 'system' try to update parameter of thread 'OTP Request'
+07/10 16:09:21 Parameter of thread 'OTP Request' updated
+07/10 16:09:53 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+07/10 16:09:57 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+07/10 16:09:59 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+07/10 16:10:09 User 'system' try to start thread 'OTP Request'
+07/10 16:10:11 <FONT color="#0033CC"><B>OTP Request started</B></FONT>
+07/10 16:10:19 User 'system' try to start thread 'Sub Request'
+07/10 16:10:19 <FONT color="#0033CC"><B>Sub Request started</B></FONT>
+07/10 16:10:34 User 'system' try to update parameter of thread 'Sub Request'
+07/10 16:10:35 Parameter of thread 'Sub Request' updated
+07/10 16:10:37 User 'system' try to start thread 'Sub Request'
+07/10 16:10:38 <FONT color="#CC0033"><B>Sub Request stopped</B></FONT>
+07/10 16:10:40 <FONT color="#0033CC"><B>Sub Request started</B></FONT>
+07/10 16:11:14 User 'system' try to start thread 'Order Routing'
+07/10 16:11:15 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+07/10 16:28:52 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+07/10 16:28:57 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+07/10 16:28:58 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+07/10 16:29:30 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+07/10 16:29:36 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+07/10 16:29:37 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+07/10 16:30:30 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+07/10 16:30:35 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+07/10 16:30:36 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+07/10 16:31:01 User 'system' try to update parameter of thread 'SMS SEND SMS'
+07/10 16:31:04 Parameter of thread 'SMS SEND SMS' updated
+07/10 16:31:13 User 'system' try to update parameter of thread 'SMS SEND SMS'
+07/10 16:31:13 Parameter of thread 'SMS SEND SMS' updated
+07/10 16:31:25 User 'system' try to update parameter of thread 'OTP Request'
+07/10 16:31:26 Parameter of thread 'OTP Request' updated
+07/10 16:31:28 User 'system' try to start thread 'OTP Request'
+07/10 16:31:28 <FONT color="#0033CC"><B>OTP Request started</B></FONT>
+07/10 16:31:37 User 'system' try to update parameter of thread 'Sub Request'
+07/10 16:31:38 Parameter of thread 'Sub Request' updated
+07/10 16:31:39 User 'system' try to start thread 'Sub Request'
+07/10 16:31:39 <FONT color="#0033CC"><B>Sub Request started</B></FONT>
+07/10 16:31:44 User 'system' try to start thread 'SMS SEND SMS'
+07/10 16:31:44 <FONT color="#0033CC"><B>SMS SEND SMS started</B></FONT>
+07/10 16:32:21 User 'system' try to update parameter of thread 'SMS SEND SMS'
+07/10 16:32:21 Parameter of thread 'SMS SEND SMS' updated
+07/10 16:32:23 User 'system' try to start thread 'SMS SEND SMS'
+07/10 16:33:06 User 'system' try to start thread 'SMS SEND SMS'
+07/10 17:13:00 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+07/10 17:13:08 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+07/10 17:13:09 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+07/10 17:13:23 User 'system' try to update parameter of thread 'CP'
+07/10 17:13:26 Parameter of thread 'CP' updated
+07/10 17:13:30 User 'system' try to start thread 'Order Routing'
+07/10 17:13:30 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+07/10 17:13:34 User 'system' try to start thread 'Command Routing'
+07/10 17:13:34 <FONT color="#0033CC"><B>Command Routing started</B></FONT>
+07/10 17:13:39 User 'system' try to start thread 'SMS SEND SMS'
+07/10 17:13:41 <FONT color="#0033CC"><B>SMS SEND SMS started</B></FONT>
+07/10 17:13:41 User 'system' try to start thread 'CP'
+07/10 17:13:43 <FONT color="#0033CC"><B>CP started</B></FONT>
+07/10 17:13:45 User 'system' try to start thread 'OTP Request'
+07/10 17:13:46 <FONT color="#0033CC"><B>OTP Request started</B></FONT>
+07/10 17:13:49 User 'system' try to start thread 'OTP Request'
+07/10 17:13:50 <FONT color="#CC0033"><B>OTP Request stopped</B></FONT>
+07/10 17:13:52 <FONT color="#0033CC"><B>OTP Request started</B></FONT>
+07/10 17:13:54 User 'system' try to start thread 'Sub Request'
+07/10 17:13:55 <FONT color="#0033CC"><B>Sub Request started</B></FONT>
+07/10 17:14:05 User 'system' try to start thread 'CRM'
+07/10 17:14:06 <FONT color="#0033CC"><B>CRM started</B></FONT>
+07/10 17:14:09 User 'system' try to start thread 'Queue Monitor'
+07/10 17:14:10 <FONT color="#0033CC"><B>Queue Monitor started</B></FONT>
+09/10 01:13:52 <FONT color="#0033CC"><B>CRM started</B></FONT>
+09/10 01:13:52 <FONT color="#0033CC"><B>Command Routing started</B></FONT>
+09/10 01:13:52 <FONT color="#0033CC"><B>OTP Request started</B></FONT>
+09/10 01:13:53 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+09/10 01:13:53 <FONT color="#0033CC"><B>Sub Request started</B></FONT>
+09/10 01:13:54 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+09/10 01:13:54 <FONT color="#0033CC"><B>SMS SEND SMS started</B></FONT>
+09/10 01:13:59 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+09/10 01:14:00 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+09/10 01:14:29 User 'system' try to start thread 'Queue Monitor'
+09/10 01:14:29 <FONT color="#0033CC"><B>Queue Monitor started</B></FONT>
+09/10 01:14:51 User 'system' try to start thread 'Order Routing'
+09/10 01:14:52 <FONT color="#CC0033"><B>Order Routing stopped</B></FONT>
+09/10 01:14:54 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+09/10 01:16:39 User 'system' try to update parameter of thread 'Simulator'
+09/10 01:16:39 Parameter of thread 'Simulator' updated
+09/10 01:16:45 User 'system' try to update parameter of thread 'Simulator'
+09/10 01:16:46 Parameter of thread 'Simulator' updated
+09/10 01:16:48 User 'system' try to start thread 'Simulator'
+09/10 01:16:49 <FONT color="#0033CC"><B>Simulator started</B></FONT>
+09/10 01:17:01 User 'system' try to update parameter of thread 'Simulator'
+09/10 01:17:01 Parameter of thread 'Simulator' updated
+09/10 01:17:03 User 'system' try to start thread 'Simulator'
+09/10 16:27:28 <FONT color="#0033CC"><B>CRM started</B></FONT>
+09/10 16:27:28 <FONT color="#0033CC"><B>SMS SEND WAP started</B></FONT>
+09/10 16:27:28 <FONT color="#0033CC"><B>Command Routing started</B></FONT>
+09/10 16:27:28 <FONT color="#0033CC"><B>Sub Request started</B></FONT>
+09/10 16:27:29 <FONT color="#0033CC"><B>OTP Request started</B></FONT>
+09/10 16:27:29 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+09/10 16:27:30 <FONT color="#0033CC"><B>SMS SEND SMS started</B></FONT>
+09/10 16:27:34 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+09/10 16:27:39 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+09/10 16:27:40 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+09/10 16:28:02 User 'system' try to start thread 'SMS SEND WAP'
+09/10 16:28:09 <FONT color="#CC0033"><B>SMS SEND WAP stopped</B></FONT>
+09/10 16:28:10 <FONT color="#0033CC"><B>SMS SEND WAP started</B></FONT>
+09/10 16:28:18 User 'system' try to start thread 'SMS SEND SMS'
+09/10 16:28:20 <FONT color="#CC0033"><B>SMS SEND SMS stopped</B></FONT>
+09/10 16:28:21 <FONT color="#0033CC"><B>SMS SEND SMS started</B></FONT>
+09/10 16:28:24 User 'system' try to start thread 'Order Routing'
+09/10 16:28:26 <FONT color="#CC0033"><B>Order Routing stopped</B></FONT>
+09/10 16:28:28 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+21/10 14:43:07 <FONT color="#0033CC"><B>Sub Request started</B></FONT>
+21/10 14:43:07 <FONT color="#0033CC"><B>CRM started</B></FONT>
+21/10 14:43:07 <FONT color="#0033CC"><B>SMS SEND WAP started</B></FONT>
+21/10 14:43:07 <FONT color="#0033CC"><B>Command Routing started</B></FONT>
+21/10 14:43:08 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+21/10 14:43:08 <FONT color="#0033CC"><B>OTP Request started</B></FONT>
+21/10 14:43:09 <FONT color="#0033CC"><B>SMS SEND SMS started</B></FONT>
+21/10 14:44:23 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+21/10 14:44:32 User 'system' try to start thread 'Queue Monitor'
+21/10 14:44:34 <FONT color="#0033CC"><B>Queue Monitor started</B></FONT>
+21/10 14:51:07 <FONT color="#0033CC"><B>CRM started</B></FONT>
+21/10 14:51:07 <FONT color="#0033CC"><B>Command Routing started</B></FONT>
+21/10 14:51:07 <FONT color="#0033CC"><B>SMS SEND WAP started</B></FONT>
+21/10 14:51:07 <FONT color="#0033CC"><B>Sub Request started</B></FONT>
+21/10 14:51:08 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+21/10 14:51:08 <FONT color="#0033CC"><B>OTP Request started</B></FONT>
+21/10 14:51:09 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+21/10 14:51:09 <FONT color="#0033CC"><B>SMS SEND SMS started</B></FONT>
+21/10 14:51:33 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+21/10 14:51:37 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+21/10 14:51:45 User 'system' try to start thread 'Queue Monitor'
+21/10 14:51:48 <FONT color="#0033CC"><B>Queue Monitor started</B></FONT>
+21/10 14:52:22 <FONT color="#0033CC"><B>CRM started</B></FONT>
+21/10 14:52:22 <FONT color="#0033CC"><B>Command Routing started</B></FONT>
+21/10 14:52:22 <FONT color="#0033CC"><B>SMS SEND WAP started</B></FONT>
+21/10 14:52:22 <FONT color="#0033CC"><B>Sub Request started</B></FONT>
+21/10 14:52:23 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+21/10 14:52:23 <FONT color="#0033CC"><B>OTP Request started</B></FONT>
+21/10 14:52:23 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+21/10 14:52:24 <FONT color="#0033CC"><B>SMS SEND SMS started</B></FONT>
+21/10 14:52:28 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+21/10 14:52:45 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+21/10 14:52:50 User 'system' try to start thread 'Queue Monitor'
+21/10 14:52:51 <FONT color="#0033CC"><B>Queue Monitor started</B></FONT>
+21/10 14:53:04 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+21/10 15:36:07 <FONT color="#0033CC"><B>CRM started</B></FONT>
+21/10 15:36:07 <FONT color="#0033CC"><B>Command Routing started</B></FONT>
+21/10 15:36:07 <FONT color="#0033CC"><B>SMS SEND WAP started</B></FONT>
+21/10 15:36:07 <FONT color="#0033CC"><B>Sub Request started</B></FONT>
+21/10 15:36:08 <FONT color="#0033CC"><B>OTP Request started</B></FONT>
+21/10 15:36:08 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+21/10 15:36:09 <FONT color="#0033CC"><B>SMS SEND SMS started</B></FONT>
+21/10 15:36:10 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+21/10 15:36:14 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+21/10 15:36:15 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+21/10 15:36:38 User 'system' try to start thread 'Queue Monitor'
+21/10 15:36:38 <FONT color="#0033CC"><B>Queue Monitor started</B></FONT>
+15/11 06:37:28 <FONT color="#0033CC"><B>CRM started</B></FONT>
+15/11 06:37:28 <FONT color="#0033CC"><B>Vina Send Wap started</B></FONT>
+15/11 06:37:28 <FONT color="#0033CC"><B>VMS Send Wap started</B></FONT>
+15/11 06:37:28 <FONT color="#0033CC"><B>Command Routing started</B></FONT>
+15/11 06:37:28 <FONT color="#0033CC"><B>OTP Request started</B></FONT>
+15/11 06:37:28 <FONT color="#0033CC"><B>Quiz question started</B></FONT>
+15/11 06:37:29 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+15/11 06:37:29 <FONT color="#0033CC"><B>Vina Send Sms started</B></FONT>
+15/11 06:37:29 <FONT color="#0033CC"><B>Sub Request started</B></FONT>
+15/11 06:37:30 <FONT color="#0033CC"><B>VMS Send Sms started</B></FONT>
+15/11 06:37:31 <FONT color="#0033CC"><B>VNM Send SMS started</B></FONT>
+15/11 06:38:13 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+15/11 06:38:27 User 'system' try to stop thread 'VMS Send Sms'
+15/11 06:38:28 <FONT color="#CC0033"><B>VMS Send Sms stopped</B></FONT>
+15/11 06:41:07 User 'system' try to start thread 'VMS Send Sms'
+15/11 06:41:07 <FONT color="#0033CC"><B>VMS Send Sms started</B></FONT>
+15/11 06:42:39 User 'system' try to start thread 'CP'
+15/11 06:42:39 <FONT color="#0033CC"><B>CP started</B></FONT>
+15/11 06:42:56 User 'system' try to start thread 'Queue Monitor'
+15/11 06:42:56 <FONT color="#0033CC"><B>Queue Monitor started</B></FONT>
+15/11 06:43:44 User 'system' try to start thread 'CRM'
+15/11 06:43:45 <FONT color="#CC0033"><B>CRM stopped</B></FONT>
+15/11 06:43:47 <FONT color="#0033CC"><B>CRM started</B></FONT>
+15/11 06:43:59 User 'system' try to update parameter of thread 'Simulator'
+15/11 06:43:59 Parameter of thread 'Simulator' updated
+15/11 06:44:02 User 'system' try to start thread 'Simulator'
+15/11 06:44:03 <FONT color="#0033CC"><B>Simulator started</B></FONT>
+15/11 06:44:05 User 'system' try to stop thread 'Simulator'
+15/11 06:44:06 <FONT color="#CC0033"><B>Simulator stopped</B></FONT>
+15/11 06:45:40 User 'system' try to update parameter of thread 'Simulator'
+15/11 06:45:40 Parameter of thread 'Simulator' updated
+15/11 06:45:41 User 'system' try to start thread 'Simulator'
+15/11 06:45:41 <FONT color="#0033CC"><B>Simulator started</B></FONT>
+15/11 06:45:44 User 'system' try to stop thread 'Simulator'
+15/11 06:45:45 <FONT color="#CC0033"><B>Simulator stopped</B></FONT>
+15/11 06:46:09 User 'system' try to update parameter of thread 'Simulator'
+15/11 06:46:09 Parameter of thread 'Simulator' updated
+15/11 06:46:11 User 'system' try to start thread 'Simulator'
+15/11 06:46:11 <FONT color="#0033CC"><B>Simulator started</B></FONT>
+15/11 06:46:14 User 'system' try to stop thread 'Simulator'
+15/11 06:46:15 <FONT color="#CC0033"><B>Simulator stopped</B></FONT>
+15/11 06:46:32 User 'system' try to start thread 'Simulator'
+15/11 06:46:33 <FONT color="#0033CC"><B>Simulator started</B></FONT>
+15/11 06:46:35 User 'system' try to stop thread 'Simulator'
+15/11 06:46:36 <FONT color="#CC0033"><B>Simulator stopped</B></FONT>
+15/11 06:47:39 User 'system' try to start thread 'Simulator'
+15/11 06:47:40 <FONT color="#0033CC"><B>Simulator started</B></FONT>
+15/11 06:47:42 User 'system' try to stop thread 'Simulator'
+15/11 06:47:43 <FONT color="#CC0033"><B>Simulator stopped</B></FONT>
+15/11 06:48:36 User 'system' try to start thread 'Simulator'
+15/11 06:48:37 <FONT color="#0033CC"><B>Simulator started</B></FONT>
+15/11 06:48:39 User 'system' try to stop thread 'Simulator'
+15/11 06:48:40 <FONT color="#CC0033"><B>Simulator stopped</B></FONT>
+15/11 06:49:50 User 'system' try to start thread 'Simulator'
+15/11 06:49:51 <FONT color="#0033CC"><B>Simulator started</B></FONT>
+15/11 06:49:54 User 'system' try to stop thread 'Simulator'
+15/11 06:49:55 <FONT color="#CC0033"><B>Simulator stopped</B></FONT>
+15/11 06:50:31 User 'system' try to start thread 'Simulator'
+15/11 06:50:32 <FONT color="#0033CC"><B>Simulator started</B></FONT>
+15/11 06:50:34 User 'system' try to stop thread 'Simulator'
+15/11 06:50:35 <FONT color="#CC0033"><B>Simulator stopped</B></FONT>
+15/11 06:51:21 User 'system' try to start thread 'Simulator'
+15/11 06:51:22 <FONT color="#0033CC"><B>Simulator started</B></FONT>
+15/11 07:08:20 <FONT color="#0033CC"><B>CRM started</B></FONT>
+15/11 07:08:20 <FONT color="#0033CC"><B>Command Routing started</B></FONT>
+15/11 07:08:20 <FONT color="#0033CC"><B>VMS Send Wap started</B></FONT>
+15/11 07:08:20 <FONT color="#0033CC"><B>Vina Send Wap started</B></FONT>
+15/11 07:08:20 <FONT color="#0033CC"><B>OTP Request started</B></FONT>
+15/11 07:08:20 <FONT color="#0033CC"><B>Quiz question started</B></FONT>
+15/11 07:08:21 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+15/11 07:08:21 <FONT color="#0033CC"><B>Sub Request started</B></FONT>
+15/11 07:08:21 <FONT color="#0033CC"><B>Vina Send Sms started</B></FONT>
+15/11 07:08:23 <FONT color="#0033CC"><B>VMS Send Sms started</B></FONT>
+15/11 07:08:24 <FONT color="#0033CC"><B>VNM Send SMS started</B></FONT>
+15/11 07:08:25 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+15/11 07:08:29 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+15/11 07:08:31 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+15/11 07:08:39 User 'system' try to start thread 'Simulator'
+15/11 07:08:40 <FONT color="#0033CC"><B>Simulator started</B></FONT>
+15/11 07:08:42 User 'system' try to stop thread 'Simulator'
+15/11 07:08:42 <FONT color="#CC0033"><B>Simulator stopped</B></FONT>
+15/11 07:09:01 User 'system' try to start thread 'Simulator'
+15/11 07:09:02 <FONT color="#0033CC"><B>Simulator started</B></FONT>
+15/11 07:09:04 User 'system' try to stop thread 'Simulator'
+15/11 07:09:05 <FONT color="#CC0033"><B>Simulator stopped</B></FONT>
+15/11 07:09:24 User 'system' try to update parameter of thread 'Simulator'
+15/11 07:09:24 Parameter of thread 'Simulator' updated
+15/11 07:09:27 User 'system' try to start thread 'Simulator'
+15/11 07:09:28 <FONT color="#0033CC"><B>Simulator started</B></FONT>
+15/11 07:16:06 User 'system' try to start thread 'Simulator'
+15/11 07:16:07 <FONT color="#CC0033"><B>Simulator stopped</B></FONT>
+15/11 07:16:09 <FONT color="#0033CC"><B>Simulator started</B></FONT>
+15/11 07:16:11 User 'system' try to stop thread 'Simulator'
+15/11 07:16:12 <FONT color="#CC0033"><B>Simulator stopped</B></FONT>
+15/11 07:24:22 <FONT color="#0033CC"><B>CRM started</B></FONT>
+15/11 07:24:22 <FONT color="#0033CC"><B>Command Routing started</B></FONT>
+15/11 07:24:22 <FONT color="#0033CC"><B>VMS Send Wap started</B></FONT>
+15/11 07:24:22 <FONT color="#0033CC"><B>Vina Send Wap started</B></FONT>
+15/11 07:24:22 <FONT color="#0033CC"><B>Quiz question started</B></FONT>
+15/11 07:24:22 <FONT color="#0033CC"><B>OTP Request started</B></FONT>
+15/11 07:24:23 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+15/11 07:24:23 <FONT color="#0033CC"><B>Sub Request started</B></FONT>
+15/11 07:24:23 <FONT color="#0033CC"><B>Vina Send Sms started</B></FONT>
+15/11 07:24:24 <FONT color="#0033CC"><B>VMS Send Sms started</B></FONT>
+15/11 07:24:25 <FONT color="#0033CC"><B>VNM Send SMS started</B></FONT>
+15/11 07:24:38 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+15/11 07:24:42 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+15/11 07:24:43 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+15/11 07:24:54 User 'system' try to start thread 'Simulator'
+15/11 07:24:55 <FONT color="#0033CC"><B>Simulator started</B></FONT>
+15/11 07:24:57 User 'system' try to stop thread 'Simulator'
+15/11 07:24:58 <FONT color="#CC0033"><B>Simulator stopped</B></FONT>
+15/11 07:26:31 User 'system' try to update parameter of thread 'Simulator'
+15/11 07:26:31 Parameter of thread 'Simulator' updated
+15/11 07:26:39 User 'system' try to start thread 'Simulator'
+15/11 07:26:39 <FONT color="#0033CC"><B>Simulator started</B></FONT>
+15/11 07:26:41 User 'system' try to stop thread 'Simulator'
+15/11 07:26:42 <FONT color="#CC0033"><B>Simulator stopped</B></FONT>
+15/11 07:28:59 User 'system' try to update parameter of thread 'Simulator'
+15/11 07:28:59 Parameter of thread 'Simulator' updated
+15/11 07:29:01 User 'system' try to start thread 'Simulator'
+15/11 07:29:02 <FONT color="#0033CC"><B>Simulator started</B></FONT>
+15/11 07:29:04 User 'system' try to stop thread 'Simulator'
+15/11 07:29:05 <FONT color="#CC0033"><B>Simulator stopped</B></FONT>
+15/11 07:32:36 User 'system' try to update parameter of thread 'Simulator'
+15/11 07:32:36 Parameter of thread 'Simulator' updated
+15/11 07:32:38 User 'system' try to start thread 'Simulator'
+15/11 07:32:39 <FONT color="#0033CC"><B>Simulator started</B></FONT>
+15/11 07:32:40 User 'system' try to stop thread 'Simulator'
+15/11 07:32:41 <FONT color="#CC0033"><B>Simulator stopped</B></FONT>
+15/11 07:34:49 User 'system' try to update parameter of thread 'Simulator'
+15/11 07:34:49 Parameter of thread 'Simulator' updated
+15/11 07:34:51 User 'system' try to start thread 'Simulator'
+15/11 07:34:51 <FONT color="#0033CC"><B>Simulator started</B></FONT>
+15/11 07:34:53 User 'system' try to stop thread 'Simulator'
+15/11 07:34:53 <FONT color="#CC0033"><B>Simulator stopped</B></FONT>
+15/11 07:39:47 User 'system' try to start thread 'Simulator'
+15/11 07:39:47 <FONT color="#0033CC"><B>Simulator started</B></FONT>
+15/11 07:39:49 User 'system' try to stop thread 'Simulator'
+15/11 07:39:50 <FONT color="#CC0033"><B>Simulator stopped</B></FONT>
+15/11 07:44:36 User 'system' try to start thread 'Order Routing'
+15/11 07:44:37 <FONT color="#CC0033"><B>Order Routing stopped</B></FONT>
+15/11 07:44:39 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+15/11 07:44:55 User 'system' try to start thread 'Simulator'
+15/11 07:44:56 <FONT color="#0033CC"><B>Simulator started</B></FONT>
+15/11 07:46:06 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+17/11 18:04:41 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+17/11 18:04:53 User 'system' try to start thread 'Create CDR file'
+17/11 18:04:53 <FONT color="#0033CC"><B>Create CDR file started</B></FONT>
+17/11 18:09:14 User 'system' try to update parameter of thread 'Create CDR file'
+17/11 18:09:14 Parameter of thread 'Create CDR file' updated
+17/11 18:09:17 User 'system' try to start thread 'Create CDR file'
+17/11 18:09:18 <FONT color="#CC0033"><B>Create CDR file stopped</B></FONT>
+17/11 18:09:19 <FONT color="#0033CC"><B>Create CDR file started</B></FONT>
+21/11 17:42:37 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+21/11 17:42:42 User 'system' try to start thread 'Order Routing'
+21/11 17:42:43 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+21/11 17:44:26 User 'system' try to update parameter of thread 'Simulator'
+21/11 17:44:28 Parameter of thread 'Simulator' updated
+21/11 17:44:38 User 'system' try to start thread 'Simulator'
+21/11 17:44:39 <FONT color="#0033CC"><B>Simulator started</B></FONT>
+21/11 17:44:42 User 'system' try to stop thread 'Simulator'
+21/11 17:44:43 <FONT color="#CC0033"><B>Simulator stopped</B></FONT>
+21/11 17:48:53 User 'system' try to start thread 'Simulator'
+21/11 17:48:53 <FONT color="#0033CC"><B>Simulator started</B></FONT>
+21/11 17:48:55 User 'system' try to stop thread 'Simulator'
+21/11 17:48:55 <FONT color="#CC0033"><B>Simulator stopped</B></FONT>
+21/11 17:56:33 User 'system' try to start thread 'Simulator'
+21/11 17:56:34 <FONT color="#0033CC"><B>Simulator started</B></FONT>
+21/11 17:56:36 User 'system' try to stop thread 'Simulator'
+21/11 17:56:37 <FONT color="#CC0033"><B>Simulator stopped</B></FONT>
+21/11 17:56:55 User 'system' try to start thread 'Simulator'
+21/11 17:56:56 <FONT color="#0033CC"><B>Simulator started</B></FONT>
+21/11 17:56:58 User 'system' try to stop thread 'Simulator'
+21/11 17:56:59 <FONT color="#CC0033"><B>Simulator stopped</B></FONT>
+21/11 17:57:01 User 'system' try to start thread 'Queue Monitor'
+21/11 17:57:02 <FONT color="#0033CC"><B>Queue Monitor started</B></FONT>
+21/11 17:57:07 User 'system' try to start thread 'Order Routing'
+21/11 17:57:08 <FONT color="#CC0033"><B>Order Routing stopped</B></FONT>
+21/11 17:57:10 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+21/11 18:02:15 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+21/11 18:02:18 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+21/11 18:02:20 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+21/11 18:02:25 User 'system' try to start thread 'Order Routing'
+21/11 18:02:26 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+21/11 18:02:44 User 'system' try to start thread 'Simulator'
+21/11 18:02:45 <FONT color="#0033CC"><B>Simulator started</B></FONT>
+21/11 18:02:47 User 'system' try to stop thread 'Simulator'
+21/11 18:02:48 <FONT color="#CC0033"><B>Simulator stopped</B></FONT>
+03/01 13:07:21 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+03/01 13:07:31 User 'system' try to start thread 'Queue Monitor'
+03/01 13:07:31 <FONT color="#0033CC"><B>Queue Monitor started</B></FONT>
+03/01 13:09:12 User 'system' try to update parameter of thread 'Viettel 8x26'
+03/01 13:09:19 User 'system' try to update parameter of thread 'Viettel 8x26'
+03/01 13:11:10 User 'system' try to update parameter of thread 'Viettel 8x26'
+03/01 13:11:10 Parameter of thread 'Viettel 8x26' updated
+03/01 13:11:16 User 'system' try to start thread 'Viettel 8x26'
+03/01 13:11:17 <FONT color="#0033CC"><B>Viettel 8x26 started</B></FONT>
+03/01 13:11:56 User 'system' try to start thread 'Queue Monitor'
+03/01 13:12:50 User 'system' try to start thread 'Queue Monitor'
+03/01 13:14:29 User 'system' try to start thread 'Viettel 8x26'
+03/01 13:14:30 <FONT color="#CC0033"><B>Viettel 8x26 stopped</B></FONT>
+03/01 13:14:32 <FONT color="#0033CC"><B>Viettel 8x26 started</B></FONT>
+03/01 13:15:53 User 'system' try to update parameter of thread 'Viettel 8x26'
+03/01 13:16:11 User 'system' try to update parameter of thread 'Viettel 8x26'
+03/01 13:16:11 Parameter of thread 'Viettel 8x26' updated
+03/01 13:16:16 User 'system' try to start thread 'Viettel 8x26'
+03/01 13:16:17 <FONT color="#CC0033"><B>Viettel 8x26 stopped</B></FONT>
+03/01 13:16:19 <FONT color="#0033CC"><B>Viettel 8x26 started</B></FONT>
+03/01 13:16:32 User 'system' try to destroy thread 'Queue Monitor'
+03/01 13:20:24 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+03/01 13:25:55 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+03/01 13:26:05 User 'system' try to start thread 'Queue Monitor'
+03/01 13:26:05 <FONT color="#0033CC"><B>Queue Monitor started</B></FONT>
+03/01 13:30:30 User 'system' try to destroy thread 'Queue Monitor'
+03/01 13:30:33 User 'system' try to start thread 'Queue Monitor'
+03/01 13:30:34 <FONT color="#0033CC"><B>Queue Monitor started</B></FONT>
+03/01 13:30:47 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+03/01 13:35:32 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+03/01 13:35:37 User 'system' try to start thread 'Queue Monitor'
+03/01 13:35:38 <FONT color="#0033CC"><B>Queue Monitor started</B></FONT>
+03/01 13:38:18 User 'system' try to start thread 'Viettel 8x26'
+03/01 13:38:19 <FONT color="#0033CC"><B>Viettel 8x26 started</B></FONT>
+03/01 13:39:49 User 'system' try to stop thread 'Viettel 8x26'
+03/01 13:39:49 <FONT color="#CC0033"><B>Viettel 8x26 stopped</B></FONT>
+03/01 13:40:03 User 'system' try to start thread 'Viettel 8x26'
+03/01 13:40:03 <FONT color="#0033CC"><B>Viettel 8x26 started</B></FONT>
+03/01 13:40:08 User 'system' try to start thread 'Order Routing'
+03/01 13:40:08 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+03/01 13:40:15 User 'system' try to start thread 'Command Statistic'
+03/01 13:40:15 <FONT color="#0033CC"><B>Command Statistic started</B></FONT>
+03/01 13:40:20 User 'system' try to start thread 'Quiz question'
+03/01 13:40:21 <FONT color="#0033CC"><B>Quiz question started</B></FONT>
+03/01 14:06:21 User 'system' try to start thread 'Command Routing'
+03/01 14:06:22 <FONT color="#0033CC"><B>Command Routing started</B></FONT>
+03/01 14:06:30 User 'system' try to start thread 'Command Routing'
+03/01 14:06:31 <FONT color="#CC0033"><B>Command Routing stopped</B></FONT>
+03/01 14:06:33 <FONT color="#0033CC"><B>Command Routing started</B></FONT>
+03/01 14:21:20 User 'system' try to start thread 'Order Routing'
+03/01 14:23:32 User 'system' try to destroy thread 'Order Routing'
+03/01 14:23:35 User 'system' try to start thread 'Order Routing'
+03/01 14:23:36 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+03/01 14:25:44 User 'system' try to start thread 'Queue Monitor'
+03/01 14:29:54 User 'system' try to start thread 'Queue Monitor'
+03/01 14:30:01 User 'system' try to destroy thread 'Queue Monitor'
+03/01 14:30:03 User 'system' try to start thread 'Queue Monitor'
+03/01 14:30:03 <FONT color="#0033CC"><B>Queue Monitor started</B></FONT>
+03/01 14:43:09 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+03/01 14:43:18 User 'system' try to start thread 'Order Routing'
+03/01 14:43:18 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+03/01 14:43:24 User 'system' try to start thread 'Queue Monitor'
+03/01 14:43:25 <FONT color="#0033CC"><B>Queue Monitor started</B></FONT>
+03/01 14:43:43 User 'system' try to start thread 'Command Routing'
+03/01 14:43:44 <FONT color="#0033CC"><B>Command Routing started</B></FONT>
+03/01 14:44:42 User 'system' try to start thread 'Command Statistic'
+03/01 14:44:43 <FONT color="#0033CC"><B>Command Statistic started</B></FONT>
+03/01 14:44:48 User 'system' try to start thread 'Viettel 8x26'
+03/01 14:44:48 <FONT color="#0033CC"><B>Viettel 8x26 started</B></FONT>
+03/01 14:44:51 User 'system' try to start thread 'Quiz question'
+03/01 14:44:51 <FONT color="#0033CC"><B>Quiz question started</B></FONT>
+03/01 14:46:58 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+03/01 14:47:00 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+03/01 14:47:02 <FONT color="#0033CC"><B>Subscription VNM (Charge) started</B></FONT>
+03/01 14:47:02 <FONT color="#CC0033"><B>Viettel 8x26 stopped</B></FONT>
+03/01 14:47:06 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+03/01 14:47:08 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+03/01 14:47:12 <FONT color="#0033CC"><B>Subscription VNM (Charge) started</B></FONT>
+03/01 14:47:28 <FONT color="#0033CC"><B>CRM started</B></FONT>
+03/01 14:47:28 <FONT color="#0033CC"><B>Command Routing started</B></FONT>
+03/01 14:47:28 <FONT color="#0033CC"><B>VMS Send Wap started</B></FONT>
+03/01 14:47:28 <FONT color="#0033CC"><B>Vina Send Wap started</B></FONT>
+03/01 14:47:29 <FONT color="#0033CC"><B>OTP Request started</B></FONT>
+03/01 14:47:29 <FONT color="#0033CC"><B>MO Request In Queue started</B></FONT>
+03/01 14:47:29 <FONT color="#0033CC"><B>Subscription VNM (Charge) started</B></FONT>
+03/01 14:47:29 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+03/01 14:47:30 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+03/01 14:47:30 <FONT color="#0033CC"><B>Vina Send Sms started</B></FONT>
+03/01 14:47:30 <FONT color="#0033CC"><B>Sub Request started</B></FONT>
+03/01 14:47:31 <FONT color="#0033CC"><B>VMS Send Sms started</B></FONT>
+03/01 14:47:31 <FONT color="#0033CC"><B>Non-sub sendSMS Daily started</B></FONT>
+03/01 14:47:32 <FONT color="#0033CC"><B>VNM Send SMS started</B></FONT>
+03/01 14:47:35 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+03/01 14:47:37 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+03/01 14:47:38 <FONT color="#0033CC"><B>Subscription VNM (Charge) started</B></FONT>
+03/01 14:47:44 User 'system' try to destroy thread 'MO Request In Queue'
+03/01 14:47:46 User 'system' try to stop thread 'Non-sub sendSMS Daily'
+03/01 14:47:47 <FONT color="#CC0033"><B>Non-sub sendSMS Daily stopped</B></FONT>
+03/01 14:47:48 <FONT color="#0033CC"><B>Subscription VNM (Charge) started</B></FONT>
+03/01 14:47:49 User 'system' try to stop thread 'OTP Request'
+03/01 14:47:51 <FONT color="#CC0033"><B>OTP Request stopped</B></FONT>
+03/01 14:47:51 User 'system' try to stop thread 'Sub Request'
+03/01 14:47:52 <FONT color="#CC0033"><B>Sub Request stopped</B></FONT>
+03/01 14:47:55 User 'system' try to stop thread 'VMS Send Sms'
+03/01 14:47:56 <FONT color="#CC0033"><B>VMS Send Sms stopped</B></FONT>
+03/01 14:47:57 User 'system' try to stop thread 'VMS Send Wap'
+03/01 14:47:57 <FONT color="#CC0033"><B>VMS Send Wap stopped</B></FONT>
+03/01 14:47:58 <FONT color="#0033CC"><B>Subscription VNM (Charge) started</B></FONT>
+03/01 14:48:00 User 'system' try to stop thread 'Vina Send Sms'
+03/01 14:48:01 <FONT color="#CC0033"><B>Vina Send Sms stopped</B></FONT>
+03/01 14:48:03 User 'system' try to stop thread 'Vina Send Wap'
+03/01 14:48:04 <FONT color="#CC0033"><B>Vina Send Wap stopped</B></FONT>
+03/01 14:48:07 User 'system' try to stop thread 'VNM Send SMS'
+03/01 14:48:07 <FONT color="#CC0033"><B>VNM Send SMS stopped</B></FONT>
+03/01 14:48:08 <FONT color="#0033CC"><B>Subscription VNM (Charge) started</B></FONT>
+03/01 14:48:14 User 'system' try to start thread 'Queue Monitor'
+03/01 14:48:14 <FONT color="#0033CC"><B>Queue Monitor started</B></FONT>
+03/01 14:48:18 <FONT color="#0033CC"><B>Subscription VNM (Charge) started</B></FONT>
+03/01 14:48:28 <FONT color="#0033CC"><B>Subscription VNM (Charge) started</B></FONT>
+03/01 14:48:37 User 'system' try to start thread 'Command Statistic'
+03/01 14:48:37 <FONT color="#0033CC"><B>Command Statistic started</B></FONT>
+03/01 14:48:38 <FONT color="#0033CC"><B>Subscription VNM (Charge) started</B></FONT>
+03/01 14:48:48 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+03/01 14:48:50 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+03/01 14:48:58 <FONT color="#0033CC"><B>Subscription VNM (Charge) started</B></FONT>
+03/01 14:49:03 User 'system' try to start thread 'Quiz question'
+03/01 14:49:04 <FONT color="#0033CC"><B>Quiz question started</B></FONT>
+03/01 14:49:08 <FONT color="#0033CC"><B>Subscription VNM (Charge) started</B></FONT>
+03/01 14:49:18 <FONT color="#0033CC"><B>Subscription VNM (Charge) started</B></FONT>
+03/01 14:50:06 <FONT color="#0033CC"><B>Simulator started</B></FONT>
+03/01 14:50:06 <FONT color="#0033CC"><B>Alarm started</B></FONT>
+03/01 14:50:06 <FONT color="#0033CC"><B>Command Logs started</B></FONT>
+03/01 14:50:06 <FONT color="#0033CC"><B>Command Statistic started</B></FONT>
+03/01 14:50:06 <FONT color="#0033CC"><B>VMS Send Sms started</B></FONT>
+03/01 14:50:06 <FONT color="#0033CC"><B>OTP Request started</B></FONT>
+03/01 14:50:06 <FONT color="#0033CC"><B>MO Request In Queue started</B></FONT>
+03/01 14:50:06 <FONT color="#0033CC"><B>Quiz question started</B></FONT>
+03/01 14:50:06 <FONT color="#0033CC"><B>Subscription VNM (Charge) started</B></FONT>
+03/01 14:50:06 <FONT color="#0033CC"><B>VNM Send SMS started</B></FONT>
+03/01 14:50:07 <FONT color="#0033CC"><B>Vina Send Sms started</B></FONT>
+03/01 14:50:07 <FONT color="#0033CC"><B>CRM started</B></FONT>
+03/01 14:50:07 <FONT color="#0033CC"><B>Command Routing started</B></FONT>
+03/01 14:50:08 <FONT color="#0033CC"><B>VMS Send Wap started</B></FONT>
+03/01 14:50:08 <FONT color="#0033CC"><B>Content Provider started</B></FONT>
+03/01 14:50:08 <FONT color="#0033CC"><B>Create CDR file started</B></FONT>
+03/01 14:50:08 <FONT color="#0033CC"><B>Viettel 8x26 started</B></FONT>
+03/01 14:50:09 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+03/01 14:50:09 <FONT color="#0033CC"><B>Non-sub sendSMS Daily started</B></FONT>
+03/01 14:50:09 <FONT color="#0033CC"><B>Vina Send Wap started</B></FONT>
+03/01 14:50:10 <FONT color="#0033CC"><B>Queue Monitor started</B></FONT>
+03/01 14:50:11 <FONT color="#0033CC"><B>Sub Request started</B></FONT>
+03/01 14:50:16 <FONT color="#0033CC"><B>Subscription VNM (Charge) started</B></FONT>
+03/01 14:50:17 <FONT color="#CC0033"><B>Viettel 8x26 stopped</B></FONT>
+03/01 14:50:17 <FONT color="#0033CC"><B>Viettel 8x26 started</B></FONT>
+03/01 14:50:26 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+03/01 14:50:26 <FONT color="#0033CC"><B>Subscription VNM (Charge) started</B></FONT>
+03/01 14:50:27 <FONT color="#CC0033"><B>Viettel 8x26 stopped</B></FONT>
+03/01 14:50:27 <FONT color="#0033CC"><B>Viettel 8x26 started</B></FONT>
+03/01 14:50:31 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+03/01 14:50:32 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+03/01 14:50:36 <FONT color="#0033CC"><B>Subscription VNM (Charge) started</B></FONT>
+03/01 14:50:36 <FONT color="#CC0033"><B>Viettel 8x26 stopped</B></FONT>
+03/01 14:50:37 <FONT color="#0033CC"><B>Viettel 8x26 started</B></FONT>
+03/01 14:51:10 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+03/01 14:51:14 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+03/01 14:51:15 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+03/01 14:51:27 User 'system' try to start thread 'Order Routing'
+03/01 14:51:28 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+03/01 14:51:35 User 'system' try to start thread 'Queue Monitor'
+03/01 14:51:36 <FONT color="#0033CC"><B>Queue Monitor started</B></FONT>
+03/01 14:51:40 User 'system' try to start thread 'Command Routing'
+03/01 14:51:41 <FONT color="#0033CC"><B>Command Routing started</B></FONT>
+03/01 14:51:55 User 'system' try to start thread 'Command Statistic'
+03/01 14:51:55 <FONT color="#0033CC"><B>Command Statistic started</B></FONT>
+03/01 14:52:03 User 'system' try to start thread 'Quiz question'
+03/01 14:52:04 <FONT color="#0033CC"><B>Quiz question started</B></FONT>
+03/01 14:52:07 User 'system' try to start thread 'Viettel 8x26'
+03/01 14:52:08 <FONT color="#0033CC"><B>Viettel 8x26 started</B></FONT>
+03/01 14:52:10 <FONT color="#CC0033"><B>Viettel 8x26 stopped</B></FONT>
+03/01 14:52:12 User 'system' try to start thread 'CRM'
+03/01 14:52:13 <FONT color="#0033CC"><B>CRM started</B></FONT>
+03/01 14:57:56 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+03/01 14:58:03 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+03/01 14:58:04 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+03/01 14:58:09 User 'system' try to start thread 'Order Routing'
+03/01 14:58:10 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+03/01 14:58:14 User 'system' try to start thread 'Command Statistic'
+03/01 14:58:15 <FONT color="#0033CC"><B>Command Statistic started</B></FONT>
+03/01 14:58:19 User 'system' try to start thread 'Command Routing'
+03/01 14:58:20 <FONT color="#0033CC"><B>Command Routing started</B></FONT>
+03/01 14:58:22 User 'system' try to start thread 'Queue Monitor'
+03/01 14:58:23 <FONT color="#0033CC"><B>Queue Monitor started</B></FONT>
+03/01 14:58:25 User 'system' try to start thread 'CRM'
+03/01 14:58:27 <FONT color="#0033CC"><B>CRM started</B></FONT>
+03/01 14:58:29 User 'system' try to start thread 'Quiz question'
+03/01 14:58:30 <FONT color="#0033CC"><B>Quiz question started</B></FONT>
+03/01 14:58:34 User 'system' try to start thread 'Viettel 8x26'
+03/01 14:58:36 <FONT color="#0033CC"><B>Viettel 8x26 started</B></FONT>
+03/01 14:58:44 <FONT color="#CC0033"><B>Viettel 8x26 stopped</B></FONT>
+03/01 15:00:01 User 'system' try to start thread 'Viettel 8x26'
+03/01 15:00:02 <FONT color="#0033CC"><B>Viettel 8x26 started</B></FONT>
+03/01 15:00:04 <FONT color="#CC0033"><B>Viettel 8x26 stopped</B></FONT>
+03/01 15:00:17 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+03/01 15:27:54 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+03/01 15:28:03 User 'system' try to start thread 'Order Routing'
+03/01 15:28:04 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+03/01 15:28:15 User 'system' try to start thread 'Queue Monitor'
+03/01 15:28:16 <FONT color="#0033CC"><B>Queue Monitor started</B></FONT>
+03/01 15:28:32 User 'system' try to start thread 'Quiz question'
+03/01 15:28:33 <FONT color="#0033CC"><B>Quiz question started</B></FONT>
+03/01 15:28:42 User 'system' try to start thread 'Viettel 8x26'
+03/01 15:28:43 <FONT color="#0033CC"><B>Viettel 8x26 started</B></FONT>
+03/01 15:28:49 <FONT color="#CC0033"><B>Viettel 8x26 stopped</B></FONT>
+03/01 15:29:22 User 'system' try to start thread 'Viettel 8x26'
+03/01 15:29:23 <FONT color="#0033CC"><B>Viettel 8x26 started</B></FONT>
+03/01 15:29:30 User 'system' try to start thread 'Command Routing'
+03/01 15:29:31 <FONT color="#0033CC"><B>Command Routing started</B></FONT>
+03/01 15:29:34 User 'system' try to start thread 'Command Statistic'
+03/01 15:29:35 <FONT color="#0033CC"><B>Command Statistic started</B></FONT>
+03/01 15:34:11 User 'system' try to start thread 'Order Routing'
+03/01 15:34:12 <FONT color="#CC0033"><B>Order Routing stopped</B></FONT>
+03/01 15:34:14 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+03/01 15:38:21 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+03/01 15:38:38 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+03/01 15:38:39 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+03/01 15:39:11 User 'system' try to start thread 'Order Routing'
+03/01 15:39:12 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+03/01 15:39:25 User 'system' try to start thread 'Command Routing'
+03/01 15:39:26 <FONT color="#0033CC"><B>Command Routing started</B></FONT>
+03/01 15:39:29 User 'system' try to start thread 'Command Statistic'
+03/01 15:39:30 <FONT color="#0033CC"><B>Command Statistic started</B></FONT>
+03/01 15:39:33 User 'system' try to start thread 'CRM'
+03/01 15:39:34 <FONT color="#0033CC"><B>CRM started</B></FONT>
+03/01 15:39:35 User 'system' try to start thread 'Quiz question'
+03/01 15:39:36 <FONT color="#0033CC"><B>Quiz question started</B></FONT>
+03/01 15:39:39 User 'system' try to start thread 'Viettel 8x26'
+03/01 15:39:40 <FONT color="#0033CC"><B>Viettel 8x26 started</B></FONT>
+03/01 15:39:40 User 'system' try to start thread 'Viettel 8x26'
+03/01 15:39:41 <FONT color="#CC0033"><B>Viettel 8x26 stopped</B></FONT>
+03/01 15:39:42 User 'system' try to start thread 'Queue Monitor'
+03/01 15:39:43 <FONT color="#0033CC"><B>Viettel 8x26 started</B></FONT>
+03/01 15:39:44 <FONT color="#0033CC"><B>Queue Monitor started</B></FONT>
+03/01 15:42:10 User 'system' try to update parameter of thread 'Queue Monitor'
+03/01 15:42:10 Parameter of thread 'Queue Monitor' updated
+03/01 15:55:54 User 'system' try to start thread 'Order Routing'
+03/01 15:55:56 <FONT color="#CC0033"><B>Order Routing stopped</B></FONT>
+03/01 15:55:57 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+03/01 16:00:09 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+03/01 16:00:14 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+03/01 16:00:15 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+03/01 16:00:21 User 'system' try to start thread 'Order Routing'
+03/01 16:00:22 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+03/01 16:00:27 User 'system' try to start thread 'Command Routing'
+03/01 16:00:28 <FONT color="#0033CC"><B>Command Routing started</B></FONT>
+03/01 16:00:32 User 'system' try to start thread 'Command Statistic'
+03/01 16:00:33 <FONT color="#0033CC"><B>Command Statistic started</B></FONT>
+03/01 16:00:37 User 'system' try to start thread 'Queue Monitor'
+03/01 16:00:38 <FONT color="#0033CC"><B>Queue Monitor started</B></FONT>
+03/01 16:00:40 User 'system' try to start thread 'Quiz question'
+03/01 16:00:41 <FONT color="#0033CC"><B>Quiz question started</B></FONT>
+03/01 16:00:44 User 'system' try to start thread 'Viettel 8x26'
+03/01 16:00:45 <FONT color="#0033CC"><B>Viettel 8x26 started</B></FONT>
+03/01 16:04:04 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+03/01 16:04:09 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+03/01 16:04:10 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+03/01 16:06:25 User 'system' try to update parameter of thread 'Viettel 8x26'
+03/01 16:06:26 Parameter of thread 'Viettel 8x26' updated
+03/01 16:06:28 User 'system' try to start thread 'Viettel 8x26'
+03/01 16:06:29 <FONT color="#0033CC"><B>Viettel 8x26 started</B></FONT>
+03/01 16:06:31 User 'system' try to start thread 'Order Routing'
+03/01 16:06:32 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+03/01 16:06:34 User 'system' try to start thread 'Command Routing'
+03/01 16:06:35 <FONT color="#0033CC"><B>Command Routing started</B></FONT>
+03/01 16:06:37 User 'system' try to start thread 'Command Statistic'
+03/01 16:06:38 <FONT color="#0033CC"><B>Command Statistic started</B></FONT>
+03/01 16:06:40 User 'system' try to start thread 'Queue Monitor'
+03/01 16:06:41 <FONT color="#0033CC"><B>Queue Monitor started</B></FONT>
+03/01 16:06:43 User 'system' try to start thread 'Quiz question'
+03/01 16:06:44 <FONT color="#0033CC"><B>Quiz question started</B></FONT>
+03/01 16:08:56 User 'system' try to start thread 'Order Routing'
+03/01 16:08:56 <FONT color="#CC0033"><B>Order Routing stopped</B></FONT>
+03/01 16:08:58 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+03/01 16:09:50 User 'system' try to start thread 'Order Routing'
+03/01 16:09:50 <FONT color="#CC0033"><B>Order Routing stopped</B></FONT>
+03/01 16:09:52 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+03/01 16:21:22 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+03/01 16:22:51 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+03/01 16:22:53 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+03/01 16:23:19 User 'system' try to start thread 'Order Routing'
+03/01 16:23:20 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+03/01 16:23:23 User 'system' try to start thread 'Viettel 8x26'
+03/01 16:23:23 <FONT color="#0033CC"><B>Viettel 8x26 started</B></FONT>
+03/01 16:23:26 User 'system' try to start thread 'Quiz question'
+03/01 16:23:26 <FONT color="#0033CC"><B>Quiz question started</B></FONT>
+03/01 16:23:30 User 'system' try to start thread 'CRM'
+03/01 16:23:30 <FONT color="#0033CC"><B>CRM started</B></FONT>
+03/01 16:23:34 User 'system' try to start thread 'Command Routing'
+03/01 16:23:35 <FONT color="#0033CC"><B>Command Routing started</B></FONT>
+03/01 16:23:37 User 'system' try to start thread 'Command Statistic'
+03/01 16:23:38 <FONT color="#0033CC"><B>Command Statistic started</B></FONT>
+03/01 16:27:40 User 'system' try to update parameter of thread 'Viettel 8x26'
+03/01 16:27:41 Parameter of thread 'Viettel 8x26' updated
+03/01 17:02:41 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+03/01 17:02:47 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+03/01 17:02:53 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+03/01 17:02:59 User 'system' try to start thread 'Order Routing'
+03/01 17:02:59 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+03/01 17:03:24 User 'system' try to update parameter of thread 'Viettel 8x26'
+03/01 17:03:24 Parameter of thread 'Viettel 8x26' updated
+03/01 17:03:27 User 'system' try to start thread 'Viettel 8x26'
+03/01 17:03:28 <FONT color="#0033CC"><B>Viettel 8x26 started</B></FONT>
+03/01 17:03:33 User 'system' try to start thread 'Command Routing'
+03/01 17:03:34 <FONT color="#0033CC"><B>Command Routing started</B></FONT>
+03/01 17:03:36 User 'system' try to start thread 'Command Statistic'
+03/01 17:03:37 <FONT color="#0033CC"><B>Command Statistic started</B></FONT>
+03/01 17:03:42 User 'system' try to start thread 'Queue Monitor'
+03/01 17:03:43 <FONT color="#0033CC"><B>Queue Monitor started</B></FONT>
+03/01 17:03:47 User 'system' try to start thread 'Quiz question'
+03/01 17:03:48 <FONT color="#0033CC"><B>Quiz question started</B></FONT>
+03/01 17:15:26 User 'system' try to start thread 'Order Routing'
+03/01 17:15:27 <FONT color="#CC0033"><B>Order Routing stopped</B></FONT>
+03/01 17:15:29 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+03/04 11:20:03 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+03/04 11:20:19 User 'system' try to start thread 'VMS GET CDR'
+03/04 11:20:20 <FONT color="#0033CC"><B>VMS GET CDR started</B></FONT>
+03/04 11:21:24 User 'system' try to update parameter of thread 'VMS GET CDR'
+03/04 11:21:24 Parameter of thread 'VMS GET CDR' updated
+03/04 11:21:26 User 'system' try to start thread 'VMS GET CDR'
+03/04 11:21:27 <FONT color="#CC0033"><B>VMS GET CDR stopped</B></FONT>
+03/04 11:21:29 <FONT color="#0033CC"><B>VMS GET CDR started</B></FONT>
+03/04 11:23:25 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+03/04 11:23:30 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+03/04 11:23:31 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+03/04 11:23:38 User 'system' try to start thread 'VMS GET CDR'
+03/04 11:23:39 <FONT color="#0033CC"><B>VMS GET CDR started</B></FONT>
+03/04 11:26:14 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+03/04 11:26:18 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+03/04 11:26:20 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+03/04 11:26:24 User 'system' try to start thread 'VMS GET CDR'
+03/04 11:26:24 <FONT color="#0033CC"><B>VMS GET CDR started</B></FONT>
+03/04 11:34:40 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+03/04 11:34:44 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+03/04 11:34:45 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+03/04 11:34:49 User 'system' try to start thread 'VMS GET CDR'
+03/04 11:34:50 <FONT color="#0033CC"><B>VMS GET CDR started</B></FONT>
+03/04 11:35:42 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+03/04 11:35:54 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+03/04 11:35:56 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+03/04 11:36:04 User 'system' try to start thread 'VMS GET CDR'
+03/04 11:36:04 <FONT color="#0033CC"><B>VMS GET CDR started</B></FONT>
+03/04 11:50:41 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+03/04 11:50:47 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+03/04 11:50:48 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+03/04 11:51:05 User 'system' try to update parameter of thread 'VMS GET CDR'
+03/04 11:51:08 Parameter of thread 'VMS GET CDR' updated
+03/04 11:51:10 User 'system' try to start thread 'VMS GET CDR'
+03/04 11:51:11 <FONT color="#0033CC"><B>VMS GET CDR started</B></FONT>
+03/04 11:52:44 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+03/04 11:52:49 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+03/04 11:52:50 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+03/04 11:52:54 User 'system' try to start thread 'VMS GET CDR'
+03/04 11:52:55 <FONT color="#0033CC"><B>VMS GET CDR started</B></FONT>
+03/04 11:54:00 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+03/04 11:54:05 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+03/04 11:54:06 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+03/04 11:54:10 User 'system' try to start thread 'VMS GET CDR'
+03/04 11:54:11 <FONT color="#0033CC"><B>VMS GET CDR started</B></FONT>
+03/04 11:56:17 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+03/04 11:56:21 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+03/04 11:56:23 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+03/04 11:56:27 User 'system' try to start thread 'VMS GET CDR'
+03/04 11:56:27 <FONT color="#0033CC"><B>VMS GET CDR started</B></FONT>
+03/04 11:57:04 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+03/04 11:57:08 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+03/04 11:57:09 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+03/04 11:57:13 User 'system' try to start thread 'VMS GET CDR'
+03/04 11:57:14 <FONT color="#0033CC"><B>VMS GET CDR started</B></FONT>
+03/04 12:00:22 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+03/04 12:00:27 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+03/04 12:00:28 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+03/04 12:00:33 User 'system' try to start thread 'VMS GET CDR'
+03/04 12:00:34 <FONT color="#0033CC"><B>VMS GET CDR started</B></FONT>
+03/04 14:34:17 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+03/04 14:34:21 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+03/04 14:34:23 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+03/04 14:34:29 User 'system' try to start thread 'VMS GET CDR'
+03/04 14:34:30 <FONT color="#0033CC"><B>VMS GET CDR started</B></FONT>
+03/04 14:35:21 User 'system' try to update parameter of thread 'VMS GET CDR'
+03/04 14:35:21 Parameter of thread 'VMS GET CDR' updated
+03/04 14:35:23 User 'system' try to start thread 'VMS GET CDR'
+03/04 14:35:24 <FONT color="#CC0033"><B>VMS GET CDR stopped</B></FONT>
+03/04 14:35:26 <FONT color="#0033CC"><B>VMS GET CDR started</B></FONT>
+03/04 14:36:11 User 'system' try to update parameter of thread 'VMS GET CDR'
+03/04 14:36:11 Parameter of thread 'VMS GET CDR' updated
+03/04 14:36:12 User 'system' try to start thread 'VMS GET CDR'
+03/04 14:36:13 <FONT color="#CC0033"><B>VMS GET CDR stopped</B></FONT>
+03/04 14:36:15 <FONT color="#0033CC"><B>VMS GET CDR started</B></FONT>
+03/04 14:38:36 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+03/04 14:38:41 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+03/04 14:38:42 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+03/04 14:39:44 User 'system' try to start thread 'VMS GET CDR'
+03/04 14:39:45 <FONT color="#0033CC"><B>VMS GET CDR started</B></FONT>
+03/04 14:54:00 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+03/04 14:54:05 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+03/04 14:54:06 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+03/04 14:54:17 User 'system' try to update parameter of thread 'VMS GET CDR'
+03/04 14:54:18 Parameter of thread 'VMS GET CDR' updated
+03/04 14:54:20 User 'system' try to start thread 'VMS GET CDR'
+03/04 14:54:20 <FONT color="#0033CC"><B>VMS GET CDR started</B></FONT>
+08/04 10:58:15 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+08/04 10:58:38 User 'system' try to update parameter of thread 'VMS GET CDR'
+08/04 10:58:40 Parameter of thread 'VMS GET CDR' updated
+08/04 10:58:42 User 'system' try to start thread 'VMS GET CDR'
+08/04 10:58:43 <FONT color="#0033CC"><B>VMS GET CDR started</B></FONT>
+08/04 10:59:09 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+08/04 10:59:14 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+08/04 10:59:16 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+08/04 11:01:01 User 'system' try to start thread 'VMS GET CDR'
+08/04 11:01:02 <FONT color="#0033CC"><B>VMS GET CDR started</B></FONT>
+08/04 11:02:31 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+08/04 11:02:35 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+08/04 11:02:36 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+08/04 11:02:40 User 'system' try to start thread 'VMS GET CDR'
+08/04 11:02:41 <FONT color="#0033CC"><B>VMS GET CDR started</B></FONT>
+09/04 09:30:18 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+09/04 09:30:27 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+09/04 09:38:05 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+09/04 09:38:52 User 'system' try to update parameter of thread 'Import CDR'
+09/04 09:39:17 User 'system' try to update parameter of thread 'Import CDR'
+09/04 09:39:17 Parameter of thread 'Import CDR' updated
+09/04 09:39:28 User 'system' try to update parameter of thread 'Import CDR'
+09/04 09:39:28 Parameter of thread 'Import CDR' updated
+09/04 09:39:30 User 'system' try to start thread 'Import CDR'
+09/04 09:39:30 <FONT color="#0033CC"><B>Import CDR started</B></FONT>
+09/04 10:28:42 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+09/04 10:28:48 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+09/04 10:28:49 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+09/04 10:29:45 User 'system' try to update parameter of thread 'Import CDR'
+09/04 10:29:46 Parameter of thread 'Import CDR' updated
+09/04 10:29:50 User 'system' try to start thread 'Import CDR'
+09/04 10:29:50 <FONT color="#0033CC"><B>Import CDR started</B></FONT>
+09/04 10:30:03 User 'system' try to update parameter of thread 'Import CDR'
+09/04 10:30:04 Parameter of thread 'Import CDR' updated
+09/04 10:30:06 User 'system' try to start thread 'Import CDR'
+09/04 10:30:07 <FONT color="#CC0033"><B>Import CDR stopped</B></FONT>
+09/04 10:30:08 <FONT color="#0033CC"><B>Import CDR started</B></FONT>
+09/04 10:31:10 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+09/04 10:31:15 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+09/04 10:31:17 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+09/04 10:31:22 User 'system' try to start thread 'Import CDR'
+09/04 10:31:22 <FONT color="#0033CC"><B>Import CDR started</B></FONT>
+09/04 10:32:34 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+09/04 10:32:40 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+09/04 10:32:41 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+09/04 10:32:58 User 'system' try to update parameter of thread 'Import CDR'
+09/04 10:32:59 Parameter of thread 'Import CDR' updated
+09/04 10:33:01 User 'system' try to start thread 'Import CDR'
+09/04 10:33:02 <FONT color="#0033CC"><B>Import CDR started</B></FONT>
+09/04 10:33:12 User 'system' try to update parameter of thread 'Import CDR'
+09/04 10:33:12 Parameter of thread 'Import CDR' updated
+09/04 10:33:14 User 'system' try to start thread 'Import CDR'
+09/04 10:33:15 <FONT color="#CC0033"><B>Import CDR stopped</B></FONT>
+09/04 10:33:17 <FONT color="#0033CC"><B>Import CDR started</B></FONT>
+09/04 10:33:49 User 'system' try to update parameter of thread 'Import CDR'
+09/04 10:33:49 Parameter of thread 'Import CDR' updated
+09/04 10:33:51 User 'system' try to start thread 'Import CDR'
+09/04 10:33:52 <FONT color="#CC0033"><B>Import CDR stopped</B></FONT>
+09/04 10:33:54 <FONT color="#0033CC"><B>Import CDR started</B></FONT>
+09/04 10:34:40 User 'system' try to stop thread 'Import CDR'
+09/04 10:34:45 User 'system' try to destroy thread 'Import CDR'
+09/04 10:36:17 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+09/04 10:36:22 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+09/04 10:36:23 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+09/04 10:36:30 User 'system' try to start thread 'Import CDR'
+09/04 10:36:31 <FONT color="#0033CC"><B>Import CDR started</B></FONT>
+09/04 10:37:59 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+09/04 10:38:04 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+09/04 10:38:05 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+09/04 10:38:09 User 'system' try to start thread 'Import CDR'
+09/04 10:38:10 <FONT color="#0033CC"><B>Import CDR started</B></FONT>
+09/04 10:38:44 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+09/04 10:38:48 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+09/04 10:38:49 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+09/04 10:38:54 User 'system' try to start thread 'Import CDR'
+09/04 10:38:54 <FONT color="#0033CC"><B>Import CDR started</B></FONT>
+09/04 10:42:07 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+09/04 10:42:24 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+09/04 10:42:26 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+09/04 10:42:31 User 'system' try to start thread 'Import CDR'
+09/04 10:42:32 <FONT color="#0033CC"><B>Import CDR started</B></FONT>
+09/04 10:43:12 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+09/04 10:43:16 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+09/04 10:43:17 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+09/04 10:43:21 User 'system' try to start thread 'Import CDR'
+09/04 10:43:22 <FONT color="#0033CC"><B>Import CDR started</B></FONT>
+09/04 10:45:01 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+09/04 10:45:06 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+09/04 10:45:08 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+09/04 10:45:15 User 'system' try to start thread 'Import CDR'
+09/04 10:45:15 <FONT color="#0033CC"><B>Import CDR started</B></FONT>
+09/04 10:47:28 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+09/04 10:47:34 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+09/04 10:47:35 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+09/04 10:47:39 User 'system' try to start thread 'Import CDR'
+09/04 10:47:40 <FONT color="#0033CC"><B>Import CDR started</B></FONT>
+09/04 10:48:03 User 'system' try to destroy thread 'Import CDR'
+09/04 10:57:57 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+09/04 10:58:01 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+09/04 10:58:02 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+09/04 10:58:06 User 'system' try to start thread 'Import CDR'
+09/04 10:58:07 <FONT color="#0033CC"><B>Import CDR started</B></FONT>
+09/04 10:58:58 User 'system' try to stop thread 'Import CDR'
+09/04 10:59:09 <FONT color="#CC0033"><B>Import CDR stopped</B></FONT>
+09/04 10:59:12 User 'system' try to destroy thread 'Import CDR'
+09/04 11:01:07 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+09/04 11:01:12 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+09/04 11:01:13 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+09/04 11:01:17 User 'system' try to start thread 'Import CDR'
+09/04 11:01:18 <FONT color="#0033CC"><B>Import CDR started</B></FONT>
+10/04 06:57:04 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+10/04 06:57:20 User 'system' try to update parameter of thread 'Import CDR'
+10/04 06:57:21 Parameter of thread 'Import CDR' updated
+10/04 06:57:24 User 'system' try to start thread 'Import CDR'
+10/04 06:57:25 <FONT color="#0033CC"><B>Import CDR started</B></FONT>
+10/04 06:57:56 User 'system' try to update parameter of thread 'Import CDR'
+10/04 06:57:56 Parameter of thread 'Import CDR' updated
+10/04 06:58:46 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+10/04 06:58:52 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+10/04 06:58:53 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+10/04 06:58:58 User 'system' try to start thread 'Import CDR'
+10/04 06:58:59 <FONT color="#0033CC"><B>Import CDR started</B></FONT>
+10/04 06:59:19 User 'system' try to stop thread 'Import CDR'
+10/04 06:59:31 <FONT color="#CC0033"><B>Import CDR stopped</B></FONT>
+10/04 07:01:49 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+10/04 07:01:58 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+10/04 07:02:00 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+10/04 07:02:03 User 'system' try to start thread 'VMS GET CDR'
+10/04 07:02:03 <FONT color="#0033CC"><B>VMS GET CDR started</B></FONT>
+10/04 07:02:08 User 'system' try to stop thread 'VMS GET CDR'
+10/04 07:02:09 <FONT color="#CC0033"><B>VMS GET CDR stopped</B></FONT>
+10/04 07:02:11 User 'system' try to start thread 'Import CDR'
+10/04 07:02:11 <FONT color="#0033CC"><B>Import CDR started</B></FONT>
+10/04 10:53:03 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+10/04 10:53:08 User 'system' try to start thread 'Import CDR'
+10/04 10:53:08 <FONT color="#0033CC"><B>Import CDR started</B></FONT>
+14/04 16:08:24 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+14/04 16:10:33 User 'system' try to start thread 'Create CDR file'
+14/04 16:10:33 <FONT color="#0033CC"><B>Create CDR file started</B></FONT>
+14/04 16:23:08 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+14/04 16:23:14 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+14/04 16:23:16 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+14/04 16:23:21 User 'system' try to start thread 'Create CDR file'
+14/04 16:23:22 <FONT color="#0033CC"><B>Create CDR file started</B></FONT>
+14/04 16:32:15 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+14/04 16:32:32 User 'system' try to update parameter of thread 'Create CDR file'
+14/04 16:32:32 Parameter of thread 'Create CDR file' updated
+14/04 16:32:35 User 'system' try to start thread 'Create CDR file'
+14/04 16:32:36 <FONT color="#0033CC"><B>Create CDR file started</B></FONT>
+14/04 17:04:14 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+14/04 17:04:18 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+14/04 17:04:20 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+14/04 17:04:53 User 'system' try to update parameter of thread 'Create CDR file'
+14/04 17:04:54 Parameter of thread 'Create CDR file' updated
+14/04 17:04:56 User 'system' try to start thread 'Create CDR file'
+14/04 17:04:56 <FONT color="#0033CC"><B>Create CDR file started</B></FONT>
+14/04 17:05:16 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+14/04 17:05:22 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+14/04 17:05:23 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+14/04 17:05:36 User 'system' try to update parameter of thread 'Create CDR file'
+14/04 17:05:37 Parameter of thread 'Create CDR file' updated
+14/04 17:05:39 User 'system' try to start thread 'Create CDR file'
+14/04 17:05:39 <FONT color="#0033CC"><B>Create CDR file started</B></FONT>
+14/04 17:06:08 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+14/04 17:06:14 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+14/04 17:06:15 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+14/04 17:06:19 User 'system' try to start thread 'Create CDR file'
+14/04 17:06:19 <FONT color="#0033CC"><B>Create CDR file started</B></FONT>
+14/04 17:07:51 User 'system' try to update parameter of thread 'Create CDR file'
+14/04 17:07:51 Parameter of thread 'Create CDR file' updated
+14/04 17:08:04 User 'system' try to start thread 'Create CDR file'
+14/04 17:08:04 <FONT color="#CC0033"><B>Create CDR file stopped</B></FONT>
+14/04 17:08:06 <FONT color="#0033CC"><B>Create CDR file started</B></FONT>
+14/04 17:09:24 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+14/04 17:09:28 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+14/04 17:09:30 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+14/04 17:09:35 User 'system' try to start thread 'Create CDR file'
+14/04 17:09:35 <FONT color="#0033CC"><B>Create CDR file started</B></FONT>
+14/04 17:12:17 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+14/04 17:12:21 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+14/04 17:12:22 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+14/04 17:12:26 User 'system' try to start thread 'Create CDR file'
+14/04 17:12:27 <FONT color="#0033CC"><B>Create CDR file started</B></FONT>
+14/04 17:15:52 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+14/04 17:15:56 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+14/04 17:15:58 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+14/04 17:16:02 User 'system' try to start thread 'Create CDR file'
+14/04 17:16:02 <FONT color="#0033CC"><B>Create CDR file started</B></FONT>
+14/04 17:18:19 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+14/04 17:18:24 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+14/04 17:18:25 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+14/04 17:18:29 User 'system' try to start thread 'Create CDR file'
+14/04 17:18:29 <FONT color="#0033CC"><B>Create CDR file started</B></FONT>
+22/04 15:56:39 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+22/04 15:57:14 User 'system' try to update parameter of thread 'Create CDR file'
+22/04 15:57:17 Parameter of thread 'Create CDR file' updated
+22/04 15:57:35 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+22/04 15:57:40 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+22/04 15:57:41 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+22/04 15:57:45 User 'system' try to start thread 'Create CDR file'
+22/04 15:57:46 <FONT color="#0033CC"><B>Create CDR file started</B></FONT>
+22/04 16:00:05 User 'system' try to stop thread 'Create CDR file'
+22/04 16:02:18 <FONT color="#CC0033"><B>Create CDR file stopped</B></FONT>
+29/04 17:16:38 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+29/04 17:16:44 User 'system' try to start thread 'Create Non-sub CDR file'
+29/04 17:16:45 <FONT color="#0033CC"><B>Create Non-sub CDR file started</B></FONT>
+29/04 17:16:47 User 'system' try to stop thread 'Create Non-sub CDR file'
+29/04 17:16:49 <FONT color="#CC0033"><B>Create Non-sub CDR file stopped</B></FONT>
+29/04 17:17:29 User 'system' try to update parameter of thread 'Create Non-sub CDR file'
+29/04 17:17:29 Parameter of thread 'Create Non-sub CDR file' updated
+29/04 17:17:31 User 'system' try to start thread 'Create Non-sub CDR file'
+29/04 17:17:32 <FONT color="#0033CC"><B>Create Non-sub CDR file started</B></FONT>
+29/04 17:17:45 User 'system' try to stop thread 'Create Non-sub CDR file'
+29/04 17:17:51 <FONT color="#CC0033"><B>Create Non-sub CDR file stopped</B></FONT>
+29/04 17:18:51 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+29/04 17:18:56 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+29/04 17:18:58 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+29/04 17:19:03 User 'system' try to start thread 'Create Non-sub CDR file'
+29/04 17:19:03 <FONT color="#0033CC"><B>Create Non-sub CDR file started</B></FONT>
+29/04 17:20:06 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+29/04 17:20:11 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+29/04 17:20:13 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+29/04 17:20:21 User 'system' try to start thread 'Create Non-sub CDR file'
+29/04 17:20:22 <FONT color="#0033CC"><B>Create Non-sub CDR file started</B></FONT>
+29/04 17:25:49 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+29/04 17:25:53 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+29/04 17:25:54 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+29/04 17:26:00 User 'system' try to start thread 'Create Non-sub CDR file'
+29/04 17:26:01 <FONT color="#0033CC"><B>Create Non-sub CDR file started</B></FONT>
+29/04 17:28:04 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+29/04 17:28:09 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+29/04 17:28:10 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+29/04 17:28:15 User 'system' try to start thread 'Create Non-sub CDR file'
+29/04 17:28:16 <FONT color="#0033CC"><B>Create Non-sub CDR file started</B></FONT>
+29/04 17:29:58 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+29/04 17:31:35 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+29/04 17:31:41 User 'system' try to start thread 'Create CDR file'
+29/04 17:31:41 <FONT color="#0033CC"><B>Create CDR file started</B></FONT>
+29/04 17:31:53 User 'system' try to stop thread 'Create CDR file'
+29/04 17:31:53 <FONT color="#CC0033"><B>Create CDR file stopped</B></FONT>
+29/04 17:32:46 User 'system' try to update parameter of thread 'Create CDR file'
+29/04 17:32:46 Parameter of thread 'Create CDR file' updated
+29/04 17:32:48 User 'system' try to start thread 'Create CDR file'
+29/04 17:32:48 <FONT color="#0033CC"><B>Create CDR file started</B></FONT>
+29/04 17:39:19 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+29/04 17:39:24 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+29/04 17:39:26 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+29/04 17:39:51 User 'system' try to update parameter of thread 'Create CDR file'
+29/04 17:39:51 Parameter of thread 'Create CDR file' updated
+29/04 17:39:53 User 'system' try to start thread 'Create CDR file'
+29/04 17:39:54 <FONT color="#0033CC"><B>Create CDR file started</B></FONT>
+29/04 17:45:45 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+29/04 17:47:21 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+08/05 20:29:08 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+08/05 20:29:25 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+08/05 20:29:48 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+08/05 20:30:01 User 'system' try to update parameter of thread 'Create CDR file'
+08/05 20:30:03 Parameter of thread 'Create CDR file' updated
+08/05 20:30:05 User 'system' try to start thread 'Create CDR file'
+08/05 20:30:06 <FONT color="#0033CC"><B>Create CDR file started</B></FONT>
+08/05 20:31:12 User 'system' try to destroy thread 'Create CDR file'
+08/05 20:37:42 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+08/05 20:37:46 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+08/05 20:37:48 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+08/05 20:38:28 User 'system' try to update parameter of thread 'Create CDR file'
+08/05 20:38:29 Parameter of thread 'Create CDR file' updated
+08/05 20:38:32 User 'system' try to start thread 'Create CDR file'
+08/05 20:38:32 <FONT color="#0033CC"><B>Create CDR file started</B></FONT>
+08/05 20:39:27 User 'system' try to update parameter of thread 'Create CDR file'
+08/05 20:39:27 Parameter of thread 'Create CDR file' updated
+08/05 20:39:29 User 'system' try to start thread 'Create CDR file'
+08/05 20:39:30 <FONT color="#CC0033"><B>Create CDR file stopped</B></FONT>
+08/05 20:39:31 <FONT color="#0033CC"><B>Create CDR file started</B></FONT>
+08/05 20:40:22 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+08/05 20:40:27 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+08/05 20:40:28 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+08/05 20:40:33 User 'system' try to start thread 'Create CDR file'
+08/05 20:40:34 <FONT color="#0033CC"><B>Create CDR file started</B></FONT>
+08/05 20:41:16 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+08/05 20:41:20 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+08/05 20:41:21 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+08/05 20:41:26 User 'system' try to start thread 'Create CDR file'
+08/05 20:41:26 <FONT color="#0033CC"><B>Create CDR file started</B></FONT>
+08/05 20:42:27 User 'system' try to update parameter of thread 'Create CDR file'
+08/05 20:42:27 Parameter of thread 'Create CDR file' updated
+08/05 20:42:52 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+08/05 20:42:57 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+08/05 20:42:58 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+08/05 20:43:02 User 'system' try to start thread 'Create CDR file'
+08/05 20:43:02 <FONT color="#0033CC"><B>Create CDR file started</B></FONT>
+08/05 20:44:02 User 'system' try to update parameter of thread 'Create CDR file'
+08/05 20:44:02 Parameter of thread 'Create CDR file' updated
+08/05 20:51:08 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+08/05 20:51:21 User 'system' try to update parameter of thread 'Create CDR file'
+08/05 20:51:21 Parameter of thread 'Create CDR file' updated
+08/05 20:51:22 User 'system' try to start thread 'Create CDR file'
+08/05 20:51:23 <FONT color="#0033CC"><B>Create CDR file started</B></FONT>
+08/05 20:55:42 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+08/05 21:01:05 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+08/05 21:01:13 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+08/05 22:17:54 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+08/05 22:18:10 User 'system' try to update parameter of thread 'Create CDR file'
+08/05 22:18:10 Parameter of thread 'Create CDR file' updated
+08/05 22:18:11 User 'system' try to start thread 'Create CDR file'
+08/05 22:18:11 <FONT color="#CC0033"><B>Create CDR file stopped</B></FONT>
+08/05 22:18:13 <FONT color="#0033CC"><B>Create CDR file started</B></FONT>
+08/05 22:18:23 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+08/05 22:55:25 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+08/05 22:55:40 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+14/05 09:55:40 <FONT color="#0033CC"><B>CRM started</B></FONT>
+14/05 09:55:40 <FONT color="#0033CC"><B>VMS Send Wap started</B></FONT>
+14/05 09:55:40 <FONT color="#0033CC"><B>Command Routing started</B></FONT>
+14/05 09:55:40 <FONT color="#0033CC"><B>Vina Send Wap started</B></FONT>
+14/05 09:55:40 <FONT color="#0033CC"><B>OTP Request started</B></FONT>
+14/05 09:55:40 <FONT color="#0033CC"><B>Non-sub sendSMS Daily started</B></FONT>
+14/05 09:55:40 <FONT color="#0033CC"><B>Unregister Viettel-non-sub started</B></FONT>
+14/05 09:55:41 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+14/05 09:55:41 <FONT color="#0033CC"><B>Sub Request started</B></FONT>
+14/05 09:55:41 <FONT color="#0033CC"><B>Vina Send Sms started</B></FONT>
+14/05 09:55:42 <FONT color="#0033CC"><B>VMS Send Sms started</B></FONT>
+14/05 09:55:42 <FONT color="#0033CC"><B>Subscription VNM (Charge) started</B></FONT>
+14/05 09:55:43 <FONT color="#0033CC"><B>VNM Send SMS started</B></FONT>
+14/05 09:56:22 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+14/05 09:57:12 User 'system' try to start thread 'Order Routing'
+14/05 09:57:36 User 'system' try to stop thread 'Unregister Viettel-non-sub'
+14/05 09:57:37 <FONT color="#CC0033"><B>Unregister Viettel-non-sub stopped</B></FONT>
+14/05 09:57:38 User 'system' try to stop thread 'Subscription VNM (Charge)'
+14/05 09:57:40 User 'system' try to stop thread 'Non-sub sendSMS Daily'
+14/05 09:57:40 <FONT color="#CC0033"><B>Subscription VNM (Charge) stopped</B></FONT>
+14/05 09:57:41 <FONT color="#CC0033"><B>Non-sub sendSMS Daily stopped</B></FONT>
+14/05 09:57:43 User 'system' try to stop thread 'Sub Request'
+14/05 09:57:45 <FONT color="#CC0033"><B>Sub Request stopped</B></FONT>
+14/05 09:57:46 User 'system' try to stop thread 'OTP Request'
+14/05 09:57:49 User 'system' try to stop thread 'VNM Send SMS'
+14/05 09:57:50 <FONT color="#CC0033"><B>VNM Send SMS stopped</B></FONT>
+14/05 09:57:51 User 'system' try to stop thread 'Vina Send Wap'
+14/05 09:57:53 <FONT color="#CC0033"><B>Vina Send Wap stopped</B></FONT>
+14/05 09:57:54 User 'system' try to stop thread 'Vina Send Sms'
+14/05 09:57:56 <FONT color="#CC0033"><B>Vina Send Sms stopped</B></FONT>
+14/05 09:57:57 User 'system' try to stop thread 'VMS Send Wap'
+14/05 09:57:59 <FONT color="#CC0033"><B>VMS Send Wap stopped</B></FONT>
+14/05 09:58:00 User 'system' try to stop thread 'VMS Send Sms'
+14/05 09:58:02 <FONT color="#CC0033"><B>VMS Send Sms stopped</B></FONT>
+14/05 10:11:45 <FONT color="#0033CC"><B>CRM started</B></FONT>
+14/05 10:11:45 <FONT color="#0033CC"><B>Command Routing started</B></FONT>
+14/05 10:11:45 <FONT color="#0033CC"><B>VMS Send Wap started</B></FONT>
+14/05 10:11:45 <FONT color="#0033CC"><B>Vina Send Wap started</B></FONT>
+14/05 10:11:45 <FONT color="#0033CC"><B>OTP Request started</B></FONT>
+14/05 10:11:45 <FONT color="#0033CC"><B>Unregister Viettel-non-sub started</B></FONT>
+14/05 10:11:45 <FONT color="#0033CC"><B>Non-sub sendSMS Daily started</B></FONT>
+14/05 10:11:46 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+14/05 10:11:46 <FONT color="#0033CC"><B>Vina Send Sms started</B></FONT>
+14/05 10:11:46 <FONT color="#0033CC"><B>Sub Request started</B></FONT>
+14/05 10:11:47 <FONT color="#0033CC"><B>VMS Send Sms started</B></FONT>
+14/05 10:11:47 <FONT color="#0033CC"><B>Subscription VNM (Charge) started</B></FONT>
+14/05 10:11:48 <FONT color="#0033CC"><B>VNM Send SMS started</B></FONT>
+14/05 10:11:59 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+14/05 10:14:15 <FONT color="#0033CC"><B>CRM started</B></FONT>
+14/05 10:14:15 <FONT color="#0033CC"><B>Command Routing started</B></FONT>
+14/05 10:14:15 <FONT color="#0033CC"><B>VMS Send Wap started</B></FONT>
+14/05 10:14:16 <FONT color="#0033CC"><B>Vina Send Wap started</B></FONT>
+14/05 10:14:16 <FONT color="#0033CC"><B>OTP Request started</B></FONT>
+14/05 10:14:16 <FONT color="#0033CC"><B>Unregister Viettel-non-sub started</B></FONT>
+14/05 10:14:16 <FONT color="#0033CC"><B>Non-sub sendSMS Daily started</B></FONT>
+14/05 10:14:17 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+14/05 10:14:17 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+14/05 10:14:17 <FONT color="#0033CC"><B>Vina Send Sms started</B></FONT>
+14/05 10:14:17 <FONT color="#0033CC"><B>Sub Request started</B></FONT>
+14/05 10:14:18 <FONT color="#0033CC"><B>VMS Send Sms started</B></FONT>
+14/05 10:14:18 <FONT color="#0033CC"><B>Subscription VNM (Charge) started</B></FONT>
+14/05 10:14:19 <FONT color="#0033CC"><B>VNM Send SMS started</B></FONT>
+14/05 10:14:25 <FONT color="#CC6622"><U>User 'system' disconnected</U></FONT>
+14/05 10:14:27 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+28/05 09:45:58 <FONT color="#0033CC"><B>VMS Send Wap started</B></FONT>
+28/05 09:45:58 <FONT color="#0033CC"><B>Vina Send Wap started</B></FONT>
+28/05 09:45:58 <FONT color="#0033CC"><B>Command Routing started</B></FONT>
+28/05 09:45:58 <FONT color="#0033CC"><B>CRM started</B></FONT>
+28/05 09:45:58 <FONT color="#0033CC"><B>OTP Request started</B></FONT>
+28/05 09:45:59 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+28/05 09:45:59 <FONT color="#0033CC"><B>Vina Send Sms started</B></FONT>
+28/05 09:45:59 <FONT color="#0033CC"><B>Sub Request started</B></FONT>
+28/05 09:45:59 <FONT color="#0033CC"><B>Vinaphone Sub Request started</B></FONT>
+28/05 09:45:59 <FONT color="#0033CC"><B>Subscription VNM (Charge) started</B></FONT>
+28/05 09:46:00 <FONT color="#0033CC"><B>VMS Send Sms started</B></FONT>
+28/05 09:46:00 <FONT color="#0033CC"><B>Unregister Viettel-non-sub started</B></FONT>
+28/05 09:46:00 <FONT color="#0033CC"><B>Vinaphone OTP Request started</B></FONT>
+28/05 09:46:01 <FONT color="#0033CC"><B>VNM Send SMS started</B></FONT>
+28/05 09:46:02 <FONT color="#0033CC"><B>Non-sub sendSMS Daily started</B></FONT>
+28/05 09:48:49 <FONT color="#2266CC"><U>User 'system' connected successfully</U></FONT>
+28/05 09:49:43 User 'system' try to stop thread 'Non-sub sendSMS Daily'
+28/05 09:49:44 <FONT color="#CC0033"><B>Non-sub sendSMS Daily stopped</B></FONT>
+28/05 09:49:45 User 'system' try to stop thread 'Subscription VNM (Charge)'
+28/05 09:49:47 <FONT color="#CC0033"><B>Subscription VNM (Charge) stopped</B></FONT>
+28/05 09:49:48 User 'system' try to stop thread 'Unregister Viettel-non-sub'
+28/05 09:49:50 <FONT color="#CC0033"><B>Unregister Viettel-non-sub stopped</B></FONT>
+28/05 09:49:51 User 'system' try to stop thread 'OTP Request'
+28/05 09:49:53 <FONT color="#CC0033"><B>OTP Request stopped</B></FONT>
+28/05 09:49:54 User 'system' try to stop thread 'Sub Request'
+28/05 09:49:56 <FONT color="#CC0033"><B>Sub Request stopped</B></FONT>
+28/05 09:49:58 User 'system' try to stop thread 'VMS Send Sms'
+28/05 09:49:59 <FONT color="#CC0033"><B>VMS Send Sms stopped</B></FONT>
+28/05 09:50:01 User 'system' try to stop thread 'VMS Send Wap'
+28/05 09:50:02 <FONT color="#CC0033"><B>VMS Send Wap stopped</B></FONT>
+28/05 09:50:04 User 'system' try to stop thread 'Vina Send Sms'
+28/05 09:50:05 <FONT color="#CC0033"><B>Vina Send Sms stopped</B></FONT>
+28/05 09:50:06 User 'system' try to stop thread 'Vina Send Wap'
+28/05 09:50:08 <FONT color="#CC0033"><B>Vina Send Wap stopped</B></FONT>
+28/05 09:50:09 User 'system' try to stop thread 'VNM Send SMS'
+28/05 09:50:11 <FONT color="#CC0033"><B>VNM Send SMS stopped</B></FONT>
+28/05 09:50:18 User 'system' try to stop thread 'CRM'
+28/05 09:50:19 <FONT color="#CC0033"><B>CRM stopped</B></FONT>
+28/05 09:50:45 User 'system' try to start thread 'Order Routing'
+28/05 09:50:47 <FONT color="#CC0033"><B>Order Routing stopped</B></FONT>
+28/05 09:50:49 <FONT color="#0033CC"><B>Order Routing started</B></FONT>
+28/05 09:53:26 User 'system' try to update parameter of thread 'Simulator'
+28/05 09:53:28 Parameter of thread 'Simulator' updated
+28/05 09:53:40 User 'system' try to start thread 'Simulator'
+28/05 09:53:40 <FONT color="#0033CC"><B>Simulator started</B></FONT>
+28/05 09:53:43 User 'system' try to stop thread 'Simulator'
+28/05 09:53:43 <FONT color="#CC0033"><B>Simulator stopped</B></FONT>
+28/05 09:53:57 User 'system' try to update parameter of thread 'Simulator'
+28/05 09:53:57 Parameter of thread 'Simulator' updated
+28/05 09:53:59 User 'system' try to start thread 'Simulator'
+28/05 09:54:00 <FONT color="#0033CC"><B>Simulator started</B></FONT>
+28/05 09:54:02 User 'system' try to stop thread 'Simulator'
+28/05 09:54:03 <FONT color="#CC0033"><B>Simulator stopped</B></FONT>
+28/05 09:54:08 User 'system' try to start thread 'Simulator'
+28/05 09:54:09 <FONT color="#0033CC"><B>Simulator started</B></FONT>

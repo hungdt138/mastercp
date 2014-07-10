@@ -1,0 +1,19 @@
+03/01 17:03:28:994 Viettel 8x26 started
+03/01 17:03:29:048 Testing connection ...
+03/01 17:03:29:054 Created provisioning instance for VT8X26
+03/01 17:03:29:058 Testing connection are success
+03/01 17:03:29:063 Starting process session
+03/01 17:03:29:168 Total 0 instances are started
+03/01 17:03:29:177 Total 1 instances are added
+03/01 17:04:17:210 submit request (RequestId: 0) (MoId: 1235) (SrcNum: 8626) (DstNum: 84968918527?) (MsgContent: Ban da yeu cau dich vu ACOMVT_GET, tin nhan se duoc gui trong giay lat.)
+03/01 17:04:18:690 response received (MTResult: Ok)
+03/01 17:04:18:699 submit request (RequestId: 0) (MoId: 1235) (SrcNum: 8626) (DstNum: 84968918527?) (MsgContent: Link dich vu: : http://goo.gl/OQYcBr)
+03/01 17:04:18:782 response received (MTResult: Ok)
+03/01 17:04:18:790 submit request (RequestId: 0) (MoId: 1235) (SrcNum: 8626) (DstNum: 84968918527?) (MsgContent: Khi tai tap tin ban nen dung phan mem Antivirus co san de kiem tra tinh an toan?A-Dung, B-Sai.Gui GET A hoac GET B den 6619)
+03/01 17:04:18:868 response received (MTResult: Ok)
+03/01 17:16:39:024 submit request (RequestId: 0) (MoId: 1235) (SrcNum: 8626) (DstNum: 84968918527?) (MsgContent: Ban se nhan duoc noi dung dich vu va cau hoi mien phi de "Tich diem trung iPod sanh dieu". Tra loi dung duoc 10d, sai khong co diem. Ap dung theo T&C)
+03/01 17:16:39:120 response received (MTResult: Ok)
+03/01 17:16:39:529 submit request (RequestId: 0) (MoId: 1235) (SrcNum: 8626) (DstNum: 84968918527?) (MsgContent: Link dich vu: : http://goo.gl/OQYcBr)
+03/01 17:16:39:579 response received (MTResult: Ok)
+03/01 17:16:40:039 submit request (RequestId: 0) (MoId: 1235) (SrcNum: 8626) (DstNum: 84968918527?) (MsgContent: Khong can chu y den phan hoi hoac danh gia cua nguoi dung khi cai dat mot phan mem?A-Dung, B-Sai.Gui GET A hoac GET B den 6619)
+03/01 17:16:42:278 response received (MTResult: Ok)

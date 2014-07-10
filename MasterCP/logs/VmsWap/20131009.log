@@ -1,0 +1,11 @@
+09/10 16:27:28:396 SMS SEND WAP started
+09/10 16:28:08:999 java.sql.SQLException: Connections could not be acquired from the underlying database!
+09/10 16:28:09:000 End of process session
+09/10 16:28:09:009 SMS SEND WAP stopped
+09/10 16:28:10:517 SMS SEND WAP started
+09/10 16:28:13:000 Testing connection ...
+09/10 16:28:13:012 Created provisioning instance for VMSSDP
+09/10 16:28:13:023 Testing connection are success
+09/10 16:28:13:033 Starting process session
+09/10 16:28:13:144 Total 0 instances are started
+09/10 16:28:13:160 Total 1 instances are added

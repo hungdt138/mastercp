@@ -1,0 +1,142 @@
+03/01 14:06:22:126 Command Routing started
+03/01 14:06:22:160 Starting process session
+03/01 14:06:22:302 Total 0 instances are started
+03/01 14:06:22:307 Total 1 instances are added
+03/01 14:06:31:243 Close queue connection pool.
+03/01 14:06:31:247 End of process session
+03/01 14:06:31:251 Command Routing stopped
+03/01 14:06:33:167 Command Routing started
+03/01 14:06:33:225 Starting process session
+03/01 14:06:33:354 Total 0 instances are started
+03/01 14:06:33:358 Total 1 instances are added
+03/01 14:43:44:449 Command Routing started
+03/01 14:43:44:489 Starting process session
+03/01 14:43:44:623 Total 0 instances are started
+03/01 14:43:44:629 Total 1 instances are added
+03/01 14:43:44:665 queue-not-found
+Context: test/QUEST : test/QUEST
+03/01 14:43:44:687 orderId = 156542 | orderDate = 2014/01/03 14:43:39 | cycleDate = 2014/01/03 14:23:57 | companyId = 0 | groupId = 0 | userId = vt8x26 | merchantId = 3001 | agentId = 0 | subscriberId = 0 | subPackageId = 0 | subProductId = 0 | segmentId = 0 | campaignId = 0 | channel = web | serviceAddress = 8626 | keyword = VTREG_GET | isdn = 84967289990 | subscriberType = 1 | shipTo =  | opId = 3 | actionType = register | productId = 920 | associateProductId = 0 | contentCode = 102 | contentType = 2 | offerPrice = 0.0 | price = 0.0 | quantity = 1 | discount = 0.0 | amount = 0.0 | loyalty = 0.0 | provisioningId = 501 | commandId = 702 | request =  | response =  | status = 4 | cause = queue-not-found
+Context: test/QUEST | description = test/QUEST
+03/01 14:43:44:706 queue-not-found
+Context: test/QUEST : test/QUEST
+03/01 14:43:44:713 orderId = 156543 | orderDate = 2014/01/03 14:43:39 | cycleDate = 2014/01/03 14:25:36 | companyId = 0 | groupId = 0 | userId = vt8x26 | merchantId = 3001 | agentId = 0 | subscriberId = 0 | subPackageId = 0 | subProductId = 0 | segmentId = 0 | campaignId = 0 | channel = web | serviceAddress = 8626 | keyword = VTREG_GET | isdn = 84967289990 | subscriberType = 1 | shipTo =  | opId = 3 | actionType = register | productId = 920 | associateProductId = 0 | contentCode = 102 | contentType = 2 | offerPrice = 0.0 | price = 0.0 | quantity = 1 | discount = 0.0 | amount = 0.0 | loyalty = 0.0 | provisioningId = 501 | commandId = 702 | request =  | response =  | status = 4 | cause = queue-not-found
+Context: test/QUEST | description = test/QUEST
+03/01 14:43:44:729 queue-not-found
+Context: test/QUEST : test/QUEST
+03/01 14:43:44:733 orderId = 156544 | orderDate = 2014/01/03 14:43:39 | cycleDate = 2014/01/03 14:29:56 | companyId = 0 | groupId = 0 | userId = vt8x26 | merchantId = 3001 | agentId = 0 | subscriberId = 0 | subPackageId = 0 | subProductId = 0 | segmentId = 0 | campaignId = 0 | channel = web | serviceAddress = 8626 | keyword = VTREG_GET | isdn = 84967289990 | subscriberType = 1 | shipTo =  | opId = 3 | actionType = register | productId = 920 | associateProductId = 0 | contentCode = 102 | contentType = 2 | offerPrice = 0.0 | price = 0.0 | quantity = 1 | discount = 0.0 | amount = 0.0 | loyalty = 0.0 | provisioningId = 501 | commandId = 702 | request =  | response =  | status = 4 | cause = queue-not-found
+Context: test/QUEST | description = test/QUEST
+03/01 14:45:06:634 84967289990: QUEST - QUEST.SENDFIRSTCONTENT
+03/01 14:47:28:788 Command Routing started
+03/01 14:47:29:046 Starting process session
+03/01 14:47:30:501 Total 0 instances are started
+03/01 14:47:30:561 Total 1 instances are added
+03/01 14:50:07:958 Command Routing started
+03/01 14:50:08:096 Starting process session
+03/01 14:50:09:024 Total 0 instances are started
+03/01 14:50:09:034 Total 1 instances are added
+03/01 14:50:24:069 queue-not-found
+Context: test/CP : test/CP
+03/01 14:50:24:077 orderId = 156576 | orderDate = 2014/01/03 14:50:23 | cycleDate = 2014/01/03 14:50:21 | companyId = 0 | groupId = 0 | userId = system | merchantId = 3001 | agentId = 0 | subscriberId = 0 | subPackageId = 0 | subProductId = 0 | segmentId = 0 | campaignId = 0 | channel = web | serviceAddress = 8926 | keyword = VNMREQ_TV | isdn = 8492396 | subscriberType = 1 | shipTo =  | opId = 4 | actionType = register | productId = 502 | associateProductId = 0 | contentCode = 102 | contentType = 2 | offerPrice = 0.0 | price = 0.0 | quantity = 1 | discount = 0.0 | amount = 0.0 | loyalty = 0.0 | provisioningId = 103 | commandId = 103 | request =  | response =  | status = 4 | cause = queue-not-found
+Context: test/CP | description = test/CP
+03/01 14:51:41:901 Command Routing started
+03/01 14:51:42:004 Starting process session
+03/01 14:51:42:141 Total 0 instances are started
+03/01 14:51:42:178 Total 1 instances are added
+03/01 14:52:25:634 84967289990: QUEST - QUEST.SENDFIRSTCONTENT
+03/01 14:53:17:127 84967289990: QUEST - QUEST.SENDFIRSTCONTENT
+03/01 14:58:20:389 Command Routing started
+03/01 14:58:20:573 Starting process session
+03/01 14:58:20:710 Total 0 instances are started
+03/01 14:58:20:718 Total 1 instances are added
+03/01 14:58:53:212 84967289990: QUEST - QUEST.SENDFIRSTCONTENT
+03/01 14:59:48:258 84967289990: QUEST - QUEST.SENDFIRSTCONTENT
+03/01 15:29:31:498 Command Routing started
+03/01 15:29:31:556 Starting process session
+03/01 15:29:31:927 Total 0 instances are started
+03/01 15:29:31:938 Total 1 instances are added
+03/01 15:29:32:026 84968918527?: QUEST - QUEST.SENDFIRSTCONTENT
+03/01 15:35:02:646 84968918527?: QUEST - QUEST.SENDFIRSTCONTENT
+03/01 15:35:38:954 84968918527?: QUEST - QUEST.SENDFIRSTCONTENT
+03/01 15:36:05:346 84968918527?: QUEST - QUEST.SENDFIRSTCONTENT
+03/01 15:39:26:684 Command Routing started
+03/01 15:39:26:743 Starting process session
+03/01 15:39:26:876 Total 0 instances are started
+03/01 15:39:26:890 Total 1 instances are added
+03/01 15:40:42:468 84968918527?: QUEST - QUEST.SENDFIRSTCONTENT
+03/01 15:41:41:884 getRoute fail!!
+03/01 15:41:41:894 unknow-route
+03/01 15:41:41:911 orderId = 156856 | orderDate = 2014/01/03 15:40:42 | cycleDate = 2014/01/03 15:40:42 | companyId = 0 | groupId = 0 | userId = vt8x26 | merchantId = 3001 | agentId = 0 | subscriberId = 0 | subPackageId = 0 | subProductId = 0 | segmentId = 0 | campaignId = 0 | channel = web | serviceAddress = 8626 | keyword = VTREG_GET | isdn = 84968918527? | subscriberType = 1 | shipTo =  | opId = 3 | actionType = register | productId = 920 | associateProductId = 0 | contentCode = 102 | contentType = 2 | offerPrice = 0.0 | price = 0.0 | quantity = 1 | discount = 0.0 | amount = 0.0 | loyalty = 0.0 | provisioningId = 501 | commandId = 100442 | request = Ban da yeu cau dich vu ACOMVT_GET, tin nhan se duoc gui trong giay lat. | response =  | status = 4 | cause = unknow-route | description = null
+03/01 15:41:43:979 getRoute fail!!
+03/01 15:41:43:987 unknow-route
+03/01 15:41:43:995 orderId = 156856 | orderDate = 2014/01/03 15:40:42 | cycleDate = 2014/01/03 15:40:42 | companyId = 0 | groupId = 0 | userId = vt8x26 | merchantId = 3001 | agentId = 0 | subscriberId = 0 | subPackageId = 0 | subProductId = 0 | segmentId = 0 | campaignId = 0 | channel = web | serviceAddress = 8626 | keyword = VTREG_GET | isdn = 84968918527? | subscriberType = 1 | shipTo =  | opId = 3 | actionType = register | productId = 920 | associateProductId = 0 | contentCode = 102 | contentType = 2 | offerPrice = 0.0 | price = 0.0 | quantity = 1 | discount = 0.0 | amount = 0.0 | loyalty = 0.0 | provisioningId = 501 | commandId = 100442 | request = Link dich vu: : http://goo.gl/OQYcBr | response =  | status = 4 | cause = unknow-route | description = null
+03/01 15:41:44:497 getRoute fail!!
+03/01 15:41:44:506 unknow-route
+03/01 15:41:44:515 orderId = 156856 | orderDate = 2014/01/03 15:40:42 | cycleDate = 2014/01/03 15:40:42 | companyId = 0 | groupId = 0 | userId = vt8x26 | merchantId = 3001 | agentId = 0 | subscriberId = 0 | subPackageId = 0 | subProductId = 0 | segmentId = 0 | campaignId = 0 | channel = web | serviceAddress = 8626 | keyword = VTREG_GET | isdn = 84968918527? | subscriberType = 1 | shipTo =  | opId = 3 | actionType = register | productId = 920 | associateProductId = 0 | contentCode = 102 | contentType = 2 | offerPrice = 0.0 | price = 0.0 | quantity = 1 | discount = 0.0 | amount = 0.0 | loyalty = 0.0 | provisioningId = 501 | commandId = 100442 | request = Su co Y2K la su co may tinh dien ra vao thoi khac dau tien cua nam 2001?A-Dung, B-Sai.Gui GET A hoac GET B den 6619 | response =  | status = 4 | cause = unknow-route | description = null
+03/01 15:56:09:087 84968918527?: QUEST - QUEST.SENDFIRSTCONTENT
+03/01 15:56:14:343 getRoute fail!!
+03/01 15:56:14:351 unknow-route
+03/01 15:56:14:357 orderId = 156948 | orderDate = 2014/01/03 15:56:09 | cycleDate = 2014/01/03 15:56:08 | companyId = 0 | groupId = 0 | userId = vt8x26 | merchantId = 3001 | agentId = 0 | subscriberId = 0 | subPackageId = 0 | subProductId = 0 | segmentId = 0 | campaignId = 0 | channel = web | serviceAddress = 8626 | keyword = VTREG_GET | isdn = 84968918527? | subscriberType = 1 | shipTo =  | opId = 3 | actionType = register | productId = 920 | associateProductId = 0 | contentCode = 102 | contentType = 2 | offerPrice = 0.0 | price = 0.0 | quantity = 1 | discount = 0.0 | amount = 0.0 | loyalty = 0.0 | provisioningId = 501 | commandId = 100442 | request = Ban da yeu cau dich vu ACOMVT_GET, tin nhan se duoc gui trong giay lat. | response =  | status = 4 | cause = unknow-route | description = null
+03/01 15:56:14:865 getRoute fail!!
+03/01 15:56:14:876 unknow-route
+03/01 15:56:14:885 orderId = 156948 | orderDate = 2014/01/03 15:56:09 | cycleDate = 2014/01/03 15:56:08 | companyId = 0 | groupId = 0 | userId = vt8x26 | merchantId = 3001 | agentId = 0 | subscriberId = 0 | subPackageId = 0 | subProductId = 0 | segmentId = 0 | campaignId = 0 | channel = web | serviceAddress = 8626 | keyword = VTREG_GET | isdn = 84968918527? | subscriberType = 1 | shipTo =  | opId = 3 | actionType = register | productId = 920 | associateProductId = 0 | contentCode = 102 | contentType = 2 | offerPrice = 0.0 | price = 0.0 | quantity = 1 | discount = 0.0 | amount = 0.0 | loyalty = 0.0 | provisioningId = 501 | commandId = 100442 | request = Link dich vu: : http://goo.gl/OQYcBr | response =  | status = 4 | cause = unknow-route | description = null
+03/01 15:56:15:377 getRoute fail!!
+03/01 15:56:15:383 unknow-route
+03/01 15:56:15:390 orderId = 156948 | orderDate = 2014/01/03 15:56:09 | cycleDate = 2014/01/03 15:56:08 | companyId = 0 | groupId = 0 | userId = vt8x26 | merchantId = 3001 | agentId = 0 | subscriberId = 0 | subPackageId = 0 | subProductId = 0 | segmentId = 0 | campaignId = 0 | channel = web | serviceAddress = 8626 | keyword = VTREG_GET | isdn = 84968918527? | subscriberType = 1 | shipTo =  | opId = 3 | actionType = register | productId = 920 | associateProductId = 0 | contentCode = 102 | contentType = 2 | offerPrice = 0.0 | price = 0.0 | quantity = 1 | discount = 0.0 | amount = 0.0 | loyalty = 0.0 | provisioningId = 501 | commandId = 100442 | request = Hacker duoc chia thanh 2 nhom pho bien, hacker mu trang va hacker mu den?A-Dung, B-Sai.Gui GET A hoac GET B den 6619 | response =  | status = 4 | cause = unknow-route | description = null
+03/01 15:57:19:895 84968918527?: QUEST - QUEST.SENDFIRSTCONTENT
+03/01 15:57:26:124 getRoute fail!!
+03/01 15:58:12:513 unknow-route
+03/01 15:58:12:523 orderId = 156952 | orderDate = 2014/01/03 15:56:48 | cycleDate = 2014/01/03 15:56:48 | companyId = 0 | groupId = 0 | userId = vt8x26 | merchantId = 3001 | agentId = 0 | subscriberId = 0 | subPackageId = 0 | subProductId = 0 | segmentId = 0 | campaignId = 0 | channel = web | serviceAddress = 8626 | keyword = VTREG_GET | isdn = 84968918527? | subscriberType = 1 | shipTo =  | opId = 3 | actionType = register | productId = 920 | associateProductId = 0 | contentCode = 102 | contentType = 2 | offerPrice = 0.0 | price = 0.0 | quantity = 1 | discount = 0.0 | amount = 0.0 | loyalty = 0.0 | provisioningId = 501 | commandId = 100442 | request = Ban da yeu cau dich vu ACOMVT_GET, tin nhan se duoc gui trong giay lat. | response =  | status = 4 | cause = unknow-route | description = null
+03/01 15:58:47:171 getRoute fail!!
+03/01 15:58:47:179 unknow-route
+03/01 15:58:47:186 orderId = 156952 | orderDate = 2014/01/03 15:56:48 | cycleDate = 2014/01/03 15:56:48 | companyId = 0 | groupId = 0 | userId = vt8x26 | merchantId = 3001 | agentId = 0 | subscriberId = 0 | subPackageId = 0 | subProductId = 0 | segmentId = 0 | campaignId = 0 | channel = web | serviceAddress = 8626 | keyword = VTREG_GET | isdn = 84968918527? | subscriberType = 1 | shipTo =  | opId = 3 | actionType = register | productId = 920 | associateProductId = 0 | contentCode = 102 | contentType = 2 | offerPrice = 0.0 | price = 0.0 | quantity = 1 | discount = 0.0 | amount = 0.0 | loyalty = 0.0 | provisioningId = 501 | commandId = 100442 | request = Link dich vu: : http://goo.gl/OQYcBr | response =  | status = 4 | cause = unknow-route | description = null
+03/01 15:58:48:233 getRoute fail!!
+03/01 15:58:48:242 unknow-route
+03/01 15:58:48:251 orderId = 156952 | orderDate = 2014/01/03 15:56:48 | cycleDate = 2014/01/03 15:56:48 | companyId = 0 | groupId = 0 | userId = vt8x26 | merchantId = 3001 | agentId = 0 | subscriberId = 0 | subPackageId = 0 | subProductId = 0 | segmentId = 0 | campaignId = 0 | channel = web | serviceAddress = 8626 | keyword = VTREG_GET | isdn = 84968918527? | subscriberType = 1 | shipTo =  | opId = 3 | actionType = register | productId = 920 | associateProductId = 0 | contentCode = 102 | contentType = 2 | offerPrice = 0.0 | price = 0.0 | quantity = 1 | discount = 0.0 | amount = 0.0 | loyalty = 0.0 | provisioningId = 501 | commandId = 100442 | request = Hacker Barnaby Jack (My) noi tieng sau khi lam cho may ATM "bong dung nha tien" vao nam 2010?A-Dung, B-Sai.Gui GET A hoac GET B den 6619 | response =  | status = 4 | cause = unknow-route | description = null
+03/01 16:00:28:395 Command Routing started
+03/01 16:00:28:468 Starting process session
+03/01 16:00:28:618 Total 0 instances are started
+03/01 16:00:28:626 Total 1 instances are added
+03/01 16:01:01:678 84968918527?: QUEST - QUEST.SENDFIRSTCONTENT
+03/01 16:01:06:461 84968918527?: VT8X26 - VT8X26.SENDSMS
+03/01 16:01:06:983 84968918527?: VT8X26 - VT8X26.SENDSMS
+03/01 16:01:07:477 84968918527?: VT8X26 - VT8X26.SENDSMS
+03/01 16:06:35:228 Command Routing started
+03/01 16:06:35:314 Starting process session
+03/01 16:06:35:458 Total 0 instances are started
+03/01 16:06:35:465 Total 1 instances are added
+03/01 16:06:59:661 84968918527?: QUEST - QUEST.SENDFIRSTCONTENT
+03/01 16:07:02:837 84968918527?: VT8X26 - VT8X26.SENDSMS
+03/01 16:07:03:414 84968918527?: VT8X26 - VT8X26.SENDSMS
+03/01 16:07:03:967 84968918527?: VT8X26 - VT8X26.SENDSMS
+03/01 16:10:21:384 84968918527?: QUEST - QUEST.SENDFIRSTCONTENT
+03/01 16:10:24:718 84968918527?: VT8X26 - VT8X26.SENDSMS
+03/01 16:10:25:280 84968918527?: VT8X26 - VT8X26.SENDSMS
+03/01 16:10:25:729 84968918527?: VT8X26 - VT8X26.SENDSMS
+03/01 16:23:35:617 Command Routing started
+03/01 16:23:35:662 Starting process session
+03/01 16:23:35:809 Total 0 instances are started
+03/01 16:23:35:817 Total 1 instances are added
+03/01 16:23:36:089 Total 0 instances are started
+03/01 16:23:36:099 Total 1 instances are added
+03/01 16:26:38:890 84968918527?: QUEST - QUEST.SENDFIRSTCONTENT
+03/01 16:26:49:422 84968918527?: VT8X26 - VT8X26.SENDSMS
+03/01 16:26:49:454 84968918527?: VT8X26 - VT8X26.SENDSMS
+03/01 16:30:53:491 84968918527?: QUEST - QUEST.SENDFIRSTCONTENT
+03/01 16:33:32:287 84968918527?: VT8X26 - VT8X26.SENDSMS
+03/01 16:33:33:315 84968918527?: VT8X26 - VT8X26.SENDSMS
+03/01 16:39:18:129 84968918527?: QUEST - QUEST.SENDFIRSTCONTENT
+03/01 16:39:25:353 84968918527?: VT8X26 - VT8X26.SENDSMS
+03/01 16:39:25:861 84968918527?: VT8X26 - VT8X26.SENDSMS
+03/01 16:39:26:374 84968918527?: VT8X26 - VT8X26.SENDSMS
+03/01 17:03:34:035 Command Routing started
+03/01 17:03:34:096 Starting process session
+03/01 17:03:34:226 Total 0 instances are started
+03/01 17:03:34:234 Total 1 instances are added
+03/01 17:04:14:957 84968918527?: QUEST - QUEST.SENDFIRSTCONTENT
+03/01 17:04:17:136 84968918527?: VT8X26 - VT8X26.SENDSMS
+03/01 17:04:17:585 84968918527?: VT8X26 - VT8X26.SENDSMS
+03/01 17:04:18:188 84968918527?: VT8X26 - VT8X26.SENDSMS
+03/01 17:16:38:767 84968918527?: QUEST - QUEST.SENDFIRSTCONTENT
+03/01 17:16:38:932 84968918527?: VT8X26 - VT8X26.SENDSMS
+03/01 17:16:39:450 84968918527?: VT8X26 - VT8X26.SENDSMS
+03/01 17:16:39:966 84968918527?: VT8X26 - VT8X26.SENDSMS

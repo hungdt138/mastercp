@@ -1,0 +1,3378 @@
+15/11 06:42:56:715 Queue Monitor started
+15/11 06:42:56:747 Starting process session
+15/11 06:42:56:844 queue-not-found
+Context: test/CRM : test/CRM
+15/11 06:42:56:853 Close queue connection pool.
+15/11 06:42:56:872 End of process session
+15/11 06:43:01:885 Starting process session
+15/11 06:43:01:912 queue-not-found
+Context: test/CRM : test/CRM
+15/11 06:43:01:920 Close queue connection pool.
+15/11 06:43:01:934 End of process session
+15/11 06:43:06:947 Starting process session
+15/11 06:43:06:970 queue-not-found
+Context: test/CRM : test/CRM
+15/11 06:43:06:981 Close queue connection pool.
+15/11 06:43:06:997 End of process session
+15/11 06:43:12:010 Starting process session
+15/11 06:43:12:050 queue-not-found
+Context: test/MT : test/MT
+15/11 06:43:12:064 Close queue connection pool.
+15/11 06:43:12:079 End of process session
+15/11 06:43:17:094 Starting process session
+15/11 06:43:17:135 queue-not-found
+Context: test/MT : test/MT
+15/11 06:43:17:148 Close queue connection pool.
+15/11 06:43:17:163 End of process session
+15/11 06:43:22:175 Starting process session
+15/11 06:43:22:252 queue-not-found
+Context: test/SDPSMS : test/SDPSMS
+15/11 06:43:22:262 Close queue connection pool.
+15/11 06:43:22:278 End of process session
+15/11 06:43:27:292 Starting process session
+15/11 06:43:27:330 queue-not-found
+Context: test/SDPSMS : test/SDPSMS
+15/11 06:43:27:340 Close queue connection pool.
+15/11 06:43:27:354 End of process session
+15/11 06:43:32:368 Starting process session
+15/11 06:43:32:392 queue-not-found
+Context: test/SDPSMS : test/SDPSMS
+15/11 06:43:32:401 Close queue connection pool.
+15/11 06:43:32:412 End of process session
+15/11 06:43:37:425 Starting process session
+15/11 06:43:37:502 Memory information:
+	 :: Free memory            : 12 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 27 MB
+	 :: Total free memory      : 43 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 121
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 0
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:43:37:700 Close queue connection pool.
+15/11 06:43:37:715 End of process session
+15/11 06:43:42:729 Starting process session
+15/11 06:43:42:778 Memory information:
+	 :: Free memory            : 13 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 28 MB
+	 :: Total free memory      : 44 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 121
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 0
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:43:42:794 Close queue connection pool.
+15/11 06:43:42:806 End of process session
+15/11 06:43:47:828 Starting process session
+15/11 06:43:47:870 Memory information:
+	 :: Free memory            : 10 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 25 MB
+	 :: Total free memory      : 40 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 119
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 0
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:43:47:887 Close queue connection pool.
+15/11 06:43:47:898 End of process session
+15/11 06:43:52:913 Starting process session
+15/11 06:43:52:954 Memory information:
+	 :: Free memory            : 11 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 26 MB
+	 :: Total free memory      : 41 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 121
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 0
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:43:52:966 Close queue connection pool.
+15/11 06:43:52:978 End of process session
+15/11 06:43:57:993 Starting process session
+15/11 06:43:58:045 Memory information:
+	 :: Free memory            : 12 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 27 MB
+	 :: Total free memory      : 43 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 121
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 0
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:43:58:060 Close queue connection pool.
+15/11 06:43:58:073 End of process session
+15/11 06:44:03:086 Starting process session
+15/11 06:44:03:118 Memory information:
+	 :: Free memory            : 12 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 28 MB
+	 :: Total free memory      : 44 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 121
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 0
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:44:03:131 Close queue connection pool.
+15/11 06:44:03:144 End of process session
+15/11 06:44:08:157 Starting process session
+15/11 06:44:08:205 Memory information:
+	 :: Free memory            : 12 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 28 MB
+	 :: Total free memory      : 44 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 121
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 0
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:44:08:221 Close queue connection pool.
+15/11 06:44:08:235 End of process session
+15/11 06:44:13:253 Starting process session
+15/11 06:44:13:283 Memory information:
+	 :: Free memory            : 10 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 26 MB
+	 :: Total free memory      : 41 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 121
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 0
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:44:13:297 Close queue connection pool.
+15/11 06:44:13:308 End of process session
+15/11 06:44:18:322 Starting process session
+15/11 06:44:18:378 Memory information:
+	 :: Free memory            : 11 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 26 MB
+	 :: Total free memory      : 42 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 121
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 1
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:44:18:393 Close queue connection pool.
+15/11 06:44:18:406 End of process session
+15/11 06:44:23:423 Starting process session
+15/11 06:44:23:476 Memory information:
+	 :: Free memory            : 10 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 26 MB
+	 :: Total free memory      : 41 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 121
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 2
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:44:23:491 Close queue connection pool.
+15/11 06:44:23:506 End of process session
+15/11 06:44:28:519 Starting process session
+15/11 06:44:28:559 Memory information:
+	 :: Free memory            : 11 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 27 MB
+	 :: Total free memory      : 43 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 121
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 2
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:44:28:576 Close queue connection pool.
+15/11 06:44:28:590 End of process session
+15/11 06:44:33:605 Starting process session
+15/11 06:44:33:636 Memory information:
+	 :: Free memory            : 12 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 27 MB
+	 :: Total free memory      : 43 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 121
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 2
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:44:33:650 Close queue connection pool.
+15/11 06:44:33:661 End of process session
+15/11 06:44:38:675 Starting process session
+15/11 06:44:38:729 Memory information:
+	 :: Free memory            : 10 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 25 MB
+	 :: Total free memory      : 40 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 121
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 2
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:44:38:744 Close queue connection pool.
+15/11 06:44:38:756 End of process session
+15/11 06:44:43:770 Starting process session
+15/11 06:44:43:815 Memory information:
+	 :: Free memory            : 11 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 26 MB
+	 :: Total free memory      : 42 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 121
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 2
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:44:43:860 Close queue connection pool.
+15/11 06:44:43:872 End of process session
+15/11 06:44:48:886 Starting process session
+15/11 06:44:48:937 Memory information:
+	 :: Free memory            : 12 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 27 MB
+	 :: Total free memory      : 43 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 121
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 2
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:44:48:951 Close queue connection pool.
+15/11 06:44:48:963 End of process session
+15/11 06:44:53:976 Starting process session
+15/11 06:44:54:030 Memory information:
+	 :: Free memory            : 10 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 25 MB
+	 :: Total free memory      : 40 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 121
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 2
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:44:54:046 Close queue connection pool.
+15/11 06:44:54:060 End of process session
+15/11 06:44:59:075 Starting process session
+15/11 06:44:59:110 Memory information:
+	 :: Free memory            : 11 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 26 MB
+	 :: Total free memory      : 42 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 121
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 2
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:44:59:124 Close queue connection pool.
+15/11 06:44:59:136 End of process session
+15/11 06:45:04:149 Starting process session
+15/11 06:45:04:190 Memory information:
+	 :: Free memory            : 11 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 27 MB
+	 :: Total free memory      : 42 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 121
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 2
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:45:04:203 Close queue connection pool.
+15/11 06:45:04:213 End of process session
+15/11 06:45:09:233 Starting process session
+15/11 06:45:09:278 Memory information:
+	 :: Free memory            : 12 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 28 MB
+	 :: Total free memory      : 44 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 121
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 2
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:45:09:293 Close queue connection pool.
+15/11 06:45:09:304 End of process session
+15/11 06:45:14:318 Starting process session
+15/11 06:45:14:360 Memory information:
+	 :: Free memory            : 10 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 26 MB
+	 :: Total free memory      : 41 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 121
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 2
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:45:14:372 Close queue connection pool.
+15/11 06:45:14:383 End of process session
+15/11 06:45:19:398 Starting process session
+15/11 06:45:19:448 Memory information:
+	 :: Free memory            : 11 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 27 MB
+	 :: Total free memory      : 42 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 121
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 2
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:45:19:462 Close queue connection pool.
+15/11 06:45:19:473 End of process session
+15/11 06:45:24:489 Starting process session
+15/11 06:45:24:537 Memory information:
+	 :: Free memory            : 9 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 25 MB
+	 :: Total free memory      : 39 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 121
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 2
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:45:24:551 Close queue connection pool.
+15/11 06:45:24:562 End of process session
+15/11 06:45:29:576 Starting process session
+15/11 06:45:29:611 Memory information:
+	 :: Free memory            : 10 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 26 MB
+	 :: Total free memory      : 41 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 121
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 2
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:45:29:624 Close queue connection pool.
+15/11 06:45:29:636 End of process session
+15/11 06:45:34:653 Starting process session
+15/11 06:45:34:691 Memory information:
+	 :: Free memory            : 10 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 26 MB
+	 :: Total free memory      : 41 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 121
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 2
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:45:34:739 Close queue connection pool.
+15/11 06:45:34:752 End of process session
+15/11 06:45:39:768 Starting process session
+15/11 06:45:39:800 Memory information:
+	 :: Free memory            : 11 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 27 MB
+	 :: Total free memory      : 42 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 121
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 2
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:45:39:813 Close queue connection pool.
+15/11 06:45:39:824 End of process session
+15/11 06:45:44:839 Starting process session
+15/11 06:45:44:873 Memory information:
+	 :: Free memory            : 10 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 26 MB
+	 :: Total free memory      : 41 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 122
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 2
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:45:44:885 Close queue connection pool.
+15/11 06:45:44:897 End of process session
+15/11 06:45:49:914 Starting process session
+15/11 06:45:49:960 Memory information:
+	 :: Free memory            : 12 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 28 MB
+	 :: Total free memory      : 44 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 121
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 3
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:45:49:978 Close queue connection pool.
+15/11 06:45:49:992 End of process session
+15/11 06:45:55:007 Starting process session
+15/11 06:45:55:039 Memory information:
+	 :: Free memory            : 10 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 25 MB
+	 :: Total free memory      : 40 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 121
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 3
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:45:55:052 Close queue connection pool.
+15/11 06:45:55:063 End of process session
+15/11 06:46:00:080 Starting process session
+15/11 06:46:00:110 Memory information:
+	 :: Free memory            : 10 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 26 MB
+	 :: Total free memory      : 40 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 121
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 3
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:46:00:124 Close queue connection pool.
+15/11 06:46:00:138 End of process session
+15/11 06:46:05:157 Starting process session
+15/11 06:46:05:214 Memory information:
+	 :: Free memory            : 11 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 27 MB
+	 :: Total free memory      : 42 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 121
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 3
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:46:05:227 Close queue connection pool.
+15/11 06:46:05:238 End of process session
+15/11 06:46:10:255 Starting process session
+15/11 06:46:10:288 Memory information:
+	 :: Free memory            : 10 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 25 MB
+	 :: Total free memory      : 40 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 121
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 3
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:46:10:301 Close queue connection pool.
+15/11 06:46:10:313 End of process session
+15/11 06:46:15:328 Starting process session
+15/11 06:46:15:360 Memory information:
+	 :: Free memory            : 10 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 25 MB
+	 :: Total free memory      : 40 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 121
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 3
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:46:15:373 Close queue connection pool.
+15/11 06:46:15:384 End of process session
+15/11 06:46:20:397 Starting process session
+15/11 06:46:20:435 Memory information:
+	 :: Free memory            : 10 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 25 MB
+	 :: Total free memory      : 40 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 121
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 4
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:46:20:448 Close queue connection pool.
+15/11 06:46:20:462 End of process session
+15/11 06:46:25:476 Starting process session
+15/11 06:46:25:511 Memory information:
+	 :: Free memory            : 11 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 26 MB
+	 :: Total free memory      : 42 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 121
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 4
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:46:25:524 Close queue connection pool.
+15/11 06:46:25:538 End of process session
+15/11 06:46:30:553 Starting process session
+15/11 06:46:30:603 Memory information:
+	 :: Free memory            : 11 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 26 MB
+	 :: Total free memory      : 42 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 121
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 4
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:46:30:617 Close queue connection pool.
+15/11 06:46:30:629 End of process session
+15/11 06:46:35:644 Starting process session
+15/11 06:46:35:681 Memory information:
+	 :: Free memory            : 9 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 25 MB
+	 :: Total free memory      : 39 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 122
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 4
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:46:35:699 Close queue connection pool.
+15/11 06:46:35:712 End of process session
+15/11 06:46:40:731 Starting process session
+15/11 06:46:40:782 Memory information:
+	 :: Free memory            : 11 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 27 MB
+	 :: Total free memory      : 43 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 121
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 5
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:46:40:799 Close queue connection pool.
+15/11 06:46:40:814 End of process session
+15/11 06:46:45:831 Starting process session
+15/11 06:46:45:863 Memory information:
+	 :: Free memory            : 9 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 25 MB
+	 :: Total free memory      : 39 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 121
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 5
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:46:45:876 Close queue connection pool.
+15/11 06:46:45:887 End of process session
+15/11 06:46:50:903 Starting process session
+15/11 06:46:50:949 Memory information:
+	 :: Free memory            : 11 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 26 MB
+	 :: Total free memory      : 41 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 121
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 5
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:46:50:963 Close queue connection pool.
+15/11 06:46:50:974 End of process session
+15/11 06:46:55:988 Starting process session
+15/11 06:46:56:025 Memory information:
+	 :: Free memory            : 12 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 27 MB
+	 :: Total free memory      : 43 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 121
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 5
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:46:56:040 Close queue connection pool.
+15/11 06:46:56:051 End of process session
+15/11 06:47:01:067 Starting process session
+15/11 06:47:01:120 Memory information:
+	 :: Free memory            : 12 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 27 MB
+	 :: Total free memory      : 43 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 121
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 5
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:47:01:139 Close queue connection pool.
+15/11 06:47:01:152 End of process session
+15/11 06:47:06:168 Starting process session
+15/11 06:47:06:203 Memory information:
+	 :: Free memory            : 10 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 25 MB
+	 :: Total free memory      : 40 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 121
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 5
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:47:06:219 Close queue connection pool.
+15/11 06:47:06:230 End of process session
+15/11 06:47:11:244 Starting process session
+15/11 06:47:11:280 Memory information:
+	 :: Free memory            : 11 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 27 MB
+	 :: Total free memory      : 42 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 121
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 5
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:47:11:316 Close queue connection pool.
+15/11 06:47:11:346 End of process session
+15/11 06:47:16:367 Starting process session
+15/11 06:47:16:397 Memory information:
+	 :: Free memory            : 9 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 25 MB
+	 :: Total free memory      : 39 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 121
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 5
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:47:16:413 Close queue connection pool.
+15/11 06:47:16:424 End of process session
+15/11 06:47:21:438 Starting process session
+15/11 06:47:21:485 Memory information:
+	 :: Free memory            : 10 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 25 MB
+	 :: Total free memory      : 40 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 121
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 5
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:47:21:502 Close queue connection pool.
+15/11 06:47:21:517 End of process session
+15/11 06:47:26:535 Starting process session
+15/11 06:47:26:592 Memory information:
+	 :: Free memory            : 11 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 26 MB
+	 :: Total free memory      : 42 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 121
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 5
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:47:26:605 Close queue connection pool.
+15/11 06:47:26:617 End of process session
+15/11 06:47:31:633 Starting process session
+15/11 06:47:31:645 
+15/11 06:47:31:890 Cleaned memory ...
+15/11 06:47:31:920 Memory information:
+	 :: Free memory            : 22 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 38 MB
+	 :: Total free memory      : 59 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 121
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 5
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:47:31:964 Close queue connection pool.
+15/11 06:47:31:976 End of process session
+15/11 06:47:36:995 Starting process session
+15/11 06:47:37:044 Memory information:
+	 :: Free memory            : 21 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 36 MB
+	 :: Total free memory      : 57 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 121
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 5
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:47:37:060 Close queue connection pool.
+15/11 06:47:37:073 End of process session
+15/11 06:47:42:089 Starting process session
+15/11 06:47:42:121 Memory information:
+	 :: Free memory            : 19 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 35 MB
+	 :: Total free memory      : 55 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 122
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 5
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:47:42:134 Close queue connection pool.
+15/11 06:47:42:149 End of process session
+15/11 06:47:47:163 Starting process session
+15/11 06:47:47:194 Memory information:
+	 :: Free memory            : 20 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 35 MB
+	 :: Total free memory      : 55 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 121
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 5
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:47:47:206 Close queue connection pool.
+15/11 06:47:47:217 End of process session
+15/11 06:47:52:237 Starting process session
+15/11 06:47:52:308 Memory information:
+	 :: Free memory            : 21 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 36 MB
+	 :: Total free memory      : 57 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 121
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 6
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:47:52:324 Close queue connection pool.
+15/11 06:47:52:339 End of process session
+15/11 06:47:57:357 Starting process session
+15/11 06:47:57:491 Memory information:
+	 :: Free memory            : 20 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 35 MB
+	 :: Total free memory      : 55 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 123
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 6
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:47:57:505 Close queue connection pool.
+15/11 06:47:57:516 End of process session
+15/11 06:48:02:530 Starting process session
+15/11 06:48:02:582 Memory information:
+	 :: Free memory            : 20 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 35 MB
+	 :: Total free memory      : 56 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 123
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 6
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:48:02:596 Close queue connection pool.
+15/11 06:48:02:607 End of process session
+15/11 06:48:07:622 Starting process session
+15/11 06:48:07:674 Memory information:
+	 :: Free memory            : 22 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 37 MB
+	 :: Total free memory      : 58 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 123
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 6
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:48:07:690 Close queue connection pool.
+15/11 06:48:07:703 End of process session
+15/11 06:48:12:719 Starting process session
+15/11 06:48:12:766 Memory information:
+	 :: Free memory            : 20 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 35 MB
+	 :: Total free memory      : 55 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 123
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 6
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:48:12:784 Close queue connection pool.
+15/11 06:48:12:796 End of process session
+15/11 06:48:17:810 Starting process session
+15/11 06:48:17:853 Memory information:
+	 :: Free memory            : 21 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 37 MB
+	 :: Total free memory      : 58 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 123
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 6
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:48:17:871 Close queue connection pool.
+15/11 06:48:17:885 End of process session
+15/11 06:48:22:902 Starting process session
+15/11 06:48:22:941 Memory information:
+	 :: Free memory            : 20 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 35 MB
+	 :: Total free memory      : 55 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 123
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 6
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:48:22:959 Close queue connection pool.
+15/11 06:48:22:971 End of process session
+15/11 06:48:27:986 Starting process session
+15/11 06:48:28:045 Memory information:
+	 :: Free memory            : 21 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 36 MB
+	 :: Total free memory      : 57 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 123
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 6
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:48:28:063 Close queue connection pool.
+15/11 06:48:28:080 End of process session
+15/11 06:48:33:097 Starting process session
+15/11 06:48:33:147 Memory information:
+	 :: Free memory            : 21 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 37 MB
+	 :: Total free memory      : 58 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 123
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 6
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:48:33:159 Close queue connection pool.
+15/11 06:48:33:170 End of process session
+15/11 06:48:38:185 Starting process session
+15/11 06:48:38:242 Memory information:
+	 :: Free memory            : 20 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 35 MB
+	 :: Total free memory      : 56 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 124
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 6
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:48:38:255 Close queue connection pool.
+15/11 06:48:38:269 End of process session
+15/11 06:48:43:283 Starting process session
+15/11 06:48:43:316 Memory information:
+	 :: Free memory            : 20 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 35 MB
+	 :: Total free memory      : 55 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 123
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 7
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:48:43:329 Close queue connection pool.
+15/11 06:48:43:340 End of process session
+15/11 06:48:48:355 Starting process session
+15/11 06:48:48:387 Memory information:
+	 :: Free memory            : 19 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 34 MB
+	 :: Total free memory      : 54 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 123
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 7
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:48:48:400 Close queue connection pool.
+15/11 06:48:48:411 End of process session
+15/11 06:48:53:424 Starting process session
+15/11 06:48:53:460 Memory information:
+	 :: Free memory            : 21 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 36 MB
+	 :: Total free memory      : 57 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 123
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 7
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:48:53:473 Close queue connection pool.
+15/11 06:48:53:483 End of process session
+15/11 06:48:58:499 Starting process session
+15/11 06:48:58:554 Memory information:
+	 :: Free memory            : 19 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 34 MB
+	 :: Total free memory      : 53 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 123
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 7
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:48:58:568 Close queue connection pool.
+15/11 06:48:58:580 End of process session
+15/11 06:49:03:593 Starting process session
+15/11 06:49:03:625 Memory information:
+	 :: Free memory            : 19 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 34 MB
+	 :: Total free memory      : 54 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 123
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 7
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:49:03:638 Close queue connection pool.
+15/11 06:49:03:649 End of process session
+15/11 06:49:08:664 Starting process session
+15/11 06:49:08:692 Memory information:
+	 :: Free memory            : 21 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 36 MB
+	 :: Total free memory      : 57 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 123
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 7
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:49:08:706 Close queue connection pool.
+15/11 06:49:08:717 End of process session
+15/11 06:49:13:731 Starting process session
+15/11 06:49:13:763 Memory information:
+	 :: Free memory            : 19 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 34 MB
+	 :: Total free memory      : 54 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 123
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 7
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:49:13:775 Close queue connection pool.
+15/11 06:49:13:786 End of process session
+15/11 06:49:18:799 Starting process session
+15/11 06:49:18:829 Memory information:
+	 :: Free memory            : 21 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 36 MB
+	 :: Total free memory      : 57 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 123
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 7
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:49:18:842 Close queue connection pool.
+15/11 06:49:18:854 End of process session
+15/11 06:49:23:871 Starting process session
+15/11 06:49:23:916 Memory information:
+	 :: Free memory            : 19 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 34 MB
+	 :: Total free memory      : 54 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 123
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 7
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:49:23:931 Close queue connection pool.
+15/11 06:49:23:942 End of process session
+15/11 06:49:28:957 Starting process session
+15/11 06:49:28:990 Memory information:
+	 :: Free memory            : 20 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 35 MB
+	 :: Total free memory      : 56 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 123
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 7
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:49:29:006 Close queue connection pool.
+15/11 06:49:29:017 End of process session
+15/11 06:49:34:033 Starting process session
+15/11 06:49:34:063 Memory information:
+	 :: Free memory            : 21 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 36 MB
+	 :: Total free memory      : 57 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 123
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 7
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:49:34:076 Close queue connection pool.
+15/11 06:49:34:087 End of process session
+15/11 06:49:39:101 Starting process session
+15/11 06:49:39:129 Memory information:
+	 :: Free memory            : 19 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 34 MB
+	 :: Total free memory      : 54 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 123
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 7
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:49:39:140 Close queue connection pool.
+15/11 06:49:39:151 End of process session
+15/11 06:49:44:165 Starting process session
+15/11 06:49:44:192 Memory information:
+	 :: Free memory            : 21 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 36 MB
+	 :: Total free memory      : 57 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 123
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 7
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:49:44:204 Close queue connection pool.
+15/11 06:49:44:215 End of process session
+15/11 06:49:49:229 Starting process session
+15/11 06:49:49:262 Memory information:
+	 :: Free memory            : 19 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 34 MB
+	 :: Total free memory      : 54 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 123
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 7
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:49:49:276 Close queue connection pool.
+15/11 06:49:49:287 End of process session
+15/11 06:49:54:309 Starting process session
+15/11 06:49:54:338 Memory information:
+	 :: Free memory            : 21 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 36 MB
+	 :: Total free memory      : 57 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 124
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 7
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:49:54:351 Close queue connection pool.
+15/11 06:49:54:362 End of process session
+15/11 06:49:59:377 Starting process session
+15/11 06:49:59:409 Memory information:
+	 :: Free memory            : 21 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 36 MB
+	 :: Total free memory      : 57 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 123
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 8
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:49:59:423 Close queue connection pool.
+15/11 06:49:59:436 End of process session
+15/11 06:50:04:452 Starting process session
+15/11 06:50:04:500 Memory information:
+	 :: Free memory            : 18 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 33 MB
+	 :: Total free memory      : 52 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 123
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 8
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:50:04:517 Close queue connection pool.
+15/11 06:50:04:531 End of process session
+15/11 06:50:09:548 Starting process session
+15/11 06:50:09:581 Memory information:
+	 :: Free memory            : 16 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 31 MB
+	 :: Total free memory      : 49 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 123
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 8
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:50:09:593 Close queue connection pool.
+15/11 06:50:09:604 End of process session
+15/11 06:50:14:619 Starting process session
+15/11 06:50:14:656 Memory information:
+	 :: Free memory            : 17 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 32 MB
+	 :: Total free memory      : 51 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 123
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 8
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:50:14:668 Close queue connection pool.
+15/11 06:50:14:679 End of process session
+15/11 06:50:19:692 Starting process session
+15/11 06:50:19:734 Memory information:
+	 :: Free memory            : 19 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 34 MB
+	 :: Total free memory      : 53 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 123
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 8
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:50:19:748 Close queue connection pool.
+15/11 06:50:19:760 End of process session
+15/11 06:50:24:774 Starting process session
+15/11 06:50:24:815 Memory information:
+	 :: Free memory            : 17 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 32 MB
+	 :: Total free memory      : 51 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 123
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 8
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:50:24:829 Close queue connection pool.
+15/11 06:50:24:840 End of process session
+15/11 06:50:29:855 Starting process session
+15/11 06:50:29:891 Memory information:
+	 :: Free memory            : 17 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 33 MB
+	 :: Total free memory      : 52 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 123
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 8
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:50:29:906 Close queue connection pool.
+15/11 06:50:29:918 End of process session
+15/11 06:50:34:935 Starting process session
+15/11 06:50:34:983 Memory information:
+	 :: Free memory            : 16 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 31 MB
+	 :: Total free memory      : 49 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 124
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 8
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:50:34:998 Close queue connection pool.
+15/11 06:50:35:012 End of process session
+15/11 06:50:40:028 Starting process session
+15/11 06:50:40:065 Memory information:
+	 :: Free memory            : 18 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 33 MB
+	 :: Total free memory      : 53 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 123
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 9
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:50:40:078 Close queue connection pool.
+15/11 06:50:40:090 End of process session
+15/11 06:50:45:105 Starting process session
+15/11 06:50:45:151 Memory information:
+	 :: Free memory            : 16 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 32 MB
+	 :: Total free memory      : 50 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 123
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 9
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:50:45:164 Close queue connection pool.
+15/11 06:50:45:176 End of process session
+15/11 06:50:50:191 Starting process session
+15/11 06:50:50:242 Memory information:
+	 :: Free memory            : 18 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 33 MB
+	 :: Total free memory      : 52 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 123
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 9
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:50:50:254 Close queue connection pool.
+15/11 06:50:50:265 End of process session
+15/11 06:50:55:280 Starting process session
+15/11 06:50:55:323 Memory information:
+	 :: Free memory            : 16 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 31 MB
+	 :: Total free memory      : 50 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 123
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 9
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:50:55:335 Close queue connection pool.
+15/11 06:50:55:348 End of process session
+15/11 06:51:00:366 Starting process session
+15/11 06:51:00:409 Memory information:
+	 :: Free memory            : 17 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 32 MB
+	 :: Total free memory      : 50 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 123
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 9
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:51:00:422 Close queue connection pool.
+15/11 06:51:00:434 End of process session
+15/11 06:51:05:451 Starting process session
+15/11 06:51:05:492 Memory information:
+	 :: Free memory            : 18 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 33 MB
+	 :: Total free memory      : 53 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 123
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 9
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:51:05:505 Close queue connection pool.
+15/11 06:51:05:516 End of process session
+15/11 06:51:10:530 Starting process session
+15/11 06:51:10:585 Memory information:
+	 :: Free memory            : 16 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 32 MB
+	 :: Total free memory      : 50 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 123
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 9
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:51:10:599 Close queue connection pool.
+15/11 06:51:10:613 End of process session
+15/11 06:51:15:629 Starting process session
+15/11 06:51:15:657 Memory information:
+	 :: Free memory            : 18 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 33 MB
+	 :: Total free memory      : 52 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 123
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 9
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:51:15:670 Close queue connection pool.
+15/11 06:51:15:680 End of process session
+15/11 06:51:20:693 Starting process session
+15/11 06:51:20:722 Memory information:
+	 :: Free memory            : 16 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 31 MB
+	 :: Total free memory      : 50 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 123
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 9
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:51:20:735 Close queue connection pool.
+15/11 06:51:20:746 End of process session
+15/11 06:51:25:759 Starting process session
+15/11 06:51:25:794 Memory information:
+	 :: Free memory            : 18 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 33 MB
+	 :: Total free memory      : 52 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 124
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 10
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:51:25:822 Close queue connection pool.
+15/11 06:51:25:846 End of process session
+15/11 06:51:30:864 Starting process session
+15/11 06:51:30:917 Memory information:
+	 :: Free memory            : 18 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 33 MB
+	 :: Total free memory      : 53 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 124
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 10
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:51:30:934 Close queue connection pool.
+15/11 06:51:30:948 End of process session
+15/11 06:51:35:966 Starting process session
+15/11 06:51:35:995 Memory information:
+	 :: Free memory            : 16 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 31 MB
+	 :: Total free memory      : 49 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 124
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 10
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:51:36:008 Close queue connection pool.
+15/11 06:51:36:018 End of process session
+15/11 06:51:41:033 Starting process session
+15/11 06:51:41:060 Memory information:
+	 :: Free memory            : 18 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 33 MB
+	 :: Total free memory      : 52 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 124
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 10
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:51:41:074 Close queue connection pool.
+15/11 06:51:41:084 End of process session
+15/11 06:51:46:100 Starting process session
+15/11 06:51:46:130 Memory information:
+	 :: Free memory            : 16 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 31 MB
+	 :: Total free memory      : 49 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 124
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 10
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:51:46:145 Close queue connection pool.
+15/11 06:51:46:156 End of process session
+15/11 06:51:51:173 Starting process session
+15/11 06:51:51:217 Memory information:
+	 :: Free memory            : 17 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 33 MB
+	 :: Total free memory      : 52 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 124
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 10
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:51:51:232 Close queue connection pool.
+15/11 06:51:51:243 End of process session
+15/11 06:51:56:260 Starting process session
+15/11 06:51:56:312 Memory information:
+	 :: Free memory            : 16 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 31 MB
+	 :: Total free memory      : 49 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 124
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 10
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:51:56:327 Close queue connection pool.
+15/11 06:51:56:338 End of process session
+15/11 06:52:01:355 Starting process session
+15/11 06:52:01:395 Memory information:
+	 :: Free memory            : 16 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 31 MB
+	 :: Total free memory      : 49 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 124
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 10
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:52:01:408 Close queue connection pool.
+15/11 06:52:01:419 End of process session
+15/11 06:52:06:433 Starting process session
+15/11 06:52:06:479 Memory information:
+	 :: Free memory            : 17 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 33 MB
+	 :: Total free memory      : 52 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 124
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 10
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:52:06:494 Close queue connection pool.
+15/11 06:52:06:506 End of process session
+15/11 06:52:11:521 Starting process session
+15/11 06:52:11:556 Memory information:
+	 :: Free memory            : 16 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 31 MB
+	 :: Total free memory      : 49 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 124
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 10
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:52:11:571 Close queue connection pool.
+15/11 06:52:11:583 End of process session
+15/11 06:52:16:598 Starting process session
+15/11 06:52:16:635 Memory information:
+	 :: Free memory            : 17 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 32 MB
+	 :: Total free memory      : 51 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 124
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 10
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:52:16:650 Close queue connection pool.
+15/11 06:52:16:662 End of process session
+15/11 06:52:21:676 Starting process session
+15/11 06:52:21:719 Memory information:
+	 :: Free memory            : 15 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 31 MB
+	 :: Total free memory      : 48 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 124
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 10
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:52:21:734 Close queue connection pool.
+15/11 06:52:21:744 End of process session
+15/11 06:52:26:760 Starting process session
+15/11 06:52:26:817 Memory information:
+	 :: Free memory            : 17 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 32 MB
+	 :: Total free memory      : 51 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 124
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 10
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:52:26:841 Close queue connection pool.
+15/11 06:52:26:862 End of process session
+15/11 06:52:31:881 Starting process session
+15/11 06:52:31:909 Memory information:
+	 :: Free memory            : 17 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 33 MB
+	 :: Total free memory      : 52 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 124
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 10
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:52:31:921 Close queue connection pool.
+15/11 06:52:31:932 End of process session
+15/11 06:52:36:946 Starting process session
+15/11 06:52:36:974 Memory information:
+	 :: Free memory            : 16 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 31 MB
+	 :: Total free memory      : 49 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 124
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 10
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:52:36:986 Close queue connection pool.
+15/11 06:52:36:997 End of process session
+15/11 06:52:42:011 Starting process session
+15/11 06:52:42:040 Memory information:
+	 :: Free memory            : 17 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 32 MB
+	 :: Total free memory      : 51 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 124
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 10
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:52:42:054 Close queue connection pool.
+15/11 06:52:42:066 End of process session
+15/11 06:52:47:079 Starting process session
+15/11 06:52:47:122 Memory information:
+	 :: Free memory            : 16 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 31 MB
+	 :: Total free memory      : 49 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 124
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 10
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:52:47:137 Close queue connection pool.
+15/11 06:52:47:151 End of process session
+15/11 06:52:52:165 Starting process session
+15/11 06:52:52:211 Memory information:
+	 :: Free memory            : 17 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 32 MB
+	 :: Total free memory      : 51 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 124
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 10
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:52:52:226 Close queue connection pool.
+15/11 06:52:52:237 End of process session
+15/11 06:52:57:250 Starting process session
+15/11 06:52:57:366 Memory information:
+	 :: Free memory            : 17 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 32 MB
+	 :: Total free memory      : 51 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 124
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 10
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:52:57:378 Close queue connection pool.
+15/11 06:52:57:389 End of process session
+15/11 06:53:02:404 Starting process session
+15/11 06:53:02:457 Memory information:
+	 :: Free memory            : 17 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 33 MB
+	 :: Total free memory      : 52 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 124
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 10
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:53:02:472 Close queue connection pool.
+15/11 06:53:02:484 End of process session
+15/11 06:53:07:499 Starting process session
+15/11 06:53:07:549 Memory information:
+	 :: Free memory            : 16 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 31 MB
+	 :: Total free memory      : 49 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 124
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 10
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:53:07:564 Close queue connection pool.
+15/11 06:53:07:577 End of process session
+15/11 06:53:12:591 Starting process session
+15/11 06:53:12:622 Memory information:
+	 :: Free memory            : 17 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 32 MB
+	 :: Total free memory      : 51 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 124
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 10
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:53:12:634 Close queue connection pool.
+15/11 06:53:12:647 End of process session
+15/11 06:53:17:661 Starting process session
+15/11 06:53:17:693 Memory information:
+	 :: Free memory            : 15 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 31 MB
+	 :: Total free memory      : 48 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 124
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 10
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:53:17:705 Close queue connection pool.
+15/11 06:53:17:716 End of process session
+15/11 06:53:22:731 Starting process session
+15/11 06:53:22:772 Memory information:
+	 :: Free memory            : 17 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 32 MB
+	 :: Total free memory      : 51 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 124
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 10
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:53:22:784 Close queue connection pool.
+15/11 06:53:22:795 End of process session
+15/11 06:53:27:809 Starting process session
+15/11 06:53:27:844 Memory information:
+	 :: Free memory            : 18 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 33 MB
+	 :: Total free memory      : 53 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 124
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 10
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:53:27:858 Close queue connection pool.
+15/11 06:53:27:869 End of process session
+15/11 06:53:32:883 Starting process session
+15/11 06:53:32:923 Memory information:
+	 :: Free memory            : 16 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 31 MB
+	 :: Total free memory      : 49 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 124
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 10
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:53:32:938 Close queue connection pool.
+15/11 06:53:32:951 End of process session
+15/11 06:53:37:967 Starting process session
+15/11 06:53:38:011 Memory information:
+	 :: Free memory            : 17 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 32 MB
+	 :: Total free memory      : 51 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 124
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 10
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:53:38:027 Close queue connection pool.
+15/11 06:53:38:039 End of process session
+15/11 06:53:43:055 Starting process session
+15/11 06:53:43:108 Memory information:
+	 :: Free memory            : 15 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 30 MB
+	 :: Total free memory      : 48 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 124
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 10
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:53:43:122 Close queue connection pool.
+15/11 06:53:43:134 End of process session
+15/11 06:53:48:149 Starting process session
+15/11 06:53:48:189 Memory information:
+	 :: Free memory            : 17 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 32 MB
+	 :: Total free memory      : 50 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 124
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 10
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:53:48:203 Close queue connection pool.
+15/11 06:53:48:214 End of process session
+15/11 06:53:53:228 Starting process session
+15/11 06:53:53:264 Memory information:
+	 :: Free memory            : 18 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 33 MB
+	 :: Total free memory      : 53 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 124
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 10
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:53:53:277 Close queue connection pool.
+15/11 06:53:53:289 End of process session
+15/11 06:53:58:302 Starting process session
+15/11 06:53:58:345 Memory information:
+	 :: Free memory            : 16 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 31 MB
+	 :: Total free memory      : 50 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 124
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 10
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:53:58:359 Close queue connection pool.
+15/11 06:53:58:371 End of process session
+15/11 06:54:03:386 Starting process session
+15/11 06:54:03:426 Memory information:
+	 :: Free memory            : 17 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 32 MB
+	 :: Total free memory      : 51 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 124
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 10
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:54:03:440 Close queue connection pool.
+15/11 06:54:03:451 End of process session
+15/11 06:54:08:465 Starting process session
+15/11 06:54:08:521 Memory information:
+	 :: Free memory            : 15 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 30 MB
+	 :: Total free memory      : 48 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 124
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 10
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:54:08:536 Close queue connection pool.
+15/11 06:54:08:548 End of process session
+15/11 06:54:13:563 Starting process session
+15/11 06:54:13:591 Memory information:
+	 :: Free memory            : 17 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 32 MB
+	 :: Total free memory      : 50 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 124
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 10
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:54:13:603 Close queue connection pool.
+15/11 06:54:13:614 End of process session
+15/11 06:54:18:628 Starting process session
+15/11 06:54:18:666 Memory information:
+	 :: Free memory            : 15 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 30 MB
+	 :: Total free memory      : 48 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 124
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 10
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:54:18:680 Close queue connection pool.
+15/11 06:54:18:691 End of process session
+15/11 06:54:23:704 Starting process session
+15/11 06:54:23:737 Memory information:
+	 :: Free memory            : 16 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 32 MB
+	 :: Total free memory      : 50 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 124
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 10
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:54:23:749 Close queue connection pool.
+15/11 06:54:23:760 End of process session
+15/11 06:54:28:775 Starting process session
+15/11 06:54:28:807 Memory information:
+	 :: Free memory            : 18 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 33 MB
+	 :: Total free memory      : 52 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 124
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 10
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:54:28:823 Close queue connection pool.
+15/11 06:54:28:834 End of process session
+15/11 06:54:33:848 Starting process session
+15/11 06:54:33:875 Memory information:
+	 :: Free memory            : 15 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 30 MB
+	 :: Total free memory      : 48 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 124
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 10
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:54:33:887 Close queue connection pool.
+15/11 06:54:33:901 End of process session
+15/11 06:54:38:918 Starting process session
+15/11 06:54:38:953 Memory information:
+	 :: Free memory            : 17 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 32 MB
+	 :: Total free memory      : 51 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 124
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 10
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:54:38:967 Close queue connection pool.
+15/11 06:54:38:978 End of process session
+15/11 06:54:43:992 Starting process session
+15/11 06:54:44:030 Memory information:
+	 :: Free memory            : 15 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 30 MB
+	 :: Total free memory      : 48 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 124
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 10
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:54:44:044 Close queue connection pool.
+15/11 06:54:44:055 End of process session
+15/11 06:54:49:073 Starting process session
+15/11 06:54:49:115 Memory information:
+	 :: Free memory            : 17 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 32 MB
+	 :: Total free memory      : 50 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 124
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 10
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:54:49:129 Close queue connection pool.
+15/11 06:54:49:140 End of process session
+15/11 06:54:54:154 Starting process session
+15/11 06:54:54:189 Memory information:
+	 :: Free memory            : 18 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 33 MB
+	 :: Total free memory      : 53 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 124
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 10
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:54:54:201 Close queue connection pool.
+15/11 06:54:54:220 End of process session
+15/11 06:54:59:232 Starting process session
+15/11 06:54:59:279 Memory information:
+	 :: Free memory            : 16 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 32 MB
+	 :: Total free memory      : 50 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 124
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 10
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:54:59:295 Close queue connection pool.
+15/11 06:54:59:308 End of process session
+15/11 06:55:04:325 Starting process session
+15/11 06:55:04:355 Memory information:
+	 :: Free memory            : 15 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 30 MB
+	 :: Total free memory      : 48 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 124
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 10
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:55:04:368 Close queue connection pool.
+15/11 06:55:04:380 End of process session
+15/11 06:55:09:395 Starting process session
+15/11 06:55:09:428 Memory information:
+	 :: Free memory            : 17 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 32 MB
+	 :: Total free memory      : 50 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 124
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 10
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:55:09:444 Close queue connection pool.
+15/11 06:55:09:455 End of process session
+15/11 06:55:14:472 Starting process session
+15/11 06:55:14:511 Memory information:
+	 :: Free memory            : 15 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 30 MB
+	 :: Total free memory      : 48 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 124
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 10
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:55:14:524 Close queue connection pool.
+15/11 06:55:14:534 End of process session
+15/11 06:55:19:552 Starting process session
+15/11 06:55:19:584 Memory information:
+	 :: Free memory            : 17 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 32 MB
+	 :: Total free memory      : 50 (%)
+	 :: Disk in used           : 60,381/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 124
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 10
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:55:19:597 Close queue connection pool.
+15/11 06:55:19:608 End of process session
+15/11 06:55:24:621 Starting process session
+15/11 06:55:24:661 Memory information:
+	 :: Free memory            : 15 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 30 MB
+	 :: Total free memory      : 48 (%)
+	 :: Disk in used           : 60,382/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 124
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 10
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:55:24:674 Close queue connection pool.
+15/11 06:55:24:686 End of process session
+15/11 06:55:29:701 Starting process session
+15/11 06:55:29:753 Memory information:
+	 :: Free memory            : 16 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 31 MB
+	 :: Total free memory      : 50 (%)
+	 :: Disk in used           : 60,382/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 124
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 10
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:55:29:767 Close queue connection pool.
+15/11 06:55:29:781 End of process session
+15/11 06:55:34:797 Starting process session
+15/11 06:55:34:846 Memory information:
+	 :: Free memory            : 17 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 32 MB
+	 :: Total free memory      : 51 (%)
+	 :: Disk in used           : 60,382/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 124
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 10
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:55:34:861 Close queue connection pool.
+15/11 06:55:34:871 End of process session
+15/11 06:55:39:885 Starting process session
+15/11 06:55:39:929 Memory information:
+	 :: Free memory            : 15 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 30 MB
+	 :: Total free memory      : 48 (%)
+	 :: Disk in used           : 60,382/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 124
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 10
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:55:39:944 Close queue connection pool.
+15/11 06:55:39:957 End of process session
+15/11 06:55:44:973 Starting process session
+15/11 06:55:45:000 Memory information:
+	 :: Free memory            : 17 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 32 MB
+	 :: Total free memory      : 50 (%)
+	 :: Disk in used           : 60,382/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 124
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 10
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:55:45:013 Close queue connection pool.
+15/11 06:55:45:024 End of process session
+15/11 06:55:50:037 Starting process session
+15/11 06:55:50:063 Memory information:
+	 :: Free memory            : 15 MB
+	 :: Allocated memory       : 48 MB
+	 :: Max memory             : 63 MB
+	 :: Total free memory      : 30 MB
+	 :: Total free memory      : 48 (%)
+	 :: Disk in used           : 60,382/70,623 MB, Used 85 (%) (/)
+	 :: Total running thread   : 124
+Total command request for test/OrderRoute : 0
+Total command request for test/CRM : 0
+Total command request for test/MT : 0
+Total command request for test/OrderResponse : 0
+Total command request for test/OTPRequest : 0
+Total command request for test/SubRequest : 0
+Total command request for test/SDPSMS : 0
+Total command request for test/vmswap : 0
+Total command request for test/vmssms : 0
+Total command request for test/CommandLog : 10
+Total command request for test/CommandRoute : 0
+WARNING: Disk space is running low
+15/11 06:55:50:078 Close queue connection pool.
+15/11 06:55:50:088 End of process session

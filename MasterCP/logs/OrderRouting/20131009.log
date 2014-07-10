@@ -1,0 +1,39 @@
+09/10 01:13:53:569 Order Routing started
+09/10 01:13:55:725 Testing connection ...
+09/10 01:13:59:403 Created provisioning instance for CCWS
+09/10 01:13:59:411 Testing connection are success
+09/10 01:13:59:420 Starting process session
+09/10 01:14:00:918 Total 0 instances are started
+09/10 01:14:00:919 Total 10 instances are added
+09/10 01:14:51:919 Close pool
+09/10 01:14:52:937 Close queue connection pool.
+09/10 01:14:52:948 End of process session
+09/10 01:14:52:959 Order Routing stopped
+09/10 01:14:54:943 Order Routing started
+09/10 01:14:54:987 Close pool
+09/10 01:14:54:997 Close pool
+09/10 01:14:55:005 Testing connection ...
+09/10 01:14:55:020 Created provisioning instance for CCWS
+09/10 01:14:55:029 Testing connection are success
+09/10 01:14:55:039 Starting process session
+09/10 01:14:56:464 Total 0 instances are started
+09/10 01:14:56:480 Total 10 instances are added
+09/10 16:27:29:443 Order Routing started
+09/10 16:28:07:253 java.sql.SQLException: Connections could not be acquired from the underlying database!
+09/10 16:28:07:254 End of process session
+09/10 16:28:17:278 Testing connection ...
+09/10 16:28:18:794 Created provisioning instance for CCWS
+09/10 16:28:18:802 Testing connection are success
+09/10 16:28:18:812 Starting process session
+09/10 16:28:26:837 Close pool
+09/10 16:28:26:856 End of process session
+09/10 16:28:26:871 Order Routing stopped
+09/10 16:28:28:567 Order Routing started
+09/10 16:28:29:317 Close pool
+09/10 16:28:29:329 Close pool
+09/10 16:28:29:340 Testing connection ...
+09/10 16:28:29:356 Created provisioning instance for CCWS
+09/10 16:28:29:365 Testing connection are success
+09/10 16:28:29:373 Starting process session
+09/10 16:28:37:177 Total 0 instances are started
+09/10 16:28:37:189 Total 1 instances are added

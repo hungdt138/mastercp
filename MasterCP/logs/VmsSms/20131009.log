@@ -1,0 +1,10 @@
+09/10 16:27:30:465 SMS SEND SMS started
+09/10 16:28:10:030 Error occured: Connections could not be acquired from the underlying database!
+09/10 16:28:20:040 SMS SEND SMS stopped
+09/10 16:28:21:543 SMS SEND SMS started
+09/10 16:28:21:775 Testing connection ...
+09/10 16:28:21:784 Created provisioning instance for VMSSDP
+09/10 16:28:21:793 Testing connection are success
+09/10 16:28:21:802 Starting process session
+09/10 16:28:33:076 Total 0 instances are started
+09/10 16:28:33:087 Total 1 instances are added

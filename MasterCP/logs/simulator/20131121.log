@@ -1,0 +1,35 @@
+21/11 17:44:39:481 Simulator started
+21/11 17:44:39:504 Starting process session
+21/11 17:44:39:519 Begin to send message.
+21/11 17:44:39:674  | userId = system | channel = web | serviceAddress = 8926 | keyword = VNMREG_GET | isdn = 84923962323 | subscriberType = -1 | shipTo =  | merchantId = 0 | agentId = 0 | actionType =  | productId = 0 | contentCode = 0 | contentType = 0 | commandId = 0 | vnmDeliveryMode = 0 | vnmChargeMode = 0 | vnmProduct =  | request =  | response =  | status = 1 | cause =  | description = 
+21/11 17:44:39:684 message count: 1
+21/11 17:44:39:711 End of process session
+21/11 17:44:43:724 Simulator stopped
+21/11 17:48:53:743 Simulator started
+21/11 17:48:53:787 Starting process session
+21/11 17:48:53:798 Begin to send message.
+21/11 17:48:53:814  | userId = system | channel = web | serviceAddress = 8926 | keyword = VNMREG_GET | isdn = 84923962323 | subscriberType = -1 | shipTo =  | merchantId = 0 | agentId = 0 | actionType =  | productId = 0 | contentCode = 0 | contentType = 0 | commandId = 0 | vnmDeliveryMode = 0 | vnmChargeMode = 0 | vnmProduct =  | request =  | response =  | status = 1 | cause =  | description = 
+21/11 17:48:53:823 message count: 1
+21/11 17:48:53:835 End of process session
+21/11 17:48:55:845 Simulator stopped
+21/11 17:56:34:186 Simulator started
+21/11 17:56:34:217 Starting process session
+21/11 17:56:34:228 Begin to send message.
+21/11 17:56:34:250  | userId = system | channel = web | serviceAddress = 8926 | keyword = VNMREG_GET | isdn = 84923962323 | subscriberType = -1 | shipTo =  | merchantId = 0 | agentId = 0 | actionType =  | productId = 0 | contentCode = 0 | contentType = 0 | commandId = 0 | vnmDeliveryMode = 0 | vnmChargeMode = 0 | vnmProduct =  | request =  | response =  | status = 1 | cause =  | description = 
+21/11 17:56:34:258 message count: 1
+21/11 17:56:34:271 End of process session
+21/11 17:56:37:283 Simulator stopped
+21/11 17:56:56:224 Simulator started
+21/11 17:56:56:257 Starting process session
+21/11 17:56:56:268 Begin to send message.
+21/11 17:56:56:283  | userId = system | channel = web | serviceAddress = 8926 | keyword = VNMREG_GET | isdn = 84923962323 | subscriberType = -1 | shipTo =  | merchantId = 0 | agentId = 0 | actionType =  | productId = 0 | contentCode = 0 | contentType = 0 | commandId = 0 | vnmDeliveryMode = 0 | vnmChargeMode = 0 | vnmProduct =  | request =  | response =  | status = 1 | cause =  | description = 
+21/11 17:56:56:291 message count: 1
+21/11 17:56:56:303 End of process session
+21/11 17:56:59:315 Simulator stopped
+21/11 18:02:45:243 Simulator started
+21/11 18:02:45:287 Starting process session
+21/11 18:02:45:301 Begin to send message.
+21/11 18:02:45:328  | userId = system | channel = web | serviceAddress = 8926 | keyword = VNMREG_GET | isdn = 84923962323 | subscriberType = -1 | shipTo =  | merchantId = 0 | agentId = 0 | actionType =  | productId = 0 | contentCode = 0 | contentType = 0 | commandId = 0 | vnmDeliveryMode = 0 | vnmChargeMode = 0 | vnmProduct =  | request =  | response =  | status = 1 | cause =  | description = 
+21/11 18:02:45:337 message count: 1
+21/11 18:02:45:352 End of process session
+21/11 18:02:48:365 Simulator stopped

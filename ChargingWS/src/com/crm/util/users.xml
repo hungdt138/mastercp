@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<users>
+	<user>
+		<username>sammedia</username>
+		<password>acom_samMedia123</password>
+		<permissions>
+			<permission>sendSMS</permission>
+			<permission>sendWAP</permission>
+			<permission>OTPreq</permission>
+			<permission>subRequest</permission>
+		</permissions>
+	</user>
+</users>

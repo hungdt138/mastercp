@@ -1,0 +1,315 @@
+07/10 14:43:31:044 Order Routing started
+07/10 14:43:35:473 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:43:35:484 End of process session
+07/10 14:43:46:629 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:43:46:638 End of process session
+07/10 14:43:57:730 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:43:57:739 End of process session
+07/10 14:44:08:851 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:44:08:861 End of process session
+07/10 14:44:19:759 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:44:19:769 End of process session
+07/10 14:44:31:582 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:44:31:591 End of process session
+07/10 14:44:42:460 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:44:42:469 End of process session
+07/10 14:44:44:480 Order Routing stopped
+07/10 14:44:46:137 Order Routing started
+07/10 14:44:47:074 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:44:47:092 End of process session
+07/10 14:44:58:067 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:44:58:077 End of process session
+07/10 14:45:09:140 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:45:09:151 End of process session
+07/10 14:45:20:150 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:45:20:159 End of process session
+07/10 14:46:30:319 Order Routing started
+07/10 14:46:33:989 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:46:33:999 End of process session
+07/10 14:46:45:143 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:46:45:158 End of process session
+07/10 14:46:56:318 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:46:56:328 End of process session
+07/10 14:47:07:237 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:47:07:247 End of process session
+07/10 14:47:18:452 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:47:18:461 End of process session
+07/10 14:47:29:410 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:47:29:423 End of process session
+07/10 14:47:40:458 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:47:40:469 End of process session
+07/10 14:47:51:372 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:47:51:382 End of process session
+07/10 14:48:02:351 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:48:02:363 End of process session
+07/10 14:48:13:405 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:48:13:414 End of process session
+07/10 14:48:24:280 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:48:24:289 End of process session
+07/10 14:48:35:329 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:48:35:338 End of process session
+07/10 14:48:46:353 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:48:46:361 End of process session
+07/10 14:48:57:382 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:48:57:391 End of process session
+07/10 14:49:08:481 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:49:08:490 End of process session
+07/10 14:49:19:645 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:49:19:654 End of process session
+07/10 14:49:30:726 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:49:30:735 End of process session
+07/10 14:49:41:808 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:49:41:817 End of process session
+07/10 14:49:52:831 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:49:52:840 End of process session
+07/10 14:50:03:941 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:50:03:951 End of process session
+07/10 14:50:15:004 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:50:15:013 End of process session
+07/10 14:50:26:407 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:50:26:418 End of process session
+07/10 14:50:37:483 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:50:37:492 End of process session
+07/10 14:50:48:530 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:50:48:539 End of process session
+07/10 14:50:59:556 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:50:59:566 End of process session
+07/10 14:51:10:576 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:51:10:585 End of process session
+07/10 14:51:21:626 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:51:21:636 End of process session
+07/10 14:51:32:652 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:51:32:662 End of process session
+07/10 14:51:43:680 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:51:43:689 End of process session
+07/10 14:51:54:701 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:51:54:710 End of process session
+07/10 14:52:05:797 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:52:05:806 End of process session
+07/10 14:52:16:965 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:52:16:976 End of process session
+07/10 14:52:27:971 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:52:27:981 End of process session
+07/10 14:52:38:980 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:52:38:989 End of process session
+07/10 14:52:50:225 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:52:50:234 End of process session
+07/10 14:53:01:320 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:53:01:330 End of process session
+07/10 14:53:12:392 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:53:12:401 End of process session
+07/10 14:53:23:390 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:53:23:399 End of process session
+07/10 14:53:34:528 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:53:34:537 End of process session
+07/10 14:53:45:625 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:53:45:634 End of process session
+07/10 14:53:56:651 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:53:56:660 End of process session
+07/10 14:54:07:678 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:54:07:687 End of process session
+07/10 14:54:18:757 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:54:18:766 End of process session
+07/10 14:54:29:801 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:54:29:810 End of process session
+07/10 14:54:40:837 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:54:40:846 End of process session
+07/10 14:54:51:835 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:54:51:845 End of process session
+07/10 14:55:02:875 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:55:02:884 End of process session
+07/10 14:55:13:946 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:55:13:957 End of process session
+07/10 14:55:24:967 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:55:24:976 End of process session
+07/10 14:55:35:983 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:55:35:992 End of process session
+07/10 14:55:47:054 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:55:47:064 End of process session
+07/10 14:55:58:048 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:55:58:057 End of process session
+07/10 14:56:09:349 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:56:09:359 End of process session
+07/10 14:56:20:358 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:56:20:368 End of process session
+07/10 14:56:31:399 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:56:31:408 End of process session
+07/10 14:56:42:464 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:56:42:473 End of process session
+07/10 14:56:53:508 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:56:53:517 End of process session
+07/10 14:57:04:557 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:57:04:566 End of process session
+07/10 14:57:15:701 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:57:15:710 End of process session
+07/10 14:57:26:681 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:57:26:690 End of process session
+07/10 14:57:37:710 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:57:37:719 End of process session
+07/10 14:57:48:736 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:57:48:748 End of process session
+07/10 14:57:59:941 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:57:59:951 End of process session
+07/10 14:58:10:989 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:58:10:999 End of process session
+07/10 14:58:40:619 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:58:40:628 End of process session
+07/10 14:58:51:765 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:58:51:774 End of process session
+07/10 14:59:02:839 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:59:02:849 End of process session
+07/10 14:59:13:906 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:59:13:915 End of process session
+07/10 14:59:24:985 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:59:24:995 End of process session
+07/10 14:59:36:051 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:59:36:061 End of process session
+07/10 14:59:47:109 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:59:47:118 End of process session
+07/10 14:59:58:187 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 14:59:58:196 End of process session
+07/10 15:00:09:236 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 15:00:09:246 End of process session
+07/10 15:00:20:334 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 15:00:20:346 End of process session
+07/10 15:00:31:642 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 15:00:31:651 End of process session
+07/10 15:00:42:566 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 15:00:42:576 End of process session
+07/10 15:00:53:961 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 15:00:53:972 End of process session
+07/10 15:01:04:830 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 15:01:04:840 End of process session
+07/10 15:01:16:291 java.lang.ClassNotFoundException: com.crm.provisioning.impl.sdp.SDPCommandImpl
+07/10 15:01:16:302 End of process session
+07/10 15:01:24:319 Order Routing stopped
+07/10 15:01:26:150 Order Routing started
+07/10 15:01:28:511 Testing connection ...
+07/10 15:01:29:717 Created provisioning instance for CCWS
+07/10 15:01:29:729 Testing connection are success
+07/10 15:01:29:738 Starting process session
+07/10 15:01:35:352 java.sql.SQLException: Invalid column name
+07/10 15:01:35:361 Close pool
+07/10 15:01:35:373 End of process session
+07/10 15:01:45:391 Close pool
+07/10 15:01:45:409 Close pool
+07/10 15:01:45:422 Testing connection ...
+07/10 15:01:45:436 Created provisioning instance for CCWS
+07/10 15:01:45:448 Testing connection are success
+07/10 15:01:45:461 Starting process session
+07/10 15:01:51:695 java.sql.SQLException: Invalid column name
+07/10 15:01:51:704 Close pool
+07/10 15:01:51:713 End of process session
+07/10 15:05:29:985 Order Routing started
+07/10 15:05:35:070 Testing connection ...
+07/10 15:05:35:598 Created provisioning instance for CCWS
+07/10 15:05:35:608 Testing connection are success
+07/10 15:05:35:617 Starting process session
+07/10 15:05:42:106 java.sql.SQLException: Invalid column name
+07/10 15:05:42:116 Close pool
+07/10 15:05:42:126 End of process session
+07/10 15:05:52:146 Close pool
+07/10 15:05:52:163 Close pool
+07/10 15:05:52:180 Testing connection ...
+07/10 15:05:52:198 Created provisioning instance for CCWS
+07/10 15:05:52:210 Testing connection are success
+07/10 15:05:52:221 Starting process session
+07/10 15:05:57:857 java.sql.SQLException: Invalid column name
+07/10 15:05:57:867 Close pool
+07/10 15:05:57:878 End of process session
+07/10 15:06:07:900 Close pool
+07/10 15:06:07:910 Close pool
+07/10 15:06:07:920 Testing connection ...
+07/10 15:06:07:933 Created provisioning instance for CCWS
+07/10 15:06:07:943 Testing connection are success
+07/10 15:06:07:953 Starting process session
+07/10 15:06:13:967 java.sql.SQLException: Invalid column name
+07/10 15:06:13:976 Close pool
+07/10 15:06:13:986 End of process session
+07/10 15:06:24:006 Close pool
+07/10 15:06:24:024 Close pool
+07/10 15:06:24:041 Testing connection ...
+07/10 15:06:24:061 Created provisioning instance for CCWS
+07/10 15:06:24:175 Testing connection are success
+07/10 15:06:24:193 Starting process session
+07/10 15:06:29:873 java.sql.SQLException: Invalid column name
+07/10 15:06:29:884 Close pool
+07/10 15:06:29:895 End of process session
+07/10 15:06:39:914 Close pool
+07/10 15:06:39:924 Close pool
+07/10 15:06:39:934 Testing connection ...
+07/10 15:06:39:952 Created provisioning instance for CCWS
+07/10 15:06:39:967 Testing connection are success
+07/10 15:06:39:978 Starting process session
+07/10 15:06:45:938 java.sql.SQLException: Invalid column name
+07/10 15:06:45:948 Close pool
+07/10 15:06:45:958 End of process session
+07/10 15:06:50:972 Order Routing stopped
+07/10 15:06:52:077 Order Routing started
+07/10 15:06:52:116 Close pool
+07/10 15:06:52:125 Close pool
+07/10 15:06:52:135 Testing connection ...
+07/10 15:06:52:148 Created provisioning instance for CCWS
+07/10 15:06:52:157 Testing connection are success
+07/10 15:06:52:167 Starting process session
+07/10 15:06:59:375 java.sql.SQLException: Invalid column name
+07/10 15:06:59:384 Close pool
+07/10 15:06:59:394 End of process session
+07/10 15:07:09:413 Close pool
+07/10 15:07:09:434 Close pool
+07/10 15:07:09:447 Testing connection ...
+07/10 15:07:09:458 Created provisioning instance for CCWS
+07/10 15:07:09:468 Testing connection are success
+07/10 15:07:09:477 Starting process session
+07/10 15:07:16:997 java.sql.SQLException: Invalid column name
+07/10 15:07:17:006 Close pool
+07/10 15:07:17:017 End of process session
+07/10 15:07:27:037 Close pool
+07/10 15:07:27:047 Close pool
+07/10 15:07:27:058 Testing connection ...
+07/10 15:07:27:069 Created provisioning instance for CCWS
+07/10 15:07:27:079 Testing connection are success
+07/10 15:07:27:088 Starting process session
+07/10 15:07:32:543 java.sql.SQLException: Invalid column name
+07/10 15:07:32:552 Close pool
+07/10 15:07:32:561 End of process session
+07/10 15:07:42:580 Close pool
+07/10 15:07:42:592 Close pool
+07/10 15:07:42:602 Testing connection ...
+07/10 15:07:42:614 Created provisioning instance for CCWS
+07/10 15:07:42:624 Testing connection are success
+07/10 15:07:42:633 Starting process session
+07/10 15:07:48:138 java.sql.SQLException: Invalid column name
+07/10 15:07:48:148 Close pool
+07/10 15:07:48:158 End of process session
+07/10 15:08:12:355 Order Routing started
+07/10 15:08:16:913 Testing connection ...
+07/10 15:08:17:410 Created provisioning instance for CCWS
+07/10 15:08:17:420 Testing connection are success
+07/10 15:08:17:429 Starting process session
+07/10 15:08:25:734 Close pool
+07/10 15:08:25:756 End of process session
+07/10 15:08:25:769 Order Routing stopped
+07/10 15:08:27:388 Order Routing started
+07/10 15:08:27:429 Close pool
+07/10 15:08:27:440 Close pool
+07/10 15:08:27:450 Testing connection ...
+07/10 15:08:27:462 Created provisioning instance for CCWS
+07/10 15:08:27:471 Testing connection are success
+07/10 15:08:27:481 Starting process session
+07/10 15:08:35:912 Total 0 instances are started
+07/10 15:08:35:925 Total 10 instances are added
+07/10 16:11:15:203 Order Routing started
+07/10 16:11:15:233 Testing connection ...
+07/10 16:11:15:790 Created provisioning instance for CCWS
+07/10 16:11:15:800 Testing connection are success
+07/10 16:11:15:810 Starting process session
+07/10 16:11:32:165 Total 0 instances are started
+07/10 16:11:32:175 Total 10 instances are added
+07/10 17:13:30:924 Order Routing started
+07/10 17:13:34:308 Testing connection ...
+07/10 17:13:34:747 Created provisioning instance for CCWS
+07/10 17:13:34:758 Testing connection are success
+07/10 17:13:34:767 Starting process session
+07/10 17:13:46:642 Total 0 instances are started
+07/10 17:13:46:660 Total 10 instances are added

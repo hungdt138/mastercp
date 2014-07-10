@@ -1,0 +1,16 @@
+14/05 09:55:42:703 Subscription VNM (Charge) started
+14/05 09:55:45:540 Starting process session
+14/05 09:56:09:230 Processed 0 records.
+14/05 09:56:09:248 Close queue connection pool.
+14/05 09:56:09:355 End of process session
+14/05 09:57:40:816 Subscription VNM (Charge) stopped
+14/05 10:11:47:824 Subscription VNM (Charge) started
+14/05 10:11:47:931 Starting process session
+14/05 10:11:57:272 Processed 0 records.
+14/05 10:11:57:299 Close queue connection pool.
+14/05 10:11:57:346 End of process session
+14/05 10:14:18:458 Subscription VNM (Charge) started
+14/05 10:14:18:545 Starting process session
+14/05 10:14:28:834 Processed 0 records.
+14/05 10:14:28:836 Close queue connection pool.
+14/05 10:14:28:948 End of process session

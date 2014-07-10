@@ -1,0 +1,30 @@
+21/11 17:42:43:259 Order Routing started
+21/11 17:42:54:641 Testing connection ...
+21/11 17:42:55:819 Created provisioning instance for CCWS
+21/11 17:42:55:829 Testing connection are success
+21/11 17:42:55:837 Starting process session
+21/11 17:43:58:072 Total 0 instances are started
+21/11 17:43:58:095 Total 1 instances are added
+21/11 17:48:34:420 OrderRoute not found
+21/11 17:48:34:433 invalid-syntax
+21/11 17:48:34:444 orderId = 0 | orderDate = 2013/11/21 17:44:39 | merchantId = 0 | agentId = 0 | userName = system | subProductId = 0 | channel = web | serviceAddress = 8926 | keyword = VNMREG_GET | isdn = 84923962323 | subscriberType = -1 | shipTo =  | contentCode = 0 | contentType = 0 | actionType =  | productId = 0 | amount = 0.0 | provisioningType =  | commandId = 0 | cause = invalid-syntax | status = 4 | description = null
+21/11 17:57:08:264 Close pool
+21/11 17:57:08:372 Close queue connection pool.
+21/11 17:57:08:392 End of process session
+21/11 17:57:08:402 Order Routing stopped
+21/11 17:57:10:281 Order Routing started
+21/11 17:57:10:320 Close pool
+21/11 17:57:10:330 Close pool
+21/11 17:57:10:340 Testing connection ...
+21/11 17:57:10:360 Created provisioning instance for CCWS
+21/11 17:57:10:368 Testing connection are success
+21/11 17:57:10:378 Starting process session
+21/11 17:57:12:038 Total 0 instances are started
+21/11 17:57:12:057 Total 1 instances are added
+21/11 18:02:26:102 Order Routing started
+21/11 18:02:28:926 Testing connection ...
+21/11 18:02:29:462 Created provisioning instance for CCWS
+21/11 18:02:29:471 Testing connection are success
+21/11 18:02:29:480 Starting process session
+21/11 18:02:33:811 Total 0 instances are started
+21/11 18:02:33:822 Total 1 instances are added
