@@ -1,0 +1,651 @@
+/**
+ * 
+ */
+package com.crm.product.impl;
+
+import java.util.Date;
+import java.util.List;
+
+import com.crm.kernel.message.Constants;
+import com.crm.merchant.cache.MerchantEntry;
+import com.crm.merchant.cache.MerchantFactory;
+import com.crm.product.cache.ProductEntry;
+import com.crm.product.cache.ProductFactory;
+import com.crm.product.cache.ProductPrice;
+import com.crm.product.cache.ProductRoute;
+import com.crm.provisioning.message.CommandMessage;
+import com.crm.provisioning.message.VNMMessage;
+import com.crm.provisioning.thread.OrderRoutingInstance;
+import com.crm.provisioning.util.CommandUtil;
+import com.crm.question.bean.ContentQuestion;
+import com.crm.subscriber.bean.SubscriberGoService;
+import com.crm.subscriber.bean.SubscriberProduct;
+import com.crm.subscriber.impl.SubscriberEntryImpl;
+import com.crm.subscriber.impl.SubscriberOrderImpl;
+import com.crm.subscriber.impl.SubscriberProductImpl;
+import com.crm.util.AppProperties;
+import com.crm.util.DateUtil;
+import com.crm.util.GeneratorSeq;
+import com.fss.util.AppException;
+
+/**
+ * @author HungDT
+ * 
+ */
+public class QuizOrderRouting extends OrderRoutingImpl
+{
+	// //////////////////////////////////////////////////////
+	// check class of service and compare with list of denied COS
+	// Author : ThangPV
+	// Created Date : 16/09/2004
+	// //////////////////////////////////////////////////////
+	@Override
+	public String getSubscriberState(OrderRoutingInstance instance, ProductRoute orderRoute, ProductEntry product,
+			CommandMessage request) throws Exception
+	{
+		// TODO Auto-generated method stub
+		if (request instanceof VNMMessage)
+			return ((VNMMessage)request).getSubscriberEntity() == null ? "" : ((VNMMessage)request).getSubscriberEntity().getCurrentState();
+		else
+			return super.getSubscriberState(instance, orderRoute, product, request);
+	}
+
+	// //////////////////////////////////////////////////////
+	// check class of service and compare with list of denied COS
+	// Author : ThangPV
+	// Created Date : 16/09/2004
+	// //////////////////////////////////////////////////////
+	@Override
+	public String getSubscriberCOS(OrderRoutingInstance instance, ProductRoute orderRoute, ProductEntry product,
+			CommandMessage request) throws Exception
+	{
+		if (request instanceof VNMMessage)
+			return ((VNMMessage)request).getSubscriberEntity() == null ? "" : ((VNMMessage)request).getSubscriberEntity().getCOSName();
+		else
+			return super.getSubscriberCOS(instance, orderRoute, product, request);
+	}
+
+	// //////////////////////////////////////////////////////
+	// check class of service and compare with list of denied COS
+	// Author : ThangPV
+	// Created Date : 16/09/2004
+	// //////////////////////////////////////////////////////
+	public void validateBalance(
+			OrderRoutingInstance instance, ProductRoute orderRoute, ProductEntry product, CommandMessage vnmMessage, long balanceAmount)
+			throws Exception
+	{
+		SubscriberGoService subscriberGoService = null;
+		try
+		{
+			if (vnmMessage.getActionType().equals(Constants.ACTION_CONFIRM) || 
+				vnmMessage.getActionType().equals(Constants.ACTION_BET))
+			{
+				subscriberGoService = SubscriberProductImpl.getGoServiceData(vnmMessage.getIsdn(), product.getProductId());
+				// Check valid question
+				if (subscriberGoService == null)
+				{
+					throw new AppException(Constants.ERROR_INVALID_CONFIRM);
+				}
+				else if (subscriberGoService.getNumOfQuestion() >= Integer.valueOf(product.getParameter("MaxQuestion", "10")))
+				{
+					throw new AppException(Constants.ERROR_OVER_CONFIRM);
+				}
+				else if (!SubscriberProductImpl.isSendQuestion(vnmMessage.getIsdn(), product.getProductId()))
+				{
+					throw new AppException(Constants.ERROR_INVALID_CONFIRM);
+				}
+				else
+				{
+					// Set quanlity
+					vnmMessage.setQuantity(subscriberGoService.getNumOfQuestion() + 1);
+					vnmMessage.getParameters().setLong("QuestionId",subscriberGoService.getLastQuestionId());
+					vnmMessage.getParameters().setLong("Score",subscriberGoService.getScore());
+					vnmMessage.getParameters().setLong("NumerOfQuestion",subscriberGoService.getNumOfQuestion() + 1);
+					if (vnmMessage.getActionType().equals(Constants.ACTION_BET))
+					{
+						vnmMessage.getParameters().setLong("BetRate", Long.valueOf(product.getParameter("BetRate", "1")));
+					}
+					else
+					{
+						vnmMessage.getParameters().setLong("BetRate", 1);
+					}
+					vnmMessage.getParameters().setLong("RewardPoint", Long.valueOf(product.getParameter("RewardPoint", "100")));
+				}
+			}
+
+			// set default price
+			vnmMessage.setOfferPrice(product.getPrice());
+
+			ProductPrice productPrice =
+					product.getProductPrice(
+							vnmMessage.getChannel(), vnmMessage.getActionType(), vnmMessage.getSegmentId()
+							, vnmMessage.getAssociateProductId(), vnmMessage.getQuantity(), vnmMessage.getOrderDate());
+
+			int quantity = 1;
+			double fullOfCharge = product.getPrice();
+			double baseOfCharge = product.getPrice();
+
+			if (productPrice != null)
+			{
+				fullOfCharge = productPrice.getFullOfCharge();
+				baseOfCharge = productPrice.getBaseOfCharge();
+			}
+			if (vnmMessage.getParameters().getString("FreeForFirstTime").equals("true")) // Duymb Add GO 20140401
+			{
+				vnmMessage.setPrice(0);
+			}
+			else if (balanceAmount >= fullOfCharge)
+			{
+				vnmMessage.setPrice(fullOfCharge);
+				vnmMessage.setFullOfCharge(true);
+			}
+			else if (balanceAmount < fullOfCharge && balanceAmount >= baseOfCharge && vnmMessage.getActionType().equals(Constants.ACTION_BET))
+			{
+				vnmMessage.setPrice(baseOfCharge);
+				vnmMessage.getParameters().setLong("BetRate", 1);
+			}
+			else if (balanceAmount < baseOfCharge)
+			{
+				throw new AppException(Constants.ERROR_NOT_ENOUGH_MONEY);
+			}
+			else if (orderRoute.isBaseChargeEnable())
+			{
+				vnmMessage.setFullOfCharge(false);
+				vnmMessage.setPrice(baseOfCharge);
+
+				quantity = (int) (balanceAmount / vnmMessage.getPrice());
+
+				if (quantity == 0)
+				{
+					throw new AppException(Constants.ERROR_NOT_ENOUGH_MONEY);
+				}
+			}
+			else
+			{
+				throw new AppException(Constants.ERROR_NOT_ENOUGH_MONEY);
+			}
+			
+			vnmMessage.setQuantity(quantity);
+			vnmMessage.setAmount(vnmMessage.getPrice() * vnmMessage.getQuantity());
+			
+			if (vnmMessage.getAmount()== product.getPrice())
+			{
+				vnmMessage.getParameters().setString("BonusPoint","50");
+				vnmMessage.getParameters().setString("BonusSms","5");				
+			}
+			if (vnmMessage.isPaid())
+			{
+				vnmMessage.getParameters().setString("BonusPoint","0");
+				vnmMessage.setQuantity(0);
+				vnmMessage.setAmount(0);
+			}
+		}
+		catch (Exception e)
+		{
+			throw e;
+		}
+	}
+
+	public CommandMessage checkBalance(OrderRoutingInstance instance, ProductRoute orderRoute, CommandMessage order)
+			throws Exception
+	{
+		ProductEntry product = null;
+
+		//CCWSConnection connection = null;
+//		NMSCharingConnection connection = null;
+//		SubscriberRetrieve subscriberRetrieve = null;
+
+//		SubscriberEntity subscriberEntity = null;
+		long balanceAmount = -1;
+		VNMMessage vnmMessage = CommandUtil.createVNMMessage(order);
+
+		if ((instance.getDebugMode().equals("depend")))
+		{
+			simulation(instance, orderRoute, vnmMessage);
+		}
+		else
+		{
+			try
+			{
+				long productId = vnmMessage.getProductId();
+
+				product = ProductFactory.getCache().getProduct(productId);
+
+//				connection = (NMSCharingConnection) instance.getProvisioningConnection();
+
+				// get subscriber information in CCWS
+				try
+				{
+					int sessionId = 0;
+					try
+					{
+						sessionId = GeneratorSeq.getNextSeq();
+					}
+					catch (Exception e)
+					{
+					}
+					//instance.debugMonitor("SEND:" + strRequest + ". ID="							+ sessionId);
+//					balanceAmount = connection.getBalance(order.getIsdn());
+					if (balanceAmount > 0)
+					{						
+						vnmMessage.setSubscriberType(Constants.PREPAID_SUB_TYPE); // DuyMB fixbug add 20130108
+//						instance.debugMonitor("RECEIVE:" + strResponse + ". ID=" + sessionId + ". costTime=" + costTime);
+					}
+					else 
+					{
+						// treat as postpaid or case not enough money?
+						balanceAmount = Integer.MAX_VALUE;
+						vnmMessage.setSubscriberType(Constants.PREPAID_SUB_TYPE); // DuyMB fixbug add 20130108
+					}
+				}
+				catch (Exception e)
+				{
+					//vnmMessage.setSubscriberType(SubscriberEntryImpl.getSubscriberType(vnmMessage.getIsdn()));
+					//vnmMessage.setSubscriberType(Constants.POSTPAID_SUB_TYPE);
+					vnmMessage.setSubscriberType(Constants.UNKNOW_SUB_TYPE);
+				}
+				finally
+				{
+//					instance.closeProvisioningConnection(connection);
+				}
+
+				if (balanceAmount > 0)
+				{
+//					vnmMessage.setSubscriberRetrieve(subscriberRetrieve);
+					vnmMessage.setSubscriberType(Constants.PREPAID_SUB_TYPE);
+					
+
+//					Calendar currentActiveDate = subscriberEntity.getDateEnterActive();
+//
+//					Calendar minActiveDate = Calendar.getInstance();
+//					minActiveDate.set(1900, 1, 1);
+//					Calendar maxActiveDate = Calendar.getInstance();
+//					maxActiveDate.set(2100, 1, 1);
+//					try
+//					{
+//						Date actDate = product.getParameters().getDate(vnmMessage.getActionType() + ".minActiveDate", "dd/MM/yyyy");
+//						
+//						if (actDate != null)
+//							minActiveDate.setTime(actDate);
+//					}
+//					catch (Exception e)
+//					{
+//					}
+//					
+//					try
+//					{
+//						Date actDate = product.getParameters().getDate(vnmMessage.getActionType() + ".maxActiveDate", "dd/MM/yyyy");
+//						if (actDate != null)
+//							maxActiveDate.setTime(actDate);
+//					}
+//					catch (Exception e)
+//					{
+//					}
+//					
+//					if (minActiveDate.after(currentActiveDate) || maxActiveDate.before(currentActiveDate))
+//					{
+//						throw new AppException(Constants.ERROR_INVALID_ACTIVE_DATE);
+//					}
+//
+//					// Add balance info in response
+//					BalanceEntity[] balances = subscriberRetrieve.getSubscriberData().getBalances().getBalance();
+//
+//					for (BalanceEntity balance : balances)
+//					{
+//						vnmMessage.setResponseValue(balance.getBalanceName() + ".amount",
+//								StringUtil.format(balance.getBalance(), "#"));
+//						vnmMessage.setResponseValue(balance.getBalanceName() + ".expireDate",
+//								StringUtil.format(balance.getAccountExpiration().getTime(), "dd/MM/yyyy HH:mm:ss"));
+//					}
+//
+//					vnmMessage.setResponseValue(ResponseUtil.SERVICE_PRICE, StringUtil.format(product.getPrice(), "#"));
+//					// End edited
+
+					validateCOS(instance, orderRoute, product, vnmMessage);
+
+					validateState(instance, orderRoute, product, vnmMessage);
+
+					validateBalance(instance, orderRoute, product, vnmMessage,balanceAmount);
+				}
+			}
+			catch (AppException e)
+			{
+				vnmMessage.setCause(e.getMessage());
+				vnmMessage.setDescription(e.getContext());
+				vnmMessage.setStatus(Constants.ORDER_STATUS_DENIED);
+			}
+			catch (Exception e)
+			{
+				throw e;
+			}
+			finally
+			{
+//				instance.closeProvisioningConnection(connection);
+			}
+		}
+
+		return (vnmMessage == null) ? order : vnmMessage;
+	}
+
+	public void checkActionType(OrderRoutingInstance instance,ProductRoute orderRoute, ProductEntry product,
+								CommandMessage order, SubscriberProduct subscriberProduct)throws Exception
+	{
+		if (subscriberProduct != null)
+		{
+			if (order.getActionType().equals(Constants.ACTION_REGISTER) || order.getActionType().equals(Constants.ACTION_SUBSCRIPTION))
+			{
+				Date now = new Date();
+				if(DateUtil.compareDate(
+						subscriberProduct.getExpirationDate(), now) >= 0)
+				{
+					throw new AppException(Constants.ERROR_REGISTERED);
+				}
+			}
+			order.setSubProductId(subscriberProduct.getSubProductId());			
+		}
+		
+		// Mien phi cho lan dang ky dau tien.
+		if (order.getActionType().equals(Constants.ACTION_REGISTER) 
+			&& SubscriberProductImpl.isFirstTimeRegister(order.getIsdn(), product.getProductId()))
+		{
+			order.getParameters().setString("FreeForFirstTime", "true");
+			order.getParameters().setString("BonusPoint","0");			
+		}
+		else if (order.getActionType().equals(Constants.ACTION_REGISTER) && 
+				SubscriberProductImpl.isSecondTimeInDay(order.getIsdn(), product.getProductId()))
+		{
+			order.getParameters().setString("BonusPoint","50");
+			order.getParameters().setString("UseredQuestion","0");
+		}
+//		else if((order.getActionType().equals(Constants.ACTION_REGISTER) || order.getActionType().equals(Constants.ACTION_SUBSCRIPTION))
+//				&& subscriberProduct != null)
+//		{
+//			Date now = new Date();
+//			if(DateUtil.compareDate(
+//					subscriberProduct.getExpirationDate(), now) >= 0)
+//			{
+//				throw new AppException(Constants.ERROR_REGISTERED);
+//			}
+//		}
+		else if (order.getActionType().equals(Constants.ACTION_REGISTER) && 
+				 SubscriberProductImpl.isUnregisterInDay(order.getIsdn(), product.getProductId()) &&
+				 subscriberProduct == null)
+		{
+			order.setPaid(true);
+			order.getParameters().setString("UseredQuestion", "5");
+			
+		}
+		else if(order.getActionType().equals(Constants.ACTION_UNREGISTER) && subscriberProduct == null)
+		{
+			throw new AppException(Constants.ERROR_UNREGISTERED);
+		}
+			
+	}
+	
+	public CommandMessage parser(OrderRoutingInstance instance,
+			ProductRoute orderRoute, CommandMessage order) throws Exception
+	{
+		Exception error = null;
+
+		ProductEntry product = null;
+
+		SubscriberProduct subscriberProduct = null;
+
+		try
+		{
+			// check SMS syntax
+			Date startTime = new Date();
+			Date endTime = new Date();
+
+			/**
+			 * Should check for both SMS & web.
+			 */
+			smsParser(instance, orderRoute, order);
+
+			// check duplicate request
+			if (orderRoute.getDuplicateScan() > 0)
+			{
+				startTime = new Date();
+				checkDuplicate(instance, orderRoute, order);
+
+				endTime = new Date();
+				instance.debugMonitor("Check duplicate(" + order.getIsdn() + ") cost time: "
+						+ (endTime.getTime() - startTime.getTime()) + "ms");
+			}
+
+//			if (orderRoute.getMaxRegisterDaily() > 0)
+//			{
+//				startTime = new Date();
+//				checkMaxRegister(instance, orderRoute, order);
+//
+//				endTime = new Date();
+//				instance.debugMonitor("Check maxregisterdaily(" + order.getIsdn() + ")  cost time: "
+//						+ (endTime.getTime() - startTime.getTime()) + "ms");
+//			}
+			// check promotion
+//			if (orderRoute.isCheckPromotion())
+//			{
+//				checkPromotion(instance, orderRoute, order);
+//			}
+
+			// check product in available list
+			product = ProductFactory.getCache().getProduct(order.getProductId());
+			
+			order.getParameters().setBoolean("includeCurrentDay", product.getParameters().getBoolean("includeCurrentDay", true));
+
+			// get current subscriber product
+			if (!product.isSubscription())
+			{
+
+			}
+			else if (order.getSubProductId() == Constants.DEFAULT_ID)
+			{
+				/**
+				 * Edited: replaced getActive by getUnterminated (for barring
+				 * subscription case)
+				 */
+				subscriberProduct = SubscriberProductImpl.getUnterminated(
+						order.getIsdn(), order.getProductId());
+			}
+			else
+			{
+				subscriberProduct = SubscriberProductImpl.getProduct(order
+						.getSubProductId());
+			}
+
+			// check action type
+			checkActionType(instance, orderRoute, product, order,
+					subscriberProduct);
+
+			// validate
+			if (orderRoute.isCheckBalance())
+			{
+				order = checkBalance(instance, orderRoute, order);
+			}
+//			else
+//			{
+//				order.setAmount(order.getQuantity() * order.getPrice());
+//			}
+
+			// Set subscriber type
+			if (order.getSubscriberType() == Constants.UNKNOW_SUB_TYPE)
+			{
+				order.setSubscriberType(SubscriberEntryImpl
+						.getSubscriberType(order.getIsdn()));
+			}
+
+			/**
+			 * Check if sub type is supported or not
+			 */
+			if (order.getSubscriberType() == Constants.PREPAID_SUB_TYPE)
+			{
+				String unsupported = orderRoute.getParameter("unsupport.prepaid", "false");
+				if (unsupported.trim().toLowerCase().equals("true"))
+					throw new AppException(Constants.ERROR_UNSUPPORT_PREPAID);
+			}
+			else if (order.getSubscriberType() == Constants.POSTPAID_SUB_TYPE)
+			{
+				String unsupported = orderRoute.getParameter("unsupport.postpaid", "false");
+				if (unsupported.trim().toLowerCase().equals("true"))
+					throw new AppException(Constants.ERROR_UNSUPPORT_POSTPAID);
+			}
+
+			// DateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd");
+			Date currentDate = new Date();
+
+			if ((order.getStatus() == Constants.ORDER_STATUS_DENIED)
+					&& order.getCause()
+							.equals(Constants.ERROR_NOT_ENOUGH_MONEY))
+			{
+				if (order.getActionType().equals(Constants.ACTION_TOPUP))
+				{
+					if (order.getRequestValue("first-action-type", "").equals(Constants.ACTION_SUBSCRIPTION))
+					{
+						order.setActionType(Constants.ACTION_SUBSCRIPTION);
+					}
+				}
+				// Duymb add Autorenew for MAXI 24
+				if (order.getActionType().equals(Constants.ACTION_AUTORENEW))
+				{
+					order.setActionType(Constants.ACTION_UNRENEW);
+					order.setCause("");
+					order.setStatus(Constants.ORDER_STATUS_PENDING);					
+				}
+				// DuyMB add end.
+				if (order.getActionType().equals(Constants.ACTION_SUBSCRIPTION))
+				{
+					if (subscriberProduct
+							.getExpirationDate().before(currentDate))
+					{
+						if (subscriberProduct.getSupplierStatus() == Constants.SUPPLIER_ACTIVE_STATUS)
+						{
+							order.setActionType(Constants.ACTION_SUPPLIER_DEACTIVE);
+
+							order.setCause("");
+
+							order.setStatus(Constants.ORDER_STATUS_PENDING);
+						}
+					}
+				}
+			}
+			else
+			{
+				checkSubscriberType(instance, product, order);
+			}
+
+			if (order.getActionType().equals(Constants.ACTION_SUBSCRIPTION)
+					|| order.getActionType().equals(Constants.ACTION_SUPPLIER_DEACTIVE))
+			{
+				if (subscriberProduct == null)
+					throw new AppException(Constants.ERROR_SUBSCRIPTION_NOT_FOUND);
+
+				boolean subscriptionNeverExpire = product.getParameters().getBoolean("subscription.neverExpire", false);
+
+				/**
+				 * <code>
+				 * if subscription.neverExpire=true
+				 * {
+				 * 		case graceDate != null && graceDate < currentDate && actionType is de-active
+				 * 			cancel subscription;
+				 * 		case graceDate != null && graceDate < currentDate && is barring
+				 * 			cancel subscription;
+				 * 		case graceDate == null && actionType is de-active
+				 * 			cancel subscription;
+				 * }
+				 * </code>
+				 */
+				if (!subscriptionNeverExpire && ((subscriberProduct.getGraceDate() == null
+						&& order.getActionType().equals(Constants.ACTION_SUPPLIER_DEACTIVE))
+						|| (subscriberProduct.getGraceDate() != null
+								&& subscriberProduct.getGraceDate().before(currentDate)
+								&& (order.getActionType().equals(Constants.ACTION_SUPPLIER_DEACTIVE)
+										|| subscriberProduct.isBarring())
+										)))
+				{
+					order.setActionType(Constants.ACTION_CANCEL);
+
+					order.setCause("");
+
+					order.setStatus(Constants.ORDER_STATUS_PENDING);
+				}
+				else if (subscriberProduct.isBarring() && !orderRoute.isTopupEnable()
+						&& order.getActionType().equals(Constants.ACTION_SUBSCRIPTION))
+				{
+					order.setCause(Constants.ERROR_REGISTERED);
+
+					order.setStatus(Constants.ORDER_STATUS_DENIED);
+				}
+			}
+			
+			if (order.getActionType().equals(Constants.ACTION_SUPPLIER_DEACTIVE)
+					&& subscriberProduct.isBarring())
+			{
+				order.setCause(Constants.ERROR_SUBSCRIPTION_NOT_FOUND);
+				order.setDescription("Is already suspended.");
+				order.setStatus(Constants.ORDER_STATUS_DENIED);
+			}
+
+			if (order.getStatus() != Constants.ORDER_STATUS_DENIED)
+			{
+				validate(instance, orderRoute, order);
+			}
+		}
+		catch (Exception e)
+		{
+			error = e;
+		}
+
+		if (error != null)
+		{
+			order.setStatus(Constants.ORDER_STATUS_DENIED);
+
+			if (error instanceof AppException)
+			{
+				order.setCause(error.getMessage());
+			}
+			else
+			{
+				order.setDescription(error.getMessage());
+			}
+		}
+
+		/**
+		 * In case of subscription (or de-active) <br/>
+		 * Unregister subscription if subscriber is Retired(S3) <br />
+		 */
+		if (order.getActionType().equals(Constants.ACTION_SUBSCRIPTION)
+				|| order.getActionType().equals(Constants.ACTION_SUPPLIER_DEACTIVE))
+		{
+			String currentState = "";
+			try
+			{
+				currentState = getSubscriberState(instance, orderRoute, product, order);
+			}
+			catch (Exception e)
+			{
+
+			}
+
+			if (currentState.equals(Constants.BALANCE_STATE_RETIRED_S3))
+			{
+				order.setActionType(Constants.ACTION_CANCEL);
+				order.setDescription(order.getCause());
+				order.setCause("");
+				/**
+				 * unregister for all subtype = prepaid subtype
+				 */
+				order.setSubscriberType(Constants.PREPAID_SUB_TYPE);
+				order.setStatus(Constants.ORDER_STATUS_PENDING);
+			}
+		}
+
+		if ((error != null) && !(error instanceof AppException))
+		{
+			throw error;
+		}
+
+		return order;
+	}
+
+
+}

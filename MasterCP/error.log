@@ -7106,3 +7106,730 @@ Caused by: java.io.StreamCorruptedException: WARNING: ORBIO00013: Stream corrupt
 28/05 09:53:59 com.fss.thread.ThreadController@58ecb281
 2
 28/05 09:54:08 com.fss.thread.ThreadController@58ecb281
+2
+16/07 16:02:03 com.fss.thread.ThreadController@14fd510
+2
+16/07 16:02:03 com.fss.thread.ThreadController@14fd510
+2
+16/07 16:02:04 com.fss.thread.ThreadController@14fd510
+16/07 16:02:04 log4j:WARN No appenders could be found for logger (com.mchange.v2.log.MLog).
+16/07 16:02:04 log4j:WARN Please initialize the log4j system properly.
+2
+16/07 16:02:04 com.fss.thread.ThreadController@14fd510
+2
+16/07 16:02:04 com.fss.thread.ThreadController@14fd510
+2
+16/07 16:02:04 com.fss.thread.ThreadController@14fd510
+2
+16/07 16:02:04 com.fss.thread.ThreadController@14fd510
+2
+16/07 16:02:04 com.fss.thread.ThreadController@14fd510
+2
+16/07 16:02:04 com.fss.thread.ThreadController@14fd510
+2
+16/07 16:02:04 com.fss.thread.ThreadController@14fd510
+2
+16/07 16:02:04 com.fss.thread.ThreadController@14fd510
+2
+16/07 16:02:04 com.fss.thread.ThreadController@14fd510
+2
+16/07 16:02:05 com.fss.thread.ThreadController@14fd510
+2
+16/07 16:02:05 com.fss.thread.ThreadController@14fd510
+2
+16/07 16:02:05 com.fss.thread.ThreadController@14fd510
+16/07 16:02:05 pool: com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, dataSourceName -> 1hgeifw93hbd8se8xq896|6e918ac0, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> oracle.jdbc.driver.OracleDriver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 1hgeifw93hbd8se8xq896|6e918ac0, idleConnectionTestPeriod -> 30, initialPoolSize -> 3, jdbcUrl -> jdbc:oracle:thin:@183.91.14.218:1521:CSDB, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 300, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 100, maxStatements -> 0, maxStatementsPerConnection -> 0, minPoolSize -> 30, numHelperThreads -> 3, numThreadsAwaitingCheckoutDefaultUser -> 0, preferredTestQuery -> Select * From dual, properties -> {user=******, password=******}, propertyCycle -> 0, testConnectionOnCheckin -> true, testConnectionOnCheckout -> true, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false ]
+16/07 16:02:05 pool: com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, dataSourceName -> 1hgeifw93hbd8se8xq896|484734b7, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> oracle.jdbc.driver.OracleDriver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 1hgeifw93hbd8se8xq896|484734b7, idleConnectionTestPeriod -> 30, initialPoolSize -> 3, jdbcUrl -> jdbc:oracle:thin:@183.91.14.218:1521:CSDB, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 300, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 100, maxStatements -> 0, maxStatementsPerConnection -> 0, minPoolSize -> 30, numHelperThreads -> 3, numThreadsAwaitingCheckoutDefaultUser -> 0, preferredTestQuery -> Select * From dual, properties -> {user=******, password=******}, propertyCycle -> 0, testConnectionOnCheckin -> true, testConnectionOnCheckout -> true, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false ]
+16/07 16:02:05 pool: com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, dataSourceName -> 1hgeifw93hbd8se8xq896|6e918ac0, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> oracle.jdbc.driver.OracleDriver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 1hgeifw93hbd8se8xq896|6e918ac0, idleConnectionTestPeriod -> 30, initialPoolSize -> 3, jdbcUrl -> jdbc:oracle:thin:@183.91.14.218:1521:CSDB, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 300, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 100, maxStatements -> 0, maxStatementsPerConnection -> 0, minPoolSize -> 30, numHelperThreads -> 3, numThreadsAwaitingCheckoutDefaultUser -> 0, preferredTestQuery -> Select * From dual, properties -> {user=******, password=******}, propertyCycle -> 0, testConnectionOnCheckin -> true, testConnectionOnCheckout -> true, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false ]
+16/07 16:02:05 pool: com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, dataSourceName -> 1hgeifw93hbd8se8xq896|2ad600e3, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> oracle.jdbc.driver.OracleDriver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 1hgeifw93hbd8se8xq896|2ad600e3, idleConnectionTestPeriod -> 30, initialPoolSize -> 3, jdbcUrl -> jdbc:oracle:thin:@183.91.14.218:1521:CSDB, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 300, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 100, maxStatements -> 0, maxStatementsPerConnection -> 0, minPoolSize -> 30, numHelperThreads -> 3, numThreadsAwaitingCheckoutDefaultUser -> 0, preferredTestQuery -> Select * From dual, properties -> {user=******, password=******}, propertyCycle -> 0, testConnectionOnCheckin -> true, testConnectionOnCheckout -> true, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false ]
+16/07 16:02:05 pool: com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, dataSourceName -> 1hgeifw93hbd8se8xq896|222bbc83, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> oracle.jdbc.driver.OracleDriver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 1hgeifw93hbd8se8xq896|222bbc83, idleConnectionTestPeriod -> 30, initialPoolSize -> 3, jdbcUrl -> jdbc:oracle:thin:@183.91.14.218:1521:CSDB, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 300, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 100, maxStatements -> 0, maxStatementsPerConnection -> 0, minPoolSize -> 30, numHelperThreads -> 3, numThreadsAwaitingCheckoutDefaultUser -> 4, preferredTestQuery -> Select * From dual, properties -> {user=******, password=******}, propertyCycle -> 0, testConnectionOnCheckin -> true, testConnectionOnCheckout -> true, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false ]
+16/07 16:02:05 pool: com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, dataSourceName -> 1hgeifw93hbd8se8xq896|222bbc83, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> oracle.jdbc.driver.OracleDriver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 1hgeifw93hbd8se8xq896|222bbc83, idleConnectionTestPeriod -> 30, initialPoolSize -> 3, jdbcUrl -> jdbc:oracle:thin:@183.91.14.218:1521:CSDB, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 300, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 100, maxStatements -> 0, maxStatementsPerConnection -> 0, minPoolSize -> 30, numHelperThreads -> 3, numThreadsAwaitingCheckoutDefaultUser -> 4, preferredTestQuery -> Select * From dual, properties -> {user=******, password=******}, propertyCycle -> 0, testConnectionOnCheckin -> true, testConnectionOnCheckout -> true, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false ]
+16/07 16:02:05 pool: com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, dataSourceName -> 1hgeifw93hbd8se8xq896|222bbc83, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> oracle.jdbc.driver.OracleDriver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 1hgeifw93hbd8se8xq896|222bbc83, idleConnectionTestPeriod -> 30, initialPoolSize -> 3, jdbcUrl -> jdbc:oracle:thin:@183.91.14.218:1521:CSDB, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 300, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 100, maxStatements -> 0, maxStatementsPerConnection -> 0, minPoolSize -> 30, numHelperThreads -> 3, numThreadsAwaitingCheckoutDefaultUser -> 6, preferredTestQuery -> Select * From dual, properties -> {user=******, password=******}, propertyCycle -> 0, testConnectionOnCheckin -> true, testConnectionOnCheckout -> true, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false ]
+16/07 16:02:10 Jul 16, 2014 4:02:10 PM com.sun.enterprise.v3.server.CommonClassLoaderServiceImpl findDerbyClient
+INFO: Cannot find javadb client jar file, derby jdbc driver will not be available by default.
+16/07 16:02:25 Jul 16, 2014 4:02:25 PM org.hibernate.validator.util.Version <clinit>
+INFO: Hibernate Validator 4.1.0.Final
+16/07 16:02:25 Jul 16, 2014 4:02:25 PM org.hibernate.validator.engine.resolver.DefaultTraversableResolver detectJPA
+INFO: Instantiated an instance of org.hibernate.validator.engine.resolver.JPATraversableResolver.
+16/07 16:02:25 Jul 16, 2014 4:02:25 PM com.sun.messaging.jms.ra.ResourceAdapter start
+INFO: MQJMSRA_RA1101: GlassFish MQ JMS Resource Adapter: Version:  4.5.1  (Build 3-b) Compile:  Tue Jun 21 16:31:32 PDT 2011
+16/07 16:02:25 Jul 16, 2014 4:02:25 PM com.sun.messaging.jms.ra.ResourceAdapter start
+INFO: MQJMSRA_RA1101: GlassFish MQ JMS Resource Adapter starting: broker is REMOTE, connection mode is TCP
+16/07 16:02:25 Jul 16, 2014 4:02:25 PM com.sun.messaging.jms.ra.ResourceAdapter start
+INFO: MQJMSRA_RA1101: GlassFish MQ JMS Resource Adapter Started:REMOTE
+16/07 16:02:28 Jul 16, 2014 4:02:28 PM com.sun.corba.ee.spi.orbutil.logex.WrapperGenerator handleFullLogging
+WARNING: IOP00810011: Exception from readValue on ValueHandler in CDRInputStream
+org.omg.CORBA.MARSHAL: WARNING: IOP00810011: Exception from readValue on ValueHandler in CDRInputStream  vmcid: OMG  minor code: 11 completed: Maybe
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at com.sun.corba.ee.spi.orbutil.logex.corba.CorbaExtension.makeException(CorbaExtension.java:248)
+	at com.sun.corba.ee.spi.orbutil.logex.corba.CorbaExtension.makeException(CorbaExtension.java:95)
+	at com.sun.corba.ee.spi.orbutil.logex.WrapperGenerator.handleFullLogging(WrapperGenerator.java:387)
+	at com.sun.corba.ee.spi.orbutil.logex.WrapperGenerator.access$400(WrapperGenerator.java:107)
+	at com.sun.corba.ee.spi.orbutil.logex.WrapperGenerator$2.invoke(WrapperGenerator.java:511)
+	at com.sun.corba.ee.spi.orbutil.proxy.CompositeInvocationHandlerImpl.invoke(CompositeInvocationHandlerImpl.java:99)
+	at com.sun.proxy.$Proxy24.valuehandlerReadException(Unknown Source)
+	at com.sun.corba.ee.impl.encoding.CDRInputStream_1_0.readRMIIIOPValueType(CDRInputStream_1_0.java:1022)
+	at com.sun.corba.ee.impl.encoding.CDRInputStream_1_0.read_value(CDRInputStream_1_0.java:1123)
+	at com.sun.corba.ee.impl.encoding.CDRInputObject.read_value(CDRInputObject.java:531)
+	at com.sun.corba.ee.impl.io.IIOPInputStream.inputObjectField(IIOPInputStream.java:2162)
+	at com.sun.corba.ee.impl.io.IIOPInputStream.inputClassFields(IIOPInputStream.java:2404)
+	at com.sun.corba.ee.impl.io.IIOPInputStream.inputObject(IIOPInputStream.java:1224)
+	at com.sun.corba.ee.impl.io.IIOPInputStream.simpleReadObject(IIOPInputStream.java:425)
+	at com.sun.corba.ee.impl.io.ValueHandlerImpl.readValueInternal(ValueHandlerImpl.java:308)
+	at com.sun.corba.ee.impl.io.ValueHandlerImpl.readValue(ValueHandlerImpl.java:274)
+	at com.sun.corba.ee.impl.encoding.CDRInputStream_1_0.readRMIIIOPValueType(CDRInputStream_1_0.java:1015)
+	at com.sun.corba.ee.impl.encoding.CDRInputStream_1_0.read_value(CDRInputStream_1_0.java:1123)
+	at com.sun.corba.ee.impl.encoding.CDRInputObject.read_value(CDRInputObject.java:531)
+	at com.sun.corba.ee.impl.io.IIOPInputStream.inputObjectField(IIOPInputStream.java:2162)
+	at com.sun.corba.ee.impl.io.IIOPInputStream.inputClassFields(IIOPInputStream.java:2404)
+	at com.sun.corba.ee.impl.io.IIOPInputStream.inputObject(IIOPInputStream.java:1224)
+	at com.sun.corba.ee.impl.io.IIOPInputStream.simpleReadObject(IIOPInputStream.java:425)
+	at com.sun.corba.ee.impl.io.ValueHandlerImpl.readValueInternal(ValueHandlerImpl.java:308)
+	at com.sun.corba.ee.impl.io.ValueHandlerImpl.readValue(ValueHandlerImpl.java:274)
+	at com.sun.corba.ee.impl.encoding.CDRInputStream_1_0.readRMIIIOPValueType(CDRInputStream_1_0.java:1015)
+	at com.sun.corba.ee.impl.encoding.CDRInputStream_1_0.read_value(CDRInputStream_1_0.java:1123)
+	at com.sun.corba.ee.impl.encoding.CDRInputStream_1_0.read_value(CDRInputStream_1_0.java:935)
+	at com.sun.corba.ee.impl.encoding.CDRInputObject.read_value(CDRInputObject.java:525)
+	at com.sun.corba.ee.impl.corba.TCUtility.unmarshalIn(TCUtility.java:289)
+	at com.sun.corba.ee.impl.corba.AnyImpl.read_value(AnyImpl.java:605)
+	at com.sun.corba.ee.impl.encoding.CDRInputStream_1_0.read_any(CDRInputStream_1_0.java:775)
+	at com.sun.corba.ee.impl.encoding.CDRInputObject.read_any(CDRInputObject.java:482)
+	at com.sun.corba.ee.impl.javax.rmi.CORBA.Util.readAny(Util.java:452)
+	at com.sun.corba.ee.impl.io.ValueHandlerImpl.read_Array(ValueHandlerImpl.java:639)
+	at com.sun.corba.ee.impl.io.ValueHandlerImpl.readValueInternal(ValueHandlerImpl.java:305)
+	at com.sun.corba.ee.impl.io.ValueHandlerImpl.readValue(ValueHandlerImpl.java:274)
+	at com.sun.corba.ee.impl.encoding.CDRInputStream_1_0.readRMIIIOPValueType(CDRInputStream_1_0.java:1015)
+	at com.sun.corba.ee.impl.encoding.CDRInputStream_1_0.read_value(CDRInputStream_1_0.java:1123)
+	at com.sun.corba.ee.impl.encoding.CDRInputObject.read_value(CDRInputObject.java:531)
+	at com.sun.corba.ee.impl.io.IIOPInputStream.inputObjectField(IIOPInputStream.java:2162)
+	at com.sun.corba.ee.impl.io.IIOPInputStream.inputClassFields(IIOPInputStream.java:2404)
+	at com.sun.corba.ee.impl.io.IIOPInputStream.inputObject(IIOPInputStream.java:1224)
+	at com.sun.corba.ee.impl.io.IIOPInputStream.simpleReadObject(IIOPInputStream.java:425)
+	at com.sun.corba.ee.impl.io.ValueHandlerImpl.readValueInternal(ValueHandlerImpl.java:308)
+	at com.sun.corba.ee.impl.io.ValueHandlerImpl.readValue(ValueHandlerImpl.java:274)
+	at com.sun.corba.ee.impl.encoding.CDRInputStream_1_0.readRMIIIOPValueType(CDRInputStream_1_0.java:1015)
+	at com.sun.corba.ee.impl.encoding.CDRInputStream_1_0.read_value(CDRInputStream_1_0.java:1123)
+	at com.sun.corba.ee.impl.encoding.CDRInputObject.read_value(CDRInputObject.java:531)
+	at com.sun.corba.ee.impl.io.IIOPInputStream.inputObjectField(IIOPInputStream.java:2162)
+	at com.sun.corba.ee.impl.io.IIOPInputStream.inputClassFields(IIOPInputStream.java:2404)
+	at com.sun.corba.ee.impl.io.IIOPInputStream.inputObject(IIOPInputStream.java:1224)
+	at com.sun.corba.ee.impl.io.IIOPInputStream.simpleReadObject(IIOPInputStream.java:425)
+	at com.sun.corba.ee.impl.io.ValueHandlerImpl.readValueInternal(ValueHandlerImpl.java:308)
+	at com.sun.corba.ee.impl.io.ValueHandlerImpl.readValue(ValueHandlerImpl.java:274)
+	at com.sun.corba.ee.impl.encoding.CDRInputStream_1_0.readRMIIIOPValueType(CDRInputStream_1_0.java:1015)
+	at com.sun.corba.ee.impl.encoding.CDRInputStream_1_0.read_value(CDRInputStream_1_0.java:1123)
+	at com.sun.corba.ee.impl.encoding.CDRInputObject.read_value(CDRInputObject.java:531)
+	at com.sun.corba.ee.impl.io.IIOPInputStream.inputObjectField(IIOPInputStream.java:2162)
+	at com.sun.corba.ee.impl.io.IIOPInputStream.inputClassFields(IIOPInputStream.java:2404)
+	at com.sun.corba.ee.impl.io.IIOPInputStream.inputObject(IIOPInputStream.java:1224)
+	at com.sun.corba.ee.impl.io.IIOPInputStream.simpleReadObject(IIOPInputStream.java:425)
+	at com.sun.corba.ee.impl.io.ValueHandlerImpl.readValueInternal(ValueHandlerImpl.java:308)
+	at com.sun.corba.ee.impl.io.ValueHandlerImpl.readValue(ValueHandlerImpl.java:274)
+	at com.sun.corba.ee.impl.encoding.CDRInputStream_1_0.readRMIIIOPValueType(CDRInputStream_1_0.java:1015)
+	at com.sun.corba.ee.impl.encoding.CDRInputStream_1_0.read_value(CDRInputStream_1_0.java:1123)
+	at com.sun.corba.ee.impl.encoding.CDRInputStream_1_0.read_value(CDRInputStream_1_0.java:935)
+	at com.sun.corba.ee.impl.encoding.CDRInputObject.read_value(CDRInputObject.java:525)
+	at com.sun.corba.ee.impl.corba.TCUtility.unmarshalIn(TCUtility.java:289)
+	at com.sun.corba.ee.impl.corba.AnyImpl.read_value(AnyImpl.java:605)
+	at com.sun.corba.ee.impl.encoding.CDRInputStream_1_0.read_any(CDRInputStream_1_0.java:775)
+	at com.sun.corba.ee.impl.encoding.CDRInputObject.read_any(CDRInputObject.java:482)
+	at com.sun.corba.ee.impl.javax.rmi.CORBA.Util.readAny(Util.java:452)
+	at com.sun.corba.ee.impl.presentation.rmi.DynamicMethodMarshallerImpl$10.read(DynamicMethodMarshallerImpl.java:299)
+	at com.sun.corba.ee.impl.presentation.rmi.DynamicMethodMarshallerImpl.readResult(DynamicMethodMarshallerImpl.java:483)
+	at com.sun.corba.ee.impl.presentation.rmi.StubInvocationHandlerImpl.privateInvoke(StubInvocationHandlerImpl.java:203)
+	at com.sun.corba.ee.impl.presentation.rmi.StubInvocationHandlerImpl.invoke(StubInvocationHandlerImpl.java:152)
+	at com.sun.corba.ee.impl.presentation.rmi.codegen.CodegenStubBase.invoke(CodegenStubBase.java:227)
+	at com.sun.enterprise.naming.impl._SerialContextProvider_DynamicStub.lookup(com/sun/enterprise/naming/impl/_SerialContextProvider_DynamicStub.java)
+	at com.sun.enterprise.naming.impl.SerialContext.lookup(SerialContext.java:505)
+	at com.sun.enterprise.naming.impl.SerialContext.lookup(SerialContext.java:455)
+	at javax.naming.InitialContext.lookup(Unknown Source)
+	at com.sun.enterprise.resource.naming.Admi16/07 16:02:28 nisteredObjectFactory.getObjectInstance(AdministeredObjectFactory.java:98)
+	at javax.naming.spi.NamingManager.getObjectInstance(Unknown Source)
+	at com.sun.enterprise.naming.impl.SerialContext.getObjectInstance(SerialContext.java:556)
+	at com.sun.enterprise.naming.impl.SerialContext.lookup(SerialContext.java:514)
+	at com.sun.enterprise.naming.impl.SerialContext.lookup(SerialContext.java:455)
+	at javax.naming.InitialContext.lookup(Unknown Source)
+	at com.crm.kernel.queue.QueueFactory.getQueue(QueueFactory.java:105)
+	at com.crm.provisioning.cache.MQConnection.<init>(MQConnection.java:50)
+	at com.crm.provisioning.cache.MQConnectionPool.createObject(MQConnectionPool.java:52)
+	at com.crm.provisioning.cache.ObjectPool.makeObject(ObjectPool.java:78)
+	at org.apache.commons.pool.impl.GenericObjectPool.borrowObject(GenericObjectPool.java:1148)
+	at com.crm.provisioning.cache.ObjectPool.getObject(ObjectPool.java:36)
+	at com.crm.provisioning.cache.MQConnectionPool.getConnection(MQConnectionPool.java:64)
+	at com.crm.thread.DispatcherThread.getMQConnection(DispatcherThread.java:576)
+	at com.crm.thread.DispatcherThread.InitQueuePool(DispatcherThread.java:565)
+	at com.crm.thread.DispatcherThread.initQueue(DispatcherThread.java:533)
+	at com.crm.thread.DispatcherThread.beforeProcessSession(DispatcherThread.java:605)
+	at com.crm.provisioning.thread.SubscriptionRequestThread.beforeProcessSession(SubscriptionRequestThread.java:57)
+	at com.crm.thread.DispatcherThread.processSession(DispatcherThread.java:765)
+	at com.fss.thread.ManageableThread.session(ManageableThread.java:1389)
+	at com.fss.thread.ManageableThread.run(ManageableThread.java:1337)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.sun.corba.ee.impl.protocol.RequestCanceledException
+	at com.sun.corba.ee.impl.encoding.BufferManagerReadStream.underflow(BufferManagerReadStream.java:122)
+	at com.sun.corba.ee.impl.encoding.CDRInputStream_1_1.grow(CDRInputStream_1_1.java:113)
+	at com.sun.corba.ee.impl.encoding.CDRInputStream_1_0.read_octet_array(CDRInputStream_1_0.java:719)
+	at com.sun.corba.ee.impl.encoding.CDRInputObject.read_octet_array(CDRInputObject.java:427)
+	at com.sun.corba.ee.impl.encoding.WrapperInputStream.read_octet_array(WrapperInputStream.java:109)
+	at com.sun.corba.ee.impl.encoding.TypeCodeInputStream.readEncapsulation(TypeCodeInputStream.java:145)
+	at com.sun.corba.ee.impl.corba.TypeCodeImpl.read_value_body(TypeCodeImpl.java:1605)
+	at com.sun.corba.ee.impl.corba.TypeCodeImpl.read_value(TypeCodeImpl.java:1329)
+	at com.sun.corba.ee.impl.encoding.CDRInputStream_1_0.read_any(CDRInputStream_1_0.java:766)
+	at com.sun.corba.ee.impl.encoding.CDRInputObject.read_any(CDRInputObject.java:482)
+	at com.sun.corba.ee.impl.javax.rmi.CORBA.Util.readAny(Util.java:452)
+	at com.sun.corba.ee.impl.io.ValueHandlerImpl.read_Array(ValueHandlerImpl.java:639)
+	at com.sun.corba.ee.impl.io.ValueHandlerImpl.readValueInternal(ValueHandlerImpl.java:305)
+	at com.sun.corba.ee.impl.io.ValueHandlerImpl.readValue(ValueHandlerImpl.java:274)
+	at com.sun.corba.ee.impl.encoding.CDRInputStream_1_0.readRMIIIOPValueType(CDRInputStream_1_0.java:1015)
+	... 96 more
+
+16/07 16:02:29 org.omg.CORBA.COMM_FAILURE: FINE: IOP00410003: Write error sent  vmcid: OMG  minor code: 3 completed: Maybe
+16/07 16:02:29 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+16/07 16:02:29 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+16/07 16:02:29 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+16/07 16:02:29 	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+16/07 16:02:29 	at com.sun.corba.ee.spi.orbutil.logex.corba.CorbaExtension.makeException(CorbaExtension.java:248)
+16/07 16:02:29 	at com.sun.corba.ee.spi.orbutil.logex.corba.CorbaExtension.makeException(CorbaExtension.java:95)
+16/07 16:02:29 	at com.sun.corba.ee.spi.orbutil.logex.WrapperGenerator.handleFullLogging(WrapperGenerator.java:387)
+16/07 16:02:29 	at com.sun.corba.ee.spi.orbutil.logex.WrapperGenerator.access$400(WrapperGenerator.java:107)
+16/07 16:02:29 	at com.sun.corba.ee.spi.orbutil.logex.WrapperGenerator$2.invoke(WrapperGenerator.java:511)
+16/07 16:02:29 	at com.sun.corba.ee.spi.orbutil.proxy.CompositeInvocationHandlerImpl.invoke(CompositeInvocationHandlerImpl.java:99)
+16/07 16:02:29 	at com.sun.proxy.$Proxy24.writeErrorSend(Unknown Source)
+16/07 16:02:29 	at com.sun.corba.ee.impl.transport.SocketOrChannelConnectionImpl.sendWithoutLock(SocketOrChannelConnectionImpl.java:999)
+16/07 16:02:29 	at com.sun.corba.ee.impl.encoding.BufferManagerWriteStream.sendFragment(BufferManagerWriteStream.java:151)
+16/07 16:02:29 	at com.sun.corba.ee.impl.encoding.BufferManagerWriteStream.sendMessage(BufferManagerWriteStream.java:165)
+16/07 16:02:29 	at com.sun.corba.ee.impl.encoding.CDROutputObject.finishSendingMessage(CDROutputObject.java:200)
+16/07 16:02:29 	at com.sun.corba.ee.impl.protocol.CorbaMessageMediatorImpl.finishSendingRequest(CorbaMessageMediatorImpl.java:274)
+16/07 16:02:29 	at com.sun.corba.ee.impl.protocol.CorbaClientRequestDispatcherImpl.marshalingComplete1(CorbaClientRequestDispatcherImpl.java:401)
+16/07 16:02:29 	at com.sun.corba.ee.impl.protocol.CorbaClientRequestDispatcherImpl.marshalingComplete(CorbaClientRequestDispatcherImpl.java:368)
+16/07 16:02:29 	at com.sun.corba.ee.impl.protocol.CorbaClientDelegateImpl.invoke(CorbaClientDelegateImpl.java:273)
+16/07 16:02:29 	at com.sun.corba.ee.impl.protocol.CorbaClientDelegateImpl.is_a(CorbaClientDelegateImpl.java:395)
+16/07 16:02:29 	at org.omg.CORBA.portable.ObjectImpl._is_a(Unknown Source)
+16/07 16:02:29 	at org.omg.CosNaming.NamingContextHelper.narrow(Unknown Source)
+16/07 16:02:29 	at com.sun.enterprise.naming.impl.SerialContext$ProviderCacheKey.getNameService(SerialContext.java:1241)
+16/07 16:02:29 	at com.sun.enterprise.naming.impl.SerialContext.getRemoteProvider(SerialContext.java:411)
+16/07 16:02:29 	at com.sun.enterprise.naming.impl.SerialContext.getProvider(SerialContext.java:347)
+16/07 16:02:29 	at com.sun.enterprise.naming.impl.SerialContext.lookup(SerialContext.java:504)
+16/07 16:02:29 	at com.sun.enterprise.naming.impl.SerialContext.lookup(SerialContext.java:540)
+16/07 16:02:29 	at com.sun.enterprise.naming.impl.SerialContext.lookup(SerialContext.java:455)
+16/07 16:02:29 	at javax.naming.InitialContext.lookup(Unknown Source)
+16/07 16:02:29 	at com.crm.kernel.queue.QueueFactory.getQueue(QueueFactory.java:105)
+16/07 16:02:29 	at com.crm.thread.DispatcherInstance.initQueue(DispatcherInstance.java:339)
+16/07 16:02:29 	at com.crm.provisioning.thread.ProvisioningInstance.initQueue(ProvisioningInstance.java:333)
+16/07 16:02:29 	at com.crm.thread.DispatcherInstance.beforeProcessSession(DispatcherInstance.java:366)
+16/07 16:02:29 	at com.crm.thread.DispatcherInstance.run(DispatcherInstance.java:535)
+16/07 16:02:29 	at java.lang.Thread.run(Unknown Source)
+16/07 16:02:29 Caused by: java.nio.channels.ClosedByInterruptException
+16/07 16:02:29 	at java.nio.channels.spi.AbstractInterruptibleChannel.end(Unknown Source)
+16/07 16:02:29 	at sun.nio.ch.SocketChannelImpl.write(Unknown Source)
+16/07 16:02:29 	at com.sun.corba.ee.impl.transport.SocketOrChannelConnectionImpl.write(SocketOrChannelConnectionImpl.java:652)
+16/07 16:02:29 	at com.sun.corba.ee.impl.encoding.CDROutputObject.writeTo(CDROutputObject.java:234)
+16/07 16:02:29 	at com.sun.corba.ee.impl.transport.SocketOrChannelConnectionImpl.sendWithoutLock(SocketOrChannelConnectionImpl.java:985)
+16/07 16:02:29 	... 23 more
+16/07 16:02:39 java.io.FileNotFoundException: system.pwd (The system cannot find the file specified)
+16/07 16:02:39 	at java.io.FileInputStream.open(Native Method)
+16/07 16:02:39 	at java.io.FileInputStream.<init>(Unknown Source)
+16/07 16:02:39 	at java.io.FileInputStream.<init>(Unknown Source)
+16/07 16:02:39 	at com.fss.thread.ThreadProcessor.getSystemPassword(ThreadProcessor.java:292)
+16/07 16:02:39 	at com.fss.thread.ThreadProcessor.login(ThreadProcessor.java:192)
+16/07 16:02:39 	at com.fss.thread.ThreadServer.run(ThreadServer.java:73)
+16/07 16:02:39 	at java.lang.Thread.run(Unknown Source)
+16/07 16:05:10 java.net.SocketException: Connection reset
+16/07 16:05:10 	at java.net.SocketInputStream.read(Unknown Source)
+16/07 16:05:10 	at java.net.SocketInputStream.read(Unknown Source)
+16/07 16:05:10 	at com.fss.util.StreamUtil.getFixedSizeBuffer(StreamUtil.java:423)
+16/07 16:05:10 	at com.fss.ddtp.DDTP.load(DDTP.java:81)
+16/07 16:05:10 	at com.fss.ddtp.DDTP.<init>(DDTP.java:63)
+16/07 16:05:10 	at com.fss.ddtp.SocketTransmitter.run(SocketTransmitter.java:82)
+16/07 16:05:10 	at java.lang.Thread.run(Unknown Source)
+16/07 16:05:10 java.net.SocketException: Connection reset by peer: socket write error
+16/07 16:05:10 	at java.net.SocketOutputStream.socketWrite0(Native Method)
+16/07 16:05:10 	at java.net.SocketOutputStream.socketWrite(Unknown Source)
+16/07 16:05:10 	at java.net.SocketOutputStream.write(Unknown Source)
+16/07 16:05:10 	at com.fss.ddtp.DDTP.store(DDTP.java:217)
+16/07 16:05:10 	at com.fss.ddtp.DDTP.store(DDTP.java:237)
+16/07 16:05:10 	at com.fss.ddtp.SocketTransmitter.send(SocketTransmitter.java:185)
+16/07 16:05:10 	at com.fss.ddtp.SocketTransmitter.sendRequest(SocketTransmitter.java:254)
+16/07 16:05:10 	at com.fss.ddtp.SocketTransmitter.sendRequest(SocketTransmitter.java:225)
+16/07 16:05:10 	at com.fss.thread.ThreadManager.sendRequestToAll(ThreadManager.java:601)
+16/07 16:05:10 	at com.fss.thread.ManageableThread.logToUser(ManageableThread.java:916)
+16/07 16:05:10 	at com.fss.thread.ManageableThread.log(ManageableThread.java:887)
+16/07 16:05:10 	at com.crm.thread.DispatcherThread.logMonitor(DispatcherThread.java:316)
+16/07 16:05:10 	at com.fss.thread.ManageableThread.logMonitor(ManageableThread.java:802)
+16/07 16:05:10 	at com.crm.thread.DispatcherThread.logMonitor(DispatcherThread.java:369)
+16/07 16:05:10 	at com.crm.thread.DispatcherThread.debugMonitor(DispatcherThread.java:389)
+16/07 16:05:10 	at com.crm.thread.DispatcherThread.checkInstance(DispatcherThread.java:741)
+16/07 16:05:10 	at com.crm.thread.DispatcherThread.processSession(DispatcherThread.java:769)
+16/07 16:05:10 	at com.fss.thread.ManageableThread.session(ManageableThread.java:1389)
+16/07 16:05:10 	at com.fss.thread.ManageableThread.run(ManageableThread.java:1337)
+16/07 16:05:10 	at java.lang.Thread.run(Unknown Source)
+16/07 16:05:10 java.net.SocketException: Connection reset by peer: socket write error
+16/07 16:05:10 	at java.net.SocketOutputStream.socketWrite0(Native Method)
+16/07 16:05:10 	at java.net.SocketOutputStream.socketWrite(Unknown Source)
+16/07 16:05:10 	at java.net.SocketOutputStream.write(Unknown Source)
+16/07 16:05:10 	at com.fss.ddtp.DDTP.store(DDTP.java:217)
+16/07 16:05:10 	at com.fss.ddtp.DDTP.store(DDTP.java:237)
+16/07 16:05:10 	at com.fss.ddtp.SocketTransmitter.send(SocketTransmitter.java:185)
+16/07 16:05:10 	at com.fss.ddtp.SocketTransmitter.sendRequest(SocketTransmitter.java:254)
+16/07 16:05:10 	at com.fss.ddtp.SocketTransmitter.sendRequest(SocketTransmitter.java:225)
+16/07 16:05:10 	at com.fss.thread.ThreadManager.sendRequestToAll(ThreadManager.java:601)
+16/07 16:05:10 	at com.fss.thread.ManageableThread.logToUser(ManageableThread.java:916)
+16/07 16:05:10 	at com.fss.thread.ManageableThread.log(ManageableThread.java:887)
+16/07 16:05:10 	at com.crm.thread.DispatcherThread.logMonitor(DispatcherThread.java:316)
+16/07 16:05:10 	at com.fss.thread.ManageableThread.logMonitor(ManageableThread.java:802)
+16/07 16:05:10 	at com.crm.thread.DispatcherThread.logMonitor(DispatcherThread.java:354)
+16/07 16:05:10 	at com.crm.thread.DispatcherThread.debugMonitor(DispatcherThread.java:389)
+16/07 16:05:10 	at com.crm.thread.DispatcherInstance.debugMonitor(DispatcherInstance.java:127)
+16/07 16:05:10 	at com.crm.thread.DispatcherInstance.run(DispatcherInstance.java:562)
+16/07 16:05:10 	at java.lang.Thread.run(Unknown Source)
+16/07 16:05:10 java.net.SocketException: Connection reset by peer: socket write error
+16/07 16:05:10 	at java.net.SocketOutputStream.socketWrite0(Native Method)
+16/07 16:05:10 	at java.net.SocketOutputStream.socketWrite(Unknown Source)
+16/07 16:05:10 	at java.net.SocketOutputStream.write(Unknown Source)
+16/07 16:05:10 	at com.fss.ddtp.DDTP.store(DDTP.java:217)
+16/07 16:05:10 	at com.fss.ddtp.DDTP.store(DDTP.java:237)
+16/07 16:05:10 	at com.fss.ddtp.SocketTransmitter.send(SocketTransmitter.java:185)
+16/07 16:05:10 	at com.fss.ddtp.SocketTransmitter.sendRequest(SocketTransmitter.java:254)
+16/07 16:05:10 	at com.fss.ddtp.SocketTransmitter.sendRequest(SocketTransmitter.java:225)
+16/07 16:05:10 	at com.fss.thread.ThreadManager.sendRequestToAll(ThreadManager.java:601)
+16/07 16:05:10 	at com.fss.thread.ManageableThread.logToUser(ManageableThread.java:916)
+16/07 16:05:10 	at com.fss.thread.ManageableThread.log(ManageableThread.java:887)
+16/07 16:05:10 	at com.crm.thread.DispatcherThread.logMonitor(DispatcherThread.java:316)
+16/07 16:05:10 	at com.fss.thread.ManageableThread.logMonitor(ManageableThread.java:802)
+16/07 16:05:10 	at com.crm.thread.DispatcherThread.logMonitor(DispatcherThread.java:354)
+16/07 16:05:10 	at com.crm.thread.DispatcherThread.debugMonitor(DispatcherThread.java:389)
+16/07 16:05:10 	at com.crm.thread.DispatcherInstance.debugMonitor(DispatcherInstance.java:127)
+16/07 16:05:10 	at com.crm.thread.DispatcherInstance.run(DispatcherInstance.java:562)
+16/07 16:05:10 	at java.lang.Thread.run(Unknown Source)
+2
+16/07 16:09:11 com.fss.thread.ThreadController@14fd510
+2
+16/07 16:09:11 com.fss.thread.ThreadController@14fd510
+2
+16/07 16:09:11 com.fss.thread.ThreadController@14fd510
+2
+16/07 16:09:11 com.fss.thread.ThreadController@14fd510
+2
+16/07 16:09:11 com.fss.thread.ThreadController@14fd510
+2
+16/07 16:09:11 com.fss.thread.ThreadController@14fd510
+2
+16/07 16:09:11 com.fss.thread.ThreadController@14fd510
+2
+16/07 16:09:11 com.fss.thread.ThreadController@14fd510
+2
+16/07 16:09:11 com.fss.thread.ThreadController@14fd510
+2
+16/07 16:09:11 com.fss.thread.ThreadController@14fd510
+2
+16/07 16:09:11 com.fss.thread.ThreadController@14fd510
+2
+16/07 16:09:11 com.fss.thread.ThreadController@14fd510
+2
+16/07 16:09:11 com.fss.thread.ThreadController@14fd510
+2
+16/07 16:09:11 com.fss.thread.ThreadController@14fd510
+2
+16/07 16:09:11 com.fss.thread.ThreadController@14fd510
+16/07 16:09:12 log4j:WARN No appenders could be found for logger (com.mchange.v2.log.MLog).
+16/07 16:09:12 log4j:WARN Please initialize the log4j system properly.
+16/07 16:09:13 pool: com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, dataSourceName -> 1hgeifw93hbmf6lytmvy5|4c6cea8a, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> oracle.jdbc.driver.OracleDriver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 1hgeifw93hbmf6lytmvy5|4c6cea8a, idleConnectionTestPeriod -> 30, initialPoolSize -> 3, jdbcUrl -> jdbc:oracle:thin:@183.91.14.218:1521:CSDB, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 300, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 100, maxStatements -> 0, maxStatementsPerConnection -> 0, minPoolSize -> 30, numHelperThreads -> 3, numThreadsAwaitingCheckoutDefaultUser -> 0, preferredTestQuery -> Select * From dual, properties -> {user=******, password=******}, propertyCycle -> 0, testConnectionOnCheckin -> true, testConnectionOnCheckout -> true, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false ]
+16/07 16:09:13 pool: com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, dataSourceName -> 1hgeifw93hbmf6lytmvy5|4c6cea8a, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> oracle.jdbc.driver.OracleDriver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 1hgeifw93hbmf6lytmvy5|4c6cea8a, idleConnectionTestPeriod -> 30, initialPoolSize -> 3, jdbcUrl -> jdbc:oracle:thin:@183.91.14.218:1521:CSDB, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 300, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 100, maxStatements -> 0, maxStatementsPerConnection -> 0, minPoolSize -> 30, numHelperThreads -> 3, numThreadsAwaitingCheckoutDefaultUser -> 0, preferredTestQuery -> Select * From dual, properties -> {user=******, password=******}, propertyCycle -> 0, testConnectionOnCheckin -> true, testConnectionOnCheckout -> true, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false ]
+16/07 16:09:13 pool: com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, dataSourceName -> 1hgeifw93hbmf6lytmvy5|4c6cea8a, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> oracle.jdbc.driver.OracleDriver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 1hgeifw93hbmf6lytmvy5|4c6cea8a, idleConnectionTestPeriod -> 30, initialPoolSize -> 3, jdbcUrl -> jdbc:oracle:thin:@183.91.14.218:1521:CSDB, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 300, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 100, maxStatements -> 0, maxStatementsPerConnection -> 0, minPoolSize -> 30, numHelperThreads -> 3, numThreadsAwaitingCheckoutDefaultUser -> 0, preferredTestQuery -> Select * From dual, properties -> {user=******, password=******}, propertyCycle -> 0, testConnectionOnCheckin -> true, testConnectionOnCheckout -> true, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false ]
+16/07 16:09:13 pool: com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, dataSourceName -> 1hgeifw93hbmf6lytmvy5|4c6cea8a, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> oracle.jdbc.driver.OracleDriver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 1hgeifw93hbmf6lytmvy5|4c6cea8a, idleConnectionTestPeriod -> 30, initialPoolSize -> 3, jdbcUrl -> jdbc:oracle:thin:@183.91.14.218:1521:CSDB, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 300, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 100, maxStatements -> 0, maxStatementsPerConnection -> 0, minPoolSize -> 30, numHelperThreads -> 3, numThreadsAwaitingCheckoutDefaultUser -> 0, preferredTestQuery -> Select * From dual, properties -> {user=******, password=******}, propertyCycle -> 0, testConnectionOnCheckin -> true, testConnectionOnCheckout -> true, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false ]
+16/07 16:09:13 pool: com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, dataSourceName -> 1hgeifw93hbmf6lytmvy5|4c6cea8a, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> oracle.jdbc.driver.OracleDriver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 1hgeifw93hbmf6lytmvy5|4c6cea8a, idleConnectionTestPeriod -> 30, initialPoolSize -> 3, jdbcUrl -> jdbc:oracle:thin:@183.91.14.218:1521:CSDB, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 300, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 100, maxStatements -> 0, maxStatementsPerConnection -> 0, minPoolSize -> 30, numHelperThreads -> 3, numThreadsAwaitingCheckoutDefaultUser -> 0, preferredTestQuery -> Select * From dual, properties -> {user=******, password=******}, propertyCycle -> 0, testConnectionOnCheckin -> true, testConnectionOnCheckout -> true, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false ]
+16/07 16:09:13 pool: com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, dataSourceName -> 1hgeifw93hbmf6lytmvy5|4c6cea8a, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> oracle.jdbc.driver.OracleDriver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 1hgeifw93hbmf6lytmvy5|4c6cea8a, idleConnectionTestPeriod -> 30, initialPoolSize -> 3, jdbcUrl -> jdbc:oracle:thin:@183.91.14.218:1521:CSDB, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 300, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 100, maxStatements -> 0, maxStatementsPerConnection -> 0, minPoolSize -> 30, numHelperThreads -> 3, numThreadsAwaitingCheckoutDefaultUser -> 0, preferredTestQuery -> Select * From dual, properties -> {user=******, password=******}, propertyCycle -> 0, testConnectionOnCheckin -> true, testConnectionOnCheckout -> true, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false ]
+16/07 16:09:13 pool: com.mchange.v2.c3p0.ComboPooledDataSource [ java.beans.IntrospectionException: java.lang.reflect.InvocationTargetException [numThreadsAwaitingCheckoutDefaultUser] ]
+16/07 16:09:16 Jul 16, 2014 4:09:16 PM com.sun.enterprise.v3.server.CommonClassLoaderServiceImpl findDerbyClient
+INFO: Cannot find javadb client jar file, derby jdbc driver will not be available by default.
+16/07 16:09:23 Jul 16, 2014 4:09:23 PM org.hibernate.validator.util.Version <clinit>
+INFO: Hibernate Validator 4.1.0.Final
+16/07 16:09:23 Jul 16, 2014 4:09:23 PM org.hibernate.validator.engine.resolver.DefaultTraversableResolver detectJPA
+INFO: Instantiated an instance of org.hibernate.validator.engine.resolver.JPATraversableResolver.
+16/07 16:09:23 Jul 16, 2014 4:09:23 PM com.sun.messaging.jms.ra.ResourceAdapter start
+INFO: MQJMSRA_RA1101: GlassFish MQ JMS Resource Adapter: Version:  4.5.1  (Build 3-b) Compile:  Tue Jun 21 16:31:32 PDT 2011
+16/07 16:09:23 Jul 16, 2014 4:09:23 PM com.sun.messaging.jms.ra.ResourceAdapter start
+INFO: MQJMSRA_RA1101: GlassFish MQ JMS Resource Adapter starting: broker is REMOTE, connection mode is TCP
+16/07 16:09:23 Jul 16, 2014 4:09:23 PM com.sun.messaging.jms.ra.ResourceAdapter start
+INFO: MQJMSRA_RA1101: GlassFish MQ JMS Resource Adapter Started:REMOTE
+16/07 16:09:24 Jul 16, 2014 4:09:24 PM com.sun.corba.ee.spi.orbutil.logex.WrapperGenerator handleFullLogging
+WARNING: IOP00810011: Exception from readValue on ValueHandler in CDRInputStream
+org.omg.CORBA.MARSHAL: WARNING: IOP00810011: Exception from readValue on ValueHandler in CDRInputStream  vmcid: OMG  minor code: 11 completed: Maybe
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at com.sun.corba.ee.spi.orbutil.logex.corba.CorbaExtension.makeException(CorbaExtension.java:248)
+	at com.sun.corba.ee.spi.orbutil.logex.corba.CorbaExtension.makeException(CorbaExtension.java:95)
+	at com.sun.corba.ee.spi.orbutil.logex.WrapperGenerator.handleFullLogging(WrapperGenerator.java:387)
+	at com.sun.corba.ee.spi.orbutil.logex.WrapperGenerator.access$400(WrapperGenerator.java:107)
+	at com.sun.corba.ee.spi.orbutil.logex.WrapperGenerator$2.invoke(WrapperGenerator.java:511)
+	at com.sun.corba.ee.spi.orbutil.proxy.CompositeInvocationHandlerImpl.invoke(CompositeInvocationHandlerImpl.java:99)
+	at com.sun.proxy.$Proxy24.valuehandlerReadException(Unknown Source)
+	at com.sun.corba.ee.impl.encoding.CDRInputStream_1_0.readRMIIIOPValueType(CDRInputStream_1_0.java:1022)
+	at com.sun.corba.ee.impl.encoding.CDRInputStream_1_0.read_value(CDRInputStream_1_0.java:1123)
+	at com.sun.corba.ee.impl.encoding.CDRInputObject.read_value(CDRInputObject.java:531)
+	at com.sun.corba.ee.impl.io.IIOPInputStream.inputObjectField(IIOPInputStream.java:2162)
+	at com.sun.corba.ee.impl.io.IIOPInputStream.inputClassFields(IIOPInputStream.java:2404)
+	at com.sun.corba.ee.impl.io.IIOPInputStream.inputObject(IIOPInputStream.java:1224)
+	at com.sun.corba.ee.impl.io.IIOPInputStream.simpleReadObject(IIOPInputStream.java:425)
+	at com.sun.corba.ee.impl.io.ValueHandlerImpl.readValueInternal(ValueHandlerImpl.java:308)
+	at com.sun.corba.ee.impl.io.ValueHandlerImpl.readValue(ValueHandlerImpl.java:274)
+	at com.sun.corba.ee.impl.encoding.CDRInputStream_1_0.readRMIIIOPValueType(CDRInputStream_1_0.java:1015)
+	at com.sun.corba.ee.impl.encoding.CDRInputStream_1_0.read_value(CDRInputStream_1_0.java:1123)
+	at com.sun.corba.ee.impl.encoding.CDRInputObject.read_value(CDRInputObject.java:531)
+	at com.sun.corba.ee.impl.io.IIOPInputStream.inputObjectField(IIOPInputStream.java:2162)
+	at com.sun.corba.ee.impl.io.IIOPInputStream.inputClassFields(IIOPInputStream.java:2404)
+	at com.sun.corba.ee.impl.io.IIOPInputStream.inputObject(IIOPInputStream.java:1224)
+	at com.sun.corba.ee.impl.io.IIOPInputStream.simpleReadObject(IIOPInputStream.java:425)
+	at com.sun.corba.ee.impl.io.ValueHandlerImpl.readValueInternal(ValueHandlerImpl.java:308)
+	at com.sun.corba.ee.impl.io.ValueHandlerImpl.readValue(ValueHandlerImpl.java:274)
+	at com.sun.corba.ee.impl.encoding.CDRInputStream_1_0.readRMIIIOPValueType(CDRInputStream_1_0.java:1015)
+	at com.sun.corba.ee.impl.encoding.CDRInputStream_1_0.read_value(CDRInputStream_1_0.java:1123)
+	at com.sun.corba.ee.impl.encoding.CDRInputObject.read_value(CDRInputObject.java:531)
+	at com.sun.corba.ee.impl.io.IIOPInputStream.inputObjectField(IIOPInputStream.java:2162)
+	at com.sun.corba.ee.impl.io.IIOPInputStream.inputClassFields(IIOPInputStream.java:2404)
+	at com.sun.corba.ee.impl.io.IIOPInputStream.inputObject(IIOPInputStream.java:1224)
+	at com.sun.corba.ee.impl.io.IIOPInputStream.simpleReadObject(IIOPInputStream.java:425)
+	at com.sun.corba.ee.impl.io.ValueHandlerImpl.readValueInternal(ValueHandlerImpl.java:308)
+	at com.sun.corba.ee.impl.io.ValueHandlerImpl.readValue(ValueHandlerImpl.java:274)
+	at com.sun.corba.ee.impl.encoding.CDRInputStream_1_0.readRMIIIOPValueType(CDRInputStream_1_0.java:1015)
+	at com.sun.corba.ee.impl.encoding.CDRInputStream_1_0.read_value(CDRInputStream_1_0.java:1123)
+	at com.sun.corba.ee.impl.encoding.CDRInputStream_1_0.read_value(CDRInputStream_1_0.java:935)
+	at com.sun.corba.ee.impl.encoding.CDRInputObject.read_value(CDRInputObject.java:525)
+	at com.sun.corba.ee.impl.corba.TCUtility.unmarshalIn(TCUtility.java:289)
+	at com.sun.corba.ee.impl.corba.AnyImpl.read_value(AnyImpl.java:605)
+	at com.sun.corba.ee.impl.encoding.CDRInputStream_1_0.read_any(CDRInputStream_1_0.java:775)
+	at com.sun.corba.ee.impl.encoding.CDRInputObject.read_any(CDRInputObject.java:482)
+	at com.sun.corba.ee.impl.javax.rmi.CORBA.Util.readAny(Util.java:452)
+	at com.sun.corba.ee.impl.presentation.rmi.DynamicMethodMarshallerImpl$10.read(DynamicMethodMarshallerImpl.java:299)
+	at com.sun.corba.ee.impl.presentation.rmi.DynamicMethodMarshallerImpl.readResult(DynamicMethodMarshallerImpl.java:483)
+	at com.sun.corba.ee.impl.presentation.rmi.StubInvocationHandlerImpl.privateInvoke(StubInvocationHandlerImpl.java:203)
+	at com.sun.corba.ee.impl.presentation.rmi.StubInvocationHandlerImpl.invoke(StubInvocationHandlerImpl.java:152)
+	at com.sun.corba.ee.impl.presentation.rmi.codegen.CodegenStubBase.invoke(CodegenStubBase.java:227)
+	at com.sun.enterprise.naming.impl._SerialContextProvider_DynamicStub.lookup(com/sun/enterprise/naming/impl/_SerialContextProvider_DynamicStub.java)
+	at com.sun.enterprise.naming.impl.SerialContext.lookup(SerialContext.java:505)
+	at com.sun.enterprise.naming.impl.SerialContext.lookup(SerialContext.java:455)
+	at javax.naming.InitialContext.lookup(Unknown Source)
+	at com.sun.enterprise.resource.naming.AdministeredObjectFactory.getObjectInstance(AdministeredObjectFactory.java:98)
+	at javax.naming.spi.NamingManager.getObjectInstance(Unknown Source)
+	at com.sun.enterprise.naming.impl.SerialContext.getObjectInstance(SerialContext.java:556)
+	at com.sun.enterprise.naming.impl.SerialContext.lookup(SerialContext.java:514)
+	at com.sun.enterprise.naming.impl.SerialContext.lookup(SerialContext.java:455)
+	at javax.naming.InitialContext.lookup(Unknown Source)
+	at com.crm.kernel.queue.QueueFactory.getQueue(QueueFactory.java:105)
+	at com.crm.provisioning.cache.MQConnection.<init>(MQConnection.java:50)
+	at com.crm.provisioning.cache.MQConnectionPool.createObject(MQConnectionPool.java:52)
+	at com.crm.provisioning.cache.ObjectPool.makeObject(ObjectPool.java:78)
+	at org.apache.commons.pool.impl.GenericObjectPool.borrowObject(GenericObjectPool.java:1148)
+	at com.crm.provisioning.cache.ObjectPool.getObject(ObjectPool.java:36)
+	at com.crm.provisioning.cache.MQConnectionPool.getConnection(MQConnectionPool.java:64)
+	at com.crm.thread.DispatcherThread.getMQConnection(DispatcherThread.java:576)
+	at com.crm.thread.DispatcherThread.InitQueuePool(DispatcherThread.java:565)
+	at com.crm.thread.DispatcherThread.initQueue(DispatcherThread.java:533)
+	at com.crm.thread.DispatcherThread.beforeProcessSession(DispatcherThread.java:605)
+	at com.crm.provisioning.thread.SubscriptionRequestThread.beforeProcessSession(SubscriptionRequestThread.java:57)
+	at com.crm.thread.DispatcherThread.processSession(DispatcherThread.java:765)
+	at com.fss.thread.ManageableThread.session(ManageableThread.java:1389)
+	at com.fss.thread.ManageableThread.run(ManageableThread.java:1337)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.sun.corba.ee.impl.protocol.RequestCanceledException
+	at com.sun.corba.ee.impl.encoding.BufferManagerReadStream.underflow(BufferManagerReadStream.java:148)
+	at com.sun.corba.ee.impl.encoding.CDRInputStream_1_1.grow(CDRInputStream_1_1.java:113)
+	at com.sun.corba.ee.impl.encoding.CDRInputStream_1_0.read_octet_array(CDRInputStream_1_0.java:719)
+	at com.sun.corba.ee.impl.encoding.CDRInputObject.read_octet_array(CDRInputObject.java:427)
+	at com.sun.corba.ee.impl.encoding.WrapperInputStream.read_octet_array(WrapperInputStream.java:109)
+	at com.sun.corba.ee.impl.encoding.TypeCodeInputStream.readEncapsulation(TypeCodeInputStream.java:145)
+	at com.sun.corba.ee.impl.corba.TypeCodeImpl.read_value_body(TypeCodeImpl.java:1605)
+	at com.sun.corba.ee.impl.corba.TypeCodeImpl.read_value(TypeCodeImpl.java:1329)
+	at com.sun.corba.ee.impl.encoding.CDRInputStream_1_0.read_any(CDRInputStream_1_0.java:766)
+	at com.sun.corba.ee.impl.encoding.CDRInput16/07 16:09:24 Object.read_any(CDRInputObject.java:482)
+	at com.sun.corba.ee.impl.javax.rmi.CORBA.Util.readAny(Util.java:452)
+	at com.sun.corba.ee.impl.io.ValueHandlerImpl.read_Array(ValueHandlerImpl.java:639)
+	at com.sun.corba.ee.impl.io.ValueHandlerImpl.readValueInternal(ValueHandlerImpl.java:305)
+	at com.sun.corba.ee.impl.io.ValueHandlerImpl.readValue(ValueHandlerImpl.java:274)
+	at com.sun.corba.ee.impl.encoding.CDRInputStream_1_0.readRMIIIOPValueType(CDRInputStream_1_0.java:1015)
+	... 66 more
+
+16/07 16:09:24 org.omg.CORBA.COMM_FAILURE: FINE: IOP00410003: Write error sent  vmcid: OMG  minor code: 3 completed: Maybe
+16/07 16:09:24 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+16/07 16:09:24 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+16/07 16:09:24 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+16/07 16:09:24 	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+16/07 16:09:24 	at com.sun.corba.ee.spi.orbutil.logex.corba.CorbaExtension.makeException(CorbaExtension.java:248)
+16/07 16:09:24 	at com.sun.corba.ee.spi.orbutil.logex.corba.CorbaExtension.makeException(CorbaExtension.java:95)
+16/07 16:09:24 	at com.sun.corba.ee.spi.orbutil.logex.WrapperGenerator.handleFullLogging(WrapperGenerator.java:387)
+16/07 16:09:25 	at com.sun.corba.ee.spi.orbutil.logex.WrapperGenerator.access$400(WrapperGenerator.java:107)
+16/07 16:09:25 	at com.sun.corba.ee.spi.orbutil.logex.WrapperGenerator$2.invoke(WrapperGenerator.java:511)
+16/07 16:09:25 	at com.sun.corba.ee.spi.orbutil.proxy.CompositeInvocationHandlerImpl.invoke(CompositeInvocationHandlerImpl.java:99)
+16/07 16:09:25 	at com.sun.proxy.$Proxy24.writeErrorSend(Unknown Source)
+16/07 16:09:25 	at com.sun.corba.ee.impl.transport.SocketOrChannelConnectionImpl.sendWithoutLock(SocketOrChannelConnectionImpl.java:999)
+16/07 16:09:25 	at com.sun.corba.ee.impl.encoding.BufferManagerWriteStream.sendFragment(BufferManagerWriteStream.java:151)
+16/07 16:09:25 	at com.sun.corba.ee.impl.encoding.BufferManagerWriteStream.sendMessage(BufferManagerWriteStream.java:165)
+16/07 16:09:25 	at com.sun.corba.ee.impl.encoding.CDROutputObject.finishSendingMessage(CDROutputObject.java:200)
+16/07 16:09:25 	at com.sun.corba.ee.impl.protocol.CorbaMessageMediatorImpl.finishSendingRequest(CorbaMessageMediatorImpl.java:274)
+16/07 16:09:25 	at com.sun.corba.ee.impl.protocol.CorbaClientRequestDispatcherImpl.marshalingComplete1(CorbaClientRequestDispatcherImpl.java:401)
+16/07 16:09:25 	at com.sun.corba.ee.impl.protocol.CorbaClientRequestDispatcherImpl.marshalingComplete(CorbaClientRequestDispatcherImpl.java:368)
+16/07 16:09:25 	at com.sun.corba.ee.impl.protocol.CorbaClientDelegateImpl.invoke(CorbaClientDelegateImpl.java:273)
+16/07 16:09:25 	at com.sun.corba.ee.impl.protocol.CorbaClientDelegateImpl.is_a(CorbaClientDelegateImpl.java:395)
+16/07 16:09:25 	at org.omg.CORBA.portable.ObjectImpl._is_a(Unknown Source)
+16/07 16:09:25 	at org.omg.CosNaming.NamingContextHelper.narrow(Unknown Source)
+16/07 16:09:25 	at com.sun.enterprise.naming.impl.SerialContext$ProviderCacheKey.getNameService(SerialContext.java:1241)
+16/07 16:09:25 	at com.sun.enterprise.naming.impl.SerialContext.getRemoteProvider(SerialContext.java:411)
+16/07 16:09:25 	at com.sun.enterprise.naming.impl.SerialContext.getProvider(SerialContext.java:347)
+16/07 16:09:25 	at com.sun.enterprise.naming.impl.SerialContext.lookup(SerialContext.java:504)
+16/07 16:09:25 	at com.sun.enterprise.naming.impl.SerialContext.lookup(SerialContext.java:540)
+16/07 16:09:25 	at com.sun.enterprise.naming.impl.SerialContext.lookup(SerialContext.java:455)
+16/07 16:09:25 	at javax.naming.InitialContext.lookup(Unknown Source)
+16/07 16:09:25 	at com.crm.kernel.queue.QueueFactory.getQueue(QueueFactory.java:105)
+16/07 16:09:25 	at com.crm.thread.DispatcherInstance.initQueue(DispatcherInstance.java:339)
+16/07 16:09:25 	at com.crm.provisioning.thread.ProvisioningInstance.initQueue(ProvisioningInstance.java:333)
+16/07 16:09:25 	at com.crm.thread.DispatcherInstance.beforeProcessSession(DispatcherInstance.java:366)
+16/07 16:09:25 	at com.crm.thread.DispatcherInstance.run(DispatcherInstance.java:535)
+16/07 16:09:25 	at java.lang.Thread.run(Unknown Source)
+16/07 16:09:25 Caused by: java.nio.channels.ClosedByInterruptException
+16/07 16:09:25 	at java.nio.channels.spi.AbstractInterruptibleChannel.end(Unknown Source)
+16/07 16:09:25 	at sun.nio.ch.SocketChannelImpl.write(Unknown Source)
+16/07 16:09:25 	at com.sun.corba.ee.impl.transport.SocketOrChannelConnectionImpl.write(SocketOrChannelConnectionImpl.java:652)
+16/07 16:09:25 	at com.sun.corba.ee.impl.encoding.CDROutputObject.writeTo(CDROutputObject.java:234)
+16/07 16:09:25 	at com.sun.corba.ee.impl.transport.SocketOrChannelConnectionImpl.sendWithoutLock(SocketOrChannelConnectionImpl.java:985)
+16/07 16:09:25 	... 23 more
+16/07 16:09:25 Jul 16, 2014 4:09:24 PM com.sun.corba.ee.spi.orbutil.logex.WrapperGenerator handleFullLogging
+WARNING: IOP00810011: Exception from readValue on ValueHandler in CDRInputStream
+org.omg.CORBA.MARSHAL: WARNING: IOP00810011: Exception from readValue on ValueHandler in CDRInputStream  vmcid: OMG  minor code: 11 completed: Maybe
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at com.sun.corba.ee.spi.orbutil.logex.corba.CorbaExtension.makeException(CorbaExtension.java:248)
+	at com.sun.corba.ee.spi.orbutil.logex.corba.CorbaExtension.makeException(CorbaExtension.java:95)
+	at com.sun.corba.ee.spi.orbutil.logex.WrapperGenerator.handleFullLogging(WrapperGenerator.java:387)
+	at com.sun.corba.ee.spi.orbutil.logex.WrapperGenerator.access$400(WrapperGenerator.java:107)
+	at com.sun.corba.ee.spi.orbutil.logex.WrapperGenerator$2.invoke(WrapperGenerator.java:511)
+	at com.sun.corba.ee.spi.orbutil.proxy.CompositeInvocationHandlerImpl.invoke(CompositeInvocationHandlerImpl.java:99)
+	at com.sun.proxy.$Proxy24.valuehandlerReadException(Unknown Source)
+	at com.sun.corba.ee.impl.encoding.CDRInputStream_1_0.readRMIIIOPValueType(CDRInputStream_1_0.java:1022)
+	at com.sun.corba.ee.impl.encoding.CDRInputStream_1_0.read_value(CDRInputStream_1_0.java:1123)
+	at com.sun.corba.ee.impl.encoding.CDRInputObject.read_value(CDRInputObject.java:531)
+	at com.sun.corba.ee.impl.io.IIOPInputStream.inputObjectField(IIOPInputStream.java:2064)
+	at com.sun.corba.ee.impl.io.IIOPInputStream.inputClassFields(IIOPInputStream.java:2533)
+	at com.sun.corba.ee.impl.io.IIOPInputStream.defaultReadObjectDelegate(IIOPInputStream.java:584)
+	at com.sun.corba.ee.impl.io.InputStreamHook.defaultReadObject(InputStreamHook.java:233)
+	at java.lang.Throwable.readObject(Throwable.java:914)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.sun.corba.ee.impl.io.IIOPInputStream.invokeObjectReader(IIOPInputStream.java:1832)
+	at com.sun.corba.ee.impl.io.IIOPInputStream.inputObjectUsingFVD(IIOPInputStream.java:1688)
+	at com.sun.corba.ee.impl.io.IIOPInputStream.simpleReadObject(IIOPInputStream.java:423)
+	at com.sun.corba.ee.impl.io.ValueHandlerImpl.readValueInternal(ValueHandlerImpl.java:308)
+	at com.sun.corba.ee.impl.io.ValueHandlerImpl.readValue(ValueHandlerImpl.java:274)
+	at com.sun.corba.ee.impl.encoding.CDRInputStream_1_0.readRMIIIOPValueType(CDRInputStream_1_0.java:1015)
+	at com.sun.corba.ee.impl.encoding.CDRInputStream_1_0.read_value(CDRInputStream_1_0.java:1123)
+	at com.sun.corba.ee.impl.encoding.CDRInputObject.read_value(CDRInputObject.java:531)
+	at com.sun.corba.ee.impl.presentation.rmi.ExceptionHandlerImpl$ExceptionRWRMIImpl.read(ExceptionHandlerImpl.java:180)
+	at com.sun.corba.ee.impl.presentation.rmi.ExceptionHandlerImpl.readException(ExceptionHandlerImpl.java:290)
+	at com.sun.corba.ee.impl.presentation.rmi.DynamicMethodMarshallerImpl.readException(DynamicMethodMarshallerImpl.java:502)
+	at com.sun.corba.ee.impl.presentation.rmi.StubInvocationHandlerImpl.privateInvoke(StubInvocationHandlerImpl.java:205)
+	at com.sun.corba.ee.impl.presentation.rmi.StubInvocationHandlerImpl.invoke(StubInvocationHandlerImpl.java:152)
+	at com.sun.corba.ee.impl.presentation.rmi.codegen.CodegenStubBase.invoke(CodegenStubBase.java:227)
+	at com.sun.enterprise.naming.impl._SerialContextProvider_DynamicStub.lookup(com/sun/enterprise/naming/impl/_SerialContextProvider_DynamicStub.java)
+	at com.sun.enterprise.naming.impl.SerialContext.lookup(SerialContext.java:505)
+	at com.sun.enterprise.naming.impl.SerialContext.lookup(SerialContext.java:455)
+	at javax.naming.InitialContext.lookup(Unknown Source)
+	at com.crm.kernel.queue.QueueFactory.getQueue(QueueFactory.java:105)
+	at com.crm.thread.DispatcherInstance.initQueue(DispatcherInstance.java:339)
+	at com.crm.provisioning.thread.ProvisioningInstance.initQueue(ProvisioningInstance.java:333)
+	at com.crm.thread.DispatcherInstance.beforeProcessSession(DispatcherInstance.java:366)
+	at com.crm.thread.DispatcherInstance.run(DispatcherInstance.java:535)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: com.sun.corba.ee.impl.protocol.RequestCanceledException
+	at com.sun.corba.ee.impl.encoding.BufferManagerReadStream.underflow(BufferManagerReadStream.java:122)
+	at com.sun.corba.ee.impl.encoding.CDRInputStream_1_1.grow(CDRInputStream_1_1.java:113)
+	at com.sun.corba.ee.impl.encoding.CDRInputStream_1_2.alignAndCheck(CDRInputStream_1_2.java:126)
+	at com.sun.corba.ee.impl.encoding.CDRInputStream_1_0.read_long(CDRInputStream_1_0.java:496)
+	at com.sun.corba.ee.impl.encoding.CDRInputStream_1_0.read_repositoryId(CDRInputStream_1_0.java:1935)
+	at com.sun.corba.ee.impl.encoding.CDRInputStream_1_0.readRepositoryIds(CDRInputStream_1_0.java:998)
+	at com.sun.corba.ee.impl.encoding.CDRInputStream_1_0.readRepositoryIds(CDRInputStream_1_0.java:965)
+	at com.sun.corba.ee.impl.encoding.CDRInputStream_1_0.read_value(CDRInputStream_1_0.java:1066)
+	at com.sun.corba.ee.impl.encoding.CDRInputObject.read_value(CDRInputObject.java:531)
+	at com.sun.corba.ee.impl.io.ValueHandlerImpl.read_Array(ValueHandlerImpl.java:742)
+	at com.sun.corba.ee.impl.io.ValueHandlerImpl.readValueInternal(ValueHandlerImpl.java:305)
+	at com.sun.corba.ee.impl.io.ValueHandlerImpl.readValue(ValueHandlerImpl.java:274)
+	at com.sun.corba.ee.impl.encoding.CDRInputStream_1_0.readRMIIIOPValueType(CDRInputStream_1_0.java:1015)
+	... 35 more
+
+16/07 16:09:25 Jul 16, 2014 4:09:25 PM com.sun.corba.ee.spi.orbutil.logex.WrapperGenerator handleFullLogging
+WARNING: ORBIO00013: Stream corrupted
+java.io.StreamCorruptedException: WARNING: ORBIO00013: Stream corrupted
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at com.sun.corba.ee.spi.orbutil.logex.WrapperGenerator.makeStandardException(WrapperGenerator.java:271)
+	at com.sun.corba.ee.spi.orbutil.logex.WrapperGenerator$ExtensionBase.makeException(WrapperGenerator.java:159)
+	at com.sun.corba.ee.spi.orbutil.logex.WrapperGenerator.handleFullLogging(WrapperGenerator.java:387)
+	at com.sun.corba.ee.spi.orbutil.logex.WrapperGenerator.access$400(WrapperGenerator.java:107)
+	at com.sun.corba.ee.spi.orbutil.logex.WrapperGenerator$2.invoke(WrapperGenerator.java:511)
+	at com.sun.corba.ee.spi.orbutil.proxy.CompositeInvocationHandlerImpl.invoke(CompositeInvocationHandlerImpl.java:99)
+	at com.sun.proxy.$Proxy69.streamCorrupted(Unknown Source)
+	at com.sun.corba.ee.impl.io.IIOPInputStream.inputClassFields(IIOPInputStream.java:2569)
+	at com.sun.corba.ee.impl.io.IIOPInputStream.defaultReadObjectDelegate(IIOPInputStream.java:584)
+	at com.sun.corba.ee.impl.io.InputStreamHook.defaultReadObject(InputStreamHook.java:233)
+	at java.lang.Throwable.readObject(Throwable.java:914)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.sun.corba.ee.impl.io.IIOPInputStream.invokeObjectReader(IIOPInputStream.java:1832)
+	at com.sun.corba.ee.impl.io.IIOPInputStream.inputObjectUsingFVD(IIOPInputStream.java:1688)
+	at com.sun.corba.ee.impl.io.IIOPInputStream.simpleReadObject(IIOPInputStream.java:423)
+	at com.sun.corba.ee.impl.io.ValueHandlerImpl.readValueInternal(ValueHandlerImpl.java:308)
+	at com.sun.corba.ee.impl.io.ValueHandlerImpl.readValue(ValueHandlerImpl.java:274)
+	at com.sun.corba.ee.impl.encoding.CDRInputStream_1_0.readRMIIIOPValueType(CDRInputStream_1_0.java:1015)
+	at com.sun.corba.ee.impl.encoding.CDRInputStream_1_0.read_value(CDRInputStream_1_0.java:1123)
+	at com.sun.corba.ee.impl.encoding.CDRInputObject.read_value(CDRInputObject.java:531)
+	at com.sun.corba.ee.impl.presentation.rmi.ExceptionHandlerImpl$ExceptionRWRMIImpl.read(ExceptionHandlerImpl.java:180)
+	at com.sun.corba.ee.impl.presentation.rmi.ExceptionHandlerImpl.readException(ExceptionHandlerImpl.java:290)
+	at com.sun.corba.ee.impl.presentation.rmi.DynamicMethodMarshallerImpl.readException(DynamicMethodMarshallerImpl.java:502)
+	at com.sun.corba.ee.impl.presentation.rmi.StubInvocationHandlerImpl.privateInvoke(StubInvocationHandlerImpl.java:205)
+	at com.sun.corba.ee.impl.presentation.rmi.StubInvocationHandlerImpl.invoke(StubInvocationHandlerImpl.java:152)
+	at com.sun.corba.ee.impl.presentation.rmi.codegen.CodegenStubBase.invoke(CodegenStubBase.java:227)
+	at com.sun.enterprise.naming.impl._SerialContextProvider_DynamicStub.lookup(com/sun/enterprise/naming/impl/_SerialContextProvider_DynamicStub.java)
+	at com.sun.enterprise.naming.impl.SerialContext.lookup(SerialContext.java:505)
+	at com.sun.enterprise.naming.impl.SerialContext.lookup(SerialContext.java:455)
+	at javax.naming.InitialContext.lookup(Unknown Source)
+	at com.crm.kernel.queue.QueueFactory.getQueue(QueueFactory.java:105)
+	at com.crm.thread.DispatcherInstance.initQueue(DispatcherInstance.java:339)
+	at com.crm.provisioning.thread.ProvisioningInstance.initQueue(ProvisioningInstance.java:333)
+	at com.crm.thread.DispatcherInstance.beforeProcessSession(DispatcherInstance.java:366)
+	at com.crm.thread.DispatcherInstance.run(DispatcherInstance.java:535)
+	at java.lang.Thread.run(Unknown Source)
+
+16/07 16:09:25 Jul 16, 2014 4:09:25 PM com.sun.corba.ee.spi.orbutil.logex.WrapperGenerator handleFullLogging
+WARNING: IOP00810011: Exception from readValue on ValueHandler in CDRInputStream
+org.omg.CORBA.MARSHAL: WARNING: IOP00810011: Exception from readValue on ValueHandler in CDRInputStream  vmcid: OMG  minor code: 11 completed: Maybe
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at com.sun.corba.ee.spi.orbutil.logex.corba.CorbaExtension.makeException(CorbaExtension.java:248)
+	at com.sun.corba.ee.spi.orbutil.logex.corba.CorbaExtension.makeException(CorbaExtension.java:95)
+	at com.sun.corba.ee.spi.orbutil.logex.WrapperGenerator.handleFullLogging(WrapperGenerator.java:387)
+	at com.sun.corba.ee.spi.orbutil.logex.WrapperGenerator.access$400(WrapperGenerator.java:107)
+	at com.sun.corba.ee.spi.orbutil.logex.WrapperGenerator$2.invoke(WrapperGenerator.java:511)
+	at com.sun.corba.ee.spi.orbutil.proxy.CompositeInvocationHandlerImpl.invoke(CompositeInvocationHandlerImpl.java:99)
+	at com.sun.proxy.$Proxy24.valuehandlerReadException(Unknown Source)
+	at com.sun.corba.ee.impl.encoding.CDRInputStream_1_0.readRMIIIOPValueType(CDRInputStream_1_0.java:1022)
+	at com.sun.corba.ee.impl.encoding.CDRInputStream_1_0.read_value(CDRInputStream_1_0.java:1123)
+	at com.sun.corba.ee.impl.encoding.CDRInputObject.read_value(CDRInputObject.java:531)
+	at com.sun.corba.ee.impl.presentation.rmi.ExceptionHandlerImpl$ExceptionRWRMIImpl.read(ExceptionHandlerImpl.java:180)
+	at com.sun.corba.ee.impl.presentation.rmi.ExceptionHandlerImpl.readException(ExceptionHandlerImpl.java:290)
+	at com.sun.corba.ee.impl.presentation.rmi.DynamicMethodMarshallerImpl.readException(DynamicMethodMarshallerImpl.java:502)
+	at com.sun.corba.ee.impl.presentation.rmi.StubInvocationHandlerImpl.privateInvoke(StubInvocationHandlerImpl.java:205)
+	at com.sun.corba.ee.impl.presentation.rmi.StubInvocationHandlerImpl.invoke(StubInvocationHandlerImpl.java:152)
+	at com.sun.corba.ee.impl.presentation.rmi.codegen.CodegenStubBase.invoke(CodegenStubBase.java:227)
+	at com.sun.enterprise.naming.impl._SerialContextProvider_DynamicStub.lookup(com/sun/enterprise/naming/impl/_SerialContextProvider_DynamicStub.java)
+	at com.sun.enterprise.naming.impl.SerialContext.lookup(SerialContext.java:505)
+	at com.sun.enterprise.naming.impl.SerialContext.lookup(SerialContext.java:455)
+	at javax.naming.InitialContext.lookup(Unknown Source)
+	at com.crm.kernel.queue.QueueFactory.getQueue(QueueFactory.java:105)
+	at com.crm.thread.DispatcherInstance.initQueue(DispatcherInstance.java:339)
+	at com.crm.provisioning.thread.ProvisioningInstance.initQueue(ProvisioningInstance.java:333)
+	at com.crm.thread.DispatcherInstance.beforeProcessSession(DispatcherInstance.java:366)
+	at com.crm.thread.DispatcherInstance.run(DispatcherInstance.java:535)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: java.io.StreamCorruptedException: WARNING: ORBIO00013: Stream corrupted
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)
+	at java.lang.reflect.Constructor.newInstance(Unknown Source)
+	at com.sun.corba.ee.spi.orbutil.logex.WrapperGenerator.makeStandardException(WrapperGenerator.java:271)
+	at com.sun.corba.ee.spi.orbutil.logex.WrapperGenerator$ExtensionBase.makeException(WrapperGenerator.java:159)
+	at com.sun.corba.ee.spi.orbutil.logex.WrapperGenerator.handleFullLogging(WrapperGenerator.java:387)
+	at com.sun.corba.ee.spi.orbutil.logex.WrapperGenerator.access$400(WrapperGenerator.java:107)
+	at com.sun.corba.ee.spi.orbutil.logex.WrapperGenerator$2.invoke(WrapperGenerator.java:511)
+	at com.sun.corba.ee.spi.orbutil.proxy.CompositeInvocationHandlerImpl.invoke(CompositeInvocationHandlerImpl.java:99)
+	at com.sun.proxy.$Proxy69.streamCorrupted(Unknown Source)
+	at com.sun.corba.ee.impl.io.IIOPInputStream.inputClassFields(IIOPInputStream.java:2569)
+	at com.sun.corba.ee.impl.io.IIOPInputStream.defaultReadObjectDelegate(IIOPInputStream.java:584)
+	at com.sun.corba.ee.impl.io.InputStreamHook.defaultReadObject(InputStreamHook.java:233)
+	at java.lang.Throwable.readObject(Throwable.java:914)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at com.sun.corba.ee.impl.io.IIOPInputStream.invokeObjectReader(IIOPInputStream.java:1832)
+	at com.sun.corba.ee.impl.io.IIOPInputStream.inputObjectUsingFVD(IIOPInputStream.java:1688)
+	at com.sun.corba.ee.impl.io.IIOPInputStream.simpleReadObject(IIOPInputStream.java:423)
+	at com.sun.corba.ee.impl.io.ValueHandlerImpl.readValueInternal(ValueHandlerImpl.java:308)
+	at com.sun.corba.ee.impl.io.ValueHandlerImpl.readValue(ValueHandlerImpl.java:274)
+	at com.sun.corba.ee.impl.encoding.CDRInputStream_1_0.readRMIIIOPValueType(CDRInputStream_1_0.java:1015)
+	... 18 more
+
+2
+16/07 16:13:44 com.fss.thread.ThreadController@6df960c4
+2
+16/07 16:13:44 com.fss.thread.ThreadController@6df960c4
+2
+16/07 16:13:44 com.fss.thread.ThreadController@6df960c4
+2
+16/07 16:13:44 com.fss.thread.ThreadController@6df960c4
+2
+16/07 16:13:44 com.fss.thread.ThreadController@6df960c4
+2
+16/07 16:13:44 com.fss.thread.ThreadController@6df960c4
+2
+16/07 16:13:44 com.fss.thread.ThreadController@6df960c4
+2
+16/07 16:13:44 com.fss.thread.ThreadController@6df960c4
+2
+16/07 16:13:44 com.fss.thread.ThreadController@6df960c4
+2
+16/07 16:13:44 com.fss.thread.ThreadController@6df960c4
+2
+16/07 16:13:44 com.fss.thread.ThreadController@6df960c4
+2
+16/07 16:13:44 com.fss.thread.ThreadController@6df960c4
+2
+16/07 16:13:44 com.fss.thread.ThreadController@6df960c4
+2
+16/07 16:13:44 com.fss.thread.ThreadController@6df960c4
+2
+16/07 16:13:44 com.fss.thread.ThreadController@6df960c4
+16/07 16:13:45 log4j:WARN No appenders could be found for logger (com.mchange.v2.log.MLog).
+16/07 16:13:45 log4j:WARN Please initialize the log4j system properly.
+16/07 16:13:46 pool: com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, dataSourceName -> 1hgeifw93hbsa4r1ocz6vt|114662e3, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> oracle.jdbc.driver.OracleDriver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 1hgeifw93hbsa4r1ocz6vt|114662e3, idleConnectionTestPeriod -> 30, initialPoolSize -> 3, jdbcUrl -> jdbc:oracle:thin:@183.91.14.218:1521:CSDB, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 300, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 100, maxStatements -> 0, maxStatementsPerConnection -> 0, minPoolSize -> 30, numHelperThreads -> 3, numThreadsAwaitingCheckoutDefaultUser -> 0, preferredTestQuery -> Select * From dual, properties -> {user=******, password=******}, propertyCycle -> 0, testConnectionOnCheckin -> true, testConnectionOnCheckout -> true, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false ]
+16/07 16:13:46 pool: com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, dataSourceName -> 1hgeifw93hbsa4r1ocz6vt|114662e3, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> oracle.jdbc.driver.OracleDriver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 1hgeifw93hbsa4r1ocz6vt|114662e3, idleConnectionTestPeriod -> 30, initialPoolSize -> 3, jdbcUrl -> jdbc:oracle:thin:@183.91.14.218:1521:CSDB, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 300, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 100, maxStatements -> 0, maxStatementsPerConnection -> 0, minPoolSize -> 30, numHelperThreads -> 3, numThreadsAwaitingCheckoutDefaultUser -> 1, preferredTestQuery -> Select * From dual, properties -> {user=******, password=******}, propertyCycle -> 0, testConnectionOnCheckin -> true, testConnectionOnCheckout -> true, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false ]
+16/07 16:13:47 pool: com.mchange.v2.c3p0.ComboPooledDataSource [ acquireIncrement -> 5, acquireRetryAttempts -> 30, acquireRetryDelay -> 1000, autoCommitOnClose -> false, automaticTestTable -> null, breakAfterAcquireFailure -> false, checkoutTimeout -> 0, connectionCustomizerClassName -> null, connectionTesterClassName -> com.mchange.v2.c3p0.impl.DefaultConnectionTester, dataSourceName -> 1hgeifw93hbsa4r1ocz6vt|114662e3, debugUnreturnedConnectionStackTraces -> false, description -> null, driverClass -> oracle.jdbc.driver.OracleDriver, factoryClassLocation -> null, forceIgnoreUnresolvedTransactions -> false, identityToken -> 1hgeifw93hbsa4r1ocz6vt|114662e3, idleConnectionTestPeriod -> 30, initialPoolSize -> 3, jdbcUrl -> jdbc:oracle:thin:@183.91.14.218:1521:CSDB, maxAdministrativeTaskTime -> 0, maxConnectionAge -> 0, maxIdleTime -> 300, maxIdleTimeExcessConnections -> 0, maxPoolSize -> 100, maxStatements -> 0, maxStatementsPerConnection -> 0, minPoolSize -> 30, numHelperThreads -> 3, numThreadsAwaitingCheckoutDefaultUser -> 1, preferredTestQuery -> Select * From dual, properties -> {user=******, password=******}, propertyCycle -> 0, testConnectionOnCheckin -> true, testConnectionOnCheckout -> true, unreturnedConnectionTimeout -> 0, usesTraditionalReflectiveProxies -> false ]
+16/07 16:13:49 Jul 16, 2014 4:13:49 PM com.sun.enterprise.v3.server.CommonClassLoaderServiceImpl findDerbyClient
+INFO: Cannot find javadb client jar file, derby jdbc driver will not be available by default.
+16/07 16:13:56 Jul 16, 2014 4:13:56 PM org.hibernate.validator.util.Version <clinit>
+INFO: Hibernate Validator 4.1.0.Final
+16/07 16:13:56 Jul 16, 2014 4:13:56 PM org.hibernate.validator.engine.resolver.DefaultTraversableResolver detectJPA
+INFO: Instantiated an instance of org.hibernate.validator.engine.resolver.JPATraversableResolver.
+16/07 16:13:56 Jul 16, 2014 4:13:56 PM com.sun.messaging.jms.ra.ResourceAdapter start
+INFO: MQJMSRA_RA1101: GlassFish MQ JMS Resource Adapter: Version:  4.5.1  (Build 3-b) Compile:  Tue Jun 21 16:31:32 PDT 2011
+16/07 16:13:56 Jul 16, 2014 4:13:56 PM com.sun.messaging.jms.ra.ResourceAdapter start
+INFO: MQJMSRA_RA1101: GlassFish MQ JMS Resource Adapter starting: broker is REMOTE, connection mode is TCP
+16/07 16:13:56 Jul 16, 2014 4:13:56 PM com.sun.messaging.jms.ra.ResourceAdapter start
+INFO: MQJMSRA_RA1101: GlassFish MQ JMS Resource Adapter Started:REMOTE
+16/07 16:15:35 java.io.FileNotFoundException: logs\CommandRouting (Access is denied)
+16/07 16:15:35 	at java.io.RandomAccessFile.open(Native Method)
+16/07 16:15:35 	at java.io.RandomAccessFile.<init>(Unknown Source)
+16/07 16:15:35 	at java.io.RandomAccessFile.<init>(Unknown Source)
+16/07 16:15:35 	at com.fss.thread.ManageableThread.logToFile(ManageableThread.java:948)
+16/07 16:15:35 	at com.fss.thread.ManageableThread.log(ManageableThread.java:888)
+16/07 16:15:35 	at com.crm.thread.DispatcherThread.logMonitor(DispatcherThread.java:316)
+16/07 16:15:35 	at com.fss.thread.ManageableThread.logMonitor(ManageableThread.java:802)
+16/07 16:15:35 	at com.crm.thread.DispatcherThread.logMonitor(DispatcherThread.java:369)
+16/07 16:15:35 	at com.crm.thread.DispatcherThread.debugMonitor(DispatcherThread.java:389)
+16/07 16:15:35 	at com.crm.thread.DispatcherThread.checkInstance(DispatcherThread.java:742)
+16/07 16:15:35 	at com.crm.thread.DispatcherThread.processSession(DispatcherThread.java:769)
+16/07 16:15:35 	at com.fss.thread.ManageableThread.session(ManageableThread.java:1389)
+16/07 16:15:35 	at com.fss.thread.ManageableThread.run(ManageableThread.java:1337)
+16/07 16:15:35 	at java.lang.Thread.run(Unknown Source)

@@ -1,0 +1,172 @@
+/**
+ * ----------------------------------------------------------------- 
+ * @ Copyright(c) 2013 Vietnamobile. JSC. All Rights Reserved.
+ * ----------------------------------------------------------------- 
+ * Date 	Author 		Version
+ * ------------------------------------- 
+ * Oct 25, 2013 HungDT  v1.0
+ * -------------------------------------
+ */
+package com.crm.provisioning.impl.vietnamobile;
+
+import java.util.Date;
+
+import com.crm.product.cache.ProductEntry;
+import com.crm.product.cache.ProductFactory;
+import com.crm.product.cache.ProductRoute;
+import com.crm.provisioning.cache.CommandEntry;
+import com.crm.provisioning.cache.ProvisioningCommand;
+import com.crm.provisioning.cache.ProvisioningFactory;
+import com.crm.provisioning.impl.CommandImpl;
+import com.crm.provisioning.impl.vinaphone.VinaConnection;
+import com.crm.provisioning.message.CommandMessage;
+import com.crm.provisioning.thread.CommandInstance;
+import com.crm.provisioning.util.CommandUtil;
+import com.crm.subscriber.bean.SubscriberProduct;
+import com.crm.subscriber.impl.SubscriberProductImpl;
+import com.crm.util.GeneratorSeq;
+import com.fss.util.AppException;
+
+/**
+ * @author HungDT
+ *
+ */
+public class VNMCommandImpl extends CommandImpl
+{
+	public CommandMessage sendSms(CommandInstance instance,
+			ProvisioningCommand provisioningCommand, CommandMessage request)
+			throws Exception
+	{
+		VNMConnection connection = null;
+		CommandMessage result = request;
+		try
+		{
+			CommandEntry command = ProvisioningFactory.getCache().getCommand(result.getCommandId());
+
+			ProductEntry product = ProductFactory.getCache().getProduct(result.getProductId());
+			
+			SubscriberProduct subProduct = SubscriberProductImpl.getProduct(result
+					.getSubProductId());
+			
+			command.setMaxRetry(1);
+			
+			result.setVnmChargeMode(product.getParameters().getInteger("vnm.chargemode", 0));
+			result.setVnmDeliveryMode(product.getParameters().getInteger("vnm.deliverymode", 0));
+			result.setVnmProduct(product.getParameters().getString("vnm.productcode"));
+			result.setSessionId(subProduct.getSessionId());
+			
+			String descKey = "sdp.description." + result.getActionType();
+
+			String description = product.getParameter(descKey, "");
+			
+			connection = (VNMConnection) instance.getProvisioningConnection();
+			
+			String isdn = CommandUtil.addCountryCode(request.getIsdn());
+			
+			int sessionId = GeneratorSeq.getNextSeq();
+
+			String requestStr = "isdn=" + isdn + ", content=" + result.getMsgContent() + ", serviceid=" + product.getParameters().getString("vnm.productcode") +  ", spid=" + product.getParameters().getString("vnm.cpid") + ", desc=" + description;
+
+			setRequest(instance, request, requestStr, sessionId);
+			
+			VNMResponse resp = connection.sendSMS(instance, result); 
+			
+			setResponse(instance, request, getResponseString(resp.getResult(), resp.getIsdn(), resp.getDesc(), resp.getOrderId()), sessionId);
+			
+			if(!resp.getResult().equals("SVC0000"))
+			{
+				throw new AppException("error");
+			}
+			
+			
+		}
+		catch (Exception e)
+		{
+			processError(instance, provisioningCommand, result, e);
+		}
+
+		finally
+		{
+			instance.closeProvisioningConnection(connection);
+		}
+
+		return result;
+	}
+	
+	
+	public CommandMessage subscription(CommandInstance instance,
+			ProvisioningCommand provisioningCommand, CommandMessage request)
+			throws Exception
+	{
+		VNMConnection connection = null;
+		CommandMessage result = request;
+		try
+		{
+			CommandEntry command = ProvisioningFactory.getCache().getCommand(result.getCommandId());
+
+			ProductEntry product = ProductFactory.getCache().getProduct(result.getProductId());
+			
+			SubscriberProduct subProduct = SubscriberProductImpl.getProduct(result
+					.getSubProductId());
+			
+			command.setMaxRetry(1);
+			
+			result.setVnmChargeMode(product.getParameters().getInteger("vnm.chargemode", 0));
+			result.setVnmDeliveryMode(product.getParameters().getInteger("vnm.deliverymode", 0));
+			result.setVnmProduct(product.getParameters().getString("vnm.productcode"));
+			result.setSessionId(subProduct.getSessionId());
+			
+			String descKey = "sdp.description." + result.getActionType();
+
+			String description = product.getParameter(descKey, "");
+			
+			connection = (VNMConnection) instance.getProvisioningConnection();
+			
+			String isdn = CommandUtil.addCountryCode(request.getIsdn());
+			
+			int sessionId = GeneratorSeq.getNextSeq();
+
+			String requestStr = "isdn=" + isdn + ", content=" + result.getMsgContent() + ", serviceid=" + product.getParameters().getString("vnm.productcode") +  ", spid=" + product.getParameters().getString("vnm.cpid") + ", desc=" + description;
+
+			setRequest(instance, request, requestStr, sessionId);
+			
+			VNMResponse resp = connection.subscription(instance, result); 
+			
+			setResponse(instance, request, getResponseString(resp.getResult(), resp.getIsdn(), resp.getDesc(), resp.getOrderId()), sessionId);
+			
+		
+			
+			if(!resp.getResult().equals("SVC0000"))
+			{
+				throw new AppException("error");
+			}
+			
+			
+		}
+		catch (Exception e)
+		{
+			processError(instance, provisioningCommand, result, e);
+		}
+
+		finally
+		{
+			instance.closeProvisioningConnection(connection);
+		}
+
+		return result;
+	}
+	
+	private String getResponseString(String result, String isdn,
+			String desc, long orderId)
+	{
+		String responseString = "orderId=" + orderId +", result=" + result +  ", desc="+desc;
+		return responseString;
+	}
+
+	public void setRequest(CommandInstance instance, CommandMessage request,
+			String requestString, long sessionId) throws Exception
+	{
+		super.setRequest(instance, request, requestString, sessionId);
+		request.setRequestTime(new Date());
+	}
+}

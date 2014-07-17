@@ -1,0 +1,94 @@
+package com.elcom.iwebservice;
+
+public class ErrorCode
+{
+
+	public static final int	E_OK							= 0;	// Thanh
+																	// cong
+	public static final int	E_UNKNOWN						= 1;	// : Lenh
+																	// khong ho
+																	// tro
+	public static final int	E_FAILSE						= 2;	// : That
+																	// bai
+	public static final int	E_NOTCONNECT					= 3;	// Mat ket
+																	// noi toi
+																	// CCS
+	public static final int	E_OVERLOADED					= 4;	// : Qua tai
+	public static final int	E_TIMEOUT						= 5;	// : Timeout
+	public static final int	E_INVALID_USERPASS				= 6;	// Sai
+																	// username,
+																	// password
+	public static final int	E_NOT_HAS_PERMISSION			= 7;
+	public static final int	E_WEBSERVICE_ERROR				= 8;
+	public static final int	E_SUBCRIBER_NOT_FOUND			= 9;
+	public static final int	E_INVALID_SYNTAX				= 10;
+	public static final int	E_MDN_IS_PROCESSING				= 11;
+	public static final int	E_NOT_ENOUGH_MONEY				= 12;
+	public static final int	E_INVALID_STATE					= 13;
+	public static final int	E_INVALID_AMOUNT				= 14;
+	public static final int	E_INVALID_CURRENCY				= 15;
+	public static final int	E_FAIL_TO_DEDUCT				= 16;
+	public static final int	E_INVALID_CONDITION				= 17;
+	public static final int	E_WEBSERVICE_NOT_INITIALIZED	= 18;
+	public static final int	E_INVALID_MSISDN				= 19;	//
+	public static final int	E_INVALID_MSISDN_INVITE			= 20;	//
+	public static final int	E_SYSTEM_BUSY					= 21;
+	public static final int	E_INVALID_BALANCE				= 22;
+	public static final int	E_INVALID_EXPIRATEDDATE			= 23;
+	public static final int	E_CP_NOT_FOUND					= 24;
+
+	public String getErrorDetail(int errorcode)
+	{
+		switch (errorcode)
+		{
+		case E_OK:
+			return "success";
+		case E_UNKNOWN:
+			return "unsupported";
+		case E_FAILSE:
+			return "fail";
+		case E_NOTCONNECT:
+			return "can-not-connect";
+		case E_OVERLOADED:
+			return "overloaded";
+		case E_TIMEOUT:
+			return "timeout";
+		case E_INVALID_USERPASS:
+			return "invalid-authentication";
+		case E_NOT_HAS_PERMISSION:
+			return "not-has-permission";
+		case E_WEBSERVICE_ERROR:
+			return "webservice-error";
+		case E_SUBCRIBER_NOT_FOUND:
+			return "subscriber-not-found";
+		case E_INVALID_SYNTAX:
+			return "invalid-syntax";
+		case E_MDN_IS_PROCESSING:
+			return "mdn-is-processing";
+		case E_NOT_ENOUGH_MONEY:
+			return "not-enough-money";
+		case E_INVALID_STATE:
+			return "invalid-state";
+		case E_INVALID_AMOUNT:
+			return "invalid-amount";
+		case E_INVALID_CURRENCY:
+			return "invalid-currency";
+		case E_FAIL_TO_DEDUCT:
+			return "fail-to-deduct";
+		case E_INVALID_CONDITION:
+			return "invalid-codition";
+		case E_WEBSERVICE_NOT_INITIALIZED:
+			return "webservice-not-initialized";
+		case E_SYSTEM_BUSY:
+			return "webservice-error";
+		case E_INVALID_BALANCE:
+			return "invalid-balance";
+		case E_INVALID_EXPIRATEDDATE:
+			return "invalid-expiratedDate";
+		case E_CP_NOT_FOUND:
+			return "cp-not-found";
+		default:
+			return "unknown";
+		}
+	}
+}

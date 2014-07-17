@@ -1,0 +1,93 @@
+/**
+ * 
+ */
+package com.crm.cgw.test;
+
+/**
+ * @author hungdt
+ *
+ */
+public class NetCache {
+	 /**
+	   * Cache data
+	   */
+	  private byte[] bytes;
+
+	  /**
+	   * Length of real data
+	   */
+	  private int length;
+
+	  /**
+	   * Get length
+	   * @return int
+	   */
+	  protected int getLength() {
+	    return length;
+	  }
+
+	  /**
+	   * Get max length
+	   * @return int
+	   */
+	  protected int maxLength() {
+	    return bytes.length;
+	  }
+
+	  /**
+	   * Constructor
+	   * @param maxsize int
+	   */
+	  protected NetCache(int maxsize) {
+	    bytes = new byte[maxsize];
+	    length = 0;
+	  }
+
+	  /**
+	   * Resize
+	   * @param size int
+	   */
+	  protected void resize(int size) {
+	    if (size>length) {
+	      byte[] newBytes = new byte[size];
+	      System.arraycopy(bytes, 0, newBytes, 0, length);
+	      bytes = newBytes;
+	    }
+	  }
+
+	  /**
+	   * Put a byte into cache
+	   * Please be sure that there are enough space to put it into
+	   * @param b byte
+	   */
+	  protected void put(byte b) {
+	    bytes[length++] = b;
+	  }
+
+	  /**
+	   * Get byte[]
+	   * @return byte[]
+	   */
+	  protected byte[] getBytes(int length) {
+	    if (length>this.length) length = this.length;
+	    byte[] b = new byte[length];
+	    System.arraycopy(bytes, 0, b, 0, length);
+	    return b;
+	  }
+
+	  /**
+	   * Remove the first count bytes
+	   * @param count int
+	   */
+	  protected void remove(int count) {
+	    length -= count;
+	    System.arraycopy(bytes, count, bytes, 0, length);
+	  }
+
+	  /**
+	   * Reset cache
+	   */
+	  protected void reset() {
+	    length = 0;
+	  }
+}

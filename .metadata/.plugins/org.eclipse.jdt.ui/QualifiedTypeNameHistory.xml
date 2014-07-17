@@ -10,8 +10,6 @@
 <fullyQualifiedTypeName name="com.gateway.service.DeliveryResponse"/>
 <fullyQualifiedTypeName name="com.gateway.service.ErrorCode"/>
 <fullyQualifiedTypeName name="com.crm.util.AppProperties"/>
-<fullyQualifiedTypeName name="com.crm.kernel.message.Constants"/>
-<fullyQualifiedTypeName name="com.fss.util.AppException"/>
 <fullyQualifiedTypeName name="java.util.concurrent.ConcurrentHashMap"/>
 <fullyQualifiedTypeName name="com.crm.provisioning.util.ResponseUtil"/>
 <fullyQualifiedTypeName name="com.crm.provisioning.util.CommandUtil"/>
@@ -46,4 +44,6 @@
 <fullyQualifiedTypeName name="java.io.BufferedReader"/>
 <fullyQualifiedTypeName name="java.lang.Integer"/>
 <fullyQualifiedTypeName name="com.crm.provisioning.impl.quizquestion.Viettel8x26Connection"/>
+<fullyQualifiedTypeName name="com.fss.util.AppException"/>
+<fullyQualifiedTypeName name="com.crm.kernel.message.Constants"/>
 </qualifiedTypeNameHistroy>

@@ -1,0 +1,118 @@
+/**
+ * 
+ */
+package com.crm.cgw.test;
+
+import java.util.Vector;
+
+import com.crm.thread.DispatcherThread;
+import com.crm.thread.util.ThreadUtil;
+
+/**
+ * @author hungdt
+ * 
+ */
+public class TCPTestThread extends DispatcherThread
+{
+	public String		host			= "";
+	public int			port			= 2222;
+	public String		content			= "";
+	public int			batchSize		= 100;
+	public long			sessionDelay	= 100;
+	public long			sendTotal		= 10000;
+	protected String	isdn			= "";
+	protected String	endIsdn			= "";
+	protected long		currentIsdn		= 0;
+	protected long		maxIsdn			= 0;
+
+	@Override
+	public void fillDispatcherParameter() throws Exception
+	{
+		// TODO Auto-generated method stub
+		super.fillDispatcherParameter();
+
+		host = ThreadUtil.getString(this, "Host", false, "127.0.0.1");
+		port = ThreadUtil.getInt(this, "Port", 2222);
+		content = ThreadUtil.getString(this, "Content", false, "Trigger content");
+		batchSize = ThreadUtil.getInt(this, "batchSize", 100);
+		sessionDelay = ThreadUtil.getInt(this, "timeBetweenLoop", 100);
+		sendTotal = ThreadUtil.getInt(this, "sendTotal", 10000);
+
+		isdn = ThreadUtil.getString(this, "isdn", false, "");
+		endIsdn = ThreadUtil.getString(this, "endIsdn", false, isdn);
+
+		currentIsdn = 0;
+
+		try
+		{
+			maxIsdn = Long.parseLong(endIsdn);
+		}
+		catch (Exception e)
+		{
+			maxIsdn = Long.parseLong(isdn);
+		}
+	}
+
+	@SuppressWarnings({ "rawtypes", "unchecked" })
+	@Override
+	public Vector getParameterDefinition()
+	{
+		Vector vtReturn = new Vector();
+
+		vtReturn.addElement(ThreadUtil.createTextParameter("Content", 1000, ""));
+		vtReturn.addElement(ThreadUtil.createTextParameter("Host", 100, ""));
+		vtReturn.addElement(ThreadUtil.createIntegerParameter("Port", ""));
+		vtReturn.addElement(ThreadUtil.createIntegerParameter("batchSize", ""));
+		vtReturn.addElement(ThreadUtil.createIntegerParameter("sessionDelay", "session delay time in milisecond"));
+		vtReturn.addElement(ThreadUtil.createIntegerParameter("sendTotal", ""));
+		vtReturn.addElement(ThreadUtil.createTextParameter("isdn", 30, ""));
+		vtReturn.addElement(ThreadUtil.createTextParameter("endIsdn", 30,
+				"If parameter is set, the simulator send order of subscribers range from isdn to endIsdn."));
+		vtReturn.addAll(super.getParameterDefinition());
+
+		return vtReturn;
+	}
+
+	public synchronized long getCurrentIsdn() throws Exception
+	{
+		if (currentIsdn == 0)
+		{
+			currentIsdn = Long.parseLong(isdn);
+		}
+		else
+		{
+			currentIsdn++;
+		}
+
+		if (currentIsdn > maxIsdn)
+		{
+			return currentIsdn;
+		}
+
+		return currentIsdn;
+	}
+	// //////////////////////////////////////////////////////
+	 // process session
+	 // Author : ThangPV
+	 // Created Date : 16/09/2004
+	 // //////////////////////////////////////////////////////
+	public void doProcessSession() throws Exception 
+	{
+		while (isAvailable()) 
+		{
+			checkInstance();
+
+			if (instanceEnable
+					&& (instances.getActiveTaskCount() < instanceSize)) 
+			{
+				for (int j = 0; (instances.getActiveTaskCount() < instanceSize)
+						&& (j < instanceSize); j++) 
+				{
+					addInstance();
+				}
+			}
+
+			ThreadUtil.sleep(this);
+		}
+	}
+}

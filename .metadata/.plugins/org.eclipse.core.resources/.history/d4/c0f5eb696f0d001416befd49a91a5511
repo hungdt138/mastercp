@@ -1,0 +1,118 @@
+package com.crm.provisioning.impl.nmschargingapi;
+
+import java.net.MalformedURLException;
+import java.net.URL;
+import java.rmi.RemoteException;
+
+import org.apache.axis.AxisFault;
+
+import NMSCGW.CHARGINGSoapStub;
+
+import com.crm.provisioning.cache.ProvisioningConnection;
+
+class BalanceCheckResponse
+{
+	long balanceAmount = 0;
+	String  response = "";
+	String responseCode ="";
+	
+	public long getBalanceAmount()
+	{
+		return balanceAmount;
+	}
+	public void setBalanceAmount(long balanceAmount)
+	{
+		this.balanceAmount = balanceAmount;
+	}
+	public String getResponse()
+	{
+		return response;
+	}
+	public void setResponse(String response)
+	{
+		this.response = response;
+	}
+	public String getResponseCode()
+	{
+		return responseCode;
+	}
+	public void setResponseCode(String responseCode)
+	{
+		this.responseCode = responseCode;
+	}
+}
+public class NMSCharingConnection extends ProvisioningConnection
+{
+	public CHARGINGSoapStub biding = null;
+	
+	public NMSCharingConnection()
+	{
+		super();
+	}
+	public boolean openConnection() throws Exception
+	{
+		loadService();
+
+		return super.openConnection();
+	}
+	public void loadService()
+	{
+		try 
+		{
+			URL url = new URL(getHost());
+			biding = new CHARGINGSoapStub(url, null);
+		} 
+		catch (Exception e) 
+		{
+			if (e instanceof MalformedURLException || e instanceof AxisFault)
+				e.printStackTrace();
+		}
+	}
+	public long getBalance(String isdn)
+	{
+		long amount = -1;
+		try {
+			
+			amount = parserBalanceResponse(biding.checkBalance(getUserName(), getPassword(), isdn)).getBalanceAmount();
+		} 
+		catch (NumberFormatException e) 
+		{
+			e.printStackTrace();
+		} 
+		catch (RemoteException e) 
+		{
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		return amount;
+	}
+	public String debitAmount(String userID, String isdn, String price, int timeout, String description) throws Exception
+	{
+		String result = "";
+		try
+		{
+			result = biding.extDebit2(getUserName(), getPassword(), userID, isdn, price, timeout, description);
+		}
+		catch (RemoteException e)
+		{
+			throw e;
+		}
+		return result;
+	}
+	private BalanceCheckResponse parserBalanceResponse(String response)
+	{
+		BalanceCheckResponse res = new BalanceCheckResponse();
+		if (response != null && response != "")
+		{
+			String[] array = response.split(",");
+			
+			//Value:330,Result:0,Detail:Successfully.
+			res.setBalanceAmount(Long.valueOf(array[0].replace("Value:", "")));
+			res.setResponseCode(array[2].replaceAll("Result:", ""));
+			res.setResponse(array[1].replaceAll("Detail:", ""));
+
+		}
+		
+		return res;
+	}
+}

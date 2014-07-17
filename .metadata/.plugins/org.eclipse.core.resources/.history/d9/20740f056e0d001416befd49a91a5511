@@ -1,0 +1,129 @@
+/**
+ * 
+ */
+package com.crm.cgw.test;
+
+import java.util.Vector;
+
+import com.crm.thread.SimulatorThread;
+import com.crm.thread.util.ThreadUtil;
+
+import com.fss.util.AppException;
+
+/**
+ * @author hungdt
+ * 
+ */
+public class WSTestThread extends SimulatorThread
+{
+	public String	orderType		= "";
+	public String	uri				= "";
+	public String	username		= "";
+	public String	password		= "";
+	
+	public String	balanceName		= "";
+	public int		value			= 0;
+	public String	state			= "";
+	public String	aNum			= "";
+	public String	cpIP			= "";
+	public String	cpName			= "";
+	public String	serviceState	= "";
+	
+	public String	contentCode		= "";
+	public String	contentType		= "";
+	public String 	expiredDate		= "";
+	
+	public void fillSimulatorParameter() throws AppException
+	{
+		uri = ThreadUtil.getString(this, "Uri", false, "");
+		username = ThreadUtil.getString(this, "Username", false, "client1");
+		password = ThreadUtil.getString(this, "Password", false, "client1");
+		
+		balanceName = ThreadUtil.getString(this, "balance", false, "");
+		state = ThreadUtil.getString(this, "state", false, "");
+		value = ThreadUtil.getInt(this, "value", 10000);
+		orderType = ThreadUtil.getString(this, "type", false, "");
+		aNum = ThreadUtil.getString(this, "aNum", false, "");
+		cpIP = ThreadUtil.getString(this, "cpIP", false, "");
+		cpName = ThreadUtil.getString(this, "cpName", false, "");
+		serviceState = ThreadUtil.getString(this, "serviceState", false, "");
+		
+		contentCode = ThreadUtil.getString(this, "contentCode", false, "");
+		contentType = ThreadUtil.getString(this, "contentType", false, "");
+		
+		orderTimeout = ThreadUtil.getInt(this, "orderTimeout", 30000);
+		
+		isdn = ThreadUtil.getString(this, "isdn", false, "");
+		endIsdn = ThreadUtil.getString(this, "endIsdn", false, isdn);
+		expiredDate = ThreadUtil.getString(this, "expiredDate", false, "31/12/2020");
+		
+		try
+		{
+			maxIsdn = Long.parseLong(endIsdn);
+		}
+		catch (Exception e)
+		{
+			maxIsdn = Long.parseLong(isdn);
+		}
+	}
+
+	@SuppressWarnings({ "rawtypes", "unchecked" })
+	@Override
+	public Vector getDispatcherDefinition()
+	{
+		Vector vtReturn = new Vector();
+
+		vtReturn.add(ThreadUtil.createTextParameter("Content", 1000, ""));
+		vtReturn.addElement(
+				ThreadUtil.createComboParameter(
+						"type", "AddBalance,DeductBalance,ChangeState,ChangeExpiredDate,SetBalance,ExtDebit,RetrieveSubs", ""));
+		vtReturn.addElement(ThreadUtil.createTextParameter("balance", 1000, ""));
+		vtReturn.addElement(ThreadUtil.createTextParameter("state", 1000, ""));
+		vtReturn.addElement(ThreadUtil.createTextParameter("Uri", 100, ""));
+		vtReturn.addElement(ThreadUtil.createTextParameter("Username", 100, "client1"));
+		vtReturn.addElement(ThreadUtil.createTextParameter("Password", 100, "client1"));
+		vtReturn.addElement(ThreadUtil.createIntegerParameter("batchSize", ""));
+		vtReturn.addElement(ThreadUtil.createIntegerParameter("timeBetweenLoop", ""));
+		vtReturn.addElement(ThreadUtil.createIntegerParameter("sendTotal", ""));
+		vtReturn.addElement(ThreadUtil.createIntegerParameter("value", ""));
+		vtReturn.addElement(ThreadUtil.createTextParameter("aNum", 30, ""));
+		vtReturn.addElement(ThreadUtil.createTextParameter("cpIP", 30, ""));
+		vtReturn.addElement(ThreadUtil.createTextParameter("cpName", 30, ""));
+		vtReturn.addElement(ThreadUtil.createTextParameter("serviceState", 30, ""));
+		vtReturn.addElement(ThreadUtil.createTextParameter("contentCode", 30, ""));
+		vtReturn.addElement(ThreadUtil.createTextParameter("contentType", 30, ""));
+		vtReturn.addElement(ThreadUtil.createTextParameter("expiredDate", 30, ""));
+
+		vtReturn.addElement(ThreadUtil.createTextParameter("isdn", 30, ""));
+		vtReturn.addElement(
+				ThreadUtil.createTextParameter(
+						"endIsdn", 30,
+						"If parameter is set, the simulator send order of subscribers range from isdn to endIsdn."));
+
+		vtReturn.add(ThreadUtil.createIntegerParameter("orderTimeout", ""));
+
+		vtReturn.addAll(ThreadUtil.createInstanceParameter(this));
+		vtReturn.addAll(ThreadUtil.createLogParameter(this));
+
+		return vtReturn;
+	}
+
+	public void doProcessSession() throws Exception 
+	{
+		while (isAvailable()) 
+		{
+			checkInstance();
+
+			if (instanceEnable
+					&& (instances.getActiveTaskCount() < instanceSize)) 
+			{
+				for (int j = 0; (instances.getActiveTaskCount() < instanceSize)
+						&& (j < instanceSize); j++) 
+				{
+					addInstance();
+				}
+			}
+			ThreadUtil.sleep(this);
+		}
+	}
+}

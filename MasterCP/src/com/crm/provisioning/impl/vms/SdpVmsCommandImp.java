@@ -61,11 +61,7 @@ public class SdpVmsCommandImp extends CommandImpl
 		
 		try
 		{
-			CommandEntry command = ProvisioningFactory.getCache().getCommand(request.getCommandId());
-
 			ProductEntry product = ProductFactory.getCache().getProduct(request.getProductId());
-
-			command.setMaxRetry(1);
 
 			String serviceId = product.getParameters().getString("sdp.service.serviceid", "");
 			String productId = product.getParameters().getString("sdp.service.productcode", "");

@@ -1,0 +1,17 @@
+16/07 16:02:09:242 Unregister Viettel-non-sub started
+16/07 16:02:09:278 Starting process session
+16/07 16:02:28:735 queue-not-found
+Context: test/OrderRoute : test/OrderRoute
+16/07 16:02:28:737 Close queue connection pool.
+16/07 16:02:28:740 End of process session
+16/07 16:09:12:853 Unregister Viettel-non-sub started
+16/07 16:09:13:654 Starting process session
+16/07 16:09:24:886 queue-not-found
+Context: test/OrderRoute : test/OrderRoute
+16/07 16:09:24:889 Close queue connection pool.
+16/07 16:09:24:892 End of process session
+16/07 16:13:46:530 Unregister Viettel-non-sub started
+16/07 16:13:47:393 Starting process session
+16/07 16:13:57:730 Processed 0 records.
+16/07 16:13:57:769 Close queue connection pool.
+16/07 16:13:57:865 End of process session

@@ -1,0 +1,30 @@
+package com.crm.cgw.test;
+
+
+import java.net.MalformedURLException;
+import java.net.URL;
+import java.rmi.RemoteException;
+
+import org.apache.axis.AxisFault;
+
+import NMSCGW.CHARGINGSoapStub;
+
+
+public class webservicetest {
+	
+	public static void main (String agrs[]) throws MalformedURLException, AxisFault
+	{
+		URL endpointURL = new URL("http://203.128.246.85/NMS.asmx?WSDL");
+
+		CHARGINGSoapStub stubs = new CHARGINGSoapStub(endpointURL, null);
+		try 
+		{
+		
+			System.out.println(stubs.checkBalance("TEST", "@htc@nms", "841863539256"));
+		} 
+		catch (RemoteException e) 
+		{
+			e.printStackTrace();
+		}
+	}
+}

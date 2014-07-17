@@ -1,0 +1,479 @@
+package com.crm.cgw.test;
+
+import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.InputStreamReader;
+import java.io.OutputStreamWriter;
+import java.net.Socket;
+import java.text.SimpleDateFormat;
+import java.util.Calendar;
+
+import com.crm.thread.DispatcherInstance;
+import com.crm.util.StringUtil;
+
+import com.nms.chargingwebservice.AddBalanceResp;
+import com.nms.chargingwebservice.AddBalanceReq;
+import com.nms.chargingwebservice.ChangeExpiredDateReq;
+import com.nms.chargingwebservice.ChangeStateReq;
+import com.nms.chargingwebservice.DeductBalanceResp;
+import com.nms.chargingwebservice.DeductBalanceReq;
+import com.nms.chargingwebservice.ExtDebitResp;
+import com.nms.chargingwebservice.ExtDebitReq;
+import com.nms.chargingwebservice.SetBalanceReq;
+import com.nms.chargingwebservice.SubscriberRetrieveReq;
+
+public class WSTestInstance extends DispatcherInstance
+{
+//	public  Socket socket = null;
+//	public  BufferedWriter writer = null;
+//	public  BufferedReader reader = null;
+	
+	public WSTestInstance() throws Exception
+	{
+		super();
+	}
+	
+	public WSTestThread getDispatcher()
+	{
+		return (WSTestThread) dispatcher;
+	}
+
+//	public void beforeProcessSession() throws Exception
+//	{
+//		socket = CGWQuery.openSocket(getDispatcher().uri);
+//		writer = new BufferedWriter(new OutputStreamWriter(socket.getOutputStream(), "UTF-8"));
+//		reader = new BufferedReader(new InputStreamReader(socket.getInputStream()));		
+//	}
+//	public void afterProcessSession() throws Exception
+//	{
+//		if (writer != null)
+//		{
+//			writer.close();
+//		}
+//		if (reader != null)
+//		{
+//			reader.close();
+//		}
+//		if (socket != null)
+//		{
+//			socket.shutdownInput();
+//			socket.close();
+//		}
+//	}
+
+	// //////////////////////////////////////////////////////
+	// process session
+	// Author : ThangPV
+	// Created Date : 16/09/2004
+	// //////////////////////////////////////////////////////
+	public Object detachMessage() throws Exception
+	{
+		long currentIsdn = getDispatcher().getCurrentIsdn();
+
+		if (currentIsdn <= 0)
+		{
+			return null;
+		}
+
+		Object message = null;
+		String orderType = getDispatcher().orderType;
+
+		if (orderType.equals("AddBalance"))
+		{
+			AddBalanceReq balance = new AddBalanceReq();
+
+			balance.setAddValue(getDispatcher().value);
+			balance.setBalance(getDispatcher().balanceName);
+			balance.setMsisdn(String.valueOf(currentIsdn));
+			balance.setPassword(getDispatcher().username);
+			balance.setUserName(getDispatcher().password);
+			balance.setTimeout(getDispatcher().orderTimeout);
+
+			message = balance;
+		}
+		else if (orderType.equals("DeductBalance"))
+		{
+			DeductBalanceReq balance = new DeductBalanceReq();
+			balance.setBalance(getDispatcher().balanceName);
+			balance.setDeductValue(getDispatcher().value);
+			balance.setMsisdn(String.valueOf(currentIsdn));
+			balance.setPassword(getDispatcher().username);
+			balance.setUserName(getDispatcher().password);
+			balance.setTimeout(getDispatcher().orderTimeout);
+
+			message = balance;
+		}
+		else if (orderType.equals("ChangeState"))
+		{
+			ChangeStateReq balance = new ChangeStateReq();
+
+			balance.setState(getDispatcher().state);
+			balance.setMsisdn(String.valueOf(currentIsdn));
+			balance.setPassword(getDispatcher().password);
+			balance.setUserName(getDispatcher().username);
+			balance.setTimeout(getDispatcher().orderTimeout);
+
+			message = balance;
+
+		}
+		else if (orderType.equals("ChangeExpiredDate"))
+		{
+			ChangeExpiredDateReq balance = new ChangeExpiredDateReq();
+			balance.setBalance(getDispatcher().balanceName);
+			balance.setExpiredDate(getDispatcher().expiredDate);
+			balance.setMsisdn(String.valueOf(currentIsdn));
+			balance.setPassword(getDispatcher().password);
+			balance.setUserName(getDispatcher().username);
+			balance.setTimeout(getDispatcher().orderTimeout);
+
+			message = balance;
+		}
+		else if (orderType.equals("SetBalance"))
+		{
+			SetBalanceReq balance = new SetBalanceReq();
+			balance.setBalanceName(getDispatcher().balanceName);
+			balance.setValue(getDispatcher().value);
+			balance.setMsisdn(String.valueOf(currentIsdn));
+			balance.setPassword(getDispatcher().password);
+			balance.setUserName(getDispatcher().username);
+			balance.setTimeout(getDispatcher().orderTimeout);
+
+			message = balance;
+		}
+		else if (orderType.equals("ExtDebit"))
+		{
+			SimpleDateFormat sdf = new SimpleDateFormat("yyyyMMddHHmmss");
+			Calendar now = Calendar.getInstance();
+
+			// Change parameter here
+			ExtDebitReq request = new ExtDebitReq();
+
+			request.setANumber(getDispatcher().aNum);
+			request.setBNumber(String.valueOf(currentIsdn));
+			request.setContCode(getDispatcher().contentCode);
+			request.setContType(getDispatcher().contentType);
+			request.setCPId(getDispatcher().cpIP);
+			request.setCPName(getDispatcher().cpName);
+			request.setDesc("Test CGW");
+			request.setSentTime(sdf.format(now.getTime()));
+			request.setServiceState(getDispatcher().serviceState);
+			request.setSubmitTime(sdf.format(now.getTime()));
+			request.setTimeout(getDispatcher().orderTimeout);
+			request.setTransDateTime(sdf.format(now.getTime()));
+			request.setPassword(getDispatcher().username);
+			request.setUserName(getDispatcher().password);
+
+			message = request;
+		}
+		else if (orderType.equals("RetrieveSubs"))
+		{
+			SubscriberRetrieveReq request = new SubscriberRetrieveReq();
+			
+			request.setMsisdn(String.valueOf(currentIsdn));
+			request.setPassword(getDispatcher().password);
+			request.setUsername(getDispatcher().username);
+			request.setTimeout(getDispatcher().orderTimeout);
+			
+			message = request;
+		}
+
+		return message;
+	}
+
+	public void doProcessSession() throws Exception
+	{
+		String orderType = getDispatcher().orderType;
+
+		CGWQuery.username = "client1";
+		CGWQuery.password = "client1";
+		String isdn = "";
+
+		try
+		{
+			while (isAvailable())
+			{
+				long startTime = System.currentTimeMillis();
+
+				Object message = detachMessage();
+				Object response = null;
+				String correlationId = "";
+
+				if (message == null)
+				{
+					Thread.sleep(1);
+
+					continue;
+				}
+
+				if (orderType.equals("AddBalance"))
+				{
+					AddBalanceReq request = (AddBalanceReq) message;
+					isdn = request.getMsisdn();
+					Socket socket = null;
+					BufferedWriter writer = null;
+					BufferedReader reader = null;
+
+					try
+					{
+						socket = CGWQuery.openSocket(getDispatcher().uri);
+						
+						writer = new BufferedWriter(new OutputStreamWriter(socket.getOutputStream(), "UTF-8"));
+						reader = new BufferedReader(new InputStreamReader(socket.getInputStream()));
+						
+						response = CGWQuery.addBalance(
+								writer, reader, request.getMsisdn()
+								, request.getBalance(), request.getAddValue());
+					}
+					catch (Exception e)
+					{
+						
+					}
+					finally
+					{
+						if (writer != null)
+						{
+							writer.close();
+						}
+						if (reader != null)
+						{
+							reader.close();
+						}
+						if (socket != null)
+						{
+							socket.close();
+						}
+					}
+				}
+				else if (orderType.equals("DeductBalance"))
+				{
+					DeductBalanceReq request = (DeductBalanceReq) message;
+					isdn = request.getMsisdn();
+
+					Socket socket = null;
+					BufferedWriter writer = null;
+					BufferedReader reader = null;
+
+					try
+					{
+						socket = CGWQuery.openSocket(getDispatcher().uri);
+						
+						writer = new BufferedWriter(new OutputStreamWriter(socket.getOutputStream(), "UTF-8"));
+						reader = new BufferedReader(new InputStreamReader(socket.getInputStream()));
+
+						response = CGWQuery.deductBalance(writer, reader,
+								   String.valueOf(request.getDeductValue()), request.getBalance(), request.getMsisdn());
+					}
+					finally
+					{
+						if (writer != null)
+						{
+							writer.close();
+						}
+						if (reader != null)
+						{
+							reader.close();
+						}
+						if (socket != null)
+						{
+							socket.close();
+						}
+					}					
+				}
+				else if (orderType.equals("ChangeState"))
+				{
+					ChangeStateReq request = (ChangeStateReq) message;
+					isdn = request.getMsisdn();
+
+					Socket socket = null;
+					BufferedWriter writer = null;
+					BufferedReader reader = null;
+
+					try
+					{
+						socket = CGWQuery.openSocket(getDispatcher().uri);
+						
+						writer = new BufferedWriter(new OutputStreamWriter(socket.getOutputStream(), "UTF-8"));
+						reader = new BufferedReader(new InputStreamReader(socket.getInputStream()));
+
+						response = CGWQuery.changeState(writer, reader, request.getState(), request.getMsisdn());
+					}
+					finally
+					{
+						if (writer != null)
+						{
+							writer.close();
+						}
+						if (reader != null)
+						{
+							reader.close();
+						}
+						if (socket != null)
+						{
+							socket.close();
+						}
+					}	
+				}
+				else if (orderType.equals("ChangeExpiredDate"))
+				{
+					ChangeExpiredDateReq request = (ChangeExpiredDateReq) message;
+					isdn = request.getMsisdn();
+
+					Socket socket = null;
+					BufferedWriter writer = null;
+					BufferedReader reader = null;
+
+					try
+					{
+						socket = CGWQuery.openSocket(getDispatcher().uri);
+						
+						writer = new BufferedWriter(new OutputStreamWriter(socket.getOutputStream(), "UTF-8"));
+						reader = new BufferedReader(new InputStreamReader(socket.getInputStream()));
+
+						response = CGWQuery.changeExpiredDate(writer, reader, request.getExpiredDate(), request.getBalance(), request.getMsisdn());
+					}
+					finally
+					{
+						if (writer != null)
+						{
+							writer.close();
+						}
+						if (reader != null)
+						{
+							reader.close();
+						}
+						if (socket != null)
+						{
+							socket.close();
+						}
+					}	
+				}
+				else if (orderType.equals("SetBalance"))
+				{
+					SetBalanceReq request = (SetBalanceReq) message;
+					isdn = request.getMsisdn();
+
+					Socket socket = null;
+					BufferedWriter writer = null;
+					BufferedReader reader = null;
+
+					try
+					{
+						socket = CGWQuery.openSocket(getDispatcher().uri);
+						
+						writer = new BufferedWriter(new OutputStreamWriter(socket.getOutputStream(), "UTF-8"));
+						reader = new BufferedReader(new InputStreamReader(socket.getInputStream()));
+
+						response = CGWQuery.settBalance(writer, reader, String.valueOf(request.getValue()), request.getBalanceName(), request.getMsisdn());
+					}
+					finally
+					{
+						if (writer != null)
+						{
+							writer.close();
+						}
+						if (reader != null)
+						{
+							reader.close();
+						}
+						if (socket != null)
+						{
+							socket.close();
+						}
+					}	
+				}
+				else if (orderType.equals("ExtDebit"))
+				{
+					ExtDebitReq request = (ExtDebitReq) message;
+					isdn = request.getBNumber();
+
+					Socket socket = null;
+					BufferedWriter writer = null;
+					BufferedReader reader = null;
+
+					try
+					{
+						socket = CGWQuery.openSocket(getDispatcher().uri);
+						
+						writer = new BufferedWriter(new OutputStreamWriter(socket.getOutputStream(), "UTF-8"));
+						reader = new BufferedReader(new InputStreamReader(socket.getInputStream()));
+
+						response = CGWQuery.ExtDebit(writer, reader, request);
+					}
+					finally
+					{
+						if (writer != null)
+						{
+							writer.close();
+						}
+						if (reader != null)
+						{
+							reader.close();
+						}
+						if (socket != null)
+						{
+							socket.close();
+						}
+					}						
+				}
+				else if (orderType.equals("RetrieveSubs"))
+				{
+					SubscriberRetrieveReq request = (SubscriberRetrieveReq) message;
+					isdn = request.getMsisdn();
+
+//					Socket socket = null;
+//					BufferedWriter writer = null;
+//					BufferedReader reader = null;
+
+					try
+					{
+//						socket = CGWQuery.openSocket(getDispatcher().uri);
+//						
+//						writer = new BufferedWriter(new OutputStreamWriter(socket.getOutputStream(), "UTF-8"));
+//						reader = new BufferedReader(new InputStreamReader(socket.getInputStream()));
+//
+//						response = CGWQuery.getRetrieveSubscriber(writer, reader, request);
+						CGWQuery.getRetrieveSubscriber(request, getDispatcher().uri);
+					}
+					catch (Exception e)
+					{
+						e.printStackTrace();
+					}
+					finally
+					{
+//						if (writer != null)
+//						{
+//							writer.close();
+//						}
+//						if (reader != null)
+//						{
+//							reader.close();
+//						}
+//						if (socket != null)
+//						{
+//							socket.close();
+//						}
+					}						
+				}
+				long costTime = (System.currentTimeMillis() - startTime);
+
+////				if (response == null)
+////				{
+////					logMonitor("order timeout:" + correlationId);
+////				}
+//				else
+				{
+					logMonitor("execute time: " + costTime + " isdn:" + isdn); 
+				}
+
+				Thread.sleep(10);
+			}
+		}
+		catch (Exception e)
+		{
+			throw e;
+		}
+		finally
+		{
+		}
+	}
+}

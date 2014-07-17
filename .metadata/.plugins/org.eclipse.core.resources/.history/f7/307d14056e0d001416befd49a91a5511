@@ -1,0 +1,202 @@
+package com.crm.cgw.test;
+
+import java.io.BufferedInputStream;
+import java.io.BufferedOutputStream;
+import java.io.IOException;
+import java.io.OutputStream;
+import java.net.Socket;
+import java.net.SocketException;
+
+import com.crm.thread.DispatcherInstance;
+import com.crm.util.GeneratorSeq;
+
+public class TCPTestInstance extends DispatcherInstance
+{
+
+	private Socket					socket	= null;
+	private BufferedOutputStream	writter	= null;
+	private BufferedInputStream		ibufs	= null;
+
+	public TCPTestInstance() throws Exception
+	{
+		super();
+	}
+
+	public TCPTestThread getDispatcher()
+	{
+		return (TCPTestThread) super.getDispatcher();
+	}
+
+	public void beforeProcessSession() throws Exception
+	{
+		super.beforeProcessSession();
+
+		socket = new Socket(getDispatcher().host, getDispatcher().port);
+		socket.setReceiveBufferSize(1* 1024 * 1024);
+		socket.setSendBufferSize(1* 1024 * 1024);
+		socket.setTcpNoDelay(true);
+
+		writter = new BufferedOutputStream(socket.getOutputStream());
+
+		// receiveThread = new ReceiveThread(socket.getInputStream());
+		// receiveThread.startThread();
+	}
+
+	public void afterProcessSession() throws Exception
+	{
+		try
+		{
+			if (socket != null)
+			{
+				socket.close();
+			}
+
+			try
+			{
+				if (null != writter)
+				{
+					writter.close();
+				}
+			}
+			catch (IOException e)
+			{
+			}
+			finally
+			{
+				writter = null;
+			}
+		}
+		finally
+		{
+			super.afterProcessSession();
+		}
+	}
+
+	public void doProcessSession() throws Exception
+	{
+		int totalCount = 0;
+		int totalSent = 0;
+
+		long currentIsdn = getDispatcher().getCurrentIsdn();
+
+		byte[] data = new byte[0];
+
+		while ((currentIsdn > 0) && isAvailable())
+		{
+
+			int sqc = 0;
+
+			try
+			{
+				sqc = GeneratorSeq.getNextSeq();
+			}
+			catch (Exception e)
+			{
+				debugMonitor("Error generatorSeq: " + e);
+			}
+
+			String content = sqc + "," + getDispatcher().content.replace("<SDT>", String.valueOf(currentIsdn));
+
+			byte[] core = content.getBytes();
+			byte[] sufix = getBytes("EFEF");
+
+			byte[] data_send = new byte[core.length + sufix.length];
+			System.arraycopy(core, 0, data_send, 0, core.length);
+			System.arraycopy(sufix, 0, data_send, 0 + core.length, sufix.length);
+
+			byte[] temp = new byte[data.length];
+			System.arraycopy(data, 0, temp, 0, temp.length);
+
+			data = new byte[temp.length + data_send.length];
+
+			System.arraycopy(temp, 0, data, 0, temp.length);
+			System.arraycopy(data_send, 0, data, temp.length, data_send.length);
+
+			currentIsdn = getDispatcher().getCurrentIsdn();
+
+			totalCount++;
+
+			if (totalCount >= getDispatcher().batchSize)
+			{
+				OutputStream os = this.writter;
+
+				try
+				{
+					if (null == os)
+					{
+						throw new SocketException("Connection reset");
+					}
+
+					os.write(data);
+					os.flush();
+
+					totalSent += totalCount;
+
+					debugMonitor("Current packet: " + data.length + " bytes. Send records: " + totalCount + "/" + totalSent);
+
+					data = new byte[0];
+				}
+				catch (IOException e)
+				{
+					throw e;
+				}
+
+				Thread.sleep(getDispatcher().sessionDelay);
+
+				totalCount = 0;
+			}
+		}
+	}
+
+	public static byte[] getBytes(String hexStr)
+	{
+		if (hexStr.length() % 2 > 0)
+		{
+			return null;
+		}
+
+		byte[] ret = new byte[hexStr.length() / 2];
+		for (int i = 0; i < ret.length; i++)
+		{
+			String s1 = hexStr.substring(i * 2, i * 2 + 2);
+			int k = Integer.parseInt(s1, 16);
+			ret[i] = (byte) k;
+		}
+		return ret;
+	}
+
+	/**
+	 * Receive into cache
+	 * 
+	 * @param cache
+	 *            NetCache
+	 * @param count
+	 *            int
+	 * @throws IOException
+	 */
+	protected void receive(NetCache cache, int count) throws IOException
+	{
+		int b;
+		int i;
+		try
+		{
+			for (i = 0; i < count; i++)
+			{
+				b = ibufs.read();
+				if (-1 == b)
+					throw new SocketException("DISCONNECTED");
+				synchronized (cache)
+				{
+					cache.put((byte) b);
+				}
+			}
+		}
+		catch (IOException e)
+		{
+			throw e;
+		}
+		finally
+		{
+		}
+	}
+}

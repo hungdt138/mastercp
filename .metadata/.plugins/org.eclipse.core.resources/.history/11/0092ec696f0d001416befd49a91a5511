@@ -1,0 +1,149 @@
+package com.crm.provisioning.impl.nmschargingapi;
+
+import java.text.DecimalFormat;
+
+import com.crm.kernel.message.Constants;
+import com.crm.product.cache.ProductEntry;
+import com.crm.product.cache.ProductFactory;
+import com.crm.product.cache.ProductPrice;
+import com.crm.provisioning.cache.ProvisioningCommand;
+import com.crm.provisioning.impl.CommandImpl;
+import com.crm.provisioning.message.CommandMessage;
+import com.crm.provisioning.thread.CommandInstance;
+import com.fss.util.AppException;
+
+class DebitResponse
+{
+	String	code		= "";
+	String	detailCode	= "";
+
+	public String getCode()
+	{
+		return code;
+	}
+
+	public void setCode(String code)
+	{
+		this.code = code;
+	}
+
+	public String getDetailCode()
+	{
+		return detailCode;
+	}
+
+	public void setDetailCode(String detailCode)
+	{
+		this.detailCode = detailCode;
+	}
+
+}
+
+public class NMSCharingImpl extends CommandImpl
+{
+	public CommandMessage debitAmount(
+			CommandInstance instance, ProvisioningCommand provisioningCommand, CommandMessage request)
+			throws Exception
+	{
+
+		NMSCharingConnection connection = null;
+		ProductEntry product = ProductFactory.getCache().getProduct(request.getProductId());
+		String result = "";
+
+		String description = product.getParameter("ChargingDescription", "NMS_GO");
+		double amount = request.getAmount();
+//		if (amount == 0)
+//		{
+//			ProductPrice price = product.getProductPrice(request.getChannel(), request.getActionType(),
+//					request.getSegmentId(), request.getAssociateProductId(), request.getQuantity(),
+//					request.getOrderDate());
+//			if (price != null)
+//			{
+//				amount = price.getFullOfCharge();
+//			}
+//			else
+//			{
+//				if (request.getActionType().equals(Constants.ACTION_REGISTER)
+//						|| request.getActionType().equals(Constants.ACTION_AUTORENEW)
+//						|| request.getActionType().equals(Constants.ACTION_SUBSCRIPTION))
+//					amount = product.getPrice();
+//			}
+//		}
+//		
+//		request.setAmount(amount);
+
+		if (request.isPaid())
+		{
+
+		}
+		else if (instance.getDebugMode().equals("depend"))
+		{
+			simulation(instance, provisioningCommand, request);
+			instance.debugMonitor("SIM: ISDN=" + request.getIsdn() + ",AMOUN=" + amount +
+					",DESC=" + description + ",CAUSE=" + request.getCause());
+		}
+		else if (request.getAmount() > 0)
+		{
+			try
+			{
+				DecimalFormat df = new DecimalFormat("##");
+				connection = (NMSCharingConnection) instance.getProvisioningConnection();
+
+				long sessionId = setRequest(instance, request,
+						"ISDN=" + request.getIsdn() + ",AMOUNT=" + amount + ",DESC=" + description);
+
+				result = connection.debitAmount(product.getParameter("UserId", "sss"), request.getIsdn(),
+						String.valueOf(df.format(amount)), 60, description);
+				setResponse(instance, request, result, sessionId);
+				DebitResponse debitResponse = parserResult(result);
+				if (!debitResponse.getCode().equals(String.valueOf(Constants.SERVICE_STATUS_APPROVED)))
+				{
+					String cause = Constants.ERROR;
+					request.setDescription(debitResponse.getDetailCode());
+					if (debitResponse.getCode().equals("12"))
+					{
+						cause = Constants.ERROR_NOT_ENOUGH_MONEY;
+					}
+					else if (debitResponse.getCode().equals("16")
+							|| debitResponse.getCode().equals("17")
+							|| debitResponse.getCode().equals("27")
+							|| debitResponse.getCode().equals("28")
+							|| debitResponse.getCode().equals("30"))
+					{
+						cause = Constants.ERROR_DENIED_STATUS;
+					}
+					throw new AppException(cause);
+				}
+			}
+			catch (Exception e)
+			{
+				processError(instance, provisioningCommand, request, e);
+			}
+			finally
+			{
+				instance.closeProvisioningConnection(connection);
+			}
+		}
+		return request;
+	}
+
+	public DebitResponse parserResult(String result)
+	{
+		DebitResponse response = new DebitResponse();
+		try
+		{
+			if (!result.equals(""))
+			{
+				String[] arr = result.split(",");
+				response.setCode(arr[0].replace("Result:", ""));
+				response.setDetailCode(arr[1].replace("Detail:", ""));
+			}
+		}
+		catch (Exception e)
+		{
+			response.setCode("31"); // charging error
+			response.setDetailCode(result);
+		}
+		return response;
+	}
+}
